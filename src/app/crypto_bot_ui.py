@@ -1,3 +1,5 @@
+import sys, os
+sys.path.append(os.path.join(os.path.dirname(__file__), ".."))
 import os
 import requests
 import gradio as gr
@@ -5,6 +7,11 @@ from dotenv import load_dotenv
 from langchain_community.vectorstores import Chroma
 from langchain_openai import OpenAIEmbeddings, ChatOpenAI
 from langchain.chains import RetrievalQA
+
+from tools.coingecko_tool import CoinGeckoTool
+from tools.rag_tool import RagTool
+from tools.retriever_tool import RetrieverTool
+
 
 # === LOAD ENV VARIABLES ===
 load_dotenv()

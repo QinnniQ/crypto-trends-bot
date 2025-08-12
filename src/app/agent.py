@@ -1,8 +1,12 @@
+import sys, os
+sys.path.append(os.path.join(os.path.dirname(__file__), ".."))
 from langchain.agents import initialize_agent, AgentType
 from langchain.chat_models import ChatOpenAI
 from langchain.tools import Tool
-from rag_tool import rag_tool
-from coingecko_tool import coingecko_tool
+
+from tools.coingecko_tool import CoinGeckoTool
+from tools.rag_tool import RagTool
+from tools.retriever_tool import RetrieverTool
 import os
 from dotenv import load_dotenv
 load_dotenv()
