@@ -1,0 +1,555 @@
+Of course for most of the time I just assumed it was over and we'd have to figure out how
+to wind it all up but once a lot of the chaos of it had moved into history I think we just
+had so much support from people and I talked to the team and asked them what they wanted
+to do. Do you people want to stay with us or move on or what do you want to do and everyone
+sort of said oh well we'll probably stay in the industry and say okay what are you going to do
+in this industry and say I'll probably work on well all our expertise is in this type of thing
+so we're gonna have to work on this again and we just said oh well if we're gonna do that would
+we work together again? Well yes, probably. Well do we need a new project then? It wouldn't be
+weird if we just like collapse this one and started Euler 2 or something you know why not
+just why don't we see if we can stay together and make a go of it and yeah we were fortunate
+you know our investors and people were very supportive and said look we're ready to back
+you again and support this if you guys are ready to go again so yeah we at some point we took we
+yeah we just said let's let's go for it.
+All right here we are with Michael Bentley co-founder and CEO of Euler Labs. Mike it's
+so good to have you here on the Define Podcast welcome. Thank you very much for having me yeah
+Yeah likewise so Euler has had a really fascinating story a comeback story you were exploited for a
+huge amount of money in 2023 and now you've recently broken through a billion in outstanding
+loans with you know up from less than 50 million last year so it's just been a really interesting
+comeback so we'll get to all of that but I'd love to just start from the beginning learn more
+of your background what led you to crypto and then what led you to start to found Euler? Yeah
+my story I mean the first time I ever heard about crypto was probably 2015 and I was gonna I was
+trying to do a side project with somebody I was a research scientist finishing my PhD and me and
+a friend were looking for stuff to do and he told me about Ethereum I initially was a bit of a
+skeptic I would say and so I kind of dismissed it and then I came back in 2017 there was a bull
+run at that time and of course that grabbed everybody's attention it was all in the news
+and everything I thought maybe there's something more to this so I got involved and started you
+know downloaded Coinbase and everything and then started playing around really and there were at
+that time there was primitive DEXs and things around there was Ether Delta and IDEX and I
+started mucking around on those things and like learning how to code and like learning that you
+know some of the code base and things and having a good time I built some bots and made some money
+and lost some money you know just hacking around in the system and it was yeah it was really fun
+but for the next few years nothing really happened and then in 2019 early 2020 I was working as a
+research scientist doing mathematical modeling of populations and things and DeFi emerged or
+like the early early foundations of DeFi started to emerge things like Uniswap and Compound and
+they started to get me really excited I started thinking how can I build something in this space
+so it really started with looking at Compound's code and their product actually and trying to
+think of some way I can innovate on this and make it more open to different types of assets or you
+know change the way that interest works and make them more decentralized so that's really how it
+got started in my interest in the space and then from that I participated in a hackathon I met my
+co-founder Doug who's a computer scientist by training we worked on on something together built
+this primitive I guess what would have eventually become Euler for the submission in the hackathon
+it went very well when did it win which hackathon was it so yeah shout out to ENCODE and there's I
+think it was called the Spark hackathon back then so it was a collaboration of different universities
+in the UK that were participating in the hackathon and yeah we ended up winning and then
+from there I mean the pandemic was raging at the time right this was like 2020 you know and so
+my day job I was kind of not doing what I was normally doing I would say sort of being asked
+all the labs were closed down so I was at home I just had my daughter at the time as well so
+spending a lot of time with her and so I had a lot of free time to work on this and
+I got an offer from some venture capitalists saying would you like to turn this idea of yours
+this hackathon project into a into a fully fledged business and try and grow it from here
+so what was the initial kind of innovation of that hackathon project so we had two things one I think
+at the time a lot of the early lending protocols were focused on just lending and borrowing of a
+handful of crypto native assets but there was a there was a lot of tokens emerging around that
+time you know a long tail and so one thing was can we extend what compound are doing and extend
+it from you know four or five assets and make that open up lending and borrowing for for all
+the assets you know how can you collateralise anything and use that as to take out loans so
+that was one of the challenges we want to to address the other one was I was you know I did
+do a lot of sort of maths by my day job I suppose and I had this idea about using something called
+control theory to see if you could make interest rates set themselves without having to have some
+central controller coming in and pushing buttons like we have with central banks you know setting
+the interest rate manually over time I was curious about could you could you just let the system
+itself set the interest rate and make it more decentralized I suppose and so that was yeah quite
+a interesting intellectual challenge at the time yeah I've always been curious on on why or I guess
+like surprised that that that maker actually kind of decides on its interest rates yeah I for some
+reason like when I first started looking at maker and everything or so much of it is automated but
+not interest rates so I think that's an interesting problem yeah it is I mean maker is more like the
+central bank in a way and I think it is kind of hard to set you realise when you get into the
+weeds of it that it's really hard to make interest rates work in a self-controlled automated manner
+it's somewhat easier on lending protocols where the interest rate is guided by how
+what percentage of the pool has been borrowed and effectively you can in that scenario where you
+have like a finite supply of something and you say what percentage has been borrowed of that finite
+supply turns out the answer is that you can let these things set themselves you cannot automate it
+and decentralise it more there are obviously trade-offs to doing so and you know there's some
+nuances there but it's it's definitely possible and you know Euler's Euler has had these kind
+of interest rates they're present on other money markets as well but when it comes to maker I guess
+the key challenge is that there's no finite supply of DAI or you know USDS as it is now
+right and that that means targeting something it's sort of like yeah that lack of a constraint on
+that supply makes it harder I would say to set interest rates so yeah so the the key thing like
+the key innovations that you were you were working on are the long tail of assets a lending protocol
+that allowed for that and a more like market-based like automated way of of setting interest rates
+and so okay so you took kind of these VCs up on on their offer and yeah and went and built it
+yeah that's right and then and then the rest is history as they say I mean that was in September
+or August 2020 really at the the heart of DeFi summer as we called it back then obviously
+everything there was just explosive growth in the industry around that time lots of projects
+launching and we were we were one of them that sprang out from that period I suppose and
+and then eventually obviously you go to market and you you change things and you know our goals and
+ambitions changed quite a lot as was as we started to as I think all of all of you one went live in
+2021 sometime and yeah then you get feedback obviously from the market itself and people
+users and so on and things uh yeah definitely definitely changed in terms of priorities but
+that was the original ambition I think interesting okay and then I guess like there's like to me like
+the phase one of of Euler which is like since launch and then up until the exploit yeah can
+you go through um yeah like how how the protocol developed in that time like you mentioned like
+some of the priorities changed yeah and then and then how big did you get like right
+before the exploit yeah I mean whenever you bring I guess any product to market you meet you then
+start getting real user feedback and we definitely got plenty of that I think I mean the early days
+one of the ways that we innovated was by to enable lots of assets to be listed we wanted to work on
+top build on top of other permissionless infrastructure in DeFi and that was you know
+one of the big innovations around that was Uniswap it was a version two of their protocol
+and they enabled people to you know create swaps for any type of asset right so you've got all
+these these countless pools emerging and what's interesting about that is that then from those
+pools you you understand the relative value of assets and from those relative values you can
+then potentially use those the pricing to enable collateral debt relationships to emerge a lending
+protocol on Ethereum you were on you want to guarantee effectively that your collateral is
+always worth more than the debt if that's never if that's not the case then there's no incentive
+to repay so you have to be able to price the the collateral in the in the in the loan and the debt
+in the loan and make sure that one's greater than the other and that the pricing is accurate and
+fair we thought it would be cool to use Uniswap as a pricing mechanism for for collateral debt
+relationships and I would say it worked it worked quite well for for a time but we realized of
+course as we brought it to market that there are subtleties to that Uniswap prices you know can
+be manipulated by bad actors who try to inflate the price maybe they want to inflate the price
+of a collateral so they can borrow more against it than they really should be able to and that
+kind of thing so there's a lot of learning around that time about you know a lot of experimentation
+DeFi I suppose about what worked what didn't and yeah we launched with these Uniswap
+based pricing systems and then over time I think we moved moved away from those and tried to
+use alternative pricing mechanisms that were more robust I think I wrote some research articles
+about how these things could be manipulated and like looking at the like extreme scenarios how
+much money it would cost that kind of thing so it was a lot of sort of security analysis off the
+back of just you know this whole new system and figuring out how it works it was also apparent
+as well we just kept getting feedback from users that wanted different kinds of things we realized
+that lending and borrowing is a very complex space with lots of different design directions
+you can go in you know some people want low risk low yield opportunities other people want more
+exotic opportunities that maybe where they take on more risk but the yields end up being higher
+some think people want things isolated some people want things that are more permissioned
+or permissionless you know there's just a huge design space there and I think all of V1 as a
+whole it was built around just this you know one type of idea and realized there's so many more
+ideas out there that people want so yeah we started to try to build you know to think about how we
+might design a V2 of the system in terms of how it went as a protocol it was it was it was much
+loved I would say we launched in the competitive marketplace with the lending and borrowing
+protocols around at the time obviously compound was one of the things that we had most admired
+that was that launch was doing very well so Arve had kind of become more prominent around that time
+but yeah Euler kept growing and I think going into the exploit
+in 2023 I think the total deposits were at their peak maybe 700 million
+there were lots of interesting events before that before our exploit in DeFi that helped
+dampen interest in DeFi I suppose there's the Terra Luna thing and FTX and all these others
+and so I think by the time of the exploit total deposits were around 400 million
+and that was yeah that was that was in 2023. So can we get into the exploit?
+So the exploit was one of the biggest in DeFi it was almost 200 million lost so how did that happen?
+Yeah it's a very long story but the short of it is obviously Euler we were known as a team
+that built things slowly we took our time we got lots of audits we had the largest bug bounty for
+a lending protocol in the space at the time so we took things very seriously but
+even after all those audits we got a bug bounty report from one user a long time before the
+exploit happened suggesting that there was a way to front run the very first deposit into a brand
+new pool and you'd be able to maybe take more funds from that than you should so one user
+would be affected by this per pool and it would be the first user potentially it actually turned
+out to be a common kind of exploit that with the other protocols were you know maybe vulnerable
+to as well and it's considered a something that you should fix a high because it's a loss of funds
+so we got this bug bounty we paid it we were grateful we went to our auditors and security
+partners and said you know we've had this thing this thing and they said okay let's let's deploy
+a fix so we came up with this solution which was effectively to prevent the front running we would
+the front running was caused by a lack of an exchange rate that wasn't initialized basically
+when the new pools formed and so we thought well if you want to initialize an exchange rate
+let the very first depositor they will deposit like one billionth billionth of their asset
+initialize the exchange rate and then their main deposit will happen so effectively donate to the
+reserve some that's what the function was called donate to the reserve some some assets initialize
+the exchange rate and continue anyway that that fix was audited it was deployed and the protocol
+then continued for many months after that unfortunately what we weren't to know at that
+time what we missed was that the new function that we'd introduced donate to reserves opened up
+quite a sophisticated vulnerability in its own right which would be the cause of the of the
+the critical vulnerability which allowed far more assets to be you know stolen so it was very
+unfortunate circumstance ultimately somebody figured out that you could you could use donate
+to reserves in a in a sort of clever way along with the liquidation system so that you would
+lose money yourself by donating to the reserves but you would gain an ever so slightly more amount
+of money through an alter through another account that you were using so one account one you would
+have two accounts one account would be losing money one account would be making ever so slightly
+more money than you would lose but if you loop that and it's a compute you know computational
+system you just loop it and and take advantage of that that discrepancy and that's that's
+effectively how they were able to take all the funds from oiler by using this donate to reserves
+function that have been introduced many months prior i'm sorry to have to you know ask you to relive what must have been
+i don't know probably the worst time of your life but yeah um i can't imagine how how was kind of
+waking up to or like like finding out that that your protocol was being exploited by by this
+amount like like yeah like how did you find out uh it was i mean it was horrific the timing couldn't
+have been much worse to be honest my my son was born uh on on the thursday late late thursday night
+and um over that weekend we uh the whole industry was blocked by this dpeg of usdc so over the entire
+weekend i spent the weekend not with my son but handling a bunch of work stuff because usdc was
+dpegging which obviously is a significant event for you know for for the whole industry but also
+you know mainly lending protocols so um everybody was on high alert but by sunday evening it appeared
+that usdc was going to be fine there was some kind of agreement made and uh yeah monday morning
+i woke up uh expecting uh to start my paternity leave my wife and i were looking forward to
+spending time with with my son and uh my mum came around to the house to take my daughter for the
+day and go take her out and you know give her a nice time and it was about it was nine o'clock
+and so she was in my mum was in the house just literally about to take my daughter and i heard
+my security alarm going off my first assumption was of course this will just be the usdc thing
+again i thought it's probably read its head something's happened in the night a deal's
+fallen down i was like okay it was you know alarming but i was thinking this is this is
+probably going to be okay we just need to you know work through this and i went up and just of course
+the first message i saw was was that we were being exploited and uh and so yeah it would be um
+that's that's how i found out it was true very very yeah how shocking awful yeah um and was it
+like was like the 200 million just like disappeared or or um was it like something that was like
+continuously being drained like could did you were you able to like even try to stop it at the time
+or were the funds just gone no it wasn't instantaneous it played out over several
+minutes i would say so it was over a short period of time and interestingly you know i can't get to
+the technical details here but some of that time actually then then gave us clues as to maybe who'd
+done it and what's happened there was like just there was clear flaws in the execution plan of
+the exploiter because if they could have taken it all in one go they would have done and it turned
+out that that process had failed but unfortunately it happened still happened too fast for anybody to
+do anything really about it and the um and then what proceeded after that of course was
+when a protocol has been drained uh of many of its assets but not all of them there's then a big
+scramble of course for other people to try to uh try to get value out that's remained any value
+that's remaining so there wasn't just an exploit when these things happen it affects lots of
+positions and parties and everything and so there was a lot more that then followed on from that
+which uh yeah which played out over another maybe another half an hour or so it was uh
+it's very chaotic but it was it was impossible there's there's no obvious solution at that point
+to you know when when the half the half more than half the assets in the protocol have gone
+there's these ones remaining and it was it was it was pure chaos oh my god no i can't imagine
+the pr genius is a top crypto pr and growth marketing agency helping brands globally with
+expert pr and strategic growth marketing they've worked with 300 plus projects like movement labs
+and io.net unlike traditional agencies they charge only on performance their services include earned
+pr opportunities and marketing services to help boost wallet holders and organic ex followers
+learn more at www.theprgenius.com
+after that i i think um as i understand the the uh the hacker actually returned some of the funds
+like how how was the process of like trying to recover funds like figuring out what had happened
+who did it like negotiating with the hacker yeah so we um collectively as a team we started to
+immediately build um build a picture of you know bigger picture as we could about potentially who
+might have played a role in this right um i think by the end of the you know by the end of the first
+day so by that evening we probably already had like 10 10 to 15 potential candidates so we did
+a lot of analysis like as a team we all split up and got as much data as we could from a variety
+of different sources both on-chain data off-chain data looking for any evidence we could find about
+who might have played a role in this uh trying to find signal and amongst all this noise
+and um and yeah over the course of the next three weeks then we uh three to four weeks i think it
+was um we a lot of crazy thing a lot of crazy things happened uh we ended up having lots of
+red herrings people that we were convinced would be you know guilty of this but but then turned out
+not to be there were people that had forked the protocol and spent a lot of time on certain areas
+of the code for instance that you know and then they were deleting stuff on their profiles things
+that were just looked very suspicious but turned out to be you know red herrings um yeah they
+exploited themselves i mean they they they were you know behaved a little erratically and there
+was turns out to be interesting signals in the early like i said in the early phase of this there
+was it was carried out with less efficiency let's say than it could have been and so we could
+decompile the attack vectors and start to get an indication of the type of attacker this was
+we knew we knew early on that it probably wasn't you know north korea uh they're one of one of the
+people that you you know prime candidates whenever there's a big attack you know people
+expected possibly then so we knew quite early on that probably wasn't this was more likely uh you
+know an individual and obviously there's a lot of information you can gain from that and it raises
+the prospect of catching the individual getting the funds back um at some point they yeah they
+started to i guess try to launder the money and that you know somewhat unsuccessfully and then
+they started to attract the attention from other bad actors in the space i would say who were
+seeing them as a bit of a target and through a variety of um yeah through a variety of different
+means we managed to establish contact with the the person uh and even at that point though that
+it wasn't things weren't very promising because they still kept trying to play lots of games at
+one point they pretended there were different people involved and yeah but uh yeah i i managed
+to talk to them personally um at some point and um so you know who it was is it public uh it's
+public yeah i'd say so at this point i mean it was yeah there's a that they like they later
+introduced themselves uh yeah i mean uh i i don't want to name name name the person but i mean it's
+it's out there if you if you go looking uh yeah i mean was it someone from your team no no no no
+definitely not um it was uh yeah it was a young man uh who had uh yeah a history in uh computer
+science i suppose and was you know a young man that was interested in very interested in exploits
+and things i was from talking to him i gathered that he he was he was like an admirer of people
+that carried out exploits he found it kind of exciting and exhilarating and uh and uh yeah found
+the opportunity on oiler and uh i think he's it was hard to to discern his motivations i would say
+honestly he was an interesting character um but yeah i mean managed to thankfully managed to
+establish contact with him and over time build some kind of um trust and a weird relationship
+with him i suppose and uh yeah we just had lots of odd moments um at one point i was in uh i
+thought i was gonna have a heart attack because i was just i was just so worn down i was just
+getting absolutely no sleep and i said to my wife and my chest feels really tight yeah it was just
+like awful so i went to the i went to the hospital just to to get checked over and everything i was
+sat in the waiting room and then he started messaging oh my god and i'm sat there in the
+hospital waiting room on a laptop like you know my laptop i also had like very little battery as
+well like trying to message this guy and then it was just the most insane moment there was i'm like
+literally on this laptop and then the an alarm went off because somebody else in the room next
+to me was going into cardiac arrest and i just like literally never insane moment wild i was just
+like this cannot be real what's happening right now but then he was he was going through his own
+like he was questioning his own actions and motives and starting to to turn and so
+yeah he was he was also feeling i think uneasy and unwell about everything and so then yeah i was
+just trying to talk to him and try to humanize the situation find some common points of uh
+common points of uh you know agreement between us and then yeah for several weeks later uh in
+dribs and drabs and with some wild events in between um he eventually ended up returning not
+not just some of the money but basically all of it we got 240 million back out of
+200 around 200 million was stolen and uh but he'd converted he'd converted the stolen funds into
+eath and eath happened to rally at that time so so you got more back than when you're reading
+so around 40 million more back and he didn't keep anything he did keep a little bit um he had some
+funds which were um which he'd already laundered which were hard to hard to retrieve um yeah how
+much he made yeah probably probably a few few million dollars okay uh but the protocol itself
+had its own funds in there so effectively they were the protocol's funds protocol lost more
+lost more money and just took all the took all the loss so anything that was returned was given
+back obviously all to the users oh that's amazing i didn't i didn't remember that you had recovered
+more than he took in dollar terms yeah i mean it was complex right it's it's just uh he just
+turned it all into eath like it's a common strategy for an attacker because it's a more
+of a permissionless asset it can't be frozen and such like so that's why why he did that i suppose
+but um yeah i mean in he in the intervening period just lots of weird and weird things
+happened there was you know suspect that was turned out not to be true and it turned out actually
+he was from the same town as the guy that had done it so there's lots of on there's lots of signal
+wait you you were from the same town that no no there's another another another person
+someone else that you suspected yeah that was was also from the same region and uh there's so many
+crazy points for a long time we didn't you know didn't know the identity of the attacker and we're
+having to sort of work through negotiations with them not knowing whether we knew and we didn't
+know if they knew and there was just this lots of game theory involved but in the end i think it's
+remarkable that okay you once once you found out who it was that it was more like just like a
+personal relationship between you and and him and um and just you know trying to get to to his like
+you know like more human side and and get some empathy and compassion and you ultimately achieved
+it yeah i think so i mean he he was a very complex person i don't know whether how much he empathized
+with the situation from he would swing sometimes between showing a lot of empathy and other times
+would be then asking now i want to keep all the money or i want to keep like a large sum or
+he would say you know start to pretend that there was other people involved and like
+start to move money to other wallets and be like ah somebody else took that
+so he was a very complex complex individual and uh it was a really really tough uh negotiation
+lots of complex messaging and uh yeah it had to be navigated very carefully i think one thing he
+did which was uh incredibly strange uh but but maybe in the end was actually helpful was he
+donated some of the stolen assets to a known address that was associated with north korea
+that had been identified by u.s agencies as links to those i suppose that was kind of a bluff it was
+like oh look it's probably just lazarus or however but of course we we sort of knew already that
+that almost certainly wasn't the case and so that bluff gave us more information and so on from
+throughout helped our investigation but then what it did do as well is it then alerted uh
+some other people to then start messaging him and start sending him messages saying we can help you
+launder the money but we could see those messages and we were able to say you know start to work
+with him say look those messages are not your these aren't your friends right you are in a lot
+of trouble here if you start interacting with these other people like we're we're the best way
+probably got super scared i hope yeah i think so yeah i said like i hope i hope you realize we're
+we're the best way out of this because there's no other good angles here you are going to be
+uh yeah and under you know living a very stressful life so what was the deal was he
+he kept a couple of million gave back all of all of the rest and you didn't call law enforcement
+that's um effectively yeah that's what he was asking for i mean uh you when you do something
+like that obviously law enforcement are involved and um yeah there was a lot of interest in this
+particular case from from various various law enforcement agencies so yeah but um yeah i mean
+we just said ultimately like what everybody wants from this is that you just give the money
+back once you do that then this becomes much less interesting from everybody because we've
+everybody's got stuff going on in their lives they just want the money back so we just kept
+reiterating that point over and over and over again uh and uh yeah and working very carefully
+on his emotions and our emotions and everything and yeah eventually it it's yeah it happened but
+there i mean the there's just there's so many even wilder weirder things in in this story that
+just played out in the in the midst of it although interesting characters that showed up claiming to
+take credit and and you know all sorts of weird stuff happened yeah we'll get into into all the
+details in my defy book yeah you can write an entire book about this yeah it was it was just
+bizarre yeah um and so did how did you manage to um refund all of your users
+um yeah i i mean it was uh just use effectively like common accounting techniques and try to
+try to calculate what's called people's nav you know net asset value at the time of the exploit and
+a return based on you know relative to nav effectively because you know the assets came
+back there was some i mean yeah i really can't the amount of times he like split the funds up
+and converted some to die and then some to usd so it all came back in in in weird ways and um
+yeah obviously took advice on on from um took advice on what what you do in this circumstance
+because uh there are lots of options you can go down they all have trade-offs you know some people
+like oh go buy back the assets on the market it's like but they've all changed in prices since then
+you know and uh there's no easy way there's no perfect solution that i would say it's a very
+complex thing but yeah just try to follow best practices and uh and then opened up a claim page
+for um for people so that they could go and put their their address in we developed the tech for
+this really quickly the team worked incredibly hard during that period we were working just
+non-stop to get this up and running as fast as possible um because the whole time once the funds
+came back of course the markets are volatile and imagine if eath had just like tanked dropped
+90 percent of something it'd be devastating right so it's um it was really really tricky
+very very hard and the post exploit that that period lasted several weeks but then there was
+all the all the all this stuff to process there was all sorts of other things you know legal
+elements that played out over many months after this so it was it was incredibly complex i'm sure
+you can yeah i can imagine yeah um so okay in that time as kind of the the fallout from from
+the exploit yeah what were you thinking would happen with euler like did you did you always
+know that you'd continue or were there times where you thought okay this is done uh no i mean i just
+thought it was done yeah for a long period yeah of course yeah i mean it's uh i spoke to spoke to
+you know friends family investors people you know in the industry i got we got loads of support
+from people in the industry giving advice on what to do and and giving us support and um yeah for
+i'd say for of course for most of the time i just assumed it was it was over and we'd have to you
+know figure figure out how to how to to wind it all up but once um yeah once all once a lot of
+the sort of chaos of it had sort of you know moved into history i think um we just had so
+much support from people and i talked to the team and asked them what they wanted to do do you
+do people want to stay with us or move on or what do you want to do and everyone sort of said oh
+well we'd probably stay in the industry i said okay what are you going to do in this industry
+and say i'll probably work on well all our expertise is in this type of thing so we're
+going to have to work on this again and we just said oh well if we're going to do that would we
+work together again he's well yes probably well do we need a new project then do we it wouldn't
+be weird if we just like collapse this one and started oiler two or something you know why not
+just why don't we see if we can stay together and make a go of it and uh yeah we were fortunate
+you know our investors and people were very supportive and said look we're ready to back
+you again and and support this if you guys are ready to go again so wow yeah we at some point
+we took we uh yeah we just said let's let's go for it we had so many ideas and so many cool
+things we've been building that just were totally underutilized oiler v2 was pre-planned before any
+of this had happened because of all the things we'd learned you know from from as we discussed
+from going to market and hearing feedback and stuff so yeah a lot of all that was already
+pre-designed or like in a you know early phase of development i suppose and uh we just thought well
+why don't we why don't we give it a shot crazy um how much like how much time passed
+from the exploit to when you decided to launch v2 months probably um yeah there was there was
+even some discussion of course of like just launching v1 again some people were really
+encouraging that because the the protocol itself was excellent and the incredibly the the
+and and very frustratingly the fix to this exploit would have been a single line of code
+it was a single missing check in in this in this function we mentioned donate to reserves it's now
+kind of famous that that was missing so adding that that single check would have um would have
+ultimately made the protocol safe again so some some some discussion around that but then we just
+we just said you know if we if we launch v1 again then we're still
+well we won't we won't have as much time to work on v2 and and tackle all these other interesting
+problems and i think everybody was obviously exhausted and felt like spending some time
+going back to just coding and not having to not having to have you know public facing thing was
+was probably probably for the best of everyone i think we need everybody needed it so it's like
+a turn of a page yeah it's like okay well yeah it's always hard to to to deploy a new protocol
+when you've got an existing one anyway so i thought we all agreed like why don't we just
+work on v2 and start there and we knew it would take many months of of work and everything to
+to get that live and indeed it yeah it did it took probably even longer than we expected but
+yeah it was i don't know three four months after after the exploit that we we started
+in earnest on the new project i'd say and when did you launch v2 september uh last year i think
+yeah and yeah and and now it's already at a billion it's a billion active loans it's got
+about 2.25 in total deposits yeah it's been uh yeah i mean most of that's come from the
+turn of the year as well so the first few months were incredibly difficult nobody
+was that interested actually on launch we were so excited because we thought thought we spent
+so much time on anything we were so proud of it and uh we thought the tech was incredibly
+incredibly strong and um but of course it's really hard at that time everybody's doubting
+everybody's saying yeah nice try but it's you know we appreciate the effort but it's not going to
+happen that was kind of the consensus and we got some feedback as well that the new product was
+maybe it was a bit more complex and uh the ui needed some tweaks and things so
+the team were i would say the yeah the morale was a little low during those first few months
+but um yeah i encouraged everyone so we've got to give this a shot so we we fixed up the
+the feedback we'd got and slowly but surely things just started to change and what do you
+what do you think prompted kind of that that change in direction where like people were able
+to trust you again or at least like were incentivized enough to use euler i don't know really i mean it
+was there was probably like a collection of things i mean all of e2 is built in such a way
+that other people can build their own it's built as this kind of developers kit i suppose for
+building credit markets and now dex markets and things so what it rather than being a product in
+its own right it's just like a kit for building products and um in the in the first few months
+we just really couldn't you know we couldn't persuade people that it was worth building
+products with um so yeah we tried to showcase that and develop a few things and just like work
+and the kind of development business development side i suppose and going out and like just meeting
+people and showing people yeah you've got a problem here that you can't solve but euler
+can solve it for you and i think once we once once we had a first you know first few of those
+kind of things emerging then it became apparent oh there's stuff you can do with oil that you
+can't do with other platforms and there was that that that early sign of just real product market
+fit emerged who are like the main builders um a variety of people i mean this is curated that we
+call them risk curators because typically they they connect together the components of the kit
+and they make either very simple credit markets or sometimes more complex ones the simplest ones just
+look like uh uh simple collateral debt pairs and they can either be immutable or some of them are
+governed and have you know compliance checks and other things they are wrapped around them there's
+these hooks and things other ones look almost like mini instances of something like rv i would say
+they're a bit more complex they have more assets in included them more you know variable collateral
+types um but yeah some of the some of the bigger curators um there's there's re7 and uh and gauntlet
+and um k3 and mev and apostro there's a yeah one of the bigger markets was built by another team
+called usual there's all sorts of people and they all build for their own reasons and we're kind of
+we try to be agnostic about um about the products because that's our point our the whole point of
+euler was to build the infrastructure and then let people be creative we we often don't understand
+the the wants and needs of the market it's very there's all like as we discussed earlier there's
+just many many different opinions about what a credit market should look like and what what
+services people need and uh our goal is to just build the infrastructure that enables all of those
+to be satisfied but we rely on other builders i would say to come in and develop their own solutions
+build their own bespoke uh products for particular communities and user types and things so there's
+a very wide variety of things being built what if sending crypto felt more human pulse just launched
+red packets a new way to give tokens with meaning it's gasless gamified and claimable inside group
+chats only think air drops meet social cues on chain backed by smart wallet tech and live across
+major l2s red packets turn communities into micro economies of gratitude and growth no seed phrases
+no friction just connection with value check it out at pulse.social
+i think your strategy is very similar to morphos um yeah there's some similarities there for sure
+yeah how do you differentiate between them i think we we have a similar philosophy at a very high
+level in that regard um they're also kind of an infrastructure play trying to build and it's it's
+lending and borrowing as well i think um in terms of why we've managed to to to find a niche is we
+have different opinions on how those things should be uh designed morphos uh morpho i guess prioritizes
+simplicity above all else and there's obviously an elegance in simplicity and it um there's something
+i think quite nice about that euler's kit i suppose our like infrastructure play is uh it's
+built around um enabling things to be flexible and so that means that if you want to build simple
+things with the euler development kit you can you can go in and build morpho style markets
+but if you want to build something more complex like an rv style market you can also build that
+and so it's that flexibility i think that differentiates us most is you can build morpho
+using euler's kit but not the other way around um yeah and uh and with that that's probably where
+you know people come to to build things on euler that you know the the markets don't exist say on
+something like rv and they can't build those things on morpho so they they then they then
+come and use r kit and try to try to innovate themselves and build different types of products
+i suppose and that's that's that's the main differentiator i would say um right now the
+defy lending market is um at a near all-time high in terms of deposits around 69
+billion so what what do you think will spark the next wave of growth will will it come do you think
+like it's it'll be more institutional players coming and and building on on on defy yeah or
+maybe defy's not ready for that yet and and will continue to be more crypto native
+no i mean i think you you hit the nail on the head that it's definitely going to be institutional
+plays i think there's a lot of um web 2 interest uh fintech interest traditional finance interest
+in uh in in building on defy and use or at least using defy rails and the the technology we've
+developed because it's more efficient because it's more transparent it's more composable i think um
+yeah the lots of these things are lots of these the people coming into the space are finally sitting
+up and taking note that there's actually something very cool about this um in the early days it was
+it was mostly crypto natives the main use case i'd say for lending and borrowing markets was just
+people would deposit eth and they borrow usd and they they wanted to do that because maybe they
+wanted to they didn't want to sell their e or some people wanted to speculate on the price of e so
+they then use that usd to to increase their exposures and that was the main use case and
+so like lending and borrowing markets would be very um cyclical in terms of their deposits they
+go up and down and it was very correlated to the the sentiment i suppose in the wider market i think
+that's changing a lot um yeah the technology is now being used to provide um to provide a
+wider range of like products and satisfy different user needs so say and a lot of those are
+more related to stable coins and obviously the surge in interest in bringing stable coins to
+market and in defy uh but yeah it's like we're getting a lot of calls and a lot of interest
+right now from from some significant uh players in more of like a fintech space i would say than
+than the traditional crypto native types yeah well interesting um so
+uh yeah because when we talk about institutions it can mean from exchanges to fintech to
+traditional banks and yeah so you're seeing that interest at least from the euler side
+from like web to like traditional fintechs yeah i'd say that that's probably i mean obviously we
+we saw the bobbin thing yesterday um i think you're going to see more more a lot more companies
+that the record very recognizable fintechs moving into the space and starting to utilize
+the technology that will probably be the first wave and i think with some of the regulatory
+changes and like warmer environment for that and um you know it's now more of a regulated industry
+especially you know in europe um they've made progress there there's some some signs of progress
+in the us on the regulatory front i think yeah with that you'll then start to see also more
+adoption for more traditional um you know traditional types as well in traditional finance
+like banks and things i think will be more open to to adopting the technology yeah so we've
+obviously spent uh most of the time talk about uh your your lending protocol but you also have
+a dex yeah and you recently launched a stable clean product so if if you can
+you know like bring all those things together and and and kind of describe your
+your like bigger vision for euler yeah i think um i think the the earliest products in
+you know or protocols in d5 tended to be uh tended to be quite inefficient and that's been one of the
+criticisms i think from from people outside is that yeah it's kind of cool but it's still very
+very inefficient one example of this is you know when you put when people do deposit assets into
+a traditional you know some of the older versions of uniswap the assets just sit there and they
+they're used very unproductively until a swap happens when the swap happens then they earn some
+fees and so on but it's just very very unproductive to to deposit assets and just leave them sat there
+if you've got usdc sat around that's not servicing swaps it should be it should probably be earning
+yield somewhere and of course in traditional finance nothing works like that right they don't
+literally when you have order books on exchanges and the assets aren't literally sat on the order
+book they're sat in some some other place and things are where they're productive and then
+things you know the the accounting son afterwards in retrospect and things are distributed moved
+around of course um all this what aims to address some of the major inefficiencies in uh in this
+exchange markets by operating on top of the lending and borrowing platform so that the
+lending borrowing platform is the foundation for oil swap and by default assets earn yield
+optionally earn yield i should say in a in the lending and borrowing platform first and foremost
+and then if swaps happen they use the liquidity is used just in time to service those swaps so it
+operates a lot more efficiently a lot more like how how exchanges would work in traditional finance
+to give you an example of just like some of the scale in efficiency we've we've not even launched
+the product yet i think there's only three million dollars in the pools but oil is already by volume
+someone showed me yesterday with those three pools and three million dollars it's doing
+as much volume as uh it's the fourth biggest exchange on ethereum already oh wow which is
+pretty insane uh scale up in capital efficiency the other big innovation in oil swap which is
+something that people have been crying out for for years since i very first entered the industry
+was that when you when you deposit assets into the decks is another way to make them more productive
+is to basically borrow against them to basically collateralize your deposits in the decks because
+it's a valuable asset and then use that so that you can you know borrow against it maybe you want
+to hedge some of the risk or you want to borrow the asset and borrow something and then use it
+in another opportunity somewhere else or or reinvest back in and create deeper liquidity in
+the pool itself and because oil swap is built on top of the lending protocol if the assets you
+deposit into the into the vaults are in vaults that allow collateralization of those assets you
+get that functionality natively out of the box and so people can borrow against their deposits in the
+swap protocol and use it for a variety of use cases yeah so with with with extra lending and
+borrowing uh yield um and this just-in-time liquidity function as we call it uh oil swap is
+is vastly more capital efficient than any kind of decks we've seen so far in defi i think and uh
+yeah gonna be very excited to see that that growing uh interesting okay so it's like building
+different defi primitives that kind of fit and like work well with each other like yeah it's uh
+in the in the early days we used to talk about composability and money legos of yeah you know
+it would be it'd be you know rv and uniswap integrating and that's obviously worked somewhat
+well in the past but it's it's actually quite clunky you know you end up in some ways um you
+know i used to really really be a huge advocate for this kind of thing but it adds extra like risk
+points because the two protocols weren't necessarily designed to fit fit together so you can maybe
+maybe fit them together but you know when people have tried to borrow against lp tokens in the past
+those lp tokens are kind of it's a little bit risky i would say to price those things and to
+figure out how to collateralize them and it's a little inefficient to move them around defi
+between protocols you might end up paying fees on multiple platforms at once and so on and um
+yeah this is this is composability and but it's a it's it's you know coherent composability between
+two things that were designed to work perfectly with one another built by the same team and
+hopefully with that we get more of an efficient and effective and secure market um okay and to
+to wrap up um just you know going back to your your whole comeback story yeah um yeah wondering
+kind of what some any lessons or advice that you'd want to share with founders going through
+something similar um i mean there's there's just never you there's always more you can do on
+security and just obviously you uh you just have to keep pushing always do do as much as you
+possibly can that goes without saying uh i mean we've always always advocated for that but it's
+a very very difficult industry to build and you are very exposed the code is public and so on and
+everybody's still learning about honestly what the best practices are and that's something we all
+collectively have to keep pushing towards so first and foremost that's the most important
+but i think in terms of you know when you do face trouble i've spoken to a team recently i just
+tried you know sometimes get calls from other teams asking for for this advice and
+yeah i give them the same advice i was given there's a friend of mine uh
+lawrence from wildcat uh had an exploit many years prior and he said you know this is
+explained about all the difficulties and said you know time is a great healer uh so take time and
+breathe and speak to other people because uh yeah the it's a very difficult industry to work in but
+it is also a very forgiving industry and there are lots of great people here that were there to
+support you and uh and everyone knows what a challenging environment is so talking to other
+people and taking your time with things i think is really important um yeah and you just have to be
+really tough and really resilient because it's it's not it's not going to be nice but uh yeah
+nothing worth doing is is ever going to be easy because if it was somebody else would have done
+it already right so that's part of part of life i think awesome well michael any props to you for
+doing the hard things and pushing through um and yeah i think it's a really inspiring story seeing
+how you know you you you now kind of are are bigger than you were before the exploit yeah thank you
+so yeah congrats on that and thanks again for joining me this was fascinating yeah thanks for
+having me appreciate it

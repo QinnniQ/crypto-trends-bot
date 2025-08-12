@@ -1,0 +1,651 @@
+We're certainly seeing a lot of upheaval in world events today, and that is trending
+people towards gold, and that's also turning people towards digital gold, which is Bitcoin.
+You're seeing macro-wise countries around the world, major countries like Japan and
+China have stopped buying U.S. treasuries, and there's traditionally been a lot of demand
+for U.S. treasuries.
+This leads the U.S. government to buy U.S. treasuries, buying its own printing, which
+again leads people to look for currencies, sound money, as it were, that's not inflating,
+that's not being printed.
+We see both physical and digital gold demand just skyrocketing in both the U.S. and other
+countries around the world.
+All right, here we are with Jeff Garcic, the co-founder of Hemi, the biggest programmable
+Bitcoin sidechain with almost a billion dollars in TVL.
+Jeff, it's great to have you on the Defiant Podcast.
+Thanks for having me.
+Okay, so before we get into Hemi, Bitcoin DeFi, the things we'll talk about today, I'd
+love to get more on your background because you're a true crypto OG going back to early
+Bitcoin days, contributing to Bitcoin Core.
+So, yeah, how did you go from there to here?
+What was your process like and what led you to start Hemi?
+Sure.
+Well, allow me a little bit to go back a bit further in that I really queued up myself
+to accept Bitcoin, find Bitcoin.
+In the late 80s, I was on the internet before the internet was the web.
+The web was invented in 1990, 1991, and I was already participating in this global village
+that was decentralized, decentralization, the internet.
+And I then spent 10 years under the toolage of the inventor of Linux, Linus Torvalds,
+as one of the Linux lieutenants in the Linux kernel open source project.
+And I really cut my teeth on what does it mean to be decentralized, what does it mean
+to be open source, what does it mean to kind of put yourself and your software out there
+for criticism, for review, and ultimately the goal is improving the software for everyone.
+And all of that was kind of in preparation for, and I'll add one other facet as well,
+I love science fiction and fantasy.
+I love it.
+And one of the book series that I read in the early 1990s, Shadowrun, kind of a futuristic
+cyberpunk type universe, featured some characters using decentralized currency.
+The characters in this fictional novel would transfer money by handing a small object like
+a flash drive from one person to another.
+This was called a cred stick, and you would pay for a job by handing someone a cred stick.
+And that was, to me, the picture perfect example of decentralized currency.
+So this picture, and my personal life, I just feel very blessed, very lucky to have queued
+myself up for, in July 2010, I saw a post, Bitcoin, the decentralized currency, on slash.org,
+news for nerds website.
+And I immediately jumped in, I clicked, I downloaded the software.
+Because it was open source, it's open to everyone's inspection.
+And so crucially, Bitcoin was not about who was Satoshi, who was Satoshi's skill set,
+what is Satoshi's resume look like.
+It was all about the engineering.
+And Satoshi's anonymity forced me and everyone else to look at the code, look at the engineering.
+Don't look at the person, the person's not important, the system is important.
+I looked at it, I was immediately skeptical.
+I said to myself, surely there's just five servers in a data center somewhere.
+And I proved myself wrong by looking at the code.
+It was truly novel, truly decentralized, and something that I had never seen in computer
+science before.
+So like my Linux experience, I immediately started emailing patches to Satoshi.
+And that's kind of the Linga Franca programmers, that's a patch is a software change.
+And so you propose a change to software by emailing a patch to Satoshi.
+My very first change, I proposed to Satoshi to raise the Bitcoin level from seven transactions
+per second throughput to where I thought it needed to be 4,000 transactions per second.
+And this, of course, this patch was totally broken, totally wrong.
+And Satoshi pointed that out, but very courteously and provided that feedback.
+That was my entree into Bitcoin, into decentralized currency, into decentralized programming.
+And I'd say I owe a lot of it to Linus and to Satoshi for being great mentors, great
+project leaders, really geniuses in their own right.
+Wow.
+What an intro.
+I don't think I've had many people here say they emailed with Satoshi.
+That's amazing.
+Did any of your patches make it to the Bitcoin code?
+Oh, absolutely.
+Quite a bit.
+I became the third most prolific Bitcoin developer.
+There was Satoshi, then his number two, Gavin, and then myself as number three.
+Wow, amazing.
+And I guess your first patch to increase the Bitcoin block size, that relates pretty closely
+to what you're doing now, like trying to scale Bitcoin.
+That's exactly right.
+So OK, from that time, in very early Bitcoin days, contributing to the Bitcoin code, how
+was that timeline to actually building a Bitcoin scaling solution?
+Well, it's 14 to 15 years, honestly.
+There's been a lot of history, a lot of bubbles or generations of blockchain, but it feels
+like today in 2025, the world's coming full circle, coming around to Bitcoin again.
+It's in 2010, if we look at the accelerated timeline, 2010 was Bitcoin and then the first
+generation of blockchains were photocopies of Bitcoin.
+It's kind of the steam engine era of blockchain, where everyone had to have their own proof
+of work network, their own data centers, very environmentally expensive, et cetera.
+And then the second generation, you have Ethereum, the third generation kind of Solana, the fourth
+generation, you kind of have the resurgence of DeFi.
+And all of those generations, all of those histories, we've been searching for how to
+scale Bitcoin, how to find the best Bitcoin sidechain solution.
+And in 2010, an ironic prediction, I think, is coming true.
+In 2010, we said in the very earliest days, the way to scale Bitcoin, the way to upgrade
+Bitcoin, the way to improve Bitcoin, let the rest of the world develop solutions, test
+those solutions in the real world, let them take the lumps, let them take the risks, and
+then whatever survives, incorporate it into Bitcoin again.
+So let everyone else kind of market test the solution and then take the best of the best
+and incorporate that back into Bitcoin.
+Now on a 15 year time scale, that's what we're doing, is we let the world road test Ethereum.
+Ethereum is clearly a programmable layer.
+We let the world road test DeFi.
+DeFi is clearly composable primitives.
+It makes sense, logical here to stay.
+And now the time has come to apply that to Bitcoin.
+And so that's where I think we come full circle through Bitcoin, EVM, DeFi.
+And now we're combining it all back again into Bitcoin and obviously the project I'm
+working on, Hemi.
+And so what were the key lessons that you took from all this time that you're now applying
+to Hemi?
+Like, yeah, you said, you know, you're looking at what works and what doesn't.
+So yeah, what are those things?
+Sure.
+One of the ways that Bitcoin sidechains are secured, well, let me back up a second.
+And I'm pausing for editing.
+One of the ways that I think scaling holistically occurs is kind of like, I use the analogy
+of the champagne waterfall in hotels or weddings, is that the champagne comes down to that glass
+in the center, but when it fills up, what does it do?
+It spills over into the next level.
+And that's literally what's happening with blockchain traffic today, is Bitcoin, Ethereum,
+they can't hold all the payments for all the coffees in the world on layer one.
+And if we even try to do that, the self-balancing nature of the network sends network fees high
+because just like we're filming this in New York, just like New York congestion fees,
+we have when it gets full, the fees go up.
+And that's a good thing.
+That's economics.
+That's a self-balancing system.
+When there's less congestion, the fees come back down.
+And so it naturally balances, but that still means that the pipes are often full and expensive
+and that leads to a bad user experience.
+You're either paying two cents or $2 or $10 for a transaction, depending on time of day
+and other random factors.
+Well, what if there was a fast pass lane?
+That's essentially what layer twos are, is you're going to build out the Bitcoin ecosystem.
+You're going to be tied to the Bitcoin token and the Bitcoin economics, but Bitcoin script
+and other technical detail is very limited.
+And Bitcoin scaling, it just hits a scaling limit.
+And so building out these layer two blockchains, these Bitcoin side chains, are that holistic
+solution that we've been searching for for over a decade.
+But it took the piece parts of Ethereum and the EVM.
+It's very much like in the 1990s and 2000s, Java and the JVM.
+Its compatibility, compatible standards were created in the EVM that fostered DeFi.
+And now we can package that again, all into a single, all-encompassing solution for Bitcoin
+DeFi.
+So Hemi is an EVM compatible chain, right?
+So from kind of the things that you did want to take from all this experimentation, is
+Ethereum EVM as kind of a programmable layer for applications to be built on.
+Now with so many side chains and Bitcoin layer twos coming to market and mainnet, there's
+this discussion on what actually constitutes a Bitcoin layer two.
+And it seems like what can make a Bitcoin layer two is whether it gets its security
+the Bitcoin network or whether it does that from its own set of validators or nodes.
+Where does Hemi stand in that difference?
+Well, we believe that the best security comes from Bitcoin itself.
+So Hemi inherits its security from Bitcoin.
+We created something called proof of proof mining or POP, POP mining.
+And this is a method of storing the proofs from the Hemi blocks into the Bitcoin blockchain,
+which is our ultimate source of truth.
+That is, we believe, we like to say Bitcoin and Ethereum, they're the king and queen of
+crypto.
+Bitcoin is the root of the crypto tree.
+It's solid, it's secure, it's not going anywhere.
+And Ethereum is kind of like the Grand Central Station of crypto, where if you're interchanging,
+you're going to go through EVM.
+If you're defying, you're going to go through EVM.
+And the fusion of that is what enabled Hemi to realize that layer two need and kind of
+outcome.
+I think there are a number of Ethereum L2s.
+There are over 100 at last count as we film this.
+There are a number of Bitcoin L2s, over 100 at last count.
+And I'd like to point out the macroeconomics and then back into your question.
+The macroeconomics are such that it's very, very inexpensive, almost zero cost to create
+a new blockchain.
+And therefore, we'll have a large supply of blockchains heading into specific demand.
+And you see the same thing with Ethereum L2s.
+However, all of those are tiny teams photocopying technology.
+They didn't build that themselves.
+They're just forking an optimism, they're just forking an anchoring solution.
+They don't have the depth of technology or the depth of team that Hemi does.
+And we were examining this two years ago and saying, what is the best layer two solution
+today?
+What is the best layer two solution tomorrow if you're thinking 20 chess moves ahead?
+And it's really got to be getting back to your question, something that builds on Bitcoin's
+proof of work security as its base.
+That's not going anywhere, again, as I mentioned, our thesis Bitcoin is the root of the crypto
+tree.
+And so we literally build with that philosophy in mind.
+And so from a layer two perspective, getting a little bit technical, there are multiple
+ways that you can secure in Bitcoin.
+One of those is, and I'll dive into that, proof of proof mining or POP that we invented.
+Another method is called merged mining.
+And this is where the chain has to make an agreement with a number of Bitcoin miners,
+essentially create a mining cartel in order to simply secure your chain.
+And to us, that's the antithesis of decentralization.
+You have to centralize to get your decentralized chain going.
+It's just a starting problem or a non-starter.
+And so what we chose, again, we invented proof of proof mining.
+This uses normal censorship resistant Bitcoin transactions and stores proofs from the Hemi
+chain into Bitcoin.
+So we're entirely relying on Bitcoin confirmations for Hemi chain security at the outset.
+We call that super finality.
+When it's in the Hemi chain, it has finality.
+And then the second step, when it's secured with six confirmations in the Bitcoin L1 chain,
+that's super finality.
+And that is the highest level of security that we could attach to a Hemi transaction.
+So that means that if Hemi is censored or misbehaves or something happens, then Hemi
+users could ultimately go to the Bitcoin blockchain to withdraw their funds or confirm
+their transactions.
+That's right.
+OK.
+Great.
+And do you think that's your primary edge or differentiation versus all the other Bitcoin
+layer 2s?
+Or what is that differentiation?
+Well, we have a number of features that differentiate.
+As I mentioned, we're a much larger, much deeper team.
+We've been working on Bitcoin for 15 years now.
+Other teams can't match that.
+We invented proof of proof mining.
+We're not photocopying others' softwares.
+We have the HVM, H stands for Hemi.
+And what this is, it's a little bit of a technical explanation.
+So I hope the viewers will bear with me.
+We took an Ethereum node and we embedded a Bitcoin node inside it.
+No other competitor has done this.
+Now why do we do that?
+It extends that Ethereum virtual machine, the EVM, to support reading and writing the
+Bitcoin L1 chain from these advanced smart contracts.
+And so for a developer, a Bitcoin developer, the Bitcoin developer in 2010, if we hopped
+in a time machine, they only have this tiny, tiny little technical piece called Bitcoin
+script.
+It's very secure, but it's not programmable at all.
+And thankfully, Vitalik came along, invented Ethereum, invented EVM, added 1000X to crypto
+programmability.
+But there were still two silos, Bitcoin and Ethereum, two different universes.
+The word Hemi is short for hemispheres, and it refers to the Bitcoin hemisphere and the
+Ethereum hemisphere coming together.
+And so the coming togetherness, again, getting back to the technical, we created a HVM that
+extends the EVM so it's fully backward compatible, yet it adds new features to let programmers
+add programmability to their Bitcoin transactions.
+So over here, you have a Bitcoin chain.
+You can watch for payments on the Hemi chain, or on the Hemi chain, you can trigger a payment
+and it appears over here on the Bitcoin chain.
+So you don't have to do this thing and then bridge and do this other thing.
+And it's just nicely integrated, seamless.
+You don't have to undergo a multi-step process like other folks do.
+So it's far more advanced and far more seamless going from Hemi to Bitcoin, Bitcoin to Hemi,
+and it's real Bitcoin.
+It's not wrapped, it's not rehypothecated Bitcoin, it's just direct on the L1 Bitcoin.
+So we're a direct integration, a secure integration, and very, very deep tech.
+So I'd say we have a number of technological advantages.
+And then sociological, we have an amazing community already.
+We have a test-first community nature.
+So we launched Testnet last year, we launched Mainnet, and we test, test, test, test, test
+on Testnet and have a very test-centric, safety-centric, de-risk type culture so that when we launch
+apps on Hemi, it's already been beaten up, already seen Darwin's trial by fire.
+And I think that is another advantage.
+And then finally, the world, the market, not just Hemi, but the entire world is coming
+back to Bitcoin DeFi.
+So Hemi is the right product at the right time for what the market is looking for.
+I try not to say this is Jeff's opinion for what we should build.
+I try to say, what is the market telling us?
+What is the market pulling us towards?
+And the market is, institutionals interested in Bitcoin, Bitcoin maximalists becoming
+more pragmatic and wanting on-chain yield in DeFi, the world governments and corporates
+putting Bitcoin on their balance sheets.
+And all of that plays into what we're building with Bitcoin and DeFi on Hemi.
+The PR Genius is a top crypto PR and growth marketing agency, helping brands globally
+with expert PR and strategic growth marketing.
+They've worked with 300 plus projects like Movement Labs and IO.net.
+Unlike traditional agencies, they charge only on performance.
+Their services include earned PR opportunities and marketing services to help boost wallet
+holders and organic ex-followers.
+Learn more at www.theprgenius.com
+I really want to get back to that topic, but first, just wanted to quick follow ups
+on this Hemi-Bitcoin connection.
+So one is, you said Bitcoin on Hemi is actually Bitcoin, like it's not a wrapped version,
+it's the actual cryptocurrency.
+And then on the bridging, how fast is that connection?
+If you want to go from Bitcoin on Hemi to Bitcoin mainnet, how quickly can you do that?
+Trying to remember the specific figures because it's different from going in versus coming
+out.
+If you're going from Bitcoin L1 to Hemi over our tunnel, we use slightly different language,
+we call it a tunnel.
+I believe that is three hours.
+You get six confirmations and then three hours pass.
+And then going the other way, it's 24 hours.
+So it scales up time-wise to prevent fraud and other rung pulls and hacks and stuff like
+that because you've got to be ultra secure with that level of money.
+Once Bitcoin is out, it's gone.
+Pretty similar to Ethereum and Ethereum layer 2's withdrawal times.
+Exactly.
+Though we're maybe 7x faster at the same time.
+Their worst case is seven days and our worst case is 24 hours.
+So I want to go back to this topic of the world coming back to Bitcoin.
+I think it's super interesting.
+What macro factors do you think are explaining this?
+Macro factors, I think, get deep into philosophy and world events.
+I think there's one theory that is called the fourth turning.
+Every fourth generation throughout history, you kind of have a lot of chaos and war and
+upheaval and nation states become new nation states.
+I'm a history buff, so I love world history and all this sort of stuff.
+And if that theory may or may not be correct, but we're certainly seeing a lot of upheaval
+in world events today and that is trending people towards gold and that's also turning
+people towards digital gold, which is Bitcoin.
+You're seeing macro wise countries around the world, major countries like Japan and
+China have stopped buying U.S. treasuries and there's traditionally been a lot of demand
+for U.S. treasuries.
+This leads the U.S. government to buy U.S. treasuries, buying its own printing, which
+again leads people to look for currencies, sound money as it were, that's not inflating,
+that's not being printed.
+And so you see both physical and digital gold demand just skyrocketing in both the U.S.
+and other countries around the world.
+I think that's one of the big macro factors.
+Another one a little bit closer to home, the U.S. politics on crypto has shifted quite
+a bit with the change in administration.
+There were in the previous administration some court cases that eventually resolved
+to legalize Bitcoin ETFs.
+And that was a big, big watershed moment in the life of sovereign crypto, institutional
+crypto, corporate crypto, because once Bitcoin is held in security related arrangements,
+broker dealer arrangements, collateral arrangements, it's essentially in traditional finance at
+that point.
+It's gotten the green light in traditional finance.
+And Bitcoin, unlike the other cryptos, has that green light now.
+Other cryptos are still seen as new, emerging, et cetera, super short data point.
+The U.S. government was debating a strategic Bitcoin reserve, a strategic crypto reserve.
+Their first announcement, they were going to have XRP, SOL, and several other cryptos.
+And then they withdrew that announcement and said, we're going to have a strategic Bitcoin
+reserve.
+And obviously, selfishly, as a Bitcoin holder, we like to see that.
+But what's the deeper point?
+The deeper point is that Bitcoin is one of one of mature cryptos that are available,
+that have institutional support, sovereign support, corporate support, and all the others
+are metaphorically emerging markets.
+And so that is why all those reasons, I think, are why the world is coming back to Bitcoin.
+Yeah, it's been such an interesting trend to watch, how Bitcoin has really decoupled
+from stocks and has been rising as the U.S. dollar is weakening together with gold.
+So it seems like all of Bitcoiners' predictions are finally coming true.
+It's been wild to watch.
+So do you think that Bitcoin can actually become a global reserve currency?
+I absolutely think it's a global reserve currency today from certain perspectives.
+And I think it's a part of a portfolio that becomes a global reserve currency, absolutely.
+I like to think about the IMF SDR program, which it stands for special drawing rights,
+but essentially it's a basket of world currencies and it's indexed a lot like an index fund
+based on the GDP of each country in that index.
+And I think Bitcoin, for example, deserves a spot in the IMF SDR alongside other world
+currencies.
+That'd be an interesting milestone to watch.
+Do you think that ironically, now with all the pro-crypto regulation in the U.S., the
+Genius Act, or at least like in the House now to be maybe approved, so stablecoins becoming
+mainstream, do you think that could in turn prop up the dollar and maybe weaken Bitcoin's
+case as kind of a dollar replacement?
+That's a really good question.
+I would say it's good for Bitcoin and good for the dollar.
+So I'll take the 50% on that question.
+I would say that stablecoins are very similar to the euro dollar system, which is a dollar
+pegged system that extends internationally.
+And I think stablecoins are essentially the new euro dollar system.
+And that is extending the U.S. dollar to everywhere in the globe.
+I really like the early vision of Jeremy Allaire at Circle, which as we record this just went
+public, his early vision at Circle pre-stablecoin was global internet money.
+And now Circle today with USDC, I think he's achieved his vision as stablecoins generalizing
+are that global internet money.
+Now is Bitcoin also global internet money?
+I think the answer is also yes.
+And so where does each apply and how does each apply?
+I think pragmatism comes into play.
+Right now Bitcoin in dollar terms, and we're all thinking in dollar terms, is very volatile.
+And if you put your mortgage denominated in Bitcoin as a practical matter, you might one
+day have a payment of $10,000 and another day a payment of $500.
+And you'd like that small payment, you really wouldn't like that big payment.
+You want stability in a 30-year financial instrument like a mortgage.
+And right now the US dollar provides that.
+And so for Bitcoiners, and we see this with Bitcoin DeFi, there is a lot of interest in
+collateralizing Bitcoin and then using US dollar stablecoins for everyday spending,
+for large purchases, and for other financial things like leveraging and other stuff.
+And so it's very symbiotic, is my first point.
+For the US government perspective, I think they're absolutely happy to have the US dollar
+spread across the globe and have more dollars in circulation versus another currency.
+And so if you ask many people I think in the US government, would you rather have US DPEG
+stablecoins or something else, they'd certainly prefer US dollar PEG stablecoin.
+So it extends the dollar, it extends the euro-dollar system.
+And so I'm kind of a yes-to-both type of person.
+Yeah, I mean, the point that Bitcoin can be collateral for a US dollar-based stablecoin
+is a great point.
+But we haven't seen that really take off so far.
+So that leads to the other next question I wanted to ask, which is Bitcoin DeFi has until
+now been an interesting idea, but it hasn't really become true in the sense that there
+is an ecosystem, but I'm not sure that there's actual economic activity happening there.
+Or I'd love your take on that, because it seems like a lot of the staking is to get
+farming tokens, but it's not actual yield from lending or we're not seeing Bitcoin use
+as collateral for stablecoins, like you said, or more kind of real-world use cases stemming
+from Bitcoin DeFi.
+I think you are, but you have to look holistically across multiple chains in crypto.
+And what I mean by that is that Bitcoin itself, just the chain, is technologically limited
+and literally can't do DeFi without help.
+And that's part of where Hemi comes in.
+But holistically, you'd see folks holding Bitcoin, they'd use a solution like Wrapped
+or WBTC, and then they'll go on a lending market such as Aave or Compound, deposit that,
+and then they do borrow stables.
+And so what we're seeing number-wise is about two to four billion in collateralized Bitcoin
+on DeFi, which is both a big number and a small number, in that a billion with a B is
+obviously a big number.
+There's obviously significant borrowing going on that supports multiple large ecosystems,
+the WBTC, the MakerDAO, now Hemi as well, other systems.
+And that's kind of part of the picture.
+And I'd say the other part of the picture is ultimately folks who want to mine, they
+want to generate yield.
+That's the new emerging market where we don't have a lot of data yet.
+But the collateralized BTC borrow USDC, you definitely see that if you zoom out and look
+at it.
+But like on Ethereum or like on other chains.
+That's right.
+I was meaning like Bitcoin DeFi on Bitcoin or Bitcoin sidechains.
+It seems like maybe too early to see, like I don't know, I haven't seen that really taking
+off yet.
+It's literally impossible on Bitcoin.
+So it's just not going to happen on Bitcoin.
+And that's kind of where Hemi comes into play, is that we've got the Bitcoin DNA.
+We've got EVM programmability.
+We've got the HVM that can talk directly to Bitcoin L1.
+And so the general idea is we're closer to Bitcoin than Ethereum.
+So we want to challenge Ethereum's dominance in terms of Aave and other lending markets.
+And I think we're on that road.
+So how do you see it playing out, this challenge to Ethereum DeFi?
+Well, obviously, I think we're going to win.
+The closest to Bitcoin, some of the miner related integrations that we're pursuing,
+we call that MinerFi.
+To sidetrack a little bit into that, currently Bitcoin miners have a very simple user experience.
+They have some mining hardware and to get paid, they register their Bitcoin address
+and that's it.
+And they just have a payment stream to their wallet and that's it.
+Whereas Hemi and the top mining pools in Bitcoin are very interested in this, Hemi
+extends that experience to, OK, and what next?
+Meaning, OK, you receive this payment flow of Bitcoin and now you want to earn some yield
+and now you want to swap that to USD to pay some bills.
+And now you want to perform X, Y and Z automated actions based on AI agents, which is another
+project that's on Hemi.
+All of those automations are the and now what next form.
+And so that's programmability in a nutshell and that's modularity, that's flexibility
+and that's the system that we built with Hemi is that once you have your Bitcoin, there's
+another universe of possibilities that we're opening up.
+And so we think that that is going to be very compelling to Bitcoin miners, Bitcoin holders.
+Basically, the Bitcoin maximalist is becoming the Bitcoin pragmatist, we argue, and that
+pragmatism is I don't just want to hold my Bitcoin in a Bitcoin wallet inside a mountain
+behind armed security guards and nothing ever happens with it.
+I want it to grow like a savings account.
+I want to do more with it.
+One of the founders at another startup company bought a house with it.
+He collateralized his Bitcoin, borrowed USD and purchased his entire house, you know,
+real estate, California real estate.
+So it was not cheap.
+So did he do it on like on Aave?
+Yeah, he did.
+He used he used either compound or Aave.
+I forget which.
+So your dream is that the next time that happens, it'll be on a lending market on Hemi.
+That's right.
+That's right.
+Exactly.
+Hemi and more.
+Do you think that now I think there's like about a hundred billion of TVL in DeFi overall.
+Do you think Bitcoin DeFi has the potential to overtake that or to be the main hub of
+DeFi?
+Since Bitcoin is the biggest cryptocurrency, you could argue that, you know, there is a
+potential to to have that happen.
+We think it's going to be the biggest home for DeFi bar none.
+Like I mentioned earlier, the institutional corporate sovereign retail grassroots, all
+the support is there for Bitcoin.
+And it's literally incomparable with any of the other cryptos in terms of that penetration
+at the edge, meaning not just crypto enthusiasts of coin X, Y and Z, but banks, OCC chartered
+banks, but hedge funds, SEC registered treasury companies.
+All of these have a level of legal comfort, regulatory clarity with Bitcoin that you don't
+have with other cryptos.
+And so that's a big, big, big pull, magnetic pull kind of back to home base, back to the
+root of the crypto tree.
+What if sending crypto felt more human?
+Pulse just launched Red Packets, a new way to gift tokens with meaning.
+It's gasless, gamified and claimable inside group chats only.
+Think AirDrops meet social cues on chain.
+Backed by smart wallet tech and live across major L2s, Red Packets turn communities into
+micro economies of gratitude and growth.
+No seed phrases, no friction.
+Best connection with value.
+Check it out at Pulse.social.
+So that's in terms of programmability and market cap that with Hemi, you kind of have
+that going for you.
+You have the volume, liquidity and market cap of Bitcoin, which is the biggest in the
+space.
+And you've integrated Ethereum CVM to make that programmable.
+What about scalability and throughput?
+Because Solana really took that one step further beyond what Ethereum and even Ethereum Layer
+2s are doing with thousands of transactions per second, which very, very few chains can
+achieve.
+And we've seen how that's really prompted this meme coin mania and other more retail
+use cases.
+Do you see that also happening on Bitcoin or maybe that will continue to be more for
+like other chains?
+Oh, absolutely.
+Bitcoin itself is going to continue to be a settlement layer, a backbone, the root of
+the crypto tree.
+And Hemi, for example, will be able to facilitate a lot of those high transaction volume type
+use cases.
+We have in our white paper outlined some designs for Layer 3 protocols that can go as fast
+as you can transact.
+So hundreds of thousands of transactions per second, theoretical maximum.
+But the other trade-off, and we're not going to go to that level of speed with Hemi, the
+core L2, is that we value decentralization.
+And as you turn up the speed knob, you're turning down the decentralization knob.
+And what do I mean by that?
+We actually get to the laws of physics, the speed of light.
+And when we're creating the consensus that this is a Hemi block, this is a Bitcoin block,
+the messages literally have to travel all over the globe to every continent on Earth,
+even Antarctica.
+There are a couple of Bitcoin nodes in Antarctica.
+To achieve consensus.
+And that simply doesn't happen if you're doing 100,000 transactions per second, because the
+speed of light can only go so far from Europe to Africa to South America to North America
+and back again.
+And so the current best guess is 200 to 500 milliseconds is your fastest time.
+And if you're going any faster than that, you're compromising decentralization.
+And you're just kind of putting all the servers in one data center again.
+And you've recreated Amazon.com.
+It's not decentralized at all.
+And you have no censorship resistance whatsoever.
+So if you want to compromise like that, you might as well just create a centralized database
+and not use blockchain at all.
+Right, for sure.
+So it's really interesting stuff.
+And if all that happened and there's DeFi and retail kind of activity happening on Bitcoin
+layer 2s, does that risk Bitcoin losing on mainnet transactions?
+Which I think we're already seeing some kind of indication that that's happening.
+And we've seen that effect on Ethereum, how all the activity is moving to layer 2s.
+And so L1 is missing out on those transaction costs.
+ETH was underperforming, arguably in part because of that.
+Do you see that as a risk for Bitcoin?
+Well, some people theorize that 50 or 100 years down the line, when the per block subsidy
+is just de minimis, it's basically gone, will transaction fees pay for network security?
+That's kind of the existential question.
+And from what we see on layer 2s, we are actually paying, specifically with Hemi, we're paying
+Bitcoin fees and we're paying Ethereum fees and we're putting data in both blockchains.
+And so that's continuing to support the network, continuing to pay those costs.
+And the networks are both self-balancing such that if there's low traffic, then there's
+very little contention.
+If there's high traffic, there's high contention, high fees, et cetera.
+And so it all kind of naturally balances out.
+And so I'm a very Zen guy, very balanced.
+I like the algorithmic nature of Bitcoin.
+And I think it has several self-balancing aspects that'll help in those times when there's
+low traffic or a lot of L1s, et cetera, or excuse me, L2s.
+Ultimately you have to settle back to an L1.
+So that's why I call it a settlement layer, a backbone to steal a Web2 phrase.
+And it's always going to be needed.
+It's always going to be that root of the security tree.
+So I don't see it ever going away.
+Yeah, that's a good point.
+Okay.
+Now, back to Hemi and next milestones, what are you looking forward to in the next few
+months?
+Sure.
+Well, we have launched our testnet.
+Test, test, test is the engineer's mantra.
+We've launched our main net with Ethereum as the gas token.
+The next milestones will involve increasing our vault security for going to and from Bitcoin
+using a technology called BitVM2.
+We're going to be unveiling gas tokens, which allow people to pay for gas for network fees
+in Bitcoin itself, and a number of extensions to the protocol, which are going to make Bitcoin
+DeFi faster, quicker, and more integrated with the mining pool experience.
+And we're talking with a number of mining pools.
+So we're looking at the upgrade of the user experience, the upgrade of the security experience.
+But at the same time, transactions just keep on flowing and keep on getting secured.
+What about the launch of your own token?
+We are launching a Hemi token, but I'm providing literally zero details beyond that.
+Okay.
+We'll just have to wait and be patient, but at least we know that there is a Hemi token.
+Yes.
+Yes, there is.
+Coming.
+Coming soon.
+Coming soon to a theater.
+Interesting.
+Okay.
+What about the applications on Hemi?
+Any interesting projects launching soon and related to that, how are you attracting developers
+onto the network?
+Sure.
+Well, I'll take the last question first, is that there are a number of ways to attract
+developers onto the network.
+Obviously, just being amazing and just building a great developer experience at Block that
+spun out Hemi Labs.
+We're all builders.
+We want to build things that other developers just want to bear hug and love.
+And that's from great documentation to source code examples to hackathons to the monetary
+side of grants and other monetary support.
+If you're not a VC-backed project, you're just like a Stanford University student building
+something, we want to encourage those independent developers to come and build on Hemi.
+We have overthought the developer experience, and I think that really shows all the way
+to our Discord community, which has a number of different developer-centric paths that
+you can follow and other fellow developers you can network with.
+So I just love our developer experience, and I've been having our team focus quite a bit
+on that.
+So that's, I think, pretty key.
+Coming to Hemi, if you're not familiar with smart contracts and blockchain development,
+it's definitely a steep learning curve, but it's absolutely worth it.
+For your first part of your question, the apps, there are a number of different apps
+that people are engaging with.
+I'll bring them down in terms of monetary and non-monetary.
+On the non-monetary side, there are some interesting games, demos, ways that folks can participate
+through our Discord to learn more about Hemi.
+There's something called Hemi Hatchlings, which is a free-to-ment, free-to-use experimental
+NFT art project, and you can morph and hatch Pokemon characters, stuff like that.
+We have a vibrant NFT art community that people engage with and really enjoy and have a lot
+of fun with.
+Does it use Ordinals for NFTs?
+You can export to Ordinals, but it's primarily on the Hemi chain at the moment.
+The financial apps, obviously, we're getting the 80%, 20% experience of 80% of people coming
+in the door of their Bitcoin holders.
+They want to do something with their Bitcoin.
+20% are coming in through the Ethereum tunnel, Ethereum door, that sort of thing.
+They want to do the standard DeFi apps of DEXs and lending markets.
+The more aggressive traders are looking at PERP DEXs and dark pools and things of that
+nature.
+Vitalik, in a recent post, talked about how maybe blockchains are a little bit too public.
+That reveals a little bit too much about you.
+We should look at ZK and dark pools again as some of the ways that we can add privacy,
+give privacy back to our users.
+We're seeing some of those ZK privacy trading apps as well.
+Interesting.
+Very cool.
+Then, to wrap up, I'd love a sense of your more long-term vision if everything works
+out the way that you want.
+What does Hemi look like?
+To me, Bitcoin and Ethereum, the king and queen of crypto, they're always going to be
+there.
+We always want to be well integrated with the king and queen of crypto.
+I think the future of Hemi is the future of layer 2s.
+Layer 2s are absolutely necessary.
+They're an organic outgrowth of you just can't fit everything on L1.
+Fundamentally, you've got to have layer 2s to onboard the other 7 billion people on the
+planet after we onboard the first billion.
+From that perspective, we're going to integrate the Lightning Network.
+We're going to integrate Solana and some of the other non-EVM blockchains, and ultimately,
+I think, become the Bitcoin DeFi hub for all of crypto.
+Awesome.
+Great.
+Finally, if you want to tell the audience where to find you or how to get started on
+Hemi.
+Yeah, go to Hemi.xyz.
+Follow us on Hemi underscore xyz on Twitter.
+Awesome, Jeff.
+This was great.
+Thank you so much for joining us.
+Thank you.
+Thanks for having us.

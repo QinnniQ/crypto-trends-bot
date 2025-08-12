@@ -1,0 +1,167 @@
+Thank you very much everybody.
+Crypto Week brought big news for the sector.
+The US House of Representatives passed three key bills.
+The Clarity Act passed with strong support from both parties.
+The Anti-CBDC Surveillance State Act squeezed through.
+And the Genius Act, the first federal law for stablecoins,
+is now headed to President Trump's desk for his signature.
+So now that stablecoins are officially recognised,
+all eyes are on the Clarity Act, the most important crypto regulation bill in the US.
+Today we'll explain what's inside the Clarity Act, how likely it is to become law
+and what it could mean for the crypto market.
+My name is Guy and you're watching the Coin Bureau.
+Now before we start, remember nothing in this video is financial advice.
+It's for education and entertainment only and today we're diving into the Clarity Act.
+If you enjoy this kind of content, don't forget to like the video,
+subscribe and tap the notification bell.
+Okay, during what lawmakers called Crypto Week, the US House voted on several major crypto bills.
+As a result, the Clarity Act is now headed to the Senate.
+The Anti-CBDC bill barely made it through and the Genius Act became law.
+This week of action is a major step towards finally creating clear rules for crypto,
+instead of leaving things to unpredictable court battles or agency crackdowns.
+For years, the crypto industry has operated in a grey area,
+unsure which regulator, the SEC or CFTC, calls the shots.
+And that confusion has caused big problems.
+It's a big problem.
+The Clarity Act aims to fix this by giving us a real framework for digital assets.
+But it didn't appear out of nowhere.
+It builds on earlier bills like FIT21, the Lummis-Gillebrand proposal,
+the DCCPA and the Securities Clarity Act.
+Those efforts all failed, but helped highlight key issues.
+What's a security?
+What's a commodity?
+And how do we protect users?
+The Clarity Act pulls all of that together into one bill.
+It uses principles from the Securities Clarity Act,
+adds rules for decentralisation and self-custody,
+and frames it all as a balanced approach to regulation and innovation.
+Strategically, lawmakers passed Clarity with a 294-134 vote,
+added the narrow anti-CBDC win and pointed to the New Genius Act as proof they're getting things done.
+Supporters say this forms a clear roadmap, while critics,
+including consumer groups and some senators,
+worry about loopholes, weak protections or vague decentralisation standards.
+We'll dive deeper into all of those soon.
+But for now, it's clear that outside of stablecoins,
+the Clarity Act is getting wide support, both politically and of course from the crypto industry.
+It's now heading into the Senate where it could be improved or watered down.
+Still, many in crypto believe it is a major milestone,
+a sign that the US could finally become, as President Trump put it,
+the quote, crypto capital of the world.
+So what is the Clarity Act exactly?
+Well, it's a bill that defines digital assets,
+explains who regulates what and sets up clear rules to replace the guesswork we've seen so far.
+It adds terms like digital asset, digital commodity and mature blockchain system.
+More on that in a moment.
+Clarity also refers to the Genius Act for how stablecoins should be handled.
+And these definitions help create a new shared framework.
+If a token is tied to a centralised project, it's a security, regulated by the SEC.
+If it's part of a decentralised, mature blockchain,
+it becomes a commodity, regulated by the CFTC.
+Importantly, tokens can switch categories over time.
+If a project starts centralised, then it stays under SEC oversight.
+But once it meets the criteria for being mature and decentralised,
+it can shift to CFTC oversight.
+So here's a simple example.
+A project launches and shares all the necessary disclosures.
+While the team still controls the network, the token is a security.
+Later, they submit a certification.
+If the SEC doesn't object and the project meets maturity standards,
+it becomes a digital commodity.
+The SEC still handles fraud and securities offerings.
+The Act even sets sales limits up to $75 million over 12 months,
+as long as disclosures are made and the chain is expected to mature in four years.
+Then, once a token becomes a commodity,
+trading it doesn't trigger new securities rules, though fraud protections still apply.
+Of course, this is how the bill looks now.
+These details could change in the Senate.
+But the big idea is this.
+Tokens in decentralised, mature systems shift to CFTC oversight,
+while securities and centralised offerings stay with the SEC.
+This should cut down the confusion we've seen for years.
+And there's also a lot of built-in oversight.
+Congress and regulators will be tracking how crypto is used,
+including by foreign actors in DeFi, NFTs and payments, to decide if more rules are needed.
+The bill sets standards for platforms too,
+like keeping customer assets separate, preventing fraud and securing systems.
+This is a crypto-specific approach, not just copying rules from traditional markets.
+Now, some parts of the bill are still vague, however.
+For instance, a mature blockchain system is simply defined as one
+not controlled by a single person or group.
+That is not very detailed.
+The same goes for decentralised.
+Instead of a clear definition, the bill defines who counts as a
+control person, someone with 20% or more governance power,
+who can unilaterally change the protocol.
+If a project doesn't have that kind of control person, it can be considered mature.
+But this leaves a lot of room for debate.
+People are already arguing over which metrics should matter.
+Validate account, voting turnout, state concentration, all of which can be misleading.
+Now, hopefully, rulemaking will provide more concrete standards without stifling innovation.
+Still, the takeaway here is that the Clarity Act creates a pathway for a token to graduate
+to commodity status, complete with clear definitions and a system that can evolve.
+How smooth that path is will depend on how the Senate reshapes the bill in the coming weeks.
+As we mentioned earlier, the House gave the Clarity Act a strong 294 to 134 vote,
+while the anti-CBDC bill barely passed 219 to 210.
+Now that contrast shows broad support for crypto market structure,
+but mixed feelings when it comes to government-issued digital currencies.
+In the Senate, the battle over definitions, rules, and protections now begins.
+Republicans like Tim Scott, Lummis, Hagerty, and Tillis support clearer roles for regulators,
+self-custody rights, and tailored rules for decentralized projects.
+On the Democratic side, senators like Elizabeth Warren want strong consumer protections,
+strict anti-money laundering rules, and to block public officials from profiting off of crypto.
+Senator Warren worries that big tech firms like Meta or Tesla could issue tokens to avoid regular
+SEC rules. Maxine Waters took it further, calling the bill a, quote,
+full-scale crypto con and even nicknaming it the Calamity Act.
+She warned it could allow bad actors to slip through cracks in the law.
+And that gives us a good idea of what Senate edits might look like. Tighter rules for
+maturity and decentralization, stronger certification reviews, and more protections
+against fraud or abuse. Some have suggested combining the anti-CBDC bill with clarity,
+but its razor-thin vote margin makes that risky. A smaller amendment, asking for more
+transparency on digital dollar research and protecting wallet privacy, is more likely.
+Supporters of the Clarity Act say the bill offers exactly what the industry needs. Clear rules,
+fewer gray areas, and more predictability. Combined with the Genius Act, they argue this
+will bring in institutions while protecting consumers. Clean definitions and strong stablecoin
+rules could give the green light to asset managers, banks, and builders alike. But the real fight is
+over where to draw the line. Too loose and it's a free-for-all, too tight and it could kill
+innovation. So, will the Clarity Act actually become law? And if so, when? Right now, most
+Republicans are pushing for it, with a target of September, wanting clear roles for the SEC and
+CFTC, support for self-custody, and fair treatment for decentralized projects.
+Democrats, meanwhile, want tighter rules around investor protection, real-world asset tokenization,
+and stronger enforcement. But time is short. Congress is about to leave for its August break,
+and September is packed with budget talks. That means it's a race to get the bill debated and
+passed. Still, the White House is eager for another crypto win after the Genius Act.
+If things move quickly, we could see a Senate markup in September,
+tweaks to the bill, and a full Senate vote in Q4 with a final House vote soon after.
+There's also a chance things move faster and the bill hits the floor in September.
+But that depends on avoiding major arguments. If things stall, especially over the anti-CBDC
+add-ons or unclear definitions, then the whole process could get pushed into 2026.
+So, keep an eye out for a confirmed markup date, ongoing debate over the Fed's digital dollar,
+and how the Senate frames the Clarity Act in the wake of the Genius Act's passage.
+Now, with the Trump administration clearly pro-crypto, there's a good chance we'll
+see some version of the Clarity Act pass. But what could that mean for the crypto market?
+Well, if it passes in its current form, we might see a short-term price bump,
+but the bigger impact is in the long term. The bill ends the era of vague rules and SEC crackdowns.
+Institutional interest is already growing. A study by Ernst & Young and Coinbase found
+that regulatory clarity is the number one driver of crypto adoption.
+With defined categories and guardrails, large investors and companies can finally get involved
+with confidence. The combo of the Genius Act and clarity creates real infrastructure,
+not just for trading, but for payments, custody and compliance. For crypto builders,
+the incentives shift too. Being decentralized and mature isn't just a point of pride anymore,
+it's a regulatory benefit. Now, of course, those qualities need to be provable, not just claimed.
+And that's the tension here. How to reward innovation while keeping the system safe.
+Around the world, others are moving fast. Europe's mica rules are live and Asia is
+growing its frameworks too. With the US pushing a Bitcoin reserve strategy and now these bills,
+we're seeing a serious move to lead global crypto policy. There are trade-offs, of course.
+Smaller teams may struggle with compliance while bigger firms have the resources.
+And if the decentralization rules aren't clear, then some projects may fake it.
+Still, almost everyone agrees this bill is better than the legal chaos we've had in the past.
+And it's not about a quick 10% Bitcoin spike, it's about setting the stage for long-term growth.
+If the Clarity Act passes, it reduces uncertainty, keeps builders in the US
+and opens the door for more institutional capital to flow in.
+Of course, that all depends on whether the Senate improves the bill or breaks it.
+We will be tracking how the Senate handles Clarity and the anti-CBDC debate,
+so if you want to stay up to date, make sure you subscribe.
+And if you're curious why so many people are against central bank digital currencies,
+then check out our video on that right here.
+Okay, that's it from me for today. Thank you all for watching and I'll see you again
+soon. This is Guy, signing off.

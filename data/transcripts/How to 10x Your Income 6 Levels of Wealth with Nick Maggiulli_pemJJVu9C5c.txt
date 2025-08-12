@@ -1,0 +1,893 @@
+If you want to go past 10 million, AKA level five, you have to completely change your strategy.
+Unlike everything so far in the wealth ladder, like going from level three to level four is
+usually just like having a higher paying job and just being able to save more and invest well.
+And, you know, you just give it time and that's a lot of it too. Like time's a piece of it.
+The difference between, you know, level four and level five is not just time.
+Welcome to Bankless. This is Ryan Chon Adams, just me today. You guys know crypto is a
+technology for both generating and for storing wealth. The question is, what is wealth?
+Every once in a while, I like to do an episode on wealth just to set the foundation.
+Because just like crypto, wealth can be a freedom technology.
+And if it's used well, that's exactly what it is. It can also be a trap.
+Sahil Bloom reinforced this idea for me in his book, The Five Types of Wealth.
+We did an episode on that. It's a great conversation. We'll include a link in the
+show notes for you. Now this episode with Nick Medjuli, our guest, swings the focus back towards
+one type of wealth, net worth. So picture a ladder. You start with nothing. Then as you climb each
+rung of the ladder, your strategy needs to change in order to get to the next level.
+You hit 10K and then you hit 100K in net worth, then a million, and then 10 million and beyond.
+How do you climb each rung of this wealth ladder? What strategies do you need to achieve
+deca-millionaire status? Also, everyone assumes they want 10 million in net worth.
+But is it worth it? These are all topics we discuss in today's episode. Again,
+to round out this conversation, I do encourage you to listen to the episode we did with Sahil
+and The Five Types of Wealth. Because I don't want you guys getting stuck on a wealth
+treadmill to nowhere. But if you do want to climb, I think this episode will help.
+We'll get right to the episode. But before we do, I want to thank the sponsors that made this possible.
+In the Wild West of DeFi, stability and innovation are everything, which is why you should check out
+Frax Finance, the protocol revolutionizing stablecoins, DeFi, and Rolex. The core of
+Frax Finance is FraxUSD, which is backed by BlackRock's Institutional Biddle Fund.
+Frax designed FraxUSD for best-in-class yields across DeFi, T-bills, and carry trade returns
+all in one. Just head to frax.com, then stake it to earn some of the best yields in DeFi. Want even
+more? Bridge your FraxUSD over to the FraxTel layer 2 for the same yield plus FraxTel points,
+and explore FraxTel's diverse layer 2 ecosystem with protocols like Curve, Convex, and more,
+all rewarding early adopters. Frax isn't just a protocol, it's a digital nation,
+powered by the FXS token and governed by its global community. Acquire FXS through frax.com
+or your go-to DEX, stake it, and help shape Frax Nation's future. Ready to join the forefront
+of DeFi? Visit frax.com now to start earning with FraxUSD and staked FraxUSD. And for bankless
+listeners, you can use frax.com slash r slash bankless when bridging to FraxTel for exclusive
+FraxTel perks and boosted rewards. Imagine a world where traditional finance meets the power
+of blockchain seamlessly. That's what Mantle is pioneering with blockchain for banking, a
+revolutionary new category at the intersection of TradFi and Web3. At the heart is UR, the world's
+first money app built fully on chain. It gives you a Swiss IBAN account, blending fiat currencies
+like the euro, the Swiss franc, the United States dollar, or the renminbi with crypto all in one
+place. Enjoy real-world usability and blockchain's trust and programmability. Transactions post
+directly to the blockchain, compatible with TradFi Rails, and packed with integrated DeFi futures.
+UR transforms Mantle Network into the ultimate platform for on-chain financial services,
+unifying payments, trading, and assets like the MI4, the METH protocol, and functions FBTC, backed
+by developer grants, ecosystem incentives, and top distribution through the UR app, reward stations,
+and buy-bit launch pool. For MNT holders, every economic activity in UR drives value back to you,
+embodying the entire stack and future growth of this super app ecosystem. Follow Mantle on X
+at Mantle underscore official for the latest updates on blockchain for banking. That's
+x.com slash Mantle underscore official. BanklessNation, very excited to introduce you to
+Nick Medjuli. He is the author of Just Keep Buying, and he is part of a wealth management
+company as well, and he's got a soon-to-be-released book called The Wealth Ladder coming out. We're
+going to learn from him about The Wealth Ladder today. Nick, how are you doing?
+Nick Medjuli Good. Thanks for having me on, Ryan.
+Ryan Nielsen This is actually from a blog post that
+I was telling you off air that I read in 2019, and it left an impression on me. This is really
+an opportunity to dive into the mental model of The Wealth Ladder, which I think is really
+important for bankless listeners to get inside of their heads. It's incredibly useful as they're
+going through this path of kind of building wealth in their own life. Let me just start
+with a question, though. How did you learn personal finance and wealth management in general?
+Nick Medjuli I just spent a lot of time reading books,
+reading blog posts. I was very curious about it, and so I just read a lot on it, crunched a lot
+of data on it, and started writing about it. I think actually writing about it helped me more
+than anything because that's when I really discovered, oh, here's my opinion on this.
+Is that correct? You have to go through that process a lot and find research and do all that.
+It's a lot easier now with AI to help with finding datasets and things like that,
+but still, it's been a journey. Ryan Nielsen
+Do you think that's how people should learn it? Basically, learn by doing mentality? It strikes
+me that there's only so much you can get out of maybe a class you take on wealth management.
+Investing in wealth management really feels like it's something that has to be
+practiced. Also, you have to learn through your mistakes over the years.
+Nick Medjuli Yeah, exactly. With investing in particular,
+the good thing is we've had some of these markets. We had 2020, we had 2022, these markets that were
+down years. Seeing how you reacted during those periods is going to be very helpful for how you
+might react in the future, et cetera. Ryan Nielsen
+This is why I actually think that we have a crypto audience here, too. I actually think that
+crypto offers a rare opportunity for these lessons to come at you at about 3 to 5X speed
+versus the normal market because there's such insane volatility. You can make mistakes very
+quickly within the crypto asset class, that's for sure. Let's talk about the wealth ladder
+concept. I want to maybe split this conversation into two pieces. This is a really simple mental
+model for understanding personal finance. We've actually got it on the screen. I want you to help
+describe, to unlock this mental model for the bankless audience, and then we can talk a little
+bit more about what we can actually do with this mental model once we have it unlocked.
+But maybe you could take us from the top. What is the wealth ladder? What are we looking at right
+now? Nick Medjuli
+The wealth ladder is this idea that your financial strategy should change over time. That's the
+overarching message. But within that, there are six distinct wealth levels, which are based on
+your net worth. That's all your assets minus all your liabilities. You can think of everything you
+own, cash, crypto, cars, stock, money in your bank account, minus any mortgage debt, credit card debt,
+student loans, etc. You net those out and hopefully you have a large positive number. That's the
+net worth. Once you have your net worth, you're in one of the six wealth levels. Level one is less
+than $10,000 in wealth. Level two is $10,000 to $100,000. Level three is $100,000 to $1 million.
+Level four is $1 million to $10 million. Level five is $10 million to $100 million. Level six
+is over $100 million. The nice thing about this wealth level framework is that you just have to
+memorize one of the levels and you can just back out the rest by either dividing by 10 or multiplying
+by 10. I always say memorize level three, which is $100,000 to $1 million, because that's the
+middle class in the United States. About 40% of US households are in that wealth level across the
+entire US. If you just remember, hey, that's level three, then you can say, okay, level two is divided
+by 10, so it's $10,000 to $100,000. Then level four is $1 million to $10 million. From that,
+you have an idea of, hey, these are different wealth levels. These represent generally pretty
+large lifestyle changes and they also represent different economic classes in America. 20% of
+households are in level one. 20% roughly are in level two. As I just said, there's 40% in level
+three. You have about 18% of households in level four. That's been a big change over recent years,
+so there's more millionaires than ever. Then the top 2% are in level five and six. Most of that's
+going to be in level five. There's only 11,000 households in level six in the United States,
+which is over $100 million. It's a very extreme amount of wealth.
+Okay, so we have a 10K, maybe that's just starting out. Then we have $100,000,
+which is a threshold. That's stage two. Then we have becoming a millionaire, essentially,
+which feels like a big milestone for a lot of people when it comes to wealth. Then we have
+becoming a deca millionaire, so that's $10 million above. Then we have centimillionaire,
+okay? It seems to kind of, obviously, it thins out as you get to those higher rungs of the latter,
+but these are the six rungs of the latter here. Why are we doing 10X scales here? Why are we going
+from 10K to 100K, 100K to a million? Why is this logarithmic? I think because a lot of the data
+suggests that these are the amount of wealth changes you need to see, a lifestyle change to
+see an increase in happiness. There's a lot of data that shows this. It's not just happiness
+increases linearly with wealth, but it's like log wealth. For example, if someone had $0 and you
+gave them 10,000, they would probably be pretty happy. Oh my gosh, I can breathe easy. I don't
+have stress. If I give $10,000 to someone with a million bucks, I promise you they are not going
+to have the same elation, right? Even though $10,000 is $10,000, right? But it's just not going
+to move the needle for much. I bet the person with a million bucks would still be happy and very
+thankful, but they won't feel the same elation and joy. Oh my gosh, my life feels changed as
+someone that goes from zero to 10,000. Everyone knows this intrinsically. As you get more money,
+it becomes less useful and less impactful on your life. Going from $4 million to $6 million
+is less impactful than going from zero to $1 million. Even though $4 to $6 million is a $2
+million gain, you're not going to feel that different compared to going from zero to a million.
+I think once you start realizing that, you can come up with a framework like this. That's where
+the framework was derived from. In particular, what you're showing here in this visual,
+I came up with a spin because this is the wealth ladder overall. Based on the wealth
+ladder, you can make different spending decisions, income decisions, investment decisions, et cetera.
+That's what I cover in the book. But what you're showing here is the spending piece a little bit,
+which is like, hey, as you move up the wealth ladder, certain spending categories don't matter
+as much. By the time you're in level two, you don't have to look at what's the price of my eggs at a
+grocery store. You're like, oh, if I want to get the cage-free eggs, I just get the cage-free eggs.
+By the time you get to 100,000, you start to go toward a million deeper into level three.
+You don't really have to look at prices at a restaurant anymore. You're like, oh, I want
+the salmon for $35 instead of a burger for $25. By the way, I'm quoting New York prices for the
+record. That might seem crazy, but that's very normal pricing in New York, 25 bucks for a burger.
+Once you're in level four, which is one to 10 million, that's where you can start saying,
+hey, I'm going to buy a slightly nicer seat on the airplane. Maybe I'm going to get more leg room or
+emergency exit row. Eventually, as you get deeper into level four, you can start going first class
+and you can stay in nicer hotels, et cetera. That's the idea here with this visual is as you
+move through the levels, there's different levels of spending freedom, as I call them.
+I have a mathematical formula that describes this a little bit more. This is just a simplification
+of that here. It's going to be in the book in a different way.
+I like that. It's very useful to think. Let's just maybe go over this. Stage one is nothing,
+right? We're really starting at kind of rung two. Paycheck to paycheck is really rung one.
+Rung two is $10,000. That's when grocery prices start to matter a little bit less. You're not
+feeling as much of that squeeze every time you buy something, price of eggs, as you mentioned,
+at the grocery store. The next rung, $100,000, that's when restaurant prices start to matter
+less. You could just say, yeah, we go up to restaurant once a week, a couple of times a week,
+whatever. You're not feeling the impact of that. It's not like a major decision for you.
+Then you start to get to millionaire status and then vacation prices start to matter a lot less.
+For if you're $100,000 maybe in terms of net worth, then you have to think very carefully
+before you say you travel somewhere else or the country or what your expenses look like on that
+side. Millionaires don't worry about that so much. They get to $10 million and home prices
+even matter, start to matter less. They get to centimillionaire status and it's like,
+what are prices? Nothing really matters. That's how it scales up and it scales up in a log type
+way. I'm interested too that you draw this as kind of a step function. Is it really a step function
+or is there some smoothness to the line here? For example, if I have net worth of $90,000,
+is it really that much different from $100,000? No, it's not. Of course, this is a step function
+to create the ladder effect and kind of create the wealth ladder as a visual, but
+it's not like the moment you go over $100,000, your life is transformed. Of course,
+that's not true. I think everyone knows that logically. I think it's just a way of thinking
+about it in more of a step function. There's more of an idea of, hey, there is a big change
+that happens in a certain spot. I think by doing it by orders of 10, it's easier to memorize by
+doing this log-based. I don't even say the word logarithm in the entire book. A lot of this is
+marketing. Even when people say, oh, the rungs of the wealth ladder, I say no levels, but there's
+no levels on the ladder. I agree, but the word rung just doesn't sound as good and people don't
+realize that. My first book was called Dollar Cost Averaging. It wouldn't have sold as well
+as when it's called Just Keep Buying. People don't realize that and I'm not trying to hate on anyone
+who says rung. That's fine if you want to call it that, but I say levels only because people say,
+yeah, I'm in level three, I'm in level four. It sounds weird when you just say rung one and rung
+two or whatever. Going back to the point here on the pricing, the whole idea behind this,
+and there is a logic, it's what is the amount of money you could spend that's trivial? What's
+a trivial amount of money? Where I actually got this from, Jay-Z had this lyric. I'm not going
+to repeat the exact lyric. I'm just going to paraphrase, but he says, what's 50 grand to
+someone like me? Can you please remind me? You've probably all heard the song before, right? Basically,
+at the time, his net worth was around 450 million. Let's just say 500 million to be safe.
+50 grand to him was 0.01% of his net worth. It was one 10,000th of his net worth. I came up with
+this rule called the 0.01% rule. If you take your net worth, you divide by 10,000 and that's how
+much money you can spend trivially. It's a small amount of money for you. There's actually an
+assumption I've used to go beyond this, which is like, let's just assume very conservatively
+that your wealth is generating 0.01% per day. If you do that 365 days a year, that's about
+3.7% per year. That is a conservative return. That's treasuries basically. Yeah, everyone's
+like treasuries. That's basically what it is. It's like, let's just assume no matter what,
+your wealth's going to produce that, right? If we assume that's true, then on average,
+you can spend 0.01% of your wealth every single day and your wealth would stay stagnant, right?
+All else equal, assuming you have no other spending or anything else. I like using that
+0.01% as your marginal spend. Obviously, you have income coming in, you have spending and all that,
+but it's that marginal decision that matters. No one is in level two and is like, should I
+get a Maserati? No, it's like you're in level two and you're like, do I get a Toyota Camry or
+a Toyota Corolla, right? You're making these marginal decisions, right? You're at the grocery
+store and you're like, do I get the cage-free eggs or the standard eggs, et cetera. We're all making
+marginal decisions based on our income and our wealth and all these things. So I'm saying,
+let's use wealth because I think it's a better proxy and it also allows for lifestyle creep.
+I think that's the big problem that no one's been able to solve in personal finance is like,
+people want to have some lifestyle creep, but they don't want to go overboard. So what's a
+good way of balancing that? And I think this is a good balance. It's like, hey, once I'm in level
+two, now I can kind of have some lifestyle creep at the grocery store. Once I'm in level three,
+I can start to creep at restaurants, et cetera. And that's kind of the thinking behind all of this
+is to allow for this kind of a little bit of spending freedom, but only after you built the
+wealth. So it's like, hey, you've shown financial discipline. Now you get to have that freedom to
+spend more. I think it's better to do that than just be like, oh, well, you've got to raise
+of 50 grand. So now you can spend 50 grand more. I don't think that's the way to do it. Or even
+saying, oh, you can't spend anything. And so I'm trying to find this balance. And I think wealth
+is the way to do that, not income. Okay. So that is the 0.01% spend rule that you talk
+about in your book, what you just defined. Can we apply that math in a few places,
+just to see if it mentally checks out? Yeah, of course.
+If I'm at level two, 0.1% at level two, which is $10,000, what are you saying here?
+That's $1. So you just divide by 10,000. So if level two is $10,000 to $100,000,
+that means your marginal spend per day is $1 to $10, depending on where you're in there. If
+you're a 50,000, it's five bucks a day. Okay. So every, every $1 feels kind of like a lot to me,
+right? So I'm like, I'm like looking at coupons. I'm looking at discounts, that kind of thing
+at that, that second run. Is that right? Yeah. Well, so I would say $1 is not a lot to you
+anymore. If you're below 10,000, I would say it is, but once you get to $10,001, not a lot.
+By the time you get to $100,000, $10 isn't a lot. Basically I'm saying that is the amount that I'm
+considered trivial. If it's above that amount. I mean, of course we're now cutting hairs here
+is $1 or one cent to, you know what I'm saying? I'm not trying to get there, but
+these are general. Yeah, there's a rule of thumb. So it's like in general. So for example,
+if you're, if you hit a million dollars in your portfolio, I would say $100 is trivial to you.
+That's what I would say. Cause you take a million divide by 10,000, that's a hundred, right?
+So that's my argument is what take your net worth divide by 10,000. That's the number of
+daily spend that is trivial to you, right? If you drop daily spend, I see daily. And so I'm
+saying daily on just like this, like marginal daily additional spend. Cause obviously like
+you have rent, you have food, you have to buy and all that stuff. But it's like,
+you're making spending decisions on the margin. No one is going out and just redoing their spending
+every day. It's like, you have kind of general spending decisions you've already made based on
+your income. It's that marginal decision. Oh, can I buy this thing? Can I buy my latte? Well,
+my argument is let's, why don't we use this rule and figure that out? That's kind of a better way
+of doing it. Okay. So going up the ladder gives you essentially some spending freedom for larger
+and larger purchases, but they're also reined in, right? You don't have to go crazy. You can
+observe the 0.01% rule and basically, you know, like I guess quantify how big of a spending
+purchase it is to you individually based on this. Why are we doing wealth instead of income here?
+Cause income's fickle. Like in any, like people get raises all the time and then they get laid
+off. And it's like going to zero is, imagine if you're going out and signing up for things,
+I know for subscriptions, all these other things. And then it's like, Oh, my income goes to zero.
+That income's far more variable than wealth is unfortunately. And yeah, wealth can fluctuate.
+Obviously it will, it depends how your wealth's invested. If you're invested a hundred percent
+crypto, I bet your wealth's a little bit more, a little bit more variable, a little bit more
+volatile than your income is. I think that's fair. But for most people in the United States,
+based on their general allocations, wealth is far more stable than income is, right?
+Cause a lot of people own primary residents, they have bonds, they have stocks, they have
+all these other things that usually as volatile stocks are over long periods of time, they're not
+as bad, right? And so there can go through periods of high volatility, but in general,
+there's some staying power there. So I think the idea here is like income is fickle. You shouldn't
+spend based on your income and anyone who spends based on their income, they usually are not in a
+great position in the long-term thing about an athlete. Like I'm making 5 million a year. Why
+can't I spend, you know, after tax, let's say they take on 2.5, why can't I spend, you know,
+2 million? You know, you could, I am agreeing you could, you're still saving 500K a year, but
+let's say you get injured in year two. Now you saved a million bucks. That's great. That's
+better than most Americans are going to do it. But if you can't get another job after that,
+you're in a tough spot now, right? And well, it's actually going to be worse because you're
+spending 2 million a year to cut your spending dramatically. You're only going to have half a
+year of spending saved, you know, by the time you lose your income. So I think income is not the way
+to do this. I think you have to, you know, the marginal decision is spend on wealth. Of course,
+income matters. Everyone spends based on income. That's true. But when you're thinking about like,
+can I splurge? Can I kind of do a little bit more? Do that based on wealth.
+So this, this principle kind of in viewing it like this keeps kind of that lifestyle
+inflation in check, particularly when you're looking at in terms of wealth rather than,
+rather than income. There's another element to this chart that's actually not in here,
+right? So we've got the different levels of wealth based on these kind of numbers,
+you know, like net worth numbers. But what about like age, how old someone is, or what about time
+as a variable here? Because you know, the concept of like sort of when you're in your 20s, you're
+sort of a, you know, a time billionaire concept because you have, you know, billions of seconds
+left to live. I mean, if it, if it takes until you're, let's say, I don't know, in your, in
+your late 70s to get to millionaire status, that seems to be kind of a factor as you know, in terms
+of thinking about your, your wealth ladder and planning your wealth. How does, how does time come
+in as a variable to this mental model? So time definitely impacts wealth accumulation.
+There's no debate there. If you just look at like the median age in each level, it just goes up
+over time because it generally takes time to earn money, save money, build a business,
+et cetera, to build wealth. I think the, the time element is actually very interesting. So I don't
+think it's as strong on the spending side as you might think. For example, let's say I got to
+level four at age 80, right? Now let's assume I have 10 years left. Of course, that's a, you know,
+who knows how long, you know, what's the actual average, but as an, as an 80 year old male,
+you probably don't even have 10 years left. So according to the actual tables, five million bucks,
+I probably have even more spending freedom than someone who's 60 with a million, because I probably
+I have less time left. So I could spend more in theory. So as much as the person who's 20 years
+old with a million dollars, if they never work again, they don't have that much vacation freedom
+on the flip side. Person who's 80 with a million dollars actually has even more vacation freedom
+because they don't have as much time where they have to support themselves. So it's really about
+your goals and your liabilities. Like who do I have to support? How much money do I want to leave
+behind? There's a lot more to this, but I think the time element isn't as important in terms of
+the spending piece, right? If you're younger and you have more, that's great. I think in general,
+that shouldn't matter as much though. I think that the thing that matters more though is how is your
+net worth comprised. So on this chart, it says liquid net worth. That is something I bring up.
+So in general, in the wealth ladder, I, everything I do is based on overall net worth, but I think
+when it comes to spending, you have to kind of use liquid net worth because you could be like,
+I have a home that's worth $300,000 and I have, you know, five grand in my bank account. Does that
+mean I have like really deep restaurant freedom? I would say no. I mean, you know, that you have
+the net worth to be in level three, but you can't access that equity without a key lock or something
+and like, you know, home equity line of credit or something like that. So I would say the conservative
+thing to do is spend based on your liquid net worth. So take out any sort of home equity and
+then take out, you can even, if you want to, you can take our retirement accounts. Some people do,
+some don't. There's debates to be had about that because retirement accounts are basically
+like future wealth. The numbers you implied earlier, it can give us some of the stats again
+at these different stages. So what percentage of the U S population is say a hundred thousand
+versus a million versus 10 million versus a hundred million again? Yeah. So 20% is in level one.
+That's less than 10,000. These are us households by the way. Right. And these are approximated.
+The exact numbers are in the book. I just want to make it easy to memorize. So 20% are in level two.
+That's 10,000 to a hundred thousand. 40% are in level three. That's 100,000 to a million. That's
+basically like your middle class in the United States. 18% are in level four. That's 1 million
+to 10 million. That's what I would call the upper middle class. Obviously depends where you live.
+I think if you have 8 million bucks in your, you know, in a low cost of living area, you're
+definitely upper class, but in a place like New York, I would say that's upper middle class still.
+And then 10 million to a hundred million, that's going to be like, let's just say 1.9%.
+And then over a hundred million is a 0.1%. It's actually much lower than that. But
+I just say the top 2% is level five and six. And this is going to skew older as well. Right. So
+of course. Yeah. Larger quantity of 60 year olds that might be in those
+upper levels rather you're like versus like 20 and 30 year olds. I can actually have
+age data in here. So. Well, I'm trying to think of this podcast probably skews towards 20s,
+late 20s, 30s, some 40s. Apologies to all of our older listeners, but I think that is the bulk
+of this podcast, let's say. So, cause I think people as they're listening to this, Nick,
+what they're obviously doing is they're thinking through, okay, what level am I?
+You know, and so let's give them a sense for that, for their age adjusted.
+So this is on page 150 of the book and it has a table, which has like on the rows,
+it has your household age, right? So it says 20 to 29, 30 to 39, et cetera. And then it has the
+levels and it breaks out the percentage in each one. So for example, let's just go through 20 to
+29 year olds. These are the percentages in the 12th level. So 20 to 29 level one is about 40%. So
+it's two times what the actual overall is. Paycheck to paycheck again. Paycheck to paycheck is
+that's about 40% of people in their twenties are in level one, right? About 36% are in level two.
+Okay. 24% are in level three. That's, that's a hundred thousand to a million. So that's why
+we call them middle-class in the United States. One percent, only one percent are in level four,
+which is 1 million to 10 million. So only 1% of people in their twenties are millionaires.
+A lot of 20 year olds just breathe a sigh of relief and they're saying, oh, thank God I'm
+not behind Nick. Yeah. And then obviously level five and six, it's less than a percent. I don't
+even know what it is. And once again, the data there is not as good at figuring this type of stuff
+out. Especially if you're, once you slice it to be incredibly young and that there's going to be just
+not that many people like Mark Zuckerberg was one of those people. Like there's just not a lot in
+that category. Okay. Now we can do the thirties. And for those in their thirties, level one is
+about 22%. Level two is about 28%. Level three, this is the vast majority at 45%. So that's,
+you know, a hundred thousand to a million middle-class once again, and a level four,
+1 million to 10 million. That's about 5%. So only about 5% of people, even in their thirties,
+make it into level four. So I know we like to, you know, the media proclaims, oh, look at all these
+young rich millionaires and stuff. Those people are very rare. Even in their thirties, only one
+in 20 people in their thirties are in the United States are going to be in level four, right? And
+then obviously we can go up from there, but the data is broken out, you know? And then even by the
+time you get to your sixties, you know, in level four, one in four, you know, people in their sixties
+are in level four, but that's it. You had time to save money, build wealth, you know, all that stuff.
+HOFFMAN Is what you just quoted, is all that liquid net worth or is that also?
+NICHOLAS No, this is overall net worth. This is not liquid. I'm sorry. This is overall net worth.
+HOFFMAN So that includes the house as well.
+NICHOLAS The house, retirement account, everything, your whole net worth.
+HOFFMAN This implies, of course, that it gets, each level gets harder as you go. I mean,
+there's definitely a thinning out type of effect. I think, I feel like we know the reasons why it
+gets harder, but there are also some reasons why it could kind of get easier, which is like,
+you know, the eighth wonder of the world compound returns, of course, where if you have
+a lot of wealth, it's easier to compound those gains and trade a lot of wealth. But just generally,
+is that the case that people should expect that each of these levels will get exponentially
+harder, maybe a 10X harder, maybe not quite that much, but more difficult?
+NICHOLAS It depends. I mean, it really depends on where you start your trajectory, everything. Like,
+most people even, you know, let's say you graduate from college, had a degree or something.
+I would say you're probably not in level one unless you really grew up like very poor. Most
+of you probably through family and network and stuff, you're kind of in level two, even though
+your net worth isn't above 10K, but you have intangibles that I would value it around that
+amount. I would say I was never in level one, even though I didn't grow up with much money.
+My parents declared bankruptcy twice before I was 18, but because of other family and other people
+that had assets and stuff, I don't think I was ever close to being on the streets or something
+like that. So it's really, remember, it's a gray area, but I think thinking of it in this way is
+very helpful. So in terms of like, well, what's the hardest level to jump in or out of? I don't
+know the exact answer. I'm pretty confident though that it's, you know, level four going to level
+five is basically, and I don't want to say impossible, but the tactics to get out of level
+four and into level five are very different than the tactics you use to get into level four.
+Right. And so if I had to pick like which one's the hardest to break out of, I would say that one.
+I don't have a ton of data on this. I just have like the switching matrix of like, okay. And this,
+once again, this isn't chapter 10 in the book. It's like, Hey, let's say you started in level
+one. What's the percentage you're going to be in level, what percentage of households were in level
+one after 10 years or after level two, after 10 years or level three, right?
+And so you can kind of see the switching matrix. And then I do it again after 20 years. So I'm
+trying to show over long periods of time, what's the probability of households changing wealth
+levels over time. And this is based on some data from the university of Michigan called the panel
+study of income dynamics. And they followed the same households over time. So a lot of the wealth
+data is just snapshots over time of the entire, you know, American household population. This was
+the same household. So we could actually see when people built wealth, kind of what differences they
+had, et cetera. And then I put a lot of that into the book. So this is part of the benefit. Maybe
+we're starting to get to some of the application of the wealth ladder as a mental model. I think we
+have the basis of the mental model, but the application of it is you can chart yourself
+on the wealth ladder somewhere in each of these levels. And then there's a different strategy
+for each level to get to the next level, right? At level one, you're not going to use the same
+strategies as, you know, going from level three to four. So can you talk about maybe some of these
+levels individually? Because people, by now in the conversation, I think they've placed themselves.
+They're probably like, okay, I see it. I'm level two right now. I'm working to get to level three.
+You know, maybe we could talk about some of those levels individually and what you advise
+as to the strategies of how people, you know, kind of climb from one level to another. Maybe we should
+start with, let's just start with level one. If you're doing paycheck to paycheck, I don't know
+what portion of the bankless listeners are there. But, you know, what should you do?
+I think the most important thing in level one is establishing some form of safety. And that can be
+and that can be financial emergency fund. People have probably heard that before.
+It can also be non-financial. It's like, what relationships do you have that you can rely on
+if you got into a tough spot financially? And the reason I bring this up, every level of the
+wealth ladder, something is being amplified. And you don't know what it is, but in level one,
+it's bad luck. And what do I mean by that? Interesting. Let's say you have a car,
+your tire blows out. If you're in level three or four, that's an annoyance. Oh crap, my tire went
+out. I have to call AAA or have to do this thing. I got to go take it to the shop. Whatever it is,
+you got to just do this annoying thing. You have the money, you're going to get it fixed. Obviously
+it's not going to really impact your life. It's just going to impact you that day.
+Someone in level one, if that happens and they don't have money, they don't have credit,
+they don't have any way of fixing that. They may not get to work. If they don't get to work,
+they could get fired. If they get fired, they can go in a credit card debt, right? You can just see
+how a simple annoyance for someone in let's say level three or four can be a massive, you know,
+wreck their life for months. Yeah, it could be if they could get into a financial tailspin. And
+if you look at the data on like people that get into like, you know, financial distress events,
+delinquencies, bankruptcy, et cetera, you know, 50% of those events are experienced by just 10%
+of the population. So it's a very small percentage of people that get caught in these traps and they
+just never get out. Now, of course, some of that's behavioral. They're just, they just make bad
+decisions. They never make good decisions. That's some people, but I believe there's a good portion
+of the population in that sector that just, they had, they got unlucky once and then they just fell
+into a pit and it was, it was really, really difficult to get out. So the goal is to not fall
+into that pit in the first place. And how do we do that? We try and build some sort of redundancy
+safety in our personal lives, with relationships, with financial, whatever, just to get to level
+two. Cause by the time you're in level two, you can breathe a little bit easier having just a,
+you hear about what happened with during COVID, when people got these COVID checks and, you know,
+I saw so much stuff on Twitter and interviewing people and articles of like, Oh my gosh, I've
+never like had to worry about where my next meal's coming from. And, you know, anymore, I don't have
+to do that anymore. Cause I got this check and right. And that little feeling of relief, it's,
+by the time you get to five, 10 grand, you're going to be having even more of that. And you can kind
+of chill out of it. And so I think that's incredibly important in level one. That's got to feel like a
+great jump going from level one to level two for the first time for a lot of folks.
+It's the most important jump. It's the most important jump without a doubt, because that's
+where you can say, Hey, I don't need to, my basic safety. You know, you think about Maslow's hierarchy
+of needs, your basic safety is kind of taken care of. That doesn't mean you're a step for life. That
+doesn't, there's a whole list of other financial woes you can have, but you know, where am I going
+to sleep and where am I going to eat? Those can be covered at with, with 10 grand.
+All right. Let's get to level two. So someone who's in level two somewhere, somewhere between
+10 K and a hundred K, what's your best advice for them? So I think there's two types of people
+in level two. There's people who are on their way to like level three and four, and they just need
+time. They're just there. They got the education. There may be very, these are usually just young
+people. Maybe they graduated from university. They got a good job and they're like, they just
+started saving. And their only issue is they just need time. Right. And they're doing what you advise.
+They've already done everything. Yeah. They're buying, they're investing in assets. Great.
+They're just, they just need time. Right. If you're like 22, like I'm only 22. I don't have
+a hundred thousand dollars. Like just to give it time. If you're doing the things, if you have a
+good income, you're saving money, you're investing, just give it time. Right. Then there's another
+group who I would say their income isn't as high. Maybe they're a little bit older. They've been
+saving a little bit here and there. Maybe they have a 401k, you know, maybe they own a home and
+they're just, you know, and they've been paying into, it's not a super expensive home. And their
+issue is probably their income's not high enough. And my guess is that's because they're in a job
+that doesn't pay as well. And that might be because they don't have an education to get a higher paying
+job, or they don't have the skills to do other types of jobs that pay more. So everything I
+focus on a level two is like education, but ultimately to get to income. Right. So it's like
+whatever skills you can build and whether that's, you know, you can go to a trade school, you can do
+coding, there's all these different skills that can have benefits, especially if you're in level
+two and you don't have that background that I think can pay off in the future. And I think that's
+what I focus on level two is like education, get skills, like, because once you can change that
+trajectory, that's how, you know, you got to put a wedge between your income and your spending.
+And I don't think you should keep putting downward pressure on your spending because you can only cut
+so much. So the real solution is just raise your income. Of course, that's not easy. That takes
+years of time, practice, dedication, et cetera, to build the skills to get there.
+So level two to three is really about investing yourself.
+I would say education for, for those people that just don't need the time. I think there's people
+like, for example, I got into level, I was, I would say when I graduated college, I was in level two.
+I did not have over 10, I had under $10,000, but given my education, everything on my balance sheet,
+I would say I was, I had over $10,000 in wealth and I just needed time to get into level three,
+et cetera. And so I think that was my thinking at the time. And I think that's still accurate.
+So I think a lot of people in level two, that's, that's their situation for those that are like,
+I didn't get an education. I don't necessarily have amazing skills. You got to find, make that
+gap so that you can get on the right path. So you're going to end up being in level three,
+level four, and make sure you're doing the good investment practices, which is like being patient
+dollar cost averaging into high quality assets. Like that, that just goes without saying,
+does it not? Yeah. I mean, it's true in level two, but it's, it's even more true in level three.
+I guess this is a good segue to get into that. Yeah. Three to four. Yeah. So the big, and every,
+every chapter, every level has a strategy, right? And so in, in, in level three, that is just keep
+buying, which actually was, you know, the name of my first book, but I fundamentally believe that is
+the strategy for people like, Hey, I'm in that kind of a hundred K to a million range. What do I do to
+get to a one to 10 million? Well, you got to, you know, the continual purchase of a diverse set of
+income producing assets. That is the mantra from just keep buying. And it's also included in the
+wealth ladder. And I believe that is the way to do it. And there's three pieces of that. The continual
+purchase means you're, you know, just keep buying. You're buying over time of a diverse set. I really
+believe in diversification. I'm sorry, diversification deeply. And I mean that across like so many things,
+like I own crypto. I'm not a big crypto investor. I've never been in the space deeply, but I've owned
+crypto and I'm going to continue to hold it. And it's a small percentage of my allocation. It's only
+been about 2% of my net worth, but it's been about 2% of my net worth since 2018. And so
+luckily I haven't actually had to buy too much more because my wealth's increasing, but the crypto
+prices keep increasing as much. So I've only had to, I've had to sell once because it went too high.
+And so I had to sell it a little to kind of rebalance, but it's staying about 2%. So even
+as you know, Bitcoin's cranking and you know, my wealth is increasing. So it's staying in my kind
+of right range. And if it goes too low, I will buy more of it. If it goes too high, I sell it.
+And I'm very disciplined. I follow those rules. Yes, would it have been better if I put every
+dollar I own into Bitcoin? Of course, but I don't think I would have been able to hold through all
+the madness that happened. And I think that's more important in terms of wealth building than just
+like trying to maximize a number. So that's the next thing, right? Diversification. And then of
+income producing assets. So as I said, for the most part, I own income producing assets at stocks,
+bonds, you know, real estate, you know, farmland, all those different types of things are, you know,
+small business. I've done some small private investments. And so in general, that's kind of
+where I focus my time and energy in my investment portfolio. So the non-income producing is about
+5%. But it can be more. I mean, I don't, I don't know what the right range is. I say non-income
+producing like gold, wine, art, crypto, et cetera, can be up to 15%. But it's really up to you. Some
+people have a lot more in crypto and that's fine. But the volatility for me is a bit much.
+Where do people screw up from three to four? Like what are the common pitfalls when they're
+going from a hundred thousand to a million? I think the thing that there's two things that
+can prevent them from getting to a million. And I think one of those is they don't have a high
+enough income. Like if they get into level three, like a little bit later, like late in their career,
+and if their income just isn't high enough, it's just, there's not enough momentum there,
+even with investing to get out of level three. So I think income's one piece of it. But the
+other thing I see is generally in the data, when you look at the households that start in level three
+and get to level four and compare them to the households that start in level three and stay
+in level three after a decade, right? So we're comparing three to four versus three to three
+after 10 years. There's two differences. Those that got to four had a higher starting income.
+So that's one of them. That's important. But the other thing is those that stayed in level three
+spent almost as much money as the people that made it to level four. So it's like,
+wow, they aren't making as much as the people that eventually make it to four at the beginning
+of the period, but they're spending almost as much. So it really is that lifestyle inflation.
+Keeping up with the Joneses. And I think it's mostly, if I'm being honest, it's mostly showing
+up in real estate because that's the biggest line item for most people. It's like you're paying to
+be in a certain area or you really have a high mortgage or something and that's causing it.
+And if you actually look at how those in level three, like what was their asset breakdown,
+the vast majority of their wealth is going to be home equity. It's going to be in their home.
+And so this is covered in chapter three of the book. So yeah, so among those that are actually
+homeowners in level three, over 60% of their assets is in their home. So you took their entire balance
+sheet, 60%. And in level two, it's like 70%. So the first three levels, those people that actually
+own homes, it's the vast majority of their assets. After that, once you go into level four and beyond,
+it drops quite a bit because those people tend to have a lot of other income producing assets that
+actually produce money for them versus a home which doesn't necessarily kick off income.
+Anthony Comegna I want to talk about four to five next,
+which is one million to a decade millionaire status. But before, maybe it's worth pausing
+because the bulk of the audience listening will probably find themselves in the first three levels
+that we mentioned quite obviously. I think maybe I have a question for you about how this looks now
+versus how it looked, say 30, 40 years ago. So there's generally somebody growing up in their
+20s or 30s. I'm not sure. How old are you, Nick? So you're 35. Okay. So you're a millennial, right?
+So things have felt like they've gotten harder for younger generations. And maybe some of the
+millennials have kind of like, I would say on the other side of this, they've made it, maybe they had
+a house and they've enjoyed asset price and, you know, inflation over the last 10 years or so.
+They've done what you've advised and they've invested in capital assets and they're doing
+quite well on them. They've got crypto, then they've done quite well on that.
+But there are a lot of people who feel like they're growing up in a world where just
+asset prices have gotten away from them. I think where we see this most is home prices.
+How expensive is it for you just to get a home if you're in your 20s and you're just starting
+up? I guess the meta question here is, has this wealth ladder gotten harder for newer generations?
+At some level, this is kind of a ladder of the American dream, isn't it? And the American
+dream for a lot of people does feel like it's out of sight. Do you see that as you're looking
+at the data and you're advising folks on personal finance? So it's definitely gotten harder on the
+housing piece. There's no debate there. I think when we talk about the American dream,
+I think the American dream has also changed over time. I think it's not the same American
+dream. For example, houses are so much larger than they used to be. If you look at price per
+square foot, that has gone up since COVID, but, you know, before COVID, like that was basically
+flat for like over 20 years. Price per square foot had not changed. It was only since COVID
+that it's actually started to go up. And so what that means is people are like, oh, is the American
+dream still around? It's like, we're just building bigger and bigger houses and people have to pay
+the same price per square foot to get the, you know, inflation adjusted price per square foot
+to get a bigger and bigger house. Where that came from, I don't know, when did the American dream
+become a much bigger home? I don't know how that happened, but that started to happen. So
+we're not really comparing apples and apples. The other thing too is like so many people travel
+more. Like when I talked to my parents, like, oh, what did you guys do when you were growing up?
+Did you guys like fly to Europe and go on airplanes? It's like not even about money. It's like
+so many people didn't travel and now there's so many more people traveling and people that I would
+say are not necessarily super wealthy because they prioritize those things more. So I know the housing
+market is messed up, but we have a different, we're buying a different basket of goods today
+than we used to buy, right? I think healthcare is even worse than the housing market, but that's a
+whole separate discussion. So when I'm thinking about this and like you're saying, oh, is it harder
+or easier? It's definitely harder and it's harder for a few reasons. It's just, there's more
+competition out there today. Let's go back to 1950. Let's make it super easy. Back then,
+and of course there's a lot of discrimination and things related to this in the United States,
+but if you were a man and it was 1950, you only had to compete with other American men and generally
+white men. I mean, of course there was a labor market for black men as well, but it wasn't
+as equal as it is today or more equal, right? And we didn't have the Civil Rights Act,
+all that type of stuff. So think about your competition then. And then women enter the
+workforce. So now you don't just got to compete against half the population and have maybe a
+slight advantage over one group of people. Now you have to compete with all these other people.
+And that was just the US. And so it got tougher then. And then guess what? Now we have globalization.
+So now you're not just competing against people in the US and just men and just white men or
+whatever. Now you're competing against people all over the world to do your job. And so people are
+wondering like, well, why are asset prices going up? Why is all this happening? Like there's money
+coming in from all over the place. There's so many apartments in New York City that are bought out by
+people in Asia and that just buy the apartment. They don't even live there. And they have it as
+like another, a safe haven for their wealth, right? They don't want to just have it all like in China
+or they don't want to all have it in Japan or wherever. And so when you start thinking about
+this in that way, you're like, oh, wow, it does make sense why the competition is getting harder
+because there are more competitors than we used to have. And that is an unfortunate truth, but it is
+the truth, right? There is money coming in from other places that is bidding up asset prices
+across the board. And that is causing some of this. It's not the whole explanation, but
+if you think about it logically, it's like, yeah, wouldn't I rather just compete with fewer people?
+Yes, I would love to live like that, but that's not the world we live in.
+So you are saying, Nick, it is harder. You acknowledge that, but you also seem pretty
+optimistic that it's possible. And I guess you believe it's possible. And this is part of the
+reason why you've written this book. And I want you to talk to maybe a certain segment of the
+audience who just looks at this and it's just like, yeah, sorry, the game is rigged. I'm not
+even going to bother playing this whole game. It's just not worth it. Do you feel like people
+have a fighting shot at getting to these different levels if they basically do what you're prescribing?
+It depends which level. I think five and six is really tough. What is a fighting shot? It's very
+difficult to get to five and six. So depending on how you define fighting shot, no. But I do believe
+that most people, if they work at it, they can get to level three. And some, if you get it early
+enough, you could get to level four. I fundamentally believe that. I don't think everyone's going to get
+into level four. I think that's tougher. It also depends. Once again, it depends where you start,
+how much... If you start deeply in debt, you kind of don't have a lot of skills and something,
+you're in your late 30s, early 40s. I think it's tough to get out of that hole and then get to
+level four. I think it's doable, but it's really tough. It really depends on your starting
+conditions. That matters a lot too. I don't want to downplay that as well. But yeah, and it also
+depends how much you can work. What are your liabilities? If you have like, oh, I already have
+two kids I have to take care of and I don't have time to do other things, side hustles, whatever,
+then that's going to make it tough. That's going to make it difficult. And there's no way around
+that. I can't say, oh, yes, everyone can be a millionaire and perfect and great. No, there's
+going to be certain restraints on your life possibly. And you have to figure out what are
+you willing to sacrifice? What do you care about? Why do you even want to be a millionaire? I don't
+even... I get why people think why they want to be a millionaire, but why do you want to be a
+millionaire? So I would think through a lot of those things. Ethereum's layer two universe is
+exploding with choices. But if you're looking for the best place to park and move your tokens,
+make your next stop Unichain. First, liquidity. Unichain hosts the most liquid Uniswap V4
+deployment on any layer two, giving you deeper pools for flagship pairs like EthUSDC. More
+liquidity means better prices, less slippage, and smoother swaps, exactly what traders crave. The
+numbers back it up. Unichain leads all layer twos in total value locked for Uniswap V4. And it's not
+just deep, it's fast and fully transparent, purpose-built to be the home base for DeFi and
+cross-chain liquidity. When it comes to costs, Unichain is a no-brainer. Transaction fees come
+in about 95% cheaper than Ethereum mainnet, slashing the price of creating or accessing
+liquidity. Want to stay in the loop on Unichain? Visit Unichain.org or follow at Unichain on X
+for all the updates. Binance is the world's number one crypto exchange. Over 275 million users
+already trust their world-class security. Binance makes starting crypto as simple as it should be,
+whether it's learning about crypto on Binance Academy or browsing hundreds of assets and
+viewing your newly created portfolio in a clear, easy-to-track dashboard, Binance helps you go at
+your own pace. For hardcore traders, Binance Pro opens up industry-leading services for
+trading professionals with fully bespoke trading products, along with a suite of white-gloved
+services for VIP and institutional clients. Need support? 24-7 customer service is on hand
+whenever you need it, and with some of the lowest fees and deepest liquidity in the market,
+it's no surprise why over 275 million users trust Binance for everything crypto.
+Download Binance today and get started in minutes. Binance is not available in certain countries,
+including the United States. Check its terms for more information.
+Ever wonder how industry-leading companies like Coinbase, Metamask, and Phantom Wallet build
+products that always stay ahead of market shifts and new token listings? It's because they all
+use the CoinGecko API, the most reliable and comprehensive crypto data API, backed by a rock
+solid 99.9% uptime SLA. Builders, analysts, and businesses rely on CoinGecko for real-time data
+on 9 million cryptocurrencies across 1,500 exchanges and 200 different networks. It
+goes beyond crypto prices to access liquidity, OHLCV, DEX data, metadata, NFT floor prices,
+and more, enabling your team to build and scale powerful products like wallets, oracles,
+exchanges, AI agents, and DeFi applications without limitations. Onboarding is easy with
+clear documentation and enterprise-grade support that answers you faster than finality. 24-7
+around the clock. Supercharge your product and build with CoinGecko API today. Head to gcko.io
+slash bankless10 and enter code bankless10 for 10% off any plan. CoinGecko API, crypto's most
+trusted and reliable data source. Let's talk about that maybe. Another quick side quest is just like,
+part of what you're saying is it gets somewhat exponentially harder from, you know, like the
+upper rungs versus the lower rungs. There's a question people really have to ask themselves,
+which is like, do I even want to do this? Like is building the wealth and the way I'm building it
+worth missing out on other areas of wealth? You know, so we've talked about this entire episode,
+of course, The Wealth Ladder is based on net worth from a financial perspective.
+We recently had Sahil Bloom on the podcast. He wrote a book called The Five Types of Wealth.
+And it was a fantastic book, really influenced how I think about wealth and net worth. The Wealth
+Ladder here is just one element of wealth. He also talks about relationship and social wealth. He
+talks about time wealth. He talks about your health. All of these things are a more encompassing
+definition of wealth. And so I think there's an element sometimes when people see this chart and
+they're just like, if only I can get from like level two to level three, then I'll be happy
+and I'll have the life I want or three to four. And that every, I guess, step up of the ladder
+feels like it's not maybe fulfilling them in the way that they want to be fulfilled. Maybe you talk
+a little bit about that, right? Because once you start to get to, you know, level three, level four,
+Sahil Bloom calls this like, maybe you have your enough life and your enough life is basically
+sort of a number, some kind of wealth where you can sort of live the life that you want and you're
+using your money, but your money is a tool. It doesn't own you. And so maybe reflect on that
+for a minute, because I think people seriously need to consider where we get into the upper
+levels here, whether they want to proceed or not. Yeah, I think it's a great question. And it's funny
+because Sahil and I, he asked for me to collaborate with him on his book. And so I, there's like a
+chapter in there that's like based on some of my work. And then I used his framework in my books.
+We did like a Jersey swap with Chapters basically. But yeah, I think his approach is correct. You
+have to think about these other types of wealth and like how much they matter and thinking through
+those and does it matter to keep climbing? And that is the big question. Like what are you willing
+to do and sacrifice to move on and give up for what? And what are you doing it for? I think in
+certain cases, it does make sense. I think if you're lower on the wealth ladder and you want more
+freedom, you want more of the ability to choose what you work on, all those types of things,
+I think it does make sense to climb the wealth ladder. The question is where, where do you stop?
+And you're right. Is it level three? Is it level four? It depends where you live, your cost of
+living. What do you care about? What do you value? All these questions I can't answer for you. You
+have to kind of look inside yourself and say, here's the things I really care about. And then
+how do I go to get those? I think understanding yourself is far more important than any of these
+frameworks or any of this stuff, because if you know what you really want, then you can solve,
+right? It's like always solve backwards, figure out the end game and then solve backwards from
+there. That's how I like to live life thinking about, okay, what, well, ideally, what would I
+like to, what would I like my forties to be like fifties, et cetera? Think through that and then
+back out how you might be able to get there. Yeah, I think that's great advice. Maybe another
+way to ask this in the meta question is this is a ladder to where? Like where are we arriving
+on the other side? Is that different for everybody or like for you, what is this ladder about? What's
+on the other side of this? Of course it's different for everybody. It's like, what do you actually
+value? And for mine, it's like, I think about time freedom probably the most. And so I solve a
+full-time nine to five job. I write on the weekends and obviously I wrote a book too.
+So I was like doing that all basically last year. And so I don't have as much time freedom
+as I would like and figuring out how do I build that time freedom eventually and what that's
+going to look like. And it may not even happen for the next years. I mean, you know, I just got
+married and so my wife and I probably start having kids relatively soon. So I know once that happens,
+I'm going to have to move something around in my life. Does that mean I blog less often? Does that
+mean I, you know, I take a different role at my firm? I have no idea, but at some point in the
+future, I'm going to get to a point where I'm like, Hey, I need to move things around to have
+more time for my family and things like that. And so I know that's coming and I'm anticipating that,
+which is why I'm kind of getting ahead of it now. But I think you have to think through what are
+the things you care about and how do you want to optimize those things? So with those caveats aside,
+we left folks at, I think level, level four here. So let's talk to those, those mountain climbers
+who want to go scale Mount Everest and keep going to the top here. So from level four to five,
+this is the difference from a million to 10 million. What does that look like? What's your
+advice for those folks? If you want to go past 10 million AKA level five, you have to completely
+change your strategy. Unlike everything so far in the wealth ladder, like, you know, going from
+level three to level four is usually just like having a higher paying job and just being able
+to save more and invest well. And, you know, you just give it time and that's a lot of it too,
+like time's a piece of it. The difference between, you know, level four and level five is not just
+time. And I can just give you an example. Let's say you're, you have a million dollar portfolio.
+I'm just trying to make it very easy. You just got to level four. It's earning 5% a year inflation
+adjusted. So let's say it could relatively conservative annual return and you're saving
+a hundred thousand dollars a year. Do you know how long it would take you to get to level five
+to 10 million? The answer is 28 years. And that's after you got to a million dollars, right? So like
+you already made it there. You got this money, all this stuff, and still it takes you another three
+decades of grinding and saving a hundred thousand dollars a year, right? So once you start to do the
+math on this, you realize like, Oh my gosh, like there's just like no way I'm going to get there
+by doing this standard, you know, have a good job, save money, invest, you know, in income producing
+assets. It's just not going to happen, right? On an inflation adjusted basis. So how do people do
+it besides like celebrities, athletes, entertainers that, you know, end up getting paid, you know,
+tons of money in these huge contracts, besides those people that get paid a lot for their labor,
+it's basically all entrepreneurship. And so they, they found a business and they sell it for tens of
+millions of dollars, or they started a startup and that thing sells for hundreds of millions
+or even billions of dollars. And so once you net it all out, they end up with over $10 million,
+basically. And so that's basically the only path up. So the question for someone in level four is,
+do you want to go and start a business and go down this road of doing all this crazy stuff
+just to get to over 10 million? Or do you want to say, Hey, maybe I don't need to, I can take my
+foot off the gas and I don't need to really do any of that. And that's where this whole idea of
+coast fire, just like, you know, financial independence retire early. That's the fire
+movement, but coast is like, Hey, I've saved up enough for my retirement. So I won't have to worry
+about that. And I just need a coast until I get there. I have enough assets now where I can,
+if I can just cover my current living, I don't need to save any more money. I just need to cover
+my current expenses all the way until I retire. And my assets that I currently have are going to
+grow enough to a point that by the time I hit retirement, they are enough to sustain me through
+my retirement. So it's a different way of looking at it. And I think there's going to be a lot of
+people who are in level four, who are busting their, their, but let's say to make, make more
+money, save, grind all that crap. And they're going to look at it and say, why am I doing this? Like,
+it doesn't even make an impact anymore. Like I'm going to just do the math as well. A million
+dollars, you're saving a hundred K a year. That's impacting your wealth by 10% a year, right?
+A hundred thousand over a million is 10%. By the time you get to $5 million at 100K is only
+2% of your wealth. It doesn't move the needle anymore. Right. And so you have to decide like,
+why am I doing all of this for this amount of money? When, you know, my, my assets alone
+will probably earn more than I do. So it's like, you get into this spot in level four,
+where there's like a no man's land. And if you actually look at the data, the hardest level to
+break out of over a 20 year period is level four. Most people that are, that get into level four,
+20 years later, they're still there. They do not break out of that level. Cause it's just a
+completely different game to get out of there. And also maybe that's partially by design. Maybe
+some people just decide not to like, I think that's good. They shouldn't. I agree. They shouldn't. I
+think most people rationally should say, Hey, why am I doing all this? It doesn't make sense.
+Well, we're at it like since because once you're at, once you're at four and you're looking at
+five, you're probably got enough for retirement. You're getting pretty close there. What do you
+think about retirement? You think that's a, like an overrated concept or do you like the idea?
+It depends how you define retirement, right? I think if you define retirement is like, Oh,
+I'm just going to be on a beach all day. Some people, most people I think would not enjoy that.
+Some people do love that and they just chill out and they don't care. But I think the good,
+I'd say the vast majority of people need something beyond just consumption. And like,
+you're like, what's your purpose? Right. And I've had people write to me about this when I write
+about fire stuff and they tell me like, you know, I retired early. I did this, but it's like,
+I just feel like I'm just going place to place waiting to die. I'm just partying up with all
+these random people. I'll never see again having a good time, but I'm just like, and it's dark,
+dude. It's dark. Some of the stuff people have told me. And of course that's not every person
+on fire. I don't want to say that. I want to paint a bad brushstroke over the whole movement. I just
+think there are people out there where it's like, what's your purpose? If you don't have that thing
+you're doing, or I know I want to do this thing, it can be really tough. And this has nothing to
+even do with fire. This is just true of retirement in general. It's a lot of people
+that their whole life is their job. They leave and then they have an existential crisis. They
+don't know what to do next. They're like, they're sitting there and they, you know,
+they're watching CNN or Fox news all day. It's like, that's not an ideal retirement for most
+people. And so because of that, I think that's something else to think about. So before, you
+know, what I like to say is, you know, before you know what you want to retire from, make sure you
+know what you want to retire to. Right. And that's the big idea.
+Tanner Iskra Yeah. I think you said it earlier in the podcast where your big thing is like,
+it's time freedom. I mean, the wealth piece is the ability to buy yourself time freedom. And then
+you have the ability to work on whatever you want. You don't have to be at a specific meeting at a
+specific time or show up at a day job. You get to pick and then it's up to you what you decide to
+invest in. But for most people, most of the time, I think you're right. It's not about just like
+going on a beach and, I don't know, living in a permanent state of vacation, right? It's like,
+humans, I mean, we desire like, we need purpose. We need something to strive for. We need to like
+work and have output. So I think a lot of people resonate with that. Let's talk about the, this
+last rung here or level, let's say. This is the 10 million to 100 million. I'm not sure what fraction
+of the bankless audience is game to go try this, but what does it take at the highest levels here?
+So, I mean, to build more wealth, you just have to, if you have a business you're going to sell,
+you got to just sell a bigger business. And the truth though is most people that made it past,
+let's say 100 million, they usually don't make it there on their first business, right? And I
+give plenty of examples in the book, but you can think of, you know, Elon Musk, his first business
+was not PayPal, which that made him a lot of money. He had something before that, right?
+Most people have a business before that they sell, make a little, make some money off,
+and then they use that and their resources there to really go in on the next one. Even like Mark
+Cuban, you know, he sold whatever broadcast.com in like the late nineties during the bubble.
+And then he used that to propel himself up further, right? And so a lot of this is just,
+you know, do you want to keep doing that? And a lot of it's protection. How do you protect your
+wealth? So I think the strategy and the discussion is very different once you're in level five,
+because it's like, what are you trying to do? What's your actual goals? Why are you grinding
+to level six? I mean, and one of the quotes I have in the book is, you know, for some people,
+the most expensive thing they own is their ego. And I fundamentally believe that's true. That's
+especially true in levels five and six, because at some point you're saying, why are you doing this?
+And what's the, you know, and you know, people want to just take money and light it on fire,
+over-concentrate, risk it all for what? It's ego, I believe, at the end of the day.
+Do you think there's an element of like, maybe to quote another 90s rapper, Biggie, more money,
+more problems here? Is it due to these higher levels? Like, is it maybe not? Like, what problems
+come at these higher levels? I mean, you were talking about just thinking about how to secure
+your wealth, maybe worrying about it all the time. And what are the downsides here?
+So that's a piece of his worrying about it. Like, there's tax implications, there's like a state
+planning implications that happen in level five that you don't have to worry about as much in
+level three or four. There's like, you know, interpersonal things are different, right? If
+you just think about like, let's say someone's visiting you for a house party, if they trip and
+fall, like, okay, if you're not that rich, they're probably not going to sue you. Obviously, if they
+need medical care, okay, you help them out with that, whatever. But if they know you're rich, I
+mean, they might take advantage of you, or they may purposefully trip, right? All sorts of things
+that wouldn't be, if people know, if your wealth is publicly known, there's now a target on your
+back for people to abuse that in a way that doesn't happen for people that are just like,
+you know, middle class, upper middle class. And so I think that's something else to think about is
+how does that change, you know, your relationship with other people? Like, let's say if, you know,
+you happen to be single, you're on the dating market, you'll never, it's going to end at the
+back of your mind, you're never going to know does this person actually like me for me or is it for
+my money? And so that changes the dating market. Now, it's very ironic that men are, you know,
+going out there trying to accomplish all these things and become, you know, rich and famous and
+successful and all this. And at the end of the day, that kind of distorts the whole point of dating,
+which is you want to find someone who likes you for you. And you've now made that kind of impossible,
+right? You've made it very difficult to actually, you have to just test people for a long time to
+actually get to know that. So it's ironic that a lot of the things we chase end up harming certain
+parts of our lives in other ways. The trade-off is much harder to live a normal life, I guess,
+is what you're saying. Yeah, exactly. Once you have extreme wealth and as long as it's publicly known
+or it's known, like someone could search it or figure it out. Yeah, no one knows. It's a completely
+different story because then you can be like, oh, this person has no idea that I'm worth, you know,
+$20 million and they're treating me how they would treat anyone, right? I think that that changes
+things. There is a subset of people listening to this episode and people that I met within crypto
+that have actually zoomed up this wealth ladder very quickly and maybe in some cases too quickly.
+Have you run across that? Like what are the concerns about, you know, going from two to
+four, two to five in a hurry? Because that has happened in crypto to a number of people,
+maybe not a great number of people, but certainly generational wealth in this fast-paced asset class
+can happen very quickly and sometimes I feel like people have no idea what to do with it.
+Yeah, I think the big issue is probably concentration and so it's like, you know,
+oh, I bought this random altcoin, it went up 10,000X and now I went, you know, level two,
+level four, let's say, you know, and did you sell, did you diversify your wealth when you're there?
+Maybe some people did, that's great, but a lot of people don't necessarily and if it comes crashing
+down, it's a whole other story, right? I had a friend, a close friend out here in New York,
+he had five of these monkey NFTs through Solana. He had seven of them.
+The board eight club.
+Yeah, no, not the board eight ones, they were called like the monkey one, I don't even know.
+Oh, they were an alt NFT, so this is really down.
+Yeah, they were under Solana, they were under Solana, I think they're under Ethereum,
+so they're on a different chain.
+You knew a true degen.
+Yeah, oh yeah, he got seven of these for 50 bucks each, right, or something like that.
+At one point, they were, I think they were worth, his whole portfolio is worth like 1.2 million.
+After taxes and everything, he ended up getting 90K out of it, right, because it happened so fast.
+He went from like, he was working a minimum wage job, you know, he bought these things,
+then all of a sudden he's got 20, 30 grand, then he's got 50, then he's got, and then overnight,
+it's like, he went from like 100 grand to 500 grand almost overnight, and he's like,
+what's going on here? He sold one of them for like 50, I think, and got some money out,
+then the rest kind of all crashed and only got like another, I think 40 out after tax and
+everything. So it's like, still, that's incredible. He put in 350 bucks and took out 90 grand.
+That's an incredible return, you know, but, and it's hard to know when to sell. It's like,
+it's a very difficult problem, but that's an example of someone who kind of jumped through
+wealth levels. He went from like level one into, I guess, only the level two, but he went pretty
+deep into level two, like basically within, you know, a few months when Solana had his first big
+run. And so I don't have a great solution for that. I think it's like diversification and trying to
+be prudent, but arguably the people that get those types of returns don't follow the behaviors to
+get that. It's almost like a chicken and the egg problem. It's like impossible. Like how can someone
+that loves doing these types of risky things just suddenly learn to be risk-averse? It's just not,
+generally doesn't happen. And so I can tell people, hey, don't do that. But they're like,
+why would I listen to you? You're an idiot. You're the one who takes the safe route to get there.
+You know, I'm like, okay, do what you want then. Hey, you know, you never know. I just worry about
+people that they got all this money. They did it. It's still on, it's still paper games,
+whatever. And then it all comes crashing down. And then what happens next, right? That's,
+that's kind of more, that's, I think the bigger tragedy than like, oh, I missed some upside.
+You know, I sold, for example, I have this famous tweet where I said, I sold half my Bitcoin. This
+was right when it first hit like 52,000. And it was a rebalancing. I was just rebalancing. I know,
+I had no idea what the future Bitcoin was going to do, but I said it and people went nuts and said
+I was an idiot and all this. And right now they look very right, you know? And it's like, hey,
+man, it's over double that. Like I could have held, you know, but I rebalance, I follow my rules and
+that's it. Do you find this as a pitfall that throws people off a lot, which is basically
+being a little too risky with, you know, going these levels or, I mean, and there seems to be
+sort of a plague of like sports betting, for instance, in crypto, this translates to, you know,
+degen meme coin trading, maybe, you know, really low market cap stuff. People get addicted to
+looking at their crypto wallet, let's say, and seeing these massive gains. Of course,
+that can reverse on you, but it almost feels like there are a lot of young people listening that are
+kind of in this trap of more of the get rich quick type of scheme. Is that a pitfall when
+it comes to the wealth ladder? And what do you say to those people?
+I would say definitely is a pitfall, but I understand why they do it. Like if, if you're
+looking at, you know, you're saying, Hey, I don't necessarily have an education. I don't have skills
+on all this. What's the easiest way? It's not a high probability. What's the easiest way to,
+let's say, get to level three or level four. It's to gamble, but I'm not saying that's the
+right way to do it. I think it's the easiest, but it's also doesn't have a high probability of
+hitting it. And so you're most likely, you're just going to end up basically the same or worse off.
+My counter is like, and said all the time you spend doing this stuff, I bet there's something
+out there that you can spend time on. If you do it for a few years, you'll start earning more
+money from that. And if you do it for a really long time, you can start earning even more money
+from that. Right. And so as bad as my, you know, me not being into crypto, and I obviously made the
+wrong choice on Bitcoin, right. With, I had no idea where the price was going to go. I believe
+I've made far more money by not paying attention to it and focusing on the stuff that I enjoy.
+And I like, and writing about finance and trying to help people with their finances and writing
+books, like that's done far more for me in my life and my career than any investment return ever
+would. If I had held that Bitcoin, I would had another, let's say if it's at one 20 today,
+I sold a 52, I'd have another, you know, $60,000 like, okay, you know, for someone in level four,
+60 grand is not a ton of money. I mean, it's, it's nice, but it's not going to change my life.
+If you, if you hand me a check for 60 grand right now, I don't change a single thing about my
+behavior. Right. And that's not because that's because that's what happens as you go higher up
+the wealth ladder, the money matters less and less. And so you're going to hand me a check for
+60 grand. I'll say, Oh, thank you. That's very nice of you, but I'm not going to go and change
+anything about my life. I'm not going to change a single thing about my life. So think about what's
+actually going to change your life and the types of decisions and behaviors on all those and
+getting rich in one crypto coin that can get you there, but are you going to sell at the top? Are
+you going to do it perfectly? I doubt it. Are you going to double down and then lose it? I don't
+know. And these are the types of questions that, that I have with, with people that do this stuff.
+Nick, that's exactly why we're doing these episodes, doing some base level wealth episodes,
+because a lot of people listening in bankless, they came at wealth by route of crypto. And so
+don't have some of these underlying principles that I think are going to be important for them
+moving forward. So thank you so much for writing this book, for presenting this, this mental model.
+It's been incredibly useful. So we appreciate it. Yeah. Thank you for having me on.
+And really quick, when does the book come out and where can folks find it?
+July 22nd. So depending on when this airs, it may already be out. So.
+Amazing. I've got a copy of it myself. Bankless Nation, gotta let you know. Of course,
+none of this has been financial advice. Crypto is risky. You could lose what you put in,
+but we are headed west. This is the frontier. It's not for everyone,
+but we're glad you're with us on the bankless journey. Thanks a lot.

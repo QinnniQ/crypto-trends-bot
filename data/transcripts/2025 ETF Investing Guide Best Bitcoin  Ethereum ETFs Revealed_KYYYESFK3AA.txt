@@ -1,0 +1,200 @@
+The SpotBitcoin and Ethereum ETFs have been incredibly bullish for crypto.
+Since their launch, the SpotBitcoin ETFs have played a key role in driving BTC
+to new all-time highs. And it looks like the SpotEthereum ETFs are now having the same impact on
+ETH. As you watch this, both ETFs are seeing massive inflows, which could take BTC and ETH
+even higher. And this has everyone wondering which are the best ETFs to get exposure to BTC
+and ETH. And that's why today we'll be covering everything you need to know about the biggest spot
+crypto ETFs. My name is Nick and this is a video you cannot afford to miss.
+Before we begin, you need to know that I am not a financial advisor and nothing in this video should
+be considered financial or investment advice. This video is purely educational and intended
+to inform you about the leading SpotBitcoin and SpotEthereum ETFs on the market. Now we've all
+heard SpotBitcoin ETF being thrown around as crypto's biggest buzzword, but it would probably
+be useful to understand what this actually means. ETF stands for Exchange Traded Fund and it works
+pretty similar to shares in a company. The difference is that instead of representing
+part ownership of a business, an ETF share represents a portion of a fund that contains
+assets like stocks, commodities, or in this case, cryptocurrencies. A spot ETF basically means that
+it's backed by actual crypto that's held at a custodian, rather than a derivative of the crypto
+like its price, which is what futures ETFs do. Obviously, ETFs come with their own pros and cons.
+On the one hand, they're generally more regulated than the crypto market. Investors also don't need
+to worry about setting up an exchange account or dealing with self-custody. But of course,
+this is a double-edged sword. If you're not buying that crypto directly, then it technically doesn't
+belong to you. As the saying goes, not your keys, not your coins. In this case, the crypto in the
+ETF technically belongs to the issuer, not to you. It's also extremely important to note that ETFs
+aren't the only ways you can gain access to crypto in a regulated way. There are also similar products
+that we'll touch on in today's video, namely ETPs. And ETP stands for Exchange Traded Product and
+this is the umbrella term that includes spot ETFs, among other things. If you're based in the US,
+spot ETFs will be the most accessible. You can typically buy them through most major brokerage
+platforms like Interactive Brokers, Charles Schwab, etc. etc. Just like regular stocks.
+However, due to the differences in crypto regulation around the world, crypto ETFs aren't
+available to everyone. If you're in the EU, you won't be able to directly invest in crypto ETFs
+listed on US exchanges. As such, some asset managers have created alternatives in the form
+of ETPs, but we'll point those out a bit later as we go along. And if you're in the UK, the bad news
+is that unless you're a professional investor, you can't buy crypto ETFs or even crypto ETPs.
+Thankfully, the Financial Conduct Authority, or FCA, is currently considering lifting the retail
+ban on another type of Exchange Traded Product called an Exchange Traded Note, or ETN. An ETN
+is a specific type of ETP that's issued by a financial institution and is designed to track
+the performance of an index. Similar to futures ETFs, ETNs don't actually hold the underlying asset.
+Instead, the issuer pays the return of an index, minus any fees at maturity.
+Okay, with all of that out of the way, let's dive into the top 3 spot Bitcoin and Ethereum ETFs. But
+before we do, fire up those like buttons if you enjoyed this video so far and don't forget to
+subscribe and ping the notification bell to make 100% sure YouTube sends you the notification when
+another video is uploaded. Back to the vid. The first spot Bitcoin ETF you need to know
+about is the biggest and that's BlackRock's iShares Bitcoin Trust, or iBit for short.
+As most of you will know, BlackRock is the world's largest asset manager, with Total
+Assets Under Management, or AUM, recently hitting a record $12.5 trillion, which is frankly mind
+blowing. What you may not know though is that BlackRock's CEO, Larry Fink, was once a Bitcoin
+skeptic. In 2017, he referred to Bitcoin as quote, an index of money laundering. His stance had
+changed by 2022 though, when Fink said quote, I was a skeptic, I was a proud skeptic, but I studied
+it, learned about it, and realized my opinion five years ago was wrong. Respect. In June 2023,
+BlackRock filed with the SEC to convert its iShares Bitcoin Trust into an ETF using Coinbase as its
+custodian. Other asset managers like Grayscale and ARK Invest already had pending applications,
+but the SEC hadn't responded. Once BlackRock applied though, investor optimism surged because,
+well, it's BlackRock. And what BlackRock wants, it usually gets. The SEC subsequently approved 11
+different spot Bitcoin ETFs in January 2024, and BlackRock's iBit quickly outpaced its competitors.
+In fact, iBit became the fastest growing ETF in history. According to data from Glassnode,
+when iBit began trading on the 11th of January 2024, it held just 227 Bitcoin. Within a single
+week, these holdings had grown by more than 100 times to roughly 25,000 BTC. A month into iBit's
+launch, BlackRock's Bitcoin stash had reached over 82,000 BTC. And by six months, it was holding a
+staggering 313,000 BTC. Pretty crazy stuff. And this momentum has stayed relatively consistent
+ever since, albeit with occasional sulling here and there. At the time of shooting, BlackRock's
+iBit controls over $85 billion in AUM, holding over 717,000 BTC. Now, aside from BlackRock's
+stellar reputation and its status as the world's largest asset manager, a key factor behind iBit's
+early success was its temporary fee reduction, from 0.25% to 0.12% on the first $5 billion in
+assets during the first year. However, that promotional period has ended, and iBit's fees
+have now reverted to 0.25%. But where can you actually invest in iBit? Well, for US investors,
+you can access iBit just like any other stock on the Nasdaq Stock Exchange by using a regular
+brokerage platform, just like the ones we mentioned earlier. If you're in Europe,
+though, things get a little bit trickier. iBit isn't directly listed for retail purchase,
+but BlackRock launched a spot Bitcoin ETP for European investors called IB1T. In the UK,
+however, it's only available to professional investors until the FCA lets retail get access,
+protecting investors from accessing the world's most successful ETF ever. Bravo, chaps.
+Okay, the next ETF you need to know about is the Fidelity Wise Origin Bitcoin Fund, or FBTC. Fidelity
+is another one of the world's leading asset managers with around $5.9 trillion in AUM.
+And what's crazy is that Fidelity actually started researching crypto way back in 2014. Fidelity first
+applied for a spot Bitcoin ETF back in 2021, but the application was rejected by the SEC in January
+2022. The asset manager then reapplied for the ETF in June 2023 with a division of Fidelity itself
+acting as the custodian, specifically Fidelity Digital Assets. Much like iBit, Fidelity's FBTC
+has seen exponential growth since it launched on January 11th last year. According to estimates from
+Glassnode, FBTC was holding roughly 25,000 BTC within its first week of launch. Within a month
+from launch, these holdings had shot up to 60,000 BTC. And by six months, this had increased to
+roughly 161,000 BTC. Today, Fidelity's FBTC controls over $2.16 billion in AUM with over
+206,000 BTC. Not too shabby. Now, like BlackRock's iBit, the Fidelity-wise origin Bitcoin fund has a
+fee of 0.25%. US investors can buy FBTC through virtually any brokerage or trading platform in
+the US that provides access to stock exchanges, including directly through Fidelity. However,
+European and UK investors won't be able to access FBTC directly. Thankfully though,
+Fidelity also has an alternative Bitcoin ETP called FBTC, which trades on major European exchanges.
+For the UK, professional investors can access FBTC on the London Stock Exchange. Oh, and by the way,
+if you're looking to buy crypto directly, then you need to check out the Coin Bureau deals page.
+That's where you'll find sign-up bonuses of up to $100,000 on the best exchanges,
+trading fee discounts of up to 50%, and cashbacks on deposits of up to 75%.
+You see, these deals, well, they won't be around for long, so take advantage of them ASAP using
+the link down below or by scanning this QR code. Now, the third spot Bitcoin ETF you need to know
+about is the Grayscale Bitcoin Trust ETF or GBTC. Grayscale's ETF is much smaller than either
+BlackRock or Fidelity's, with just $33 billion in AUM. Unlike many of its peers though, Grayscale has
+focused solely on cryptocurrencies since its founding in 2013. In fact, Barry Silbert created
+the firm to offer investors exposure to crypto without managing the underlying assets themselves.
+Grayscale's Bitcoin Trust was actually launched way back in 2013, originally as a private placement
+available only to accredited investors. It became available to retail investors in early 2015.
+Without getting too technical, trusts are like spot ETFs in that they are backed by physical assets.
+The difference is that the issuance and redemption of shares in trusts doesn't happen as frequently
+as with ETFs, and the result is that the price of the trust shares can trade above or below the value
+of the underlying assets, hence the premiums and discounts on GBTC in the past. Grayscale first
+applied for its GBTC trust to be converted into an ETF in 2017, but faced rejection from the SEC,
+which cited fears about market manipulation and investor risk. And this continued even after
+Bitcoin Futures ETFs launched in 2021. But this was odd since the presence of the Bitcoin Futures
+ETFs meant that the SEC could trust the market's pricing of BTC. So when the SEC refused another
+ETF application in 2023, Grayscale responded by suing the regulator, and then they won the case.
+Without this major catalyst, it's questionable whether any spot Bitcoin ETFs would have been
+approved in 2024. As with the other spot Bitcoin ETFs, the SEC finally approved Grayscale to
+convert its Bitcoin trust into an ETF in January last year. And just like BlackRock, Grayscale is
+using Coinbase as the custodian for this BTC. But while IBIT and FBTC flew out of the gates,
+Grayscale's GBTC struggled early on. After converting GBTC into an ETF, major outflows forced
+Grayscale to sell large volumes of Bitcoin from its reserves. Many believed this created sell
+pressure that suppressed Bitcoin's price. A few months later, it was revealed that a large portion
+of those outflows came from FTX, which liquidated around $1 billion worth in GBTC holdings as part
+of its bankruptcy proceedings. So once that unique event wrapped up, many expected GBTC to start
+seeing more and more days of net inflows. However, this wasn't the case. To put things
+into perspective, Grayscale's Bitcoin trust held over 620,000 BTC before being converted from a
+trust to an ETF. As you can hopefully see on the chart provided, the holdings of the ETF have been
+shrinking ever since. Today, GBTC only holds around 222,000 BTC, roughly a third of what it
+started with. Naturally then, this begs the question of how GBTC has remained as one of
+the biggest Bitcoin ETFs, even with these consistent outflows. And the answer is a combination
+of Grayscale charging a much higher fee than its competitors and a dedicated base of investors that
+continue to show unwavering support for an asset manager that, despite all odds, refuses to cave in.
+To put things into perspective, Grayscale charges a fee of 1.5%, and that's six times more than
+Fidelity or BlackRock. And this has helped Grayscale to draw in more revenue than all of its
+competitors combined. US investors can buy Grayscale's GBTC using most major brokerage
+platforms and trading accounts. Unfortunately for European or UK residents, direct exposure to GBTC
+is unavailable at this time, and Grayscale has yet to create an alternative ETP that's more
+accessible to international investors. Okay, now that we've seen the top three spot Bitcoin ETFs,
+let's now shift our attention to the top three Ethereum ones. Unsurprisingly, the biggest one
+comes from BlackRock, and that's the iShares Ethereum Trust ETF, or ETH. BlackRock first
+filed for the Ethereum ETF in November 2023, again choosing Coinbase as a custodian. The
+SEC eventually approved spot Ethereum ETFs in May last year for several asset managers,
+including BlackRock, VanEck, Fidelity, Grayscale, Franklin Templeton, ARK21 shares, Invesco, Galaxy,
+and Bitwise. Unlike the spot Bitcoin ETFs, the spot Ethereum ETFs didn't immediately start trading
+the day after they were approved. Instead, they began trading two whole months later,
+on the 23rd of July 2024. Now, it's no secret that the spot Ethereum ETFs haven't matched the
+success of their Bitcoin counterparts. Institutional adoption has been slower than expected,
+leading to a rocky start. In their first few months, they flip-flopped between net inflows
+and outflows, ultimately failing to offer ETH the same price support that the Bitcoin ones gave to
+BTC. Spot Ethereum ETFs didn't see significant net inflows until last November, but these were
+short-lived, often followed by outflows that essentially reset the playing field. As you can
+hopefully see on this chart provided, this volatility subsided by February, when activity
+flatlined in the negative. The trend reversed though, in April this year, with a surge of
+record-breaking net inflows since. So, how has BlackRock's ETH-A performed?
+Well, despite challenges in attracting lasting investment, its ETH holdings have nonetheless
+grown impressively. GlassNode data shows that just a month after trading began on July 23rd,
+ETH-A held 332,000 ETH. By year's end, that number had ballooned to over 1 million ETH.
+Today, it controls more than $6.4 billion in AUM and holds over 2.1 million ETH.
+Just like with its Spot Bitcoin ETF, BlackRock charges a 0.25% fee for trading ETH-A. And it's
+worth noting that the firm reportedly met with the SEC's crypto task force in May to discuss Spot
+Ethereum ETPs with staking features, although the SEC has yet to give this the green light.
+For what it's worth though, the recent approval of the staked Spot Solana ETF suggests Ethereum
+is next in line. Now, while US investors will have no issue buying ETH-A, European investors
+don't have the same luxury. Unfortunately, at the time of shooting, BlackRock has yet to reveal
+any plans to create a Spot Ethereum ETP in the same way it created an ETP alternative for its
+IBIT fund. For what it's worth though, there are plenty of other European ETPs available from other
+issuers in the UK and the EU. Now, the second Ethereum ETF that you need to know about is
+Fidelity's Ethereum Fund or FETH. Fidelity first filed with the SEC for its Spot Ethereum ETF
+in March last year. As with FBTC, Fidelity Digital Assets serves as the custodian for the assets
+held in FETH. Notably, Fidelity's initial SEC filing was initially amended to include a staking
+mechanism. A few months later though, Fidelity amended the filing again to take the staking
+element back out. But, as you may have guessed, Fidelity is again seeking to add a staking mechanism
+for its Spot Ethereum ETF. However, in April this year, the SEC delayed its decision to allow these
+features to be implemented. Fidelity's Ethereum Fund began trading on the 23rd of July last year,
+and by the end of the year, it had already amassed over 462,000 ETH. Today, FETH holds almost
+570,000 ETH, with over $1.2 billion in AUM. If you're wanting to trade FETH, Fidelity charges a fee
+of 0.25%. US investors can freely trade FETH, but Fidelity hasn't yet announced any plans to create
+an ETP alternative to its Spot Ethereum ETF for international investors, at least at the time of
+shooting. Okay, the third Spot Ethereum ETF you need to know about is, you guessed it, Grayscale's
+Ethereum Trust with the ticker ETHE. The Ethereum Trust originally launched in 2017, with its primary
+purpose being to hold ETH and provide investors with exposure to the second largest crypto through
+a regulated financial instrument rather than direct cryptocurrency ownership. Initially, ETHE shares
+were only available through private placement to accredited investors, but were made available to
+retail investors in the US in mid-2019. So, yes, it's literally the same playbook as Grayscale's
+Grayscale first filed with the SEC to convert ETHE into an ETF in October 2023, just a few months
+after it beat the regulator in court. It began trading as an ETF on the 23rd of July 2024,
+with Coinbase again serving as custodian. Grayscale's Spot Ethereum ETF performance has
+mirrored its Bitcoin ETF, with significant outflows since launch. And this has frustrated many
+investors, as inflows into other Spot Ethereum ETFs were largely offset by heavy ETHE outflows.
+At conversion, the fund held over 2 million ETH. Today, it holds just over 570,000 ETH,
+about a quarter of the original amount, with around $3.8 billion in AUM. Notably, Grayscale
+also created the Ethereum Mini Trust as a more cost-efficient alternative to the larger Ethereum
+Trust ETF, with fees of just 0.15%. And what's fascinating is that this actually means that the
+Ethereum Mini Trust has the lowest fees of any Ethereum ETF, the exact opposite of Grayscale's
+Spot Bitcoin ETF. Like other asset managers, Grayscale is also seeking SEC approval for a
+staking mechanism to be added to its Ethereum ETF products. Now, surprise, surprise, Grayscale also
+doesn't have any Spot crypto ETPs or any other product suitable for EU or UK residents, which is
+undoubtedly very frustrating. But as I mentioned earlier, there are other Spot crypto ETPs from
+different asset managers you can consider. Those looking for Spot Bitcoin exposure can of course
+use BlackRock's IB1T that we mentioned earlier. Alternatively, another example is CoinShares
+physical Bitcoin ETP, which uses the ticker BITC. At the time of shooting, it holds just
+under $2 billion in AUM and charges a fee of 0.25%. As for exposure to Ethereum, one example is 21
+shares, which actually offers an Ethereum staking ETP that uses the ticker AETH. It holds over $450
+million in AUM, offers a staking yield of 1.52% and charges a fee of 1.49%. And this is just the
+tip of the iceberg. Beyond the Spot Bitcoin and Ethereum ETFs covered here, several Spot altcoin
+ETFs are also in development, some already active. These could supercharge the prices of their
+respective cryptos. So if you want to stay updated, then check out our altcoin ETF update video right
+over here. And if you're not subscribed to the channel yet, you can do that right over here.
+This is me, Nick. Thank you guys very much for watching and I will see you again soon.

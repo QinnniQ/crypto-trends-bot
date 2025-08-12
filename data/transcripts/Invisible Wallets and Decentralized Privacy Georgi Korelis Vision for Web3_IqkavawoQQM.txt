@@ -1,0 +1,605 @@
+There's a certain paradox in digital innovation, an endless drive towards connecting the world
+while clutching at the last threads of privacy.
+This is particularly true in the realm of Web3, where innovation thrives, and yet, vulnerability
+lurks at every turn.
+Each transaction, time stamped and etched into the transparency of public blockchains,
+leaves a trail that is both a mark of progress and a perilous crack in the armor of privacy.
+Recent headlines reveal the extent of these fractures.
+Think of the staggering $1.5 billion siphoned away by North Korean hackers, or the crippling
+aftermath of 16 billion credentials exposed in a breach, scattering personal data across
+an already fragmented digital landscape.
+And these events aren't anomalies, they're signposts, stark reminders of the critical
+vulnerabilities plaguing the intersection of online commerce and personal identity.
+Public blockchains are celebrated for their openness, their promise to decentralize trust.
+But that visibility is a double-edged sword.
+Wallet addresses transform into unguarded windows, and transaction histories act as
+diaries open for anybody to read.
+Even the smallest breadcrumb, a dusting of activity on an address, can lead bad actors
+down a trail that ends in tragedy.
+The very ledger that empowers us to interact without intermediaries also lays bare our
+digital selves, exposing the silent truth that on-chain transparency often comes at
+the price of privacy.
+These challenges strike at the heart of what it means to operate in a connected world.
+How do we reconcile the utopia of a decentralized future with the risks of unguarded exposure?
+For innovators like Giorgi Corelli, the answer lies not in compromise, but in reimagining
+the architecture altogether.
+Henkel Wallet strives to make privacy the default.
+Not a privilege, but a right.
+A multi-chain privacy layer where transactions become whispers in the wind.
+A world where, as he puts it, they can't hack you if they can't see you.
+With privacy becoming an urgent question rather than an afterthought, we stand at a crossroads.
+A moment to decide if our trust in Web3 can grow stronger through solutions that protect
+rather than expose.
+Joining us today, Giorgi Corelli invites us to reconsider the balance between innovation
+and intrusion, security and freedom.
+We peel back the layers of this challenge, uncovering not only the technical feats required
+to ensure privacy, but also the philosophical depths of why it even matters.
+Because in this era of omnipresent surveillance, the act of safeguarding one's digital self
+is no longer just a security measure.
+It's an assertion of freedom, an act of defiance.
+Welcome to the Defiant Podcast.
+Hello everyone, welcome back to the Defiant Podcast.
+I'm your host, Vinnie, and I'm here with Giorgi Corelli, who is the co-founder and CEO of
+Henkel Wallet, a Web3 privacy solution looking to build a multi-chain privacy layer for
+blockchain technology.
+Thank you so much for being here.
+Thanks for having me.
+All right, so let's jump right in.
+Can you share a little bit about your background and what led you to focus on privacy wallets
+and decentralized coordination within crypto?
+Yeah, absolutely.
+I'm originally from Georgia.
+I was born in Georgia, and I started my career as a professional wrestler.
+I was twice world champion in wrestling, then I moved to investment banking, spent five
+years and tried five.
+Then I moved to the US, I did my MBA and master's at Stanford, and at Stanford we started with
+Web2 initially.
+In 2021, actually what happened is it was a crypto boom, so 90% of regular startups
+became crypto startups.
+Because Stanford did also ZK Hub, as you know, Dan Bernays from Stanford, so a lot of cryptography
+is happening there.
+And it was a huge movement and also educational development of all sides of crypto, right?
+So people finally started understanding what is the end goal of crypto and how it can be
+more efficient than financial rails.
+And I already had five years of experience, so I knew that you need at least like 11 intermediaries
+to move money from one country to another, and this can be done peer-to-peer with close
+to zero cost on public blockchains.
+So that was the vision, but then what I also realized that public ledgers and public blockchains
+have very strong network efforts, that it's very hard to substitute, right?
+Ethereum is not the most ideal architecture type of system, but it's strong because it
+was one of the first, so it had first mover advantage.
+And it only accrued network efforts afterwards.
+So then I started being concerned if new public chains can have the same traction as Ethereum,
+and like will it be possible to substitute traditional financial rails with something
+like Ethereum and UVM ecosystem?
+So and then with having this in mind, right?
+Like when we think about traditional system, privacy is very fundamental value of the systems,
+right?
+From one banking account to another without revealing your data, and this is your trade
+data like that, you prefer to keep private all the time, otherwise you'll be compromised,
+you can be hacked, and there are many negative externalities that can happen with that.
+So Hinkle builds privacy on top of public chains that you never feel.
+So it's like embedded in your wallet stock, it can be embedded in your payment stock,
+and that's our goal, to fully obstruct privacy on public chains.
+And so you've mentioned the phrase, they can't hack you if they can't see you.
+Can you expand on how privacy wallets make this concept possible?
+So yeah, of course, I think the good example, pro forma example here is a Bybit hack.
+So they saw the signers with safe multi-sake, they can read the IP and metadata of the signers,
+but they were able, so like North Korean hackers, right, they were able to compromise their
+machines and then hack, you know, whatever, like 1.5 billion.
+So they saw this data and thus they were able to compromise whatever stock they had.
+But if they didn't see anything, it would happen, it wouldn't happen.
+So that's the ultimate goal, right, to have privacy.
+So you cannot see individual data of the wallets, of the signers.
+And no one can actually hack you because there is no possibility to track it down to individual
+wallet level.
+Yeah, I've always felt kind of weird about the fact that, you know, you can look at someone's
+public address and know exactly how much ETH they have and what NFTs they have, like it's
+kind of a weird concept to have that much information out there and anybody could see
+it.
+And it's one thing if it's your friends, but it's quite another thing if someone sees there's
+a treasure trove, you know, and they might direct that attack right at me.
+So Hinkal is described as an invisible wallet for every transaction.
+Can you tell us what makes the wallet invisible?
+How does it work?
+Yeah, so, you know, initially, like before we actually started Hinkal, the first version
+of it was the DAP.
+And the problem with the DAP system is that you need to do extra steps to enable privacy.
+So in our case, it was, you know, you had to deposit to our vault.
+So it worked similar to vault, you create additional address there, and then you have
+limited functionality to transact on DAPs.
+And you could do like Uniswap, Uniswap, Odos.
+And the problem we started seeing is, you know, okay, who are the ultimate customers
+of privacy?
+First is liquid funds, second is payment networks, right?
+For liquid funds, you want to hide your strategy.
+For payment networks, you want to hide sender of transaction most of the time.
+Also recipients, mostly for payrolls and B2B payments.
+And for this, it was like sub-efficient system because it was not embedded in your day to
+the activities.
+You had to do extra steps.
+So then we thought, okay, we already built this.
+We had 250 million volume in the system, mostly coming from liquid funds.
+So we thought, okay, how can we make it more scalable so we can actually obstruct this
+need to move your money to another DAP and also obstruct the need to manually integrate
+those DAPs that, for example, liquid funds need because, you know, payments also go after
+DeFi, if we think about it, right?
+Because DeFi enables additional yield for the embedded stablecoin system.
+So that's why what we thought, okay, like, what are the technologies that develop now
+that will enable this transition?
+And then what we saw that actually TEs became more secure.
+So for example, this could solve the problem of proving.
+So they can prove generation because otherwise it was clunky and it was taking anywhere from
+20 to 50 seconds to prove on client-side machines.
+So now, okay, we realize that TEs became secure.
+We can actually delegate proof generation to trusted execution environments.
+And then it can be instant, right?
+Okay, this problem was solved.
+And then we used a couple more primitives that we saw in the boom of AI, right?
+We used AI to understand if the DAP needs pyramids.
+So AI can actually tell us, tell the smart contract, right?
+If this DAP needs pyramids and then it can actually route to the right smart contract
+inside the DAP.
+So you know, and I mean, second is AI and the third is stealth addresses, right?
+Stealth addresses serve for privacy of recipient.
+And then you can basically create new stealth address every time.
+So this way we obstructed all privacy and embedded it in the wallet stock.
+And I think the last point here that we should definitely touch base is compliance.
+So compliance that we were using before was still a bit clunky because users needed to
+provide KYC data, even though it was private, right?
+But then we saw now the abundance of ZKTLS solutions and ZKTLS is a phenomenal solution.
+You can take any data from any arbitrary session with your internal system, whether it's banking
+or centralized exchange, generate proof of this data and then prove to us that you did
+KYC somewhere in internet sometime before.
+And of course, everyone did it before.
+Right.
+Are you on the internet?
+So yeah, and that's why now we can actually, we don't need KYC data.
+So user can go to whatever account he has, right?
+If it's like Revolut in Europe or US, it can be Venmo, and now we use all centralized exchanges.
+Generate proof of this data without revealing any data to us.
+Right.
+And tell us, okay, we did this somewhere internet, please enable privacy for all our transactions.
+Okay.
+Yeah.
+So with ZK, this seems like a perfect combination to really protect ourselves when we're on
+the internet.
+I'd love to talk a little bit about some of the legacy solutions that I'm seeing, you
+know, some companies and even some governments wanting to implement with crypto.
+One of them is the kill switch and the other is the air gap system.
+Why do you think that these, you know, maybe are not the best solutions for us to utilize
+in Web3?
+I think they are good solutions, but they are not the most optimal ones.
+Because kill switch, air gap solutions mean that you're, like, they're mostly optimal
+for Web2 systems, right?
+You isolate a perimeter of the system, right?
+And that's how centralized system work, right?
+Because you have a server, everyone runs on it and it's fully separate from another one,
+right?
+And, you know, that's why those systems, Web2 systems are not composable with each other,
+right?
+Because they are built in with different stock, with completely independent purchase.
+Right.
+And in crypto, you need smart contracts and they're all composable, right?
+They compose with each other.
+So if you have kill switch for, let's say, smart contract, the droughts, some, you know,
+DeFi tokens, like PT tokens for Pendle, right?
+So there is no kill switch there because if there is kill switch for Pendle, then the
+whole yield will be gone and the whole system will die, right?
+But I think kill switch can be a really good solution for something like signatures, right?
+For example, when you connect to DAP, you give the DAP certain permissions.
+So if the DAP is compromised, then it can drain some money.
+So kill switch can enable, you know, some systems to be more efficient on a walled level
+because you can just close down every parameter, you know, every signature or for multisig,
+if you give certain permissions to people, right, you like kill switch and this person
+is compromised, right?
+And there are some triggers for that, like kill switch can enable this level of security
+there as well. So I don't think they are completely redundant systems, but they are not
+super optimal for composable on-chain systems.
+The PR Genius is a top crypto PR and growth marketing agency, helping brands globally
+with expert PR and strategic growth marketing.
+They've worked with 300 plus projects like Movement Labs and IO.net.
+Unlike traditional agencies, they charge only on performance.
+Their services include earned PR opportunities and marketing services to help boost wallet
+holders and organic ex-followers.
+Learn more at www.theprgenius.com.
+And I know the EU last year had some meaningful regulation about crypto.
+They have the Data Act where they wanted crypto companies to have a kill switch embedded
+into their privacy outline.
+Do you think that's something that would be beneficial, like on a regulation level, or
+is that something that you think might give governments a little bit too much power within
+the Web3 ecosystem?
+Yeah, I think now what we see with European regulations is there are two directions.
+So first is like fully compliant direction that is mostly focused on payments, right?
+Right. And we see like big companies like BVNK, for example, is getting licenses, right?
+And it's a European company.
+But the other direction is like founders figuring out how to become more decentralized
+from this regulation.
+And that's probably the most powerful, I mean, the strongest direction in Europe now
+because they figure out, OK, how to make sure we're decentralized enough, like what's legal
+entities. And we saw recently with Morpho, right, when they created this separate entity,
+like benefited token holders and just became more decentralized.
+So I am propagating for more decentralized solutions.
+And with SkillSwitch, I think for payments, this is a decent solution.
+But the payments fundamentally now are centralized.
+So if you think about major onrump and liquidity layers, what they do is for privacy, they
+aggregate all money on one omnibus account.
+And then they send from this omnibus accounts to individual EOAs.
+And that's a problematic thing because you have security of all your asset holders on
+one account that you control, maybe with multisig.
+And that's a big trust assumption.
+Yeah, I'm feeling nervous just talking about it.
+Yeah, I think that's the next big vector of attack for the hackers, right?
+If you think about, OK, centralized exchanges hold a lot of money, right?
+And Bybit was hard. And what is the next vector of attack?
+Like for big like money pods and its payment systems that hold lots of assets on a
+custodial side of it. And then we will think, OK, like this trust assumption should be
+eliminated. So we learn based on our mistakes.
+Unfortunately, don't we all, unfortunately.
+Can you tell us about the new privacy stack in crypto and how it aims to address privacy
+challenges within digital finance?
+Yeah, I think there are a few ways to think about privacy stock.
+First is privacy that we are designing, right?
+And it's a privacy stock that is enabled by a few technologies.
+It's your knowledge proof for smart contract level privacy and proving that you're the
+owner of the transaction.
+Then it's TEs, as we mentioned, stealth addresses for recipient privacy, right?
+And it's all based on VM systems.
+And then there's a second stock, new private stock, which is like fully private chains.
+And this stock is still it has to prove that there is a value there that can accrue
+because, you know, the problem with this is, you know, to move assets on chain, you
+need yield for yield.
+You need performance of the chains and you need to be able to attract the builders.
+And then there's a problem of this yield.
+Right. So you cannot move one side without the other.
+Right. Because there's a cold, cold start problem all the time.
+That's why currently all these private chains don't have instruction, as well as, you
+know, fully private coins.
+Right. There's a payment system such as ZKs, right.
+They never achieved broader adoption as we saw with all other solutions of whatever
+five, seven years ago.
+Right. And do you do you think that private blockchains are going to be the future of
+enterprise adoption or do you see public ledgers, ledgers evolving to incorporate
+better privacy features?
+Yeah, I don't think private blockchains will have like significant outcomes in terms
+of adoption because they cannot be as performant.
+And why would you want private blockchains if you can have same privacy on public
+blockchains? Right.
+So that's the fundamental problem that I have to solve.
+But of course, there are good, there are actually like more compliant blockchains now
+that are coming up that I'm excited about.
+They don't have privacy on top of the chains, but we can enable privacy.
+It's mostly L2s and I think their value is achieved through like bringing a lot of
+yield opportunities and stable coin issuers because stable coin issuers can actually
+route their money to new yield solutions from tokenizing this off-chain yields.
+Right. For example, you can tokenize reinsurance.
+It gives you from 8 to 15 percent private debt, 8 to 12.
+Yeah, I like the sound of that for sure.
+And so there's there's this constant balancing act between privacy and compliance.
+Right. How do privacy focused technologies like Hinkal ensure that they remain user
+friendly while being mindful of regulations?
+Yeah, we thought a lot about compliance and it was always on top of our mind because
+we started right after turn education sanctions.
+Right. So what a time.
+The best time to start privacy solution.
+And then like we thought about this from multiple dimensions.
+Right. The first dimension is OK.
+This is like Ethereum driven dimension, which is proof of innocence.
+And I mean, I will explain the TLDR of the system.
+You basically have a few assets in the set in the shielded pool inside smart contract.
+And then you have compliance like you're using TRM or other systems to check compliance.
+And this money, you know, basically stale there for a few days before someone can
+withdraw money from there and prove that they are part of this compliance subset that
+was checked by the systems.
+Right. And we thought about this solution.
+We talked to our lawyers as well.
+And first, my US lawyers at least think that it's not a fully compliant solution.
+Right. Because money then I mean, you still routed money.
+They can become dirty afterwards.
+Then you have to prove and remove yourself from subset.
+And then another thing we didn't like in this solution is that it's always capital
+inefficient in terms of because your money is stale there and you cannot do other
+transactions. Right. And the whole of crypto is evolving around capital efficiency.
+So they're OK. And then we thought, OK, we will introduce a bit higher friction at the
+entry point. But then we will enable full composability and freedom of like for any
+action afterwards.
+So that's what we introduced with our first solution.
+It was like you can you could do ZK based KYC.
+But then the problem was enterprises wanted to do it, of course, institutions, liquid
+funds, but retail people don't want to do it.
+So all our flows were mostly institutional or like large whales.
+But now, like with Tornado Cash latest updates, we were finally allowed to remove to
+allow a very small portion of deposits like, let's say, under one thousand dollars to
+be completely permissionless.
+And then for everything above, ZKTLS came to place.
+So now it's a great solution because you don't have to provide any KYC data to us.
+You have full proof that there is no data that you're sharing with us and you're
+verifying full compliance, right, that you did KYC with a proper institution.
+That's a beautiful solution.
+Yeah, absolutely.
+Let's let's turn to some of the recent events in data privacy.
+You were mentioning one earlier.
+We have most recently 16 billion credentials leaked in a recent breach.
+Crypto users are understandably alarmed.
+So how should users of platforms like Coinbase or custodial wallets strengthen their
+on-chain security in light of such incidents that we've seen recently?
+I think what we have seen in a series of recent events is that smart contracts just
+became better systems than people.
+There were no hugs of smart.
+I mean, there was like more based hug recently on Sui, but over the past three years,
+like, you know, when we just joined crypto, we had hugs every day.
+I was reading like smart contract was hugged, non-smart contract was hugged.
+Over the past two years, I think, I saw only like maybe two or three hugs, right?
+So the systems became super efficient, you know, there are, and if you look at broadly
+in not just crypto space, but web, web to space, you could see that there are no net
+new hugs, so it's all social engineering.
+And, you know, I had this conversation with CrowdStrike CTO and he was like,
+you know, there are just no new startups that would take, you know, new spaces in
+cybersecurity because no new vectors are emerged.
+So same applies to crypto, right?
+Why do we need to rely on humans if smart contracts became just better systems?
+That's why, you know, I think Coinbase is pushing base now, like, and more decentralized
+systems. Same now we see with Bybit, right, with the launch of their DEX and the wallets
+that all exchanges are pushing.
+I think everyone finally realized that the DeFi and composable systems is the future
+and that they cannot build all this in their centralized ecosystems without any
+composability with DeFi.
+And actually, I think recently Coinbase announced that they finally allowed DeFi from their
+centralized exchange UI, so they added more for a few other dubs.
+So we see this happening and I'm super excited about this.
+Yeah. Do you think there are any lessons that the DeFi industry can take away from the Coinbase
+breach specifically?
+Yes, that you should not store the data.
+I think the problem was there was the data and then these people, right, I think call
+send people or customer support, they had access to this data.
+And I mean, the summary here is like they probably there should be some guardrails
+between the accessibility who can really access and then some security.
+But Coinbase has so many security checks, right?
+When my investor wanted to move his money to provide TBO to our protocol, he couldn't
+do it because Coinbase required like to have a call in a week from then.
+Like then they only allowed like one-tenth of withdrawal.
+So they already do this.
+So I think, you know, again, right, this more decentralized solution such as ZKTLS imply
+that almost no one has data, right?
+So just like removing call access and letting users to provide as much data as they want,
+right, is the outcome here.
+Why do we need so many KYC solutions?
+Everyone asks KYC, right?
+You go to the bank, you need KYC, centralized exchange, KYC.
+Yeah, and it's, you know, very weird to be, you know, buying your crypto on a place like
+Coinbase and they won't give it to you until you show your driver's license, your ID.
+It's like, wait, this is like so not crypto in how it feels, you know, until you get it
+off of the exchange.
+So, yeah, I'm definitely excited to see how we can not only better protect ourselves,
+but also like make the whole journey feel very Web3 versus, you know, sometimes it feels
+like we're teetering between Web2 and Web3 just to get to the use cases that we're talking about.
+So Tether's CEO recently criticized cloud-based storage following these leaks as well.
+Do you think fully decentralized or local storage solutions like
+PairPass offer a real solution?
+And what are the trade-offs?
+Yeah, I think it's a decent solution for crypto market.
+And if you think about like enterprises like Coinbase, they might use the solution.
+But it can be offered as one of the alternatives because having like
+hardware-based solution implies that you're relying on this hardware.
+And most of people are not, you know, the most efficient systems, right?
+Again, there's a theme here.
+And, you know, I never lost my phone actually, but everyone lost, you know, his or her phone.
+Some point of, you know, the lifetime.
+So I think that's a problem we cannot trust ourselves.
+So how can you trust your hardware that stores the keys?
+And then if you're not super tech savvy, you will never export these keys
+or you can write the seed phrase, then you place it into 10 different accounts in the banks.
+So it becomes like super complicated.
+So I think we cannot avoid cloud-based systems.
+And I think the net benefit of cloud-based systems is still quite higher than the damage
+that we received because cloud enabled so many different things, right?
+The whole Google was enabled by cloud, right?
+What if sending crypto felt more human?
+Pulse just launched Red Packets, a new way to give tokens with meaning.
+It's gasless, gamified, and claimable inside group chats only.
+Think AirDrops meets social cues on chain.
+Backed by smart wallet tech and live across major L2s, Red Packets turned communities
+into micro economies of gratitude and growth.
+No seed phrases, no friction, just connection with value.
+Check it out at pulse.social.
+So you have advocated for decentralized coordination as a pathway to ensuring privacy.
+How does this work practically for end users and organizations looking to adopt models like this?
+Yeah, so privacy, what is on public chains, depends on anonymity set.
+And anonymity set is number of assets inside smart contract
+that provides privacy for every incremental user who joins the set.
+And just to describe in more simple way, yeah, you come, let's say it's,
+we have 10 users, 10 million worth of smart contract, right?
+If you come with 100 million now, and then you do like Uniswap swap,
+like you swap from USDC to ETH, there will be no anonymity or privacy for you because
+like everyone looking at smart contract will recognize that
+there's like this depositor probably did the same transaction, right?
+Even though what appears on chain is our smart contract.
+So that's why this coordination is important.
+So we have to make sure that there are enough incentives for every newcomer
+to participate and there's sufficient anonymity set for that.
+But then for this anonymity set, right?
+The system allows to build it, but also participate in the routing of transactions.
+So every user can become a real heir and participate, stake our future tokens,
+we don't have tokens yet, and be able to route this transaction on external DApps.
+So they participate in the upside, aggregate these tokens, right?
+But then they also have incentives to be private
+because of these tokens and the benefits they receive.
+That's a coordination there that we describe about privacy
+and network effects that it brings, right?
+So every new user benefits more from the smart contract that they joined.
+Right, right. That makes sense.
+So we're seeing an increase in the amount of like phishing attacks
+and data leaks that are happening, I would say even just in 2025.
+Do you think that the crypto ecosystem is prepared for mass adoption?
+And are there still major security hurdles that we need to overcome
+to really prepare those new users to use crypto?
+Yeah, I don't think it's necessarily only crypto
+because I think the problem with crypto is we have lots of people who got quite rich.
+And this money sitting in their wallets, it's quite anonymized
+because it's very hard to touch their names.
+But then it's actually easy to figure out who are these people
+based on the history of their interactions with DeFi.
+For example, if you were early in curve during the inception of their DApp
+and you were a contributor, you could figure out during token generation event
+how much this person would receive.
+And then there's the assumption that he stores this money somewhere in the wallet.
+And then bad actors actually go after these people.
+And this is quite a big problem to solve because it's fully public,
+everyone knows this information now, and there are criminals going after them.
+And we saw this happening with lots of different crypto founders,
+mostly including Ledger co-founder, I think he had a problem with criminals in France.
+But I don't think this is a major problem.
+The major problem is EI now because EI can do deep fakes.
+Yes, getting better every day.
+And we saw this few problems happening with also crypto investors,
+with Zoom calls when they share the...
+Yes, yes, I'm definitely very wary of any links that come my way,
+but it's frustrating when you're like, I'm just trying to have a business call.
+Or you think you're going on a business call and here you are now watching your wallet drain.
+So yeah, I think that there are a lot of just new attacks, same kind of technology,
+but different pretenses.
+So I'm seeing lots of people who are deep into crypto,
+have been in crypto for 10 years and they're getting hacked too.
+So it's not even necessarily a lack of awareness or being new to the space.
+It's just this constant bombardment of attacks.
+I think it's lack of best practices of security because
+if you're in crypto for 10 years and never got hacked, you might be lucky, right?
+You're a unicorn.
+You're in the lucky 95%, but it's still a huge amount of people.
+And then you don't separate two machines like where you store hot wallet from the ones that
+you take calls, right?
+So you might not even have 2FA for some of your solutions.
+So I don't think this necessarily means that most of crypto people are
+very security conscious and that's a big problem.
+Yeah, we need to get more paranoid of our interactions online.
+So if user privacy becomes the default, it becomes the norm,
+how do you see this reshaping the broader financial ecosystem both in and outside of crypto?
+So crypto privacy and with private wallets can really become the entry point for lots of people
+now because if you can enter crypto in a fully private manner where no one can see you,
+no one can really attach label to you, this becomes a no-brainer solution.
+And now the question is how could it become a no-brainer solution?
+And I mean, it all depends on user experience.
+If you have the same experience as you do during on-ramp or adding assets to your wallets,
+this is the most beautiful solution for you to use.
+So this can enable new users to join such as institutions moving assets on-chain
+and avoid problems such as dusting.
+For example, when Franklin tokenized lots of funds,
+that's a big problem that they had like a lot of shit tokens just
+coming to their wallets and smart contracts itself.
+A lot of new institutional enterprise players can join.
+So finally, you can move money and send to your friends, your employees,
+without them seeing your on-chain data.
+And I think the future of this is actually solving the problem of omnibus accounts
+because these payment systems need these better solutions.
+So they can also aggregate these funds but add some yield to it.
+But now, in isolation of this fund, they cannot attach any yield-generated solutions.
+Sounds like a win-win to me.
+More security and yield?
+I mean, yes.
+So how do you think that enterprises can prepare to integrate privacy wallets
+into their operations without disrupting their existing workflows?
+Mm-hmm.
+Yeah, I mean, the first question that we start to answer is,
+what are their workflows?
+And their workflows are very new.
+So that's what they're adopting right now.
+I don't think there is an enterprise that is doing on-chain transactions
+for the past seven years, right?
+Probably some employees and team members there, but not on a mass scale.
+So that's why it's very new stock.
+Some of them do, you know, fire blocks for wallet creation.
+Then they do, I don't know, bridge for on-ramps.
+And then they tokenize funds through securities, right?
+Or they go to their competitors.
+So the market is quite fragmented.
+And there are no leaders in this space, but all the solutions work in a similar manner.
+So in our case, I think the biggest problem here is
+bringing just a bit new primitive to them, right?
+Because these users are by default the most skeptical users about new tech, right?
+Like the banks.
+Why the banks are the worst B2B customers for every startup?
+Because it's close to impossible, right?
+To have a business with them, like it takes years.
+But I think the beauty of current moment is
+that we have this new playbook that actually Charge GPT showed to the world.
+And it's called, you know, it's like PLG v2.
+So PLG is product-led growth, right?
+When thinking about notions like, you know, got users,
+like customers, employees just use the solution.
+They realize how beautiful is the solution.
+Then they go upstream and upsell to the enterprise level, right?
+What Charge GPT introduces is a bit different playbook,
+which is you go to consumer, you show the value, everyone loves the product.
+And after that, they start selling to developers through APIs, right?
+Same applies to the best crypto solutions, right?
+You have to start first with showing the real value
+and preferably based on consumer traction, right?
+Then you can go up upstream to institutions, enterprises,
+and show the solution on the development side, right?
+With APIs SDK, so you can enable privacy in a programmatic way.
+So that's what we are actually doing now.
+We are releasing like browser extension that feels like the best wallets and extensions there.
+And then we also have developer documentation.
+It's very grassroots.
+It's like building the demand first and then moving up.
+That makes a lot of sense.
+Because why create a complex solution when nobody's asking for it?
+It's going to be very hard to sell, right?
+So we've talked a little bit about crypto privacy best practices.
+I was wondering if you had any tips or advice
+that you can give to our more intermediate advanced crypto users?
+Yeah, for intermediate advanced, I think the biggest ones now is that
+they can finally trust ZK.
+And ZK has become the efficient solution, right?
+That especially coupled with some other solutions such as DEEs, NPCs,
+there are some advancement there with Snarks systems, also Stark systems as well.
+So I think like using hardware and hardware wallets also became more secure.
+So I think that the next big thing that we will be enabling is using
+hardware wallets for proof generation.
+And you have the whole stock that belongs to you.
+You have proof generation on hardware wallets and signatures as well, right?
+You have full privacy of your data.
+You privately move assets on chain.
+And then you never need to off-ramp because you can pay in stable coins for everything, right?
+And that's a perfect world that hopefully will happen soon, but it usually takes time.
+But starting early and moving assets on chain is, I think, the first tip that
+will help you to get to the best primitives.
+And I think what I'm also excited now is crypto cards.
+Yes.
+Crypto cards became so phenomenal because I'm the heavy user.
+And before being a US person, I didn't believe that crypto cards will provide significant value
+to me because I already have exposure to stable coins and I don't have devaluation of my local
+currency.
+But then I realized that in crypto, you can build so many primitives and wrap the asset
+in stable coin.
+That provides underlying yield worth of 10%, 11%.
+And then cash back.
+So now I'm having 11% on my current account with 3% cash back.
+So I spend all my money in crypto on a daily basis with my MasterCard.
+So this is phenomenal.
+So I think most people don't know it yet that they can do it.
+So I think this is pulling lots of retail people to crypto, right?
+Because this is unavoidable now.
+We will have always higher yield in crypto cards versus traditional banking.
+Well, especially when traditional banking is like, here's 0.1%.
+You're welcome.
+It's like, what?
+That's not even beating inflation.
+So I think just the fact that so many crypto products are creating this yield,
+it's just going to be more attractive to everyday users, to investors of all shapes and sizes.
+Well, this has been wonderful.
+Can you tell our audience where they can find you and where they can learn more about Hinkle
+and all the privacy solutions that you've been discussing with us today?
+Yeah, absolutely.
+Twitter, Georgia Corelli, Gagel, Hinkle Protocol, but it's now Hinkle.
+And we also use other solutions.
+We are big on LinkedIn as well because LinkedIn, a lot of institutions are there.
+And that's awesome.
+Thanks for having me.
+It was an amazing conversation.
+Thanks so much for coming in.
+And we'll see you guys next time.
+If you enjoyed this episode, be sure to like and subscribe for more content like this.
+And join us next Friday when we'll be talking to Diane Magents and Breno Sperandio from Byconomy
+about how cryptocurrency exchanges can streamline and enhance user experiences in DeFi.
+But until then, stay tuned, stay informed, stay Defiant.

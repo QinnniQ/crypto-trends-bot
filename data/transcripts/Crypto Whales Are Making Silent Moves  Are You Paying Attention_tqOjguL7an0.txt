@@ -1,0 +1,330 @@
+Investors everywhere look to the charts to forecast the next market move.
+But they're often looking in the wrong place.
+You're looking in the wrong place.
+And that's because big money is moving behind closed doors through the over-the-counter or OTC market.
+And that's why when we saw a recently published report revealing the activity of OTC traders,
+we knew we had to cover it.
+So today, we'll break down this report for you in simple terms
+and tell you what it could mean for the crypto market.
+My name is Nick. Stay tuned.
+Before we begin, you need to know that I am not a financial advisor
+and nothing in this video should be considered financial or investment advice.
+This video is purely educational and intended to inform you about crypto's OTC market.
+So if that sounds good to you...
+Sounds good to me.
+Punch those like and subscribe buttons, smash that notification bell and let's get into it.
+Now the report we'll be summarizing for you today is titled quote
+OTC Market Review Report 1H25.
+It was written by Wintermute, one of crypto's leading market makers and OTC dealers.
+We'll be summarizing the highlights right here in this video
+and we'll leave a link to the full report in the description for you to come back and read later.
+Wintermute begins by noting that its OTC trading data for the first half of 2025
+found several trends.
+Notably, retail and institutional investors are diverging in their market approaches.
+Institutions continue to focus on major cryptos like Bitcoin and Ethereum,
+while retail is shifting toward altcoins.
+And although memecoin activity has faded, the number of new tokens traded has doubled.
+And this makes sense when you consider that we're finally starting to see some activity
+in the altcoin market.
+Speaking of which, if you're looking to trade crypto,
+then you better check out the Coin Bureau deals page.
+That's where you'll find sign-up bonuses of up to $100,000 on the best exchanges,
+trading fee discounts of 50% and cashbacks on deposits of 75%.
+These deals won't be around for long, so take advantage of them ASAP
+using the link down below or this QR code.
+Back to the vid.
+Now, the report also highlights a 412% jump in OTC options trading compared to the first half of 2024.
+Moreover, the number of traded contracts for difference, or CFDs, has doubled.
+Now, for those unaware, a CFD is a financial contract that bets on the price of an asset
+without actually owning the asset itself.
+It's kind of like a perpetual futures contract.
+Anyway, the report highlights growing TradFi engagement with tokenization platforms,
+including a shift towards tokenized equity.
+Notably, Wintermute recorded a 32% increase year-on-year
+in OTC volumes from TradFi institutions for these tokenized RWAs.
+The report also notes that trading volumes also spiked in early 2025,
+but normalized in Q2 as macro catalysts subsided.
+Activity was also increasingly concentrated around established assets like BTC and ETH
+and is consolidating around specific themes.
+The report then points to the improving regulatory landscape with regulatory clarity
+coming from the EU markets in Cryptoassets Bill or MICA
+and the Genius Act in the US, the latter of which was just signed into law by President Trump.
+Next, Wintermute reveals that its OTC spot volumes in the first half of 2025
+outperformed overall exchange volumes by 2.4 times.
+Specifically, spot trading on centralized exchanges grew by 7%,
+while OTC volumes rose by 18%, indicating that institutional investors
+prefer executing large trades outside of exchanges.
+The report then turns to OTC derivatives,
+which have seen major growth in the first half of this year,
+largely driven by institutional demand.
+CFDs continued their momentum from last year,
+with the number of tradable underlying assets rising from 15 to 34,
+reflecting growing interest in capital-efficient exposure to crypto
+without directly owning those underlying assets.
+Options trading saw little change in asset variety.
+BTC and ETH still made up 96% of OTC volumes.
+But annualized trading volume have soared 230% from 2024
+and 412% compared to the first half of 2024.
+And the surge is driven by investors using options to hedge risk
+and also to generate some yield.
+Now, the report also notes that CFDs are expanding into altcoins.
+ETH has already nearly doubled its share of CFD volumes since 2024,
+while XRP and sole activity has dropped.
+Still, overall altcoin CFD volumes have tripled,
+with institutions showing a clear interest in cryptos
+with a market cap below $1 billion.
+Okay, the next part of the report highlights the growing gap
+between institutional and retail investors.
+In 2024, both were rotating into smaller, riskier projects,
+but this wasn't the case for the first half of 2025.
+Institutions stuck with larger cryptos,
+while retail pushed deeper into smaller altcoins.
+The report notes a few reasons for this.
+First, institutions face a few constraints,
+like limited altcoin liquidity and mandates
+that keep them from taking on too much risk.
+At the same time, BTC and ETH have regained appeal with institutions,
+driven by heavy accumulation from governments like El Salvador
+and corporations like Strategy.
+Meanwhile, retail investors, free from the same restrictions,
+have been rotating into altcoin narratives,
+including the likes of decentralized AI, DeFi, Deepen, and others.
+Wintermute notes that, quote,
+we believe this change reflects a shift in risk appetites
+and is an early sign of the market maturing,
+with institutions sticking with proven majors,
+while retail explores the longer tail of innovation.
+To illustrate this split, the report includes a chart
+showing OTC spot volumes changes in major cryptos.
+From 2023 to 2024, institutional OTC shares dropped from 74% to 67%,
+and retail shares from 55% to 46%.
+Between 2024 and 2025, though, institutional allocation didn't budge,
+while retail fell further to 37%.
+The report then looks at trading momentum.
+After a strong 2024, 2025 began with heightened optimism
+as BTC broke through $100,000.
+The report attributes 2024's Q4 rally to the US elections,
+but says momentum steadied after President Trump's inauguration.
+By spring, enthusiasm had waned,
+leading to reduced price action and volatility.
+The report also notes that, unlike the 2024 hype
+around meme coins and AI agents,
+there wasn't really a dominant theme in the first half of 2025,
+meaning that broader market sentiment stayed relatively muted.
+The report adds that, quote,
+with BTC hovering near all-time highs,
+the market remains in a wait-and-see mode,
+buoyed by headlines but lacking a unifying catalyst.
+Well, safe to say that since this report was published,
+investors have decided that they've waited way too long,
+because altcoin season is flying, am I right?
+In any case, this trend was reflected in 2025 OTC flows,
+where institutions front-loaded activity in the first few months before easing off,
+while retail has filled the void since by rotating into altcoins,
+something which has become more obvious in spot markets in recent weeks.
+Next, Wintermute explains that in 2025 OTC spot flows have moved towards
+institutions and retail brokers,
+which is evidence of crypto becoming more mainstream.
+Institutional adoption has grown,
+supported by increased regulatory clarity,
+while mainstream advisory is pushing to allocate
+a higher share of portfolios to crypto,
+which is driving retail participation.
+Meanwhile, crypto natives are more cautious than in early 2024,
+due to a lack of stand-out speculative narratives.
+Instead, investors are more focused on regulatory clarity
+and crypto's growing maturity and adoption as an asset class.
+Okay, the next part of the report takes a closer look
+at trading activity in different crypto sectors.
+That's because across all investor types,
+retail, institutional, TradFi,
+capital has been consolidating around nine specific sectors.
+The report ranks these nine sectors by their share of OTC spot volumes,
+with one being the largest and nine being the smallest.
+In order of size, these are as follows.
+Currency networks, including Bitcoin.
+General purpose blockchain networks, including Ethereum.
+Stablecoin protocols.
+Memes.
+Decentralized finance, or DeFi.
+Blockchain utility and tools.
+Media, arts, and entertainment.
+Centralized finance, or SeFi.
+And decentralized physical infrastructure, or Deepin.
+Anyway, throughout 2024 and the first half of 2025,
+the rank of each sector stayed the same.
+But capital became more concentrated in three areas.
+Currency networks.
+General purpose blockchain networks.
+And blockchain utility and tools.
+Elsewhere, smaller sectors like Deepin and SeFi saw the largest declines.
+Notably, retail investors moved to emerging narratives,
+which apparently includes stablecoins.
+Institutional investors have favored crypto infrastructure.
+And a whopping 96% of TradFi capital has stayed with BTC,
+layer 1 cryptos like ETH, and stablecoin protocols.
+In fact, the only shift in rankings in 2025 was stablecoins,
+which overtook memecoins to become one of the top three sectors.
+The report notes that between 2024 and 2025,
+both institutions and retail pulled back from smaller narratives like Deepin and DeFi.
+But they diverged into two areas.
+Stablecoins and media, arts, and entertainment,
+which saw more retail trading and reduced activity from institutions.
+The report adds that stablecoins gained traction in Q2,
+likely due to the then pending stablecoin regulations in the US.
+Conversely, media, arts, and entertainment is rebounding after overheating last cycle.
+A retail is slowly returning while institutions continue to move further away.
+The other divergence is in SeFi, which has seen the opposite play out.
+More trading activity from institutions and less trading activity from retail.
+The report notes that,
+the institutional bid has been driven primarily by names like BNB and Crow.
+The report then asks a question I'm sure many of you are also wondering.
+What about memecoins?
+Well, after dominating in 2024, memecoin activity dropped in 2025.
+Flows have shifted from legacy names like Dogecoin and Shiba Inu
+to newer tokens like Bonk, Dogwith Hat, and Popcat,
+which have grown their trading share from 0.7% to 5.3%.
+But more interestingly, investor behavior has shifted.
+Institutions are sticking to a smaller range of memecoins
+while retail investors have more than doubled the amount of memecoins they're willing to trade.
+That said though, overall spot OTC memecoin volumes are down.
+Annualized activity in 2025 has dropped 29% from 2024 and 17% compared to the first half of 2024.
+As legacy memes like Doge or Shib continue to lose dominance to memes like Bonk,
+Whiff, and Popcat, OTC meme trading has become more fragmented.
+The report adds that,
+this is evidenced by the share of smaller, long-tail memecoins
+rising from 0.7% to 16.1% of total flow.
+Unsurprisingly, this memecoin expansion was almost entirely driven by retail,
+with 23 memes now being traded OTC.
+Next, the report analyzes different sub-sectors in crypto
+to see what's driving the trading activity in each narrative.
+In their words,
+this granular approach allows us to later zoom out
+and identify more structural trends across both existing and emerging narratives.
+The report then reveals which sub-sectors have seen an uptrend or downtrend in OTC activity.
+In the blockchain utilities and tools sector,
+the sub-sectors that have seen the uptrend are interoperability cryptos and scalability cryptos.
+Meanwhile, the data and analytics providers are the only sub-sector
+within the utilities and tools narrative that reportedly saw a downtrend.
+In the DeFi narrative, three sub-sectors were in an uptrend and none were in a downtrend.
+These growing sub-sectors include asset origination and issuance cryptos,
+DeFi infrastructure and data, and managed yield services.
+In the deeper narrative, one sub-sector grew while another declined.
+The area that grew was computation, while storage cryptos were in a downtrend.
+As for the media arts and entertainment sector,
+unfortunately, no sub-sectors experienced an uptrend,
+but the metaverse sub-sector saw a downtrend, which isn't too surprising all things considered.
+Now, in the final part of the report,
+Wintermute takes a reflective look back to its predictions for 2025.
+All in all, there were nine predictions made.
+Six predictions turned out to be accurate, two were partly correct,
+and just one was completely wrong.
+Prediction one was that the US would create a strategic Bitcoin reserve,
+and that China, the UAE and Europe would be forced to follow.
+Wintermute claims it got this prediction right, but we're not so convinced.
+Obviously, the US has created a Bitcoin reserve,
+and more recently Pakistan announced plans to follow suit.
+But as for China, there's only speculation, and there's very little evidence, if any,
+of the UAE or Europe creating strategic Bitcoin reserves of their own.
+Anyway, the second prediction was that a listed company would issue debt or shares
+to accumulate ETH, which was bang on.
+Several firms have done just that in 2025.
+These include Blockchain Technology Consensus Solutions, or BTCS,
+now holding over 31,000 ETH,
+Sharp Link Gaming, now with over 280,000 ETH,
+and Bitmine Immersion, holding 300,000 ETH.
+Wintermute's third prediction also hit the mark.
+A company dividends, acquisitions or mergers would be settled using stablecoins.
+Back in March, MGX Fund Management, which is backed by the Abu Dhabi government,
+completed a $2 billion investment in Binance,
+and this was the largest ever investment in a crypto company,
+and was settled using the USD1 stablecoin.
+The fourth prediction was one that came only part true,
+which was that a core asset manager would launch a memecoin ETF,
+with Doge being a strong contender.
+Well, although multiple asset managers have filed for a spot Doge ETF,
+none have been approved as of yet.
+The SEC has until October to make a final decision.
+The fifth prediction was one that Wintermute got absolutely wrong,
+which was that a member of the FAANG index would launch its own token or major exchange.
+Now, for those unaware, FAANG stands for Facebook, now Meta,
+Amazon, Apple, Netflix and Google, which is now Alphabet.
+Anywho, while companies are now exploring tokenized equity,
+no FAANG companies have jumped on board, at least not yet.
+However, the report states that, quote,
+while admittedly more in the moonshot category,
+we view this as the natural next step in the evolution of tokenized fractionalization.
+Just imagine the potential gains if that were to happen.
+The sixth prediction was only half right.
+A, quote,
+systemically important bank would offer direct spot crypto trading to clients.
+If we're not mistaken though,
+Standard Chartered's most recent announcement that it would start
+offering Bitcoin and Ethereum trading to clients means that this prediction came true after all,
+as it's technically considered to be a systemically important bank.
+The seventh prediction was spot on as well.
+Dispersion trades, which are basically bets on price differences between different cryptos,
+became more popular, boosting demand for structured products.
+Activity in Bitcoin options has surged, a clear sign of market maturity.
+Since the start of the year, open interest in BTC options has nearly tripled,
+from $11.6 billion to $31.3 billion.
+And this shows rising institutional activity and more use of volatility strategies,
+setting the stage for advanced positioning in the future.
+The eighth prediction was also correct.
+A non-EVM Layer 1 and Layer 2 cryptos gained market share, but Ethereum remained dominant.
+Key metrics like TVL, on-chain volume, daily users and market share have remained fairly steady,
+with no real threats to Ethereum's dominance, though some would say this is up for debate.
+And finally, the ninth prediction was also correct,
+which was that DEXs will see strong gains in market share if abstraction products become
+more widely adopted.
+DEXs have continued to capture market share in the spot markets,
+hosting 80% of the total spot trading volumes,
+which is up from 11% in 2024 and 10% from the first half of last year.
+And this growth reflects deeper liquidity and rising user comfort,
+thanks to abstraction tools that simplify on-chain interactions.
+The report notes that if this trend continues,
+DEXs market share will likely keep on rising.
+And with that folks, we've reached the end of this report,
+and I'll remind you that you can find the full thing in the description below.
+For now though, there's just one more question remaining.
+What does all of this mean for the crypto market?
+Well, if there's one thing that's clear from this report,
+it's that institutional and traditional investors continue to be interested in major cryptos like
+Bitcoin and Ethereum, while retail investors are the ones leading the charge into the broader
+crypto market, even with cryptos being traded OTC.
+What you probably already know is that OTC trades allow large investors to buy or sell
+huge amounts of crypto with minimal impact on the wider market, if any.
+What you might not know though, is that OTC trades actually help support overall market liquidity.
+Since OTC DEXs connect traders that often trade amounts
+far exceeding the daily trading volumes on exchanges.
+Put differently, OTC markets arguably help keep the wheels in motion,
+so a naturally stronger OTC market means a stronger overall crypto market.
+And, as we've learned, the OTC market seems to be booming.
+That said, since this report was published,
+dynamics in the crypto market have shifted somewhat, and for multiple reasons.
+On the one hand, the altcoin market is finally showing signs of life, with many cryptos finally
+getting the long overdue rally that investors everywhere have been praying for.
+On the other hand, the US has taken greater steps towards regulatory clarity,
+with President Trump signing the Genius Act into law on the 18th of July,
+providing some much needed clarity on stablecoins.
+The next big step is the Clarity Act.
+While the Genius Act targets stablecoins, the Clarity Act focuses on market structure,
+which some argue is even more important.
+Among other things, the Clarity Act aims to make digital commodities on mature blockchains
+exempt from the Outdated Securities Act of 1933,
+and hands market oversight from the SEC over to the CFTC.
+Notably, the Clarity Act has already passed the House and is headed to the Senate,
+along with Representative Tom Emmer's bill to block the Fed from launching a dystopian-style
+central bank digital currency, or CBDC.
+And you can learn more about the Clarity Act right over here.
+Now, the point is that this will attract even more market institutional and traditional investors,
+meaning huge amounts of capital flowing into the crypto market.
+And given that cryptos are already starting to rally like crazy,
+this suggests that many altcoins could rally to new all-time highs,
+even higher than many are expecting.
+So strap in folks, because if you think market sentiment is good now,
+then well, you ain't seen nothing yet.
+Okay, if you enjoyed that video, you'll love our latest one right over here.
+And if you're not subscribed to the channel yet, well, you can do that right over here.
+That's me, Next, signing off.
+Thank you guys very much for watching, and I will see you in the next video.

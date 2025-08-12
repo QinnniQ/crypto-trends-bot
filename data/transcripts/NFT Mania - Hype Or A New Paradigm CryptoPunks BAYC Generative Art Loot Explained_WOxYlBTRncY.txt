@@ -1,0 +1,177 @@
+NFTs are clearly one of the hottest topics in crypto at the moment. CryptoPunks,
+Autoglyphs, Bored Apes, Pudgy Penguins, some of them selling for hundreds of thousands or even
+millions of dollars. So are NFTs just a hype or a paradigm change? What are some of the most
+interesting NFTs out there and what are the biggest challenges of this new space? You'll
+find answers to these questions in this video. Before we begin, if you want to learn more about
+decentralized finance and the technology behind it, make sure you subscribe to my channel,
+hit the bell icon and enable all notifications. You can also consider supporting us on Patreon
+and joining our community on Discord. Let's start with a quick recap of what NFTs are in the first
+place. An NFT or a non-fungible token is a way of representing ownership in the digital world. Since
+the dawn of our civilization, humans have been collecting rare items from seashells and gems
+to coins, post stamps and Pokémon cards. NFTs are just digital versions of that. Collectibles,
+pieces of art, game items, domain names and even complex bespoke financial instruments,
+all of these can be represented as NFTs. In contrast to cryptocurrencies like Bitcoin or
+Ether, where each unit is interchangeable, NFTs are unique, at least in most cases.
+The creator of an NFT project can decide on the exact parameters of their NFTs.
+Some of the common examples are only one NFT per unique piece of art. Artists that create individual
+pieces like people follow this approach. A collection where each item has a unique
+combination of different traits, CryptoPunks, Bored Apes. A collection where there is a set
+number of the same item in the collection, usually used for card collectibles like Mercurio cards.
+The scarcity of individual NFTs can be verified on the blockchain where the project was created.
+For example, we can tell with 100% certainty that there were only 10,000 original CryptoPunks
+created on Ethereum. The authenticity of NFTs can also be instantly verified by checking
+that the NFT we own was created using the original smart contract of a particular project.
+The blockchain also provides a quick way of checking the provenance of each individual NFT,
+which is basically the history of its ownership. If you'd like to dive a bit deeper into the
+technical aspects of NFTs and learn, for example, what fungibility is or what different NFT standards
+like ERC721 and ERC1155 are, you can check out my previous video about NFTs here.
+Now let's go through some of the most popular NFT projects out there.
+We couldn't start this with anything other than CryptoPunks. CryptoPunks,
+very often called just Punks, are one of the oldest and one of the most significant NFTs.
+The project that was pretty much forgotten about during the depth of the 2018-2019 bear market
+resurfaced at the end of 2020 and took the world by storm. CryptoPunks, launched in June 2017 by
+Larva Labs, a two-person team, was one of the first NFT projects presented as a collection of
+similar items, where the uniqueness of each item was achieved by having a distinctive combination
+of different traits, such as hats, sunglasses and hairstyles. Each Punk is a unique, algorithmically
+generated 24x24 pixel art image. In 2021, it's crazy to think that CryptoPunks, now worth around
+$350,000 for the cheapest one, were once claimable for free and users were able to mint them by
+paying a few dollars for an Ethereum transaction. CryptoPunks initially started gaining popularity
+within the crypto community itself, but this quickly expanded to the outside world, with famous
+artists and celebrities joining the bandwagon. Jay-Z, Odell Beckham Jr., Steve Aoki, to name
+just a few. In May 2021, a collection of nine Punks was sold at Christie's, one of the most
+famous auction houses, for a whopping $16.9 million. Another prominent auction house, Sotheby's,
+sold a rare Alien Punk for an astonishing $11.8 million in June. In August 2021, Visa announced a
+purchase of a CryptoPunk as an addition to their collection focused on historically significant
+items in commerce. This basically skyrocketed the floor price for a Punk, which is the lowest
+amount that someone is willing to sell a Punk for, from around $100,000 to as much as $400,000.
+CryptoPunks are clearly one of the most significant NFTs and are very often referred to
+as the holy grail for any NFT collector. Punks also initiated another phenomenon, the PFP mania.
+PFP, which stands for Profile Picture, is a type of NFT that is suitable for an online avatar.
+Punk owners, including the previously mentioned celebrities, started using Punks as their profile
+pictures on Twitter. This quickly led to the creation of new PFP-focused NFT projects,
+as people who were already priced out of Punks started searching for something more affordable.
+The launch of multiple PFP-focused projects ignited the PFP mania, with people changing
+their profile pictures to NFTs on Twitter, Discord, Telegram, or even LinkedIn.
+One of the earliest projects that benefited from the PFP phenomenon was Bored Apes Yacht Club,
+often just called Bored Apes or B-A-Y-C. Bored Apes, created in April 2021 by Yugo Labs,
+launched a 10,000-element NFT collection featuring high-resolution image art of apes
+with different traits, from common apes with normal fur and beanies to extremely rare ones
+with golden skin and crowns. Yacht Club in the name wasn't chosen by accident, as each NFT
+from the collection acts like a membership card and grants access to member-only benefits,
+one of them being a merch shop. Bored Apes, initially sold by Yugo Labs for 0.08 ETH,
+are now trading in the range of 40 ETH for the cheapest ones. B-A-Y-C is a good example of a
+project that created a strong community of NFT holders. Similarly to Cryptobanks, Bored Apes
+will be featured in one of the upcoming Christie's and Sotheby's auctions. The PFP mania also resulted
+in the creation of multiple other PFP NFT projects. Most of them were just low-effort clones
+of one of the popular projects, but there were also exceptions. Some of them include
+Cool Cat NFTs, featuring a collection of blue cats with different features, was created by an
+artist, drawing the same blue cat for over 10 years. Pudgy Penguins also gained a lot of
+traction and were even featured in the New York Times. Their main feature, they are super cute.
+World of Women, a collection featuring unique, cool and diverse women,
+was created with the aim of bringing more diversity and representation into the NFT space.
+Besides completely new NFTs, the teams behind already successful projects can decide to launch
+new collections, very often inspired by their original work. The two most prominent examples
+are MiBits, released by the creators of Cryptobanks, and Mutant Apes, released by
+the creators of Bored Apes. This approach allows for expanding the existing communities
+and including people who might have been priced out of the original collections.
+Although PFPs seem to be the main focus of the NFT community, let's not forget about other super
+interesting niches within the NFT space, one of which is Generative Art. Generative Art lies at
+the intersection of art and code. Artists, instead of drawing pieces of art by themselves,
+write an algorithm that generates the art. The art is always generated at the time of
+minting a new NFT and uses an input parameter, such as a transaction hash, that will be forever
+associated with this particular token. This allows the users to feel like they are taking
+part in the art creation, as two different users minting a piece of art from the same collection
+would end up with different results. Autoglyphs are a prime example of Generative Art.
+The collection of 512 items, also created by Larvalabs, was generated purely on chain.
+This was possible as the art is created out of basic ASCII characters that can be displayed
+as a result of executing the Autoglyphs smart contract itself. At the time of creation,
+each Autoglyph had a different probability for drawing certain patterns, hence some pieces
+are more rare than others. At the time of making this video, the cheapest Autoglyphs are listed for
+475 ETH, which is worth around 1.8 million dollars. Other extremely popular pieces of Generative Art
+come from Artblocks. The art featured on the Artblock platform is created using a script
+written in a programming language called 5PJS. Each collection has its own script that is stored
+on the Ethereum blockchain. A program written in 5PJS can generate different shapes with different
+organizations, textures or colors, depending what the creator wants to achieve. Artblocks
+curated is the most prestigious collection, with the most sold after pieces of Generative Art,
+such as Ringer by Dimitri Shernyak and Fidenza by Tyler Hobbs. The most expensive Fidenza,
+sold for 1,000 ETH, worth 3.3 million dollars at the time of purchase in August 2021.
+Generative Art explores an interesting concept of artists becoming coders, or maybe coders becoming
+artists. What happens if a generative algorithm could be created without any human help? Sounds
+quite sci-fi for now, but I wouldn't be surprised if in the future the most expensive piece of art
+was an NFT created by some kind of an AI. Besides PFPs and Generative Art, there are plenty of other
+types of NFTs available. Artists can create NFTs for their individual pieces of art. A good example
+is Beeple, who sold the most expensive NFT to date, representing 5,000 days of his work for 69
+million dollars at Christie's in March 2021. Fun fact, if Beeple kept the 69 million dollars in ETH,
+it would be worth over 140 million dollars now. Gaming is another area where NFTs have become
+more and more important. Axie Infinity, Cryptokitties, and Avegochi are just a few good examples here,
+and they probably deserve a whole separate video in the future. Metaverse is another big area with
+huge potential. For example, the land sold on Decentraland is represented as NFTs. I also
+wouldn't be surprised to see more and more popular PFPs being used as avatars in the Metaverse.
+There are also a lot of non-PFP collections that have become really popular. One of them is Ether
+Rocks, where NFTs of different rocks are being sold for millions of dollars. The main feature,
+they were one of the first NFTs and there are only 100 of them. They were even recently featured in
+one of the popular business TV programs. Besides pictures, NFTs can also represent short clips or
+music. NBA Top Shots became extremely popular at the beginning of 2021 by selling clips of
+the most viral moments in NBA. Euler Beats is a set of algorithmically generated music
+stored on chain on Ethereum. Even tweets on Twitter could be sold as NFTs. The first tweet
+ever by Jack Dorsey was sold in March 2021 for 2.9 million dollars. With new NFT projects launching
+pretty much every day, we also have to remember about a few challenges of this still extremely
+new space. To start with, not all NFTs are stored in the same way. One of the main features of NFTs
+is their provable ownership, verifiability and provenance. As we know, this is achieved
+by creating NFTs on decentralized blockchains such as Ethereum. But here comes a problem.
+Although the beautiful high-resolution pictures of apes or penguins are cool, there is no way the
+image files representing them can be stored on the blockchain itself. This leads to a situation
+when most NFTs only include a link to the actual art and its metadata, which is then stored off
+chain. There is a whole range of options when it comes to storing data off chain. Some projects
+use centralized servers, others try to improve the situation by uploading their metadata and art to
+IPFS. Other solutions, like Arwith, are also gaining traction. Generative art and certain
+low-resolution NFTs are some of the exceptions here, as they can be entirely stored on chain.
+Intellectual property rights are also another big issue. This is mostly as there are a lot
+of inconsistencies between different projects. Some NFTs allow the owners to use them however
+they want. Other projects limit the potential use of their NFTs and still assign the IP rights to
+the creators. Ethereum gas fees can also certainly be a problem. Most NFT drops are launched in the
+first-come first-served model. This attracts a lot of bot activities and can spike up gas prices
+to crazy amounts, resulting in normal users either not getting into the sale or massively overpaying
+for their mint. Other models, such as Dutch auctions notably used by art blocks, are also
+being explored here. It will be interesting to see if NFTs get adopted on layer 2, as this could
+certainly alleviate some of the gas pressures from Ethereum. Price discovery in an illiquid market,
+such as the NFT market, can also be a problem. Fortunately, there are a lot of projects focusing
+on tokenizing NFTs, which helps with improving liquidity and can be used for things like
+discovering the floor price of certain collections. NFTX and fractional art are some of the popular
+solutions here. Another major challenge is the infrastructure for buying, selling and displaying
+NFTs. At the moment, most trading volume happens on OpenSea, where the curation of projects is
+centralized. It would be amazing to see OpenSea decentralizing in the future and other more
+decentralized solutions getting adopted over time. In the end, I believe that most of these
+challenges will be solved sooner or later and they are just normal pain points of a completely new
+and exciting industry. Besides Ethereum, which has become pretty much the standard for launching
+NFTs, there are other layer 1s that allow for minting NFTs. Solana, Thesis and Polygon are
+gaining some traction in this field. Another interesting development was the creation of
+DAOs with the main purpose of buying NFTs. People who wouldn't be able to afford certain NFTs by
+themselves can come together and form a DAO. Both NFTs can be later tokenized and distributed to
+the members of the DAO. A good example here is PleaserDAO, that bought the original Dogecoin
+NFT for 4 million dollars. It will also be interesting to see NFTs being used as marketing
+tools. Projects will be able to airdrop their own NFTs or invite certain NFT owners to an
+early release of their products. It's also amazing to see new things being tried in the NFT space,
+one of which is the recent launch of Loot. Instead of creating an NFT with an image
+described by certain metadata, Loot flipped the whole process upside down.
+The Loot NFTs only contain the metadata that describes a set of items in a hypothetical
+RPG game. It's up to the Loot community to decide how to use or even how to visualize these items.
+It will be super interesting to see how far Loot can go in the future. There are pretty much no
+boundaries on how far such an idea can be pushed, but the main challenge is to coordinate the
+community over long-term goals instead of focusing on quick wins like unlimited airdrops.
+With OpenSea volume hitting over 3 billion dollars in July, we are clearly in a very
+interesting time for NFTs. Celebrities using Bored Apes as their profile pictures,
+major business channels discussing EtherRocks, Visa buying CryptoPunks and new NFT funds popping
+up. On the one hand, it feels like NFTs just got their mainstream attention. On the other hand,
+the market, with hundreds of projects launching every week, may look a bit overheated.
+In the end, it's worth noting that this is very common in a completely new space and resembles
+a lot of periods of exponential growth in crypto. Personally, I think that whatever happens to the
+market in the short to medium term doesn't really matter and NFTs are here to stay.
+The quality projects will most likely appreciate in value over time.
+The same cannot be said about thousands of copycat projects and low-quality cash grabs.
+I believe that NFTs will completely revolutionize the internet. In the future,
+most things we own in the digital world will be NFTs. Game items, collectibles,
+cool pieces of art and even our metaverse gear. All of these have the potential to become NFTs.
+So what do you think about NFTs? What are some of your favorite projects in this space?
+Comments down below. And as always, if you enjoyed this video, smash the like button,
+subscribe to my channel and check out Filematics on Patreon to join our community. Thanks for watching!

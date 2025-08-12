@@ -1,0 +1,126 @@
+The last few years have been rough for the vast majority of DeFi protocols.
+However, with recent peaked interest in crypto, we may be at the cusp of a new era of DeFi adoption.
+So which DeFi protocols survived the crypto bear market?
+What are some of the new, promising projects that can redefine this space?
+And what can we expect from DeFi in 2025 and beyond?
+You will find answers to these questions and more in this video.
+Before we dive in, if you want to learn more about decentralized finance and the technology behind it,
+make sure you subscribe to the channel, hit the bell icon, and enable all notifications.
+Let's start by rewinding to the bear market.
+Spanning from late 2021 to 2024, this phase was characterized by significant downturns in cryptocurrency prices,
+investor skepticism, and regulatory uncertainties.
+It was during these trying times that DeFi's foundations were tested and strengthened.
+During the downturns, the total value locked across all DeFi protocols plummeted from $180 billion,
+all the way down to $30 billion, a massive drop of almost 85%.
+Ethereum, the backbone of DeFi, faced its own set of challenges.
+While remaining the most popular and the most decentralized, the network struggled with scalability issues.
+The community eagerly awaited the merge and broader adoption of Layer 2 solutions
+with the promise of greater scalability and efficiency.
+Despite launching in the depths of the bear market, emerging L2 platforms, such as Arbitrum and Optimism,
+immediately began offering lower transaction costs and improving the overall throughput of the Ethereum ecosystem.
+These innovations were not just a stopgap, but a preview into a future where Ethereum could scale efficiently to meet increasing demand.
+The growing adoption of L2s posed its own challenges for the Ethereum ecosystem,
+mainly the fragmentation of liquidity and lack of composability between different scaling solutions.
+Meanwhile, other ecosystems presented a different approach.
+Solana, for instance, known for its high speed and low transaction costs,
+doubled down on its monolithic design narrative.
+This started attracting a different set of developers wanting to build cheaper and more composable applications.
+Solana gained significant market share despite its ecosystem being hit particularly hard by the bear market and the collapse of FTX.
+The bear market also revealed the shortcomings of multiple centralized players.
+This ranged from SIFI lending platforms, such as BlockFi and Celsius going under,
+to centralized exchanges like Coinbase Binance and Kraken struggling with regulatory pressure.
+It's worth remembering that most DeFi protocols worked exactly as expected during the same period.
+Users could trade on DEXs, lend and borrow on DeFi lending platforms,
+use liquid staking protocols and more without relying on centralized players.
+This situation showed us that despite its challenges,
+DeFi offers a unique value proposition driven by its transparency, auditability and decentralization.
+The previous bear market was more than a period of decline.
+It was a period of evolution, setting the stage for the next chapter of DeFi.
+Emerging from the bear market, one thing became obvious.
+Despite the vast majority of already established DeFi protocols remaining the leaders in their own categories,
+a set of new protocols took the lead in the new market sector or tried to challenge the incumbents.
+In the Ethereum ecosystem, Uniswap further ingrained itself as a go-to decentralized exchange, capturing most of DeFi's volume.
+The Uniswap team announced a new version of the protocol, Uniswap v4, in June 2023.
+The new version introduces a powerful new tool for developers called Hooks
+that provides a way to inject custom logic right into a liquidity pool's lifecycle.
+Uniswap v4 is being developed in the open with the community and is expected to launch soon.
+Aave, the biggest lending protocol in DeFi, has surpassed $30 billion in net deposits across 13 different networks.
+The team behind Aave also introduced a new decentralized stablecoin called Go.
+Users can borrow the Go stablecoin on Aave at a cheaper rate than the other more established stablecoins, such as USDT or USDC.
+Speaking about stablecoins, another established DeFi protocol, Maker, iterated on its design
+and started introducing innovative types of collateral, including US Treasury bills.
+This contributed to the emergence of another narrative in the DeFi space, known as RWA, which stands for Real-World Assets.
+Maker has been recently rebranded to Sky.
+In the derivatives space, Synthetix introduced v3, completely overhauling the protocol from scratch.
+With v3, Synthetix became a layer of liquidity on which any derivatives market can be built.
+Outside the established DeFi protocols, a new wave of players joined the emerging staking sector.
+Lido, with over $30 billion in staked tokens, established itself as the biggest liquid staking protocol.
+However, Lido has recently seen a lot of competition from a plethora of newer protocols, including Rocketpool, METH and Coinbase ETH.
+Another adjacent sector, called restaking, has also emerged outside of staking.
+In short, restaking allows for reusing Ethereum validators to secure a completely different network or protocol.
+Eigenlayer, a leader in this category, has accumulated over $14 billion of TVL.
+This, in turn, created a liquid restaking market.
+EtherFi, a key player in this category, amassed over $8 billion in liquid-restaked ETH.
+Athena, Morpho and Pendle are other protocols that rose to prominence during the bear market.
+Each one accumulated over $3 billion in TVL and became leaders in their respective categories.
+Athena allows users to create synthetic dollars with internet-native yield.
+Morpho specializes in creating efficient lending primitives with permissionless and isolated market creation.
+And Pendle allows users to benefit from fixed, rather than fluctuating, yield in DeFi.
+Staying in the broader Ethereum space, we saw a lot of DeFi development on L2s, which de facto became their own ecosystems for DeFi experiments.
+Arbitrum, with over $18 billion in TVL, positioned itself as a go-to place for DeFi activities.
+GMX, a decentralized spot and perpetual exchange on Arbitrum, stands out as one of the new protocols that gained traction during the bear market.
+BASE, an L2 build on top of the OP stack, has also seen a big increase in DeFi activities.
+The TVL on BASE has recently crossed the $10 billion mark, making it the second biggest L2 by TVL after Arbitrum.
+On BASE, Aerodrome became the biggest DEX despite facing competition from Uniswap.
+Other L2s, such as OP Mainnet, Blast, Linia, ZKSync, Starknet, and Scroll, also continued their development, trying to find their niche and compete for users' and developers' attention.
+Outside of the Ethereum ecosystem, DeFi protocols on other L1s also went through a defining period.
+On Solana, DEXs and DEX aggregators, such as Orca, Radium, Jupiter, and Drift, emerged from the depths of the bear market.
+They started handling more and more volume, fueled by the memecoin mania, they even surpassed DEXs on Ethereum.
+Pump.Fun established itself as a go-to platform for launching new memecoins and, despite recent controversies, contributed to a large volume of transactions on Solana.
+In the lending space, Kamino started rapidly growing its TVL, recently reaching over $2 billion.
+New innovative protocols, like Gito, emerged, combining liquid staking with MEV rewards.
+One of the most pivotal moments for the Solana ecosystem was the Gito airdrop, which ignited significant interest and attracted substantial capital, especially from speculators anticipating future profitable airdrops.
+It is often compared to the Uni airdrop invigorating Ethereum's DeFi ecosystem in 2021.
+There were also DeFi protocols that decided to launch their own chains.
+This was particularly visible in the resource demanding trading space, with exchanges such as DYDX and Hyperliquid being the prime examples.
+As we reflect on all of these developments, it's clear that this period was not just about recovery.
+It was a period revolutionizing the way we think about decentralized finance, a true DeFi renaissance.
+At the time of this video, the total TVL across all DeFi has rebounded to approximately $120 billion.
+While still below the all-time high of $180 billion, this marks a significant recovery from the $30 billion low, highlighting the resurgence of the DeFi space.
+Now, as we head into 2025, let's dive deeper into upcoming innovations.
+In the Ethereum ecosystem, we expect DeFi activities to continue moving into L2s.
+These new networks will continue to play a pivotal role, enhancing Ethereum's capabilities and allowing for greater transaction throughput.
+Driven by the additional data availability space, we can expect to see even more L2s launch in the future.
+The competition in the L2 space is fierce, and projects will try to differentiate themselves in various ways.
+Outside of the Ethereum ecosystem, Solana, with its high-speed and low-cost transactions, will carve out its own niche in the DeFi space.
+One of the big upcoming events in the Solana ecosystem is the launch of Fire Dancer, a new validator client built by Jump.
+The aim is to increase Solana's throughput, resilience, and efficiency.
+Similarly to the competition in the Ethereum L2 space, we can already see a plethora of L1s coming to fruition.
+Projects like Aptos, Sui, and SEI all compete with Solana for being the fastest blockchain.
+We also have some highly anticipated new players joining the competition, such as Monat, which specializes in parallel execution,
+Berachain, which uses proof of liquidity as a consensus mechanism,
+and Sonic, a revamped phantom chain optimized for speed and efficiency.
+Tokenization is another big area for DeFi yet to conquer.
+This space, although discussed pretty much since the inception of the crypto industry, has so far been hindered by regulatory uncertainties.
+It's hard to predict exactly when, but I would expect to see the vast majority of assets in the world eventually being tokenized and tradable in DeFi.
+This would include stocks, bonds, commodities, real estate, and other financial assets.
+Finally, DeFi innovations are unlikely to slow down.
+We can expect continued advancements in areas such as enhancing the speed and resilience of DeFi infrastructure,
+improving user experience through better wallet designs and simplified cross-chain transactions,
+and exploring crossovers between DeFi, AI, and gaming.
+As we venture into 2025, the DeFi landscape presents a remarkable picture of resilience, innovation, and growth.
+After the bear market and being stifled by unclear regulation,
+DeFi has not only recovered, but has also paved new pathways for financial technology.
+Key protocols, such as Uniswap, Aave, and Sky, have endured and evolved,
+introducing advanced features and signaling robust growth in the DeFi ecosystem.
+The rise of L2s with projects like Arbitrum, Base, and OP Mainnet marks another frontier in scalability and user adoption.
+Outside of Ethereum, Solana and other new innovative L1s compete for user attention, trying to increase their market share.
+In conclusion, as DeFi continues to mature and develop,
+it stands at the forefront of redefining the financial landscape,
+bridging gaps and creating a more interconnected and accessible financial ecosystem for years to come.
+It's going to be fascinating to continue watching how this journey unfolds.
+So what do you think about DeFi renaissance?
+What are some of the most anticipated projects you're waiting for? Comment down below.
+And as always, if you enjoyed this video, smash the like button, subscribe to my channel,
+and check out Fidematics on Patreon to join our DeFi community.
+Thanks for watching!

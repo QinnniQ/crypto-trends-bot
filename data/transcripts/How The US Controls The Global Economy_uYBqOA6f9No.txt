@@ -1,0 +1,1052 @@
+I think that we are at the precipice of a major shift in terms of how cross-border payments work.
+China has by far the biggest and most advanced state-backed project to do this through both the
+ECNY as well as Enbridge, this platform that they built with other central banks.
+And so the question is, can the U.S. retain its lead?
+Welcome to Bankless, where today we explore the frontier of economic sanctions and internet money.
+An interesting combination. This is Ryan Sean Adams. I'm here to help you become
+more bankless. I've always wanted to do a deep dive in this somewhat nerdy topic.
+This is America's superpower of economic sanctions. And our guest today, Edward
+Fishman, provides a crash course on this. Make no mistake, this is very much a crypto topic
+because the power of the U.S. to sanction comes from the dominance of the dollar.
+This is a topic we often discuss on Bankless. And not only the dominance of the dollar,
+but the dominance of the U.S. banking system. Ninety percent of all transactions are settled
+in the dollar today. But in the future, Edward thinks countries will have more than one option.
+They can either stay in the U.S. system, they can move to the new Chinese digital currency,
+or, and this is the most interesting, they can set up shop in crypto, the internet money system.
+Few things we discuss. Why sanctions are more powerful than tanks and missiles.
+The 2015 Iran sanctions. What it feels like to be cut off from the dollar.
+The 2022 Russia sanctions. How Ed found himself on Russia's sanction list.
+The effectiveness of sanctions. U.S. dollar supremacy. Stable coins as America's best hope.
+And whether Ed thinks crypto is a tool to evade sanctions or a tool for economic freedom.
+Please enjoy this conversation with Edward Fishman on America's financial super weapon.
+In the Wild West of DeFi, stability and innovation are everything. Which is why you
+should check out FRAX Finance. The protocol revolutionizing stable coins, DeFi, and Rolex.
+The core of FRAX Finance is FRAX USD, which is backed by BlackRock's Institutional Biddle Fund.
+FRAX designed FRAX USD for besting class yields across DeFi, T-bills, and carry trade returns
+all in one. Just head to frax.com, then stake it to earn some of the best yields in DeFi.
+Want even more? Bridge your FRAX USD over to the Fraxtil Layer 2 for the same yield plus
+Fraxtil points and explore Fraxtil's diverse Layer 2 ecosystem with protocols like Curve, Convex,
+and more. All rewarding early adopters. FRAX isn't just a protocol. It's a digital nation
+powered by the FXS token and governed by its global community. Acquire FXS through
+frax.com or your go-to DEX. Stake it and help shape FRAX Nation's future.
+Ready to join the forefront of DeFi? Visit frax.com now to start earning with
+FRAX USD and staked FRAX USD. And for bankless listeners, you can use frax.com
+slash r slash bankless when bridging to Fraxtil for exclusive Fraxtil perks and boosted rewards.
+Imagine a world where traditional finance meets the power of blockchain seamlessly. That's what
+Mantle is pioneering with blockchain for banking, a revolutionary new category at the intersection
+of TradFi and Web3. At the heart is UR, the world's first money app built fully on chain.
+It gives you a Swiss IBAN account, blending fiat currencies like the euro, the Swiss franc,
+the United States dollar or the renminbi with crypto all in one place. Enjoy real world
+usability and blockchain's trust and programmability. Transactions post directly
+to the blockchain compatible with TradFi Rails and packed with integrated DeFi futures. UR
+transforms Mantle Network into the ultimate platform for on-chain financial services,
+unifying payments, trading, and assets like the MI4, the METH protocol, and Functions FBTC,
+backed by developer grants, ecosystem incentives, and top distribution through the UR app,
+reward stations, and bi-bit launch pool. For MNT holders, every economic activity in UR
+drives value back to you, embodying the entire stack and future growth of this super app ecosystem.
+Follow Mantle on X at Mantle underscore official for the latest updates on blockchain for banking.
+That's x.com slash Mantle underscore official.
+Bankless Station, very excited to introduce our next guest. Edward Fishman is a senior
+research scholar at Columbia University. And before that, he spent about a decade in government
+designing sanctions on Iran, Russia, Europe. He knows a thing or two about economic sanctions
+and our topic today, choke points. In fact, he wrote a book called Choke Points, American
+Power in the Age of Economic Warfare. Ed, welcome to Bankless.
+It's great to be here with you today, Ryan. Thanks for having me on the show.
+Okay. So this is primarily a crypto podcast, but we cover all sorts of things related to
+the economy and monetary policy. And I think what we want to do, Eddie, if this is okay,
+is get a crash course from you on financial sanctions, what you call choke points.
+And maybe the way to start this is just to ask the question,
+how does America currently project its power through sanctions today?
+Sure. And I appreciate that question because I think really my main motivation in writing my
+book Choke Points is we hear about sanctions all the time. They're front page news almost every
+single day. And very few people could even answer what they are. Maybe to zoom out for a second,
+economic warfare itself is as old as history. From the beginning of recorded history, states
+have tried to advance their objectives internationally by applying economic pressure
+on other countries, on other states. Historically speaking, though, up until very recently,
+doing that in any meaningful way really required the use of military force.
+So for instance, as recently as the 1990s, the most prominent case of economic sanctions that
+happens in the 1990s is when the US and the United Nations impose an embargo on Saddam
+Hussein's Iraq. This is right after Iraq invades Kuwait, the neighboring state, and annexes it in
+1990. That's ultimately what precipitated the Gulf War. And the goal of the sanctions that were put
+in place and the UN imposed a full embargo on Iraq within 48 hours of Saddam's invasion of 1990
+was to stop Iraq from selling oil on international markets. And this embargo stayed in place all the
+way from 1990 to 2003 up until George W. Bush launched the even bigger second invasion of Iraq.
+And the way that that was implemented, the way that the US and its partners actually set about
+stopping Iraq from selling oil was through a multinational naval blockade. It was by having
+naval ships patrol the Persian Gulf 24-7 for that entire 13-year period. And whenever they saw a
+ship or tanker going in and out of Iraqi ports, and they were suspicious that this might be
+in contravention of the embargo, they would actually dispatch commandos via helicopter
+to land on the ship. And if they found oil on board, to take samples and send it to
+laboratories for testing. So as recently as the 1990s, really hard-hitting economic warfare
+required naval force. If you were a trading power, sometimes even sieges. You go back
+throughout history, it's surrounding a city and stopping anything from coming in and out.
+But what happened in the wake of the 1990s, in the wake of what we now call hyper-globalization,
+when you really globalize the international financial system, when countries like China
+and Russia and the rest of the former Soviet Union that had previously been outside of the dollar
+system, come into the dollar-based financial system, when they start using international
+supply chains, we see the creation of these choke points in the global economy, these parts
+of the global economy where one state has a dominant position, and there are few, if any,
+substitutes. And this is key, the non-substitutability. The most important of those is the dollar,
+just given its incredibly central role in international finance. 90% of all foreign
+exchange transactions have the dollar on one side or the other, and there's $7 trillion worth of
+foreign exchange transactions changing hands every single day. So just the scale is almost beyond
+our comprehension. And the way that the US has come to weaponize these choke points, and we can
+talk about this through the course of the episode, most importantly of all is through that financial
+choke point. It is through now not necessarily putting a ship outside of Iran's ports. That's
+not how the US stopped Iran from selling oil. It was by going to banks in places like China and
+India and Turkey, all of which were importing Iranian oil, and said, if you were processing
+payments for Iranian oil, you have to comply with our policy or we're going to cut you off from the
+dollar. Basically giving a binary choice and being able to weaponize that choke point of the dollar
+based system. What we have today is a system where the US government can impose really devastating
+economic harm on any other foreign country without deploying a single US soldier or sailor into
+harm's way. That's fascinating. There's so many questions that branch from this topic. And I guess
+what you're saying is the concept of economic sanctions and the tool of warfare of economic
+sanctions, that's not new. That's been with us throughout history. But the means to deploy that
+digitally rather than to use the nation state level monopoly on violence and actually deploy
+troops and force the issue in meat space, or now we could do it digitally rather than meat space,
+and that part is all new. I'm wondering if you could give us some history here. On Banklist,
+we're like suckers for just some good stories throughout history. I know your book talks about
+series like the history of economic sanctions, early days, Greek city states, that kind of thing.
+How were these sanctions in the ancient world used and are there stories throughout history
+that show us the power of these things? Yeah. If you look at how the Iraq embargo
+worked that I just mentioned, naval patrols, that really is what economic warfare even looked
+like going back to ancient Greece. The most prominent case of economic warfare in the ancient
+world is Athens on the precipice of what became the Peloponnesian War, this 27 year struggle
+between Athens and Sparta, imposes an embargo on its neighboring city state of Megara, basically
+to try to send us a signal to Sparta about its economic power. And the way that Athens actually
+cut off Megara from trade was through its naval dominance. At the time, Athens had a naval empire,
+so they controlled all of the naval city states around the ancient Aegean, and they had by far
+the biggest navy in the ancient Mediterranean. And so they were able basically to cripple
+Megara's economy with a naval embargo that looked very similar to the Iraq embargo of the 1990s.
+The way that we moved from that old style of economic warfare really comes about by accident.
+I think that's why choke points for some people say it can be very exciting to see how the story
+unfolds because it wasn't necessarily brilliant people sitting behind a room being like, oh,
+well, we can do this incredible new strategy. It was like a series of discoveries. And the first
+really comes after George W. Bush is reelected. So just to reposition our listeners, what was
+happening at the end of 2004? This is right when George W. Bush wins his second term over John Kerry.
+The wars in Iraq and Afghanistan are well underway. The casus belli for the US invasion of Iraq,
+which had been that Saddam Hussein was building weapons of mass destruction and principally
+nuclear weapons by then had already been proven to be false, that Iraq did not have any meaningful
+weapons of mass destruction. And yet at the same time that that discovery came to be confirmed in
+late 2004, Iran, which is right next to Iraq and much bigger and more powerful than Iraq,
+actually was building a significant industrial scale nuclear enrichment program. And so you had
+this really awkward situation for George W. Bush, which he had literally just invaded a foreign
+country and overthrew their ruler to try to get rid of a nuclear program that didn't exist.
+And yet the neighboring country actually was developing legitimate nuclear program.
+And there was no appetite for yet another war in the Middle East. The US was already fighting
+two at the same time. And so there was a question like, what do we do about this? How do we stop
+this really clear and present danger? And especially because Iran, if you think about it,
+was also supporting terrorist groups like Hamas and Hezbollah. And there's real concern that
+if Iran had fissile material, nuclear material, they could give it to a terrorist group that could
+then launch an attack that was an order of magnitude worse than 9-11. And people, there's
+actually this great press conference I recall in my book Choke Point in December of 2004,
+after Bush is reelected, where a reporter asks him, well, why don't we try to do sanctions on
+Iran? And he says, well, we've sanctioned ourselves out of influence with Iran. We don't have any
+influence over Iran anymore. And his logic was that the US had already imposed a domestic embargo
+on Iran. The US wasn't trading anything with Iran. You couldn't buy anything from Iran. If you were
+an American individual or a company, you couldn't sell anything to Iran. And there was no appetite
+for this kind of naval embargo style, more aggressive sanctions that you would imply,
+because that was seen as sort of like on the same spectrum as military force. That could have been
+ultimately a segue to a war with Iran that no one wanted. And so he kind of used sanctions as
+not important, almost feckless. And when he said this, the official in his government,
+this guy named Stuart Levy, who actually winds up playing a really important role in the history of
+crypto too that we could talk about, he's at the time serving as the first undersecretary of the
+Treasury for terrorism and financial intelligence. So the official who oversees US sanctions. And he
+hears Bush say this, and he views it as like a personal challenge. He's like, the president has
+just said that I have no role to play in the top most national security priority. I really need to
+figure this out. And Stuart, he's a brilliant lawyer. He's a soft-spoken guy, but he's got a
+chip on his shoulder. And so a few months later, he's actually in a hotel room, or sorry, he's at a
+hotel restaurant in Bahrain, in the Gulf, in the Persian Gulf, flipping through the Financial Times
+when he comes across an article about a Swiss bank that of its own volition has cut ties with Iran.
+Basically just decided didn't want to do business with Iran anymore. And he kind of has this light
+bulb moment at the time where he says, hold on, maybe it's okay if we can't persuade China and
+Russia and the UK and France and Germany to cut ties with Iran, the governments. Maybe it's okay
+if we don't send a naval blockade into the Persian Gulf. Maybe I can just go around to
+the financial centers of the world, meet with bankers in London and Frankfurt and Dubai and
+Hong Kong and Singapore, bring with me declassified intelligence showing them how Iran was using their
+banks, often unwittingly, to funnel money into its nuclear program and to support terrorist
+proxies like Hamas and Hezbollah and persuade nine out of 10 of them of their own volition to stop
+doing business with Iran. Because they didn't want a front page article saying that HSBC
+is involved in funding Iran's nuclear program. And so he kind of sets this new paradigm of
+government to business diplomacy where he goes around and within a couple of years,
+pretty well isolates Iran from the international financial system, persuades
+most of the biggest banks in the world to quit Iran of their own volition.
+So before Stuart Levy, we didn't do this. The US didn't do this. They didn't impose sanctions in
+I don't know if I call it self-power type way, but it just without any physical force, right?
+Using kind of networks of banks and softer sort of, I guess, a digital touch to all of this.
+We didn't do this before Stuart Levy. That's right. Exactly. We thought of sanctions as
+basically just another sort of way station on the way to actual military force, right? You needed
+the UN to authorize them and then you send an embargo if you're serious. You send a naval
+blockade if you're serious. And that's what's interesting is sometimes in many cases like
+these sanctions, the type of economic sanctions you were talking about previously that nations
+did to one another was a precursor to war, wasn't it? I mean, it was the entry point into war. It
+was almost verging on a declaration of war. Yes, 100%. I think this is the important thing
+when you think about it from a mental standpoint is if you were prepared to go for hard-hitting
+economic warfare, which involved oftentimes the interdiction of cargo, right? Literally
+inspecting ships coming in and out of a port. The way for a foreign government to stop that from
+happening is to physically fire on your ships, sink your ships, right? With torpedoes or missiles,
+right? You could go back to the naval blockades that occurred during World War I and World War II
+where a lot of the naval wars were all about making economic warfare possible on the part
+of the allies or to break blockades on behalf of Germany and its allies. So it was seen as
+a way station to war, something that precipitated war. The advent of this new style of economic
+warfare where you're not using anything besides effectively the self-interest of the private
+sector. Banks deciding either that they don't want the reputational harm of being seen to be
+doing business with Iran or for those who are stragglers, like I said, it's nine out of 10,
+not 10 out of 10 who care about their reputation. For that one out of 10, you can go and say,
+okay, well, if you keep doing business with Iran, you're cut off from the U.S. dollar.
+Yeah. Ray Dalio talks a little bit about the trap, the Thucydides trap that nations often find
+themselves in. He talks about the precursor to hot wars are often economic sanction wars. I recall
+him going through the scenario of Japan, 1930s in the U.S. I don't recall the specific legislation,
+but the U.S., as I recall, basically blocked Japan off sanction, economically sanctioned them,
+cut off their entire supply of oil in the Pacific Islands and that entire region.
+This was, according to historians, a key reason that Japan felt the need to surprise attack
+and launch Pearl Harbor. His point being the economic sanction attack is often a precursor
+to war. It's almost an act of war in itself, and it can get nations into hot war scenarios rather
+quickly. Yeah, that's 100% right. Funnily enough, about a month ago, Ray Dalio and I spoke at the
+same conference and backstage, we had this conversation. He was saying, because I gave
+him a copy of choke points, he gave me a copy of his new book. He was like, yeah, it's all about
+economic warfare. We had this exact conversation. It's true. The Pearl Harbor attacks of Japan on
+the United States were precipitated by a very aggressive American embargo of Japan.
+I do think that we should not be using economic warfare willy-nilly. What I will say, though,
+at the same time is that because of the way that we are prosecuting economic warfare today,
+where it is much more economic warfare by paper. The main characters in my book are not generals
+and admirals. They're bankers, they're lawyers, they're government bureaucrats that are actually
+prosecuting this economic warfare. It is a little bit less risky today, but we ought not
+underestimate the risks when we go ahead with these weapons.
+Who makes these decisions? Where does this reside in the US government? To your point,
+it's not in the Pentagon, it's not in traditional military, yet these are economic attacks of a
+sort. Who's calling the shots for these? Who decides? It strikes me that this is definitely
+not an act of Congress. Does the president essentially sign off on all of these economic
+sanctions? Yeah. Economic warfare is interesting relative to military force in that the president
+does have tremendous power with respect to economic warfare. It's actually what's being
+tested right now in some of the court cases around Trump's tariffs because there's a 1977 law
+called the International Emergency Economic Powers Act, which allows the president to declare a
+national emergency and then effectively cut off any foreign individual or company from the US
+economy, whether the financial system or imports from the United States. It gives the US president
+a lot of power. For instance, the Russia sanctions of 2022, where the US government did everything
+from embargo Russian oil to impose financial sanctions on the biggest banks in Russia. They
+froze the sovereign reserves of the central bank of Russia. All of that was done by President Biden
+with the stroke of a pen, just with executive authority. That was not Congress. The thing that
+is interesting is that Congress also can impose sanctions. Congress can pass laws that have the
+same force. They can basically tell the president, you must impose sanctions on this foreign company
+or foreign individual. What that means is there are two different actors. One of the interesting
+parts of the story of Iran sanctions leading up to the nuclear deal in 2015. Those are probably
+the most impactful US sanctions in modern times. It starts during this Stuart Levy period,
+mostly through executive action, where it's really the Bush administration is passing executive
+orders. It's Levy who's honestly pioneering the policy out of the Treasury Department.
+But then as we get into the Obama administration, and Obama famously wants to reach out a hand to
+Iran and try to do diplomacy, Congress really loses confidence in Obama's strategy and starts
+passing really aggressive sanctions over the head of the Obama administration with oftentimes like
+100 to zero in the Senate. When you pass something with that kind of a majority,
+it's veto proof. If the president vetoes it, Congress can then just override its veto by
+passing the law with a two thirds majority. Look, I was involved in sanctions at the time,
+working at both Treasury and State. The thing that was interesting, I actually had to implement
+some of these sanctions. I was the guy who had to go to places like Singapore and Vietnam and
+Malaysia and talk to shipping companies and oil companies and tell them, if you keep processing
+payments for Iranian oil, you're going to be cut off from the dollar. I was the person who was sent
+out to do those conversations. It actually was very helpful to me because it's an awkward
+conversation to say, I don't want to be in this room, but Congress just passed a bill unanimously.
+I really don't want to be here. That makes it much easier because it's like, you're not the bad guy.
+You're just the guy delivering the news. You're trying to help them. You're trying to help them
+avoid this catastrophic consequence of being cut off from the dollar. In some ways, even though
+we kind of hated it at the time that Congress was breathing down our neck in the Obama administration,
+it winds up being absolutely critical to tighten the screws on Iran.
+That's the stick that the US has, being cut off from the dollar. That sounds terrible, I suppose.
+Could you get into the nuts and bolts of what that actually means? What does that mean for a
+country that's on the receiving end of this or a group of individuals? Iran in 2015, cut off from
+the dollar. In what ways were they cut off? What was the effect on their government,
+the people in power? How did they feel it? Yeah. I'm really glad you asked this because I think
+even within the national security community, even people sitting around the table in the
+Situation Room may not fully understand or grasp. Well, they've never been cut off from the dollar,
+right? They've always had access to it. Exactly. I now have a bit of a taste in this
+because I was sanctioned by Russia in 2022. Not having access to the ruble, it's not quite
+the same, but I have similar stories. Wow. We've got to get into that story, too.
+Yeah. Okay. But first, what does it feel like to get cut off from the dollar?
+Sure. Let's just talk about why the dollar is so important for a second. Oftentimes,
+it's kind of thrown around that the dollar is the world reserve currency, which is true.
+Central banks hold 60% roughly of their sovereign reserves, their foreign exchange reserves in
+dollars and dollar-based assets. Treasuries, primarily?
+Exactly. However, when people really say the dollar is the global reserve currency,
+it's usually what they're trying to say is the dollar is the dominant currency across
+all use cases for currency. The use cases, as probably your listeners know, it's not just
+being a store of value. It's also a medium of exchange and unit of account.
+Yes. When you look at medium of exchange,
+I mentioned earlier, the dollar is involved in 90% of foreign exchange transactions.
+That's a staggering number, 90% of all foreign exchange transactions. Does that mean effectively
+90% of all purchasing activity across the world happens in the dollar?
+Yeah. Look, there are some foreign exchange transactions that are happening because of
+speculation and whatnot. But I do think it is probably the most illustrative statistic of the
+importance of the dollar because it encapsulates everything. Because anytime two countries are
+trading with each other, there is going to be at least one, if not multiple foreign exchange
+transactions that happen. Because a good example, let's say India is selling rice to Saudi Arabia.
+A Saudi bank isn't going to hold rupees. It doesn't make sense for a Saudi bank to hold
+every currency that they may encounter. They'll have Saudi reals because they've got customers
+in Saudi Arabia who deposit their reals in the bank. And then they also have dollars.
+And they have those dollars through this correspondent bank network here in New York
+City, usually through a relationship with an American bank. And so the way that that
+transaction would actually happen behind the hood is that the reals would be converted into dollars
+and the dollars would be converted into rupees to pay the Indian supplier for the rice. So that the
+Indian supplier could then go to the rice farmers and pay them their salary in rupees. So the dollar
+is going to basically be serving as a way station to make this transaction possible, even though
+there's no U.S. company that's clearly involved in the transaction. And that's what makes U.S.
+sanctions really so powerful that you can interdict trade between countries that have nothing to do
+with the United States just because they need access to the foreign exchange market to actually
+make that payment possible. This is also why stablecoin and crypto potentially could be
+a paradigm shift for how the system works. I'm sure we'll get into that later.
+But beyond just also being the default medium of exchange, the dollar is the default
+store value. Beyond the central bank reserves, it's something like 70, 80 percent of equity
+market capitalization is in dollars. Ditto with debt markets. I mean, everything. Basically,
+if you have money right now, most of the time you want to invest it in dollar assets.
+We may be at sort of the end of that story now or the very beginning of the end, but
+so far that is how things have been. And then also when you think about unit of account,
+which is just how are you invoicing international trade? What is the currency that you're listing
+prices at? The dollar is by far the dominant unit of account. And most importantly, in key
+commodities markets like oil, where the global price of oil is quoted in dollars, oil contracts
+generally are in dollars. And if you just think about the scale of the oil market, just how massive
+it is, 100 million barrels of oil a day. I mean, it's just an incredible scale of money changing
+hands every single day. And, you know, the fact that oil is priced in dollars is something I talk
+about in choke points actually winds up becoming a sort of key linchpin of the entire dollar system
+when that deal is struck between the US and Saudi Arabia in the 1970s.
+So for Iran getting cut off from the dollar, what does that feel like?
+Got it. Yeah. And I appreciate you re-centering me on the key question. So what does that mean?
+So for an Iranian company, it means that it's really challenging to do any business outside
+of Iran because you are not able to basically make foreign exchange transactions. So how do you clear
+payment? Even if you have a good that you want to sell to Europe or China or vice versa, how are you
+actually settling that payment? What is the medium of exchange, right? Iran, by the way, when it was
+cut off from the dollar and still to this day, they use a lot of methods that we would consider
+absolutely insane, right? It's like barter, right? Where they're trading lentils in exchange for
+rice or something like that, which is extremely hard and cumbersome to do. They use gold sometimes
+for certain transactions. The reason, though, it becomes even harder for Iran is that you have
+what's called secondary sanctions where let's say even if Iran can decide, you know what,
+we're going to just use the euro to trade with Europe, right? The US can say, well, if you
+transact with an Iranian company under sanctions, you will then be cut off from the dollar.
+You European bank, if you are processing payment with Iran, we're going to cut you off from the
+dollar. And then the European bank has to decide, well, do I care more about access to the dollar
+or do I care about facilitating this trade with Iran? And so to go back to the example
+of oil sanctions, right? I mentioned the oil embargo on Iraq in the 1990s, US naval sailors
+inspecting cargoes. The way that the Iran oil sanctions work, which were even more impactful,
+they cut Iran's oil sales by over 60%. What they did was it was going around to refineries in places
+like China, India, Turkey, and their banks importantly, and saying, if you do not reduce
+your purchases of oil from Iran every six months, basically, if you don't gradually wind down your
+purchases from Iran, you will lose access to the dollar. And so in some ways, it's not even the
+sanctions that are directly on Iran that are the most impactful. It's being able to pressure Iran's
+trading partners. Finally, what does that all lead to, right? What it leads to is a country that
+is not only effectively severed from international trade, but it also generally means that you wind
+up having things like substantial inflation. And so the purchasing power of the population goes
+down. You see living standards go down. You wind up seeing your currency depreciate substantially
+because there's effectively very little demand for your goods because people don't want to trade
+with you. And so it does wind up having broad-based economic effects on the entire country.
+And so one of, I think, the biggest myths about sanctions that you hear policymakers say is,
+oh, well, these sanctions are narrowly targeted at the leadership. They're affecting Ayatollah
+Khomeini or they're affecting Putin. I mean, it is very, very hard to impoverish poop, right?
+I don't think you could do that. We're powerful in the U.S., but we're not that powerful, right?
+But so what generally happens is the brunt of these sanctions is really felt by everyday people.
+And I think what that means, if you're a U.S. government official who's prosecuting economic
+war, you have to have a damn good reason for doing this, right? You shouldn't do this lightly,
+right? Because there are negative externalities. You're making people's lives worse. You're
+generating people who don't like the United States, right? So you have to have a good reason.
+With Iran, I think we did have quite a good reason, which was we were trying
+to get a peaceful resolution to Iran's nuclear program. We were trying to end Iran's nuclear
+program without risking a war. And I think the Obama administration ultimately succeeded with that.
+I think with Russia, the goal was to initially deter Putin from invading Ukraine. That failed.
+But I think ultimately after that, it's about weakening Russia. It's about making Russia
+less able to deploy its military in ways that are bad for not only Ukrainians, but the entire
+international community. And I think those are warranted. But I think in some of these other
+more edge cases of should we be using sanctions or not, you should be default to not using them.
+So use of economic sanctions on a country by the US is absolutely going to have
+large impacts on their economy in a negative way. So I'm sure this impacts GDP. This can increase
+inflation. You're saying that the citizens of the country generally are the ones paying for this,
+but this does have a cost. This does have an economic cost to the country that the US is,
+I guess I could use the word, attacking in this way.
+Can we talk a bit more about the more recent sanctions on Russia? So there are other things
+like cutting them off from the payment network, of course. Maybe you could talk a little bit about
+the tools that are employed here, the sanction stack as it were, because it was surprising,
+I think, to a lot of folks that the US had the ability to just freeze bank accounts of Russian
+oligarchs, effectively seize their assets, take their money. And a lot of US politicians
+were talking about this. So what were the effects in the US-Russia sanctions on Russian oligarchs?
+And mechanically, how did this even work? Sure. Yeah. So I think it's helpful to go back to
+the circumstances of February, 2022, when the big Russia sanctions went into effect right after
+the big invasion of Ukraine. The Biden administration and the rest of America's
+allies and the G7 had fundamentally a problem, which was they needed to maximize the economic
+pain on Russia to try to accelerate a change of heart about his war in Ukraine. But they had to
+do so in a way that didn't have catastrophic consequences at home for us. In the US, the way
+that that manifested was we already had oil prices over $100 a barrel in 2022. Inflation was at a
+four decade high. It was over 7% at the time. And so the Biden administration was really nervous
+about targeting the key export from Russia, which is oil. And so in and of itself, it was a really
+hard problem to maximize pressure on a country like Russia without targeting their main export.
+So what the US and the rest of the G7 did was they focused on finance and technology.
+We imposed blocking sanctions on the biggest banks in Russia, Spare Bank and BTB,
+which fully cut them off from access to the dollar based system. We also kicked a number of the big
+Russian banks out of Swift, which is this financial messaging service based in Belgium. The thing
+that's interesting about Swift that people talk about is you say, oh, this is a huge sanction that
+the US can deploy. Well, actually, Swift is based in Belgium. It's a European Union entity. And so
+it was actually the EU that kicked Russian banks out of Swift. It wasn't the US. The US, of course,
+has quite a bit of leverage over Europe and so can pressure Europe to take that action. It can also
+deploy pressure directly on Swift, which it has done in the past. But in this case, it was actually
+the EU that kicked the Russian banks out of Swift. And then I think the most important sanction of
+them all was sanctions on the Central Bank of Russia. So between 2014, when Russia first invaded
+Ukraine and Axis Crimea and the US put sanctions on Russia, and 2022, the Central Bank of Russia
+and other economic technocrats in Moscow tried to sanction the truth for Russia's economy,
+basically to try to harden themselves for what they thought was going to be a new economic attack.
+And the main way that they did this was through accumulating $630 billion worth of sovereign
+reserves. Basically, they thought if they have this giant stockpile of hard currency,
+even if their banks are cut off from the dollar and the euro, they ultimately can
+defend the ruble, make sure that it doesn't absolutely collapse. They can buy critical
+imports for a long enough time that the crisis will blow over and basically the West will
+eventually come around. And these sovereign reserves, what were they denominated in? Were
+these US treasuries in bonds of other foreign currencies or this is harder assets like gold
+or something like this? It's a really important question. So I mentioned earlier, 60% of sovereign
+reserves globally are dollars, right? Russia really looked like a normal allocation up until
+2018. And in April of 2018, under pressure from Congress, Donald Trump during his first presidency
+imposed unilateral sanctions on a Russian aluminum company called Rusol, which wound up really
+stoking chaos in aluminum markets. The company's stock was cut in half and Trump ultimately pulled
+the sanctions back within like 24 hours. But the lesson that Putin and his team took from that was
+if the West one day goes on an economic offensive against Russia, it's only going to be the US
+acting alone. The Europeans aren't going to follow suit. And so what they did after this action in
+2018 was they actually dumped a lot of their treasuries, over $100 billion worth of treasuries
+and reallocated primarily to the Euro. And so by the time the war starts in 2022,
+of those 630 billion of sovereign reserves, something like 250 billion are in the Euro,
+which is kind of remarkable. You had another 50 billion, give or take, distributed between
+the dollar, yen and pound. And then the rest of it was gold and RMB. And so Russia had this sort of
+untraditional reserve allocation where the biggest part of their reserves was euros.
+And after that was really sort of gold, RMB in dollars. After that, they also, interestingly
+enough, beyond even their reserves, they started using the Euro as their key medium of exchange.
+So between 2018 and 2022, Russia was clearing its cross border payments in euros. Like when
+China and Russia were doing trade, if China was buying oil or gas from Russia, they were paying
+Russia in euros. And that bet ultimately proves catastrophic because one of the upsides, I think,
+of Joe Biden's penchant for multilateralism and working with allies was it wasn't just the US and
+imposed sanctions on the central bank of Russia, it was also Europe. And so to this day, we have
+something like $250 billion worth of Russian foreign exchange reserves sitting in European
+bank accounts. They're denominated in euros. Just frozen. Russia cannot access. Okay, so
+the sanctions against Russia's central bank, you said, were the most impactful, maybe the most
+devastating. So basically all of those foreign reserves that Russia had been hoarding, some
+treasuries, but now mainly diversified into Euro-backed bonds, they were in the stroke of
+a pen or kind of the, I don't know if it's the stroke of the pen or something in some computer
+system, suddenly frozen one day. And so Russia has no, Russia's central bank has no access to
+any of those reserves. Yes. And to add insult to entry to the Russians. So these reserves actually,
+a big part of them is kind of interesting. It's like 200 billion euros that are actually in one
+institution called Euroclear, which is a Belgian institution. And what has been happening now for
+the last, since the end of 2024 or so late in the Biden administration is that the US and Europe
+have been using the proceeds from those frozen assets, basically the interest that it's throwing
+off to finance aid for Ukraine. Wow. And so a $50 billion loan that was basically given to Ukraine
+is being financed, being repaid through the interest proceeds from Russia's sovereign assets.
+All of that money is being used to buy weapons for Ukraine, ultimately to fight and kill Russians.
+So how painful is that for Russia when they get, I don't know in terms of what percent of their
+central bank reserves this was actually, about half was frozen? Yeah. Oh my God. Okay. So
+what does this do to the local currency and basically their monetary policy? It crushes,
+I mean, if you go, I mean, this is the thing that's interesting too, is now people say,
+oh, well look, Russia's weathered the storm. I mean, go back to March of 2022.
+For a full month, the Russian stock market was closed, completely shut down. You couldn't trade
+anything in Russia. The ruble collapsed to something like 135 rubles to the dollar, which
+was by far the lowest it's ever been. And you wind up having, I mean, effectively what happens in that
+scenario, if your currency is completely collapsing, normally what happens is a central
+bank will intervene in foreign exchange markets to try to prop up the value of the currency.
+So let's say Russia had access to its dollars and euros. Sure. It would take dollars and euros,
+go on foreign exchange reserves and buy rubles. And what that would do is it would create demand
+for rubles that then would kind of check some of the demand on the other side of the transaction.
+It's the purpose of having these reserve assets. Exactly. Because if you think about the other
+side of the transaction, it's all these individual Russians who are saying, I don't trust my currency.
+I want to have dollars. They're taking their rubles and converting them into dollars and
+euros, as well as foreign investors who are pulling money out of the country.
+And so that is why you have foreign reserves. They couldn't do that because all of them are frozen.
+What the Russian government did though, actually was quite clever. And what is effectively
+exploiting one of the gaps in the Western sanctions is they told all of the state-owned
+enterprises in Russia, critically, like Rosneft and Gazprom. Rosneft is the state-owned oil company.
+Gazprom is the state-owned gas company. Remember, I got over telling you that the US did not want
+to affect the sales of Russian fossil fuels because they're worried about spiking oil prices
+and worsening inflation in the United States. They forced the Rosnefts of the world to sell
+80% of the dollars that they were accumulating for rubles. And so effectively, they took the
+balance sheets of state-owned enterprises and leveraged them to intervene in foreign exchange
+markets on behalf of the Russian government. And this, by the way, in retrospect, was the key error,
+I think, that the sanctions made, was they didn't realize that Russia could do this and they didn't
+act quickly enough. Because theoretically, you could have said, okay, we'll frozen those assets too.
+Totally. You could have said, well, Rosneft is cut off from the dollar. And so all state-owned
+enterprises in Russia are cut off from the US financial system, but they didn't do that.
+It was just focused on the central bank as well as the big commercial banks like Spare Bank and
+VTB. And that winds up being, I think, a really important gap in the sanctions. And it's what
+allows Russia not to fully recover, but basically to avoid a catastrophic financial meltdown.
+Right. And some bad weeks, days and weeks, I imagine for Russian oligarchs as well,
+who received similar treatment, right? Did the US effectively find their bank accounts wherever
+they were located internationally and freeze those assets as well?
+Yeah. So with the Russian oligarchs, I'm always hesitant to be like bad weeks,
+because these guys, maybe their net worth- They're doing okay.
+Yeah. Their net worth maybe went down from 10 billion to 2 billion, but they're not living
+on the street. And look, I also want to be in some way empathetic in that a lot of them did
+have to change their lifestyles. A lot of them were spending time in New York and London and
+owned properties on the Mediterranean. And now they spend more time in Moscow and St. Petersburg
+and on the Black Sea and their dacha instead of in the Mediterranean. But yes, a lot of these
+Russian oligarchs, if you think about any state where you don't trust property rights,
+you don't trust that the government isn't just going to come and take your money,
+which is the reality in Russia, right? I mean, the way Putin really consolidates his power in
+the early 2000s was he gathers around the oligarchs and says, if you don't stay out of politics,
+I'm going to take your money. And this one guy, Mikhail Khodorkovsky, who's the most powerful
+oligarch at the time, oil kingpin, he doesn't listen. And Putin not only expropriates his oil
+company, which then becomes part of the state owned oil company, Rosneft, but actually throws
+him in prison. So yes, in countries where you don't trust that the government's going to respect
+your property rights, a lot of people offshore their wealth, right? That's why Russian oligarchs
+have these giant properties in London and Miami and New York, and why many of them had giant
+bank accounts denominated in dollars and euros. A lot of them were frozen. Their yachts, in many
+cases, were seized. And so yes, the sanctions did affect their lifestyles to a certain extent,
+but most of them wind up going back to Russia and doing okay.
+So these sanctions of 2022 against Russia, are these sort of the largest sanctions that
+we've seen so far and kind of the biggest targets? I mean, I know there's been sanctions,
+you know, with Korea, we talked about Iran 2015, but Russia is, I don't know, order of magnitude,
+more sophisticated, and are the sanctions that level of more devastating and more aggressive
+versus other cases? Yeah. So the sanctions on Russia are not as comprehensive as the Iran sanctions.
+So I mentioned earlier, you know, with Iran, we're going around to buyers of Iranian oil and telling
+them if they don't listen to us, if they don't, I mean, maybe I'll just do one quick tangent,
+because I think it's quite remarkable. The most impactful sanctions on Iran and the ones that
+actually give the Obama administration the leverage to cut the nuclear deal, was eventually we went
+around to banks in China, India, Turkey, and said, you can pay Iran for their oil, but you can only
+pay into a central bank of Iran account, domiciled in your home country, and you can only allow those
+proceeds to be used to finance bilateral trade. So, you know, if China was buying oil from Iran,
+they'd pay an Iranian account in China, and the money could only be used to buy, you know,
+refrigerators from China, it couldn't be, they couldn't, you know, bring it to Lebanon to finance
+Hezbollah, they couldn't buy nuclear equipment with it. And within two years of this policy going
+into effect, there are 10s of billions of dollars of Iran's own money sitting in these offshore
+accounts that Iran basically can only access for very limited purposes. And the way we got the
+nuclear deals, we told Iran, we will give you unfettered access to your own money in exchange
+for you getting rid of your nuclear program. And that was enough. That like that was enough.
+Wow.
+So we did, the sanctions on Iran are much, much more comprehensive than the ones against Russia.
+Because the US had much more leverage over that scenario than Russia.
+I think we could have been tougher, frankly, on Russia. I think it's because Russia is so
+much bigger, as you said. In particular, they're such a large exporter of fossil fuels, so seven
+and a half million barrels of crude oil plus petroleum products each day. We were more
+cautious about going after Russia. We have the same power. We could do the same stuff against
+Russia for sure. We didn't because we were worried about the ramifications for the, you know, our own
+economy in the United States and the European economy. But yes, the Russia sanctions are the
+biggest in terms of when you take both the scale of the sanctions and the size of the target.
+But we have had more comprehensive sanctions on smaller targets like Iran. And we've also had
+less comprehensive sanctions on bigger targets like China, right? With China being fully cut off
+from frontier semiconductors from the United States. I mean, China is another order of magnitude
+bigger than Russia. And we haven't yet gone after China with the kind of full scale financial hammer
+that we've used against, you know, the Iran's and Russia's of the world.
+So in the case of Russia, did it work, Eddie?
+Um, it's a, it's a, it's a harder question than it seems. Well, because I'll break it down into,
+into sort of two phases. The first phase really runs from 2021, the fall of 2021 till
+February of 2022, because just to draw people's memories, you know, the US intelligence community
+determines in the fall of 2021, six months almost before the full scale invasion that Russia is
+about to invade Ukraine, which is really almost historically unprecedented to like see a crisis
+coming from months away, you know, ordinarily, you know, a crisis happens and everyone in the
+White House finds out about it at the same time that everyone does on CNN. And you run to the
+situation room with your hair on fire saying, what do we do about it with this? It was like,
+no, we had, you know, five, six months of advanced warning. And so the initial goal of economic
+warfare vis-a-vis Russia was deterrence. It was to use the threat of quote, the most severe sanctions
+that have ever been imposed to convince Putin that the costs of invasion would be too high
+and then he shouldn't do it, right? That clearly failed, right? Once Putin invades Ukraine,
+deterrence has failed. And so you move into a different phase of the sanctions where the
+phase is what I would call attrition. What you're really trying to do is weaken Russia as much as
+possible. And when you think about if one side of your policy is strengthening Ukraine through
+military and economic assistance, as well as, you know, targeting assistance with, you know,
+their war of defense against Russia's invasion, the other side of the equation is weakening Russia,
+right? So you're trying to strengthen Ukraine and weaken Russia at the same time. In that respect,
+it's very challenging to say, you know, yes, the sanctions have been impactful or no, they haven't.
+What I can say with complete confidence is that we would be better off with the sanctions in place
+than with help. Because if you didn't have any sanctions on Russia, Russia's economy would be
+humming along even more so than it is now. They would have probably overwhelmed more of
+Ukraine's territory and life would be just a lot easier for Russia. And I think this is one of the
+things that I came to realize during my time in government is, you know, no tool of statecraft,
+especially if you're trying to use a coercive tool, is like going to work in exactly the way you want
+that often, right? I mean, even military force, you know, the US is the most powerful military
+in the world. You know, Trump has been gloating about the fact that we had B2's takeoff in
+Missouri and bomb Iran's nuclear facilities in like a 37-hour flight, which is an incredible
+technical achievement. But we're not even sure where, you know, Iran's high enriched uranium is
+right now, right? And they may actually, you may have inadvertently accelerated their push for a
+nuclear weapon. So even military force doesn't always achieve the aims that you want it to.
+And I think the same is true of economic warfare. Let's talk about the pros and cons
+of economic warfare then. So maybe the pros first, right? So it strikes me that
+for the US with this level of economic power, the ability to have deterrence and coercion
+and to cause some economic pain to an adversary without a tank, without a missile, without the
+sacrifice of any American lives, that's got to feel pretty high return on investment. So me,
+let's talk about like, why economic sanctions are a good tool. And then we'll get into the
+other side of it. Like, you know, why in many cases, they're not. Yeah. So I'm glad you're
+asking this because, you know, I've obviously I wouldn't be an odd decision for me to spend
+so much of my career working on this if I didn't think that they had some utility. Look, I guess
+my own belief is that, you know, the world is a messy place. We oftentimes are dealing with problems
+in the United States that are really hard. And we really don't want to fight wars, particularly
+with other great powers, right? The prospect of a war with China or Russia is really almost hard
+to imagine, right? These are nuclear armed states. And anytime you're directly engaging them
+in warfare, you're risking the extinction of the human race. I mean, I say that, you know, like in
+this friendly podcast conversation, but it's true, you know, and probably like our parents
+and grandparents generation that was more like, oh, yeah, of course. Right. Because they were like,
+you know, ducking and covering in their classrooms. Yes. Yeah, right. But like that is like the world
+we live in. Right. And so there's a question like, well, if you want to advance American
+interests internationally without using military force, what other options do you have? My own view
+is that the next best, the next most impactful thing we have is our economic power. And so I do
+think that sanctions and other weapons of economic warfare, like export controls have an important
+role to play in advancing American interests around the world. Do I think that the US always
+uses these tools wisely? Of course not. And I think in some ways we very, you know, we perhaps
+use them unwisely more often than we should. But I think that they have a very important role,
+particularly in trying to address really hard problems without risking war.
+It seems like they're fairly high return on investment as well. I mean, how much does it
+cost the US to impose these economic sanctions versus kind of its military might, the cost of
+that? In any individual case, and I think this is what also makes this question hard to answer. In
+any individual case, it almost feels costless, right? Where it's like, okay, well, we're cutting
+this Russian bank off from the US financial system. Okay, you know, like, it's just another
+one. You know, I think the reason it's hard is when you zoom out, well, what is the cumulative
+impact? And this is actually something I'm focused on right now and sort of the next frontier of my
+own research is, you know, this age of economic warfare we're living in, in which sanctions,
+export controls, investment restrictions, tariffs have become the primary way that great powers
+compete. Because I'll also say it's not just the US who's using these tools more and more.
+It's China, it's the EU, it's Japan, it's Russia. They're always deployed in response to a specific
+problem. It's okay, we want to stop Iran from getting a nuclear weapon, or we want to weaken
+Russia's military, or we want to, you know, win the AI race against China. So we want to prevent
+them from getting Nvidia chips, right? But like, the cumulative effect is a full scale restructuring
+of the global economy. It's undoing sort of the core tenets of globalization and hyperglobalization
+from the 1990s. And that is the cumulative impact. And so I think there's a huge incentive for
+policymakers, particularly in Washington, to use sanctions to address every single problem,
+because it does feel kind of costless. But then if you don't have a more disciplined strategic
+approach, you're like, okay, hold on a second, have I just cut off half of the countries of the
+world from the dollar? Maybe I'm endangering the dollar's role as the global reserve currency,
+and that has a whole litany of other problems that we probably don't want to bring about.
+I mean, this seemed to me part of the argument of your book is that there is really no free lunch
+here. And then there is kind of a hidden cost that compounds in the background. And that cost might
+cost the US the entire empire or dollar supremacy or things that were very hard won for the US.
+But before we get there, I actually want to ask the question of how the US even got to this place.
+So you mentioned earlier in the conversation, Eddie, that you're actually on a sanction list.
+You know, thank goodness, not sanctions from the US dollar, but from the ruble,
+the Russian ruble. And I got to imagine that doesn't affect your life in the slightest.
+Maybe it does. Have you felt any effects from this?
+No. I mean, I have felt no effects. What I will say, though, and this may sound strange,
+because when this happened, a lot of people emailed me and text me saying congrats, you know,
+this is a badge of pride. I mean, my own view was like, look, I spent a summer in college living
+in Russia. I love Russian literature. I like to think that one day in the future, Russia may be
+not the worst of itself. It could be a less imperialist country. And so it made me a little
+bit sad and nostalgic. And the fact that I lived in Russia at a time before they had launched
+imperialist wars, and it was just in some ways a marker of just an end of an era.
+Ethereum's layer two universe is exploding with choices. But if you're looking for the
+best place to park and move your tokens, make your next stop Unichain. First, liquidity.
+Unichain hosts the most liquid Uniswap v4 deployment on any layer two, giving you deeper
+pools for flagship pairs like ETH USDC. More liquidity means better prices, less slippage,
+and smoother swaps. Exactly what traders crave. The numbers back it up. Unichain leads all layer
+twos in total value locked for Uniswap v4. And it's not just deep, it's fast and fully transparent,
+purpose-built to be the home base for DeFi and cross-chain liquidity. When it comes to cost,
+Unichain is a no-brainer. Transaction fees come in about 95% cheaper than Ethereum mainnet,
+slashing the price of creating or accessing liquidity. Want to stay in the loop on Unichain?
+Visit Unichain.org or follow at Unichain on X for all the updates. Ever wonder how industry
+leading companies like Coinbase, Metamask, and Phantom Wallet build products that always stay
+ahead of market shifts and new token listings? It's because they all use the CoinGecko API,
+the most reliable and comprehensive crypto data API, backed by a rock-solid 99.9% uptime SLA.
+Builders, analysts, and businesses rely on CoinGecko for real-time data on 9 million
+cryptocurrencies across 1,500 exchanges and 200 different networks. It goes beyond crypto prices
+to access liquidity, OHLCV, DEX data, metadata, NFT floor prices, and more, enabling your team
+to build and scale powerful products like wallets, oracles, exchanges, AI agents, and DeFi
+applications without limitations. Onboarding is easy with clear documentation and enterprise-grade
+support that answers you faster than finality. 24-7 around the clock. Supercharge your product
+and build with CoinGecko API today. Head to gcko.io. bankless10 and enter code bankless10
+for 10% off any plan. CoinGecko API, crypto's most trusted and reliable data source. Binance is the
+world's number one crypto exchange. Over 275 million users already trust their world-class
+security. Binance makes starting crypto as simple as it should be. Whether it's learning about
+crypto on Binance Academy or browsing hundreds of assets and viewing your newly created portfolio
+in a clear, easy-to-track dashboard, Binance helps you go at your own pace. For hardcore traders,
+Binance Pro opens up industry-leading services for trading professionals with fully bespoke trading
+products, along with a suite of white-gloved services for VIP and institutional clients.
+Need support? 24-7 customer service is on hand whenever you need it. And with some of the lowest
+fees and deepest liquidity in the market, it's no surprise why over 275 million users trust Binance
+for everything crypto. Download Binance today and get started in minutes. Binance is not available
+in certain countries, including the United States. Check its terms for more information.
+So sad, mildly inconvenient, but certainly did not cause you much of any economic harm.
+Zero.
+Okay. So Zero, how does the US have the ability to do this, the leverage to do this? Where do
+we need to go back in history to understand how the US became... I mean, we consider often when
+we talk about the dollar at bankless, it's sort of the US's chief export, really. It's maybe our
+most successful export is our capital markets, our dollar, our banking system, and we export it all
+over the world. And it seems like the entire world has adopted it into their economies as the global
+reserve currency. How did we get to that place? Was it an accident of history? Was this just like
+because the US post-Bretton Woods dominated economics and monetary policy? How do we even
+end up in this state? Because it seems like... You tell me, has there ever been a time in history
+where a country, a nation state, an empire had this much economic power?
+No. And to answer your initial question, which was, was this an accident or... Part of it was
+accidental because if you go back to Bretton Woods, right? So this conference in the summer of 1944,
+where the allied countries, while World War II is still raging, set kind of the architecture for the
+new international economic order, the dollar is installed as a global reserve currency,
+but it's also pegged to the dollar at $35 an ounce. So the way the Bretton Woods system works...
+An ounce of gold, right?
+Is the dollar is... The US is responsible for exchanging any dollar anyone gives it for gold
+for $35 per ounce of gold. And then every other currency in the world, whether it's the French
+franc or the British pound, is pegged to the dollar within a narrow band. I think they can
+move it 1% or so every year, but it's effectively pegged to the dollar. And so the dollar is
+officially made the global reserve currency by Bretton Woods, right? But it is effectively a
+fixed exchange rate system. So there's only so far that finance can go, right? And if you go and
+read the writings of John Maynard Keynes, who's an important architect, the belief of Keynes as
+well as Harry Dexter White as a US counterpart was that fixed exchange rates were good because
+you wanted to actually prioritize the real economy, exports, manufacturing over finance.
+And capital controls were actually a core part of the system. You couldn't freely move capital
+across borders. In some ways, it was illegal. In other parts, there were high taxes on capital
+exchanges. And so it was not economically useful really to do. The thing that's super interesting
+and where we get into accident is you go to 1971, August, where Richard Nixon goes in front of the
+American people and says, we are no longer exchanging dollars for gold at $35 an ounce.
+The US unilaterally terminates this system and says, we are no longer part of it. And it's really
+because in the years leading up to that with the Vietnam War, the US is starting to run deficits.
+More and more countries starting with France are actually going and exchanging their dollars for
+gold. So there's a run basically on the dollar and the America's gold reserves. And so the US
+can't defend that price anymore. And within two years, there's also the Arab oil embargo,
+which is catastrophic for the US economy. It causes the start of this decade of stagflation.
+The thing that's so interesting is you go back and you read contemporary accounts and everyone
+says, it's over. American economic dominance, RIP. In the 70s, they were saying this.
+Yeah, in the early 70s. Because we had just ended, we basically abdicated our position
+at the center of the international financial system. And we're reeling from this inflation
+driven by an Arab oil embargo. And in the wake of that, with the US running these completely
+unsustainable deficits in 1974, Richard Nixon is floundering amid the Watergate scandal,
+he's completely distracted. He appoints this guy as Treasury Secretary named Bill Simon. He's a
+former bond trader. He's from New Jersey. I've got this great picture of my book,
+him testifying before Congress with a plume of smoke over his head. These are people that you
+don't really see too much. They're a relic of the past and maybe for better, maybe for worse.
+And Simon comes up with this scheme that I think only a bond trader could have come up with where
+he says, well, maybe what I need to do in order to allow us to keep running these deficits is I
+need to persuade the countries that are accumulating dollars to buy our debt, to buy Treasuries.
+And so in July of 1974, he flies from Andrews Air Force Base outside of Washington to Jeddah,
+the Saudi coastal city. Long flight, gets copiously drunk on the flight by drinking whiskey,
+which he does. And he's watching these really gruesome horror films on the flight. And he's
+doing this because he's like this macho American. He's like, oh, it's illegal to drink in Saudi
+Arabia. And yet despite his crazy behavior, he does strike a deal with the Saudis where
+he persuades the Saudis both to continue pricing oil and dollars and to take all of their excess
+oil profits and reinvest them in US government debt in exchange for the ability to buy US debt
+outside of the normal auction. So they didn't have to participate in the auctions that are public,
+that everyone sees this could be done under the radar way and for preferential access to US
+military equipment. So there is a deal that links the dollar to oil. So initially the dollar is
+linked to gold basically, then it kind of de facto becomes linked to oil. And with, by the way,
+the end of capital controls, with the end of fixed exchange rates, the dollar then can kind
+of fluctuate based on market demand. You actually see an explosion of the use of the dollar around
+the world. And also the other interesting thing, another story I tell in choke points, we could go
+on forever. The Euro dollar market, which is this initially illicit offshore dollar lending market
+that originates in London, the US government basically endorses it. We start saying, okay,
+well, even though this was sort of developed by private banks, these are not the same as dollars
+that are backed by the full faith and credit of the United States, the Federal Reserve. We think
+this is good because it increases ultimately demand for US dollars and ultimately US treasuries.
+And so this is the beginning of a whole new system where instead of trade in the real economy being
+the main thing that America is solving for, it's the financial sector that's let loose. And then
+that gets kicked into high gear with the deregulation drives during the Carter administration,
+the Reagan administration, and the Clinton administration, where you get to a point where
+by the time the Cold War ends and China and Russia are about to enter the global economy,
+we live in this hyper-dollarized world. It's striking that it is this combination
+of strategy and also accident of history maybe, or just serendipity, that the petrodollar,
+which you just described basically the birth of the US petrodollar, was more successful,
+had higher product market fit than the goldback dollar of the previous era and is just saturated
+into every nook and cranny of the financial world. Not to say that this hasn't cost the US. I mean,
+I think there's increasingly some chatter and some argument. You talk about the Triffin dilemma,
+that sort of thing, that this really fueled our trade deficits, hollowed out the manufacturing
+class of the US, and has really made the US economy thrive on financialization and
+weakened our position globally. And maybe let's talk about, not quite that, but getting back to
+the costs of economic sanctions. So moving back to Russia, and we described this where
+suddenly in a couple of days or weeks, 250 billion of their central bank reserve assets
+are just frozen. They have to be thinking to themselves, I can't believe we got ourselves
+into this. What the hell? I'm sure there was much more that Putin said about this.
+And this can never happen again. And so let's talk about the cost of economic sanctions,
+because it strikes me, Eddie, that what countries will just do is not let this happen again. They
+will start to route around, build around the US petrodollar infrastructure empire and create
+their own networks and their own monetary routes. Can you describe that story a little bit?
+Yes. And I think this is a very astute observation. And it's not just Russia, by the way,
+who's saying we'll never have this happen again. It's any country who worries that they may one
+day come into the crosshairs of Western economic warfare. And so I think a big reason you've seen
+this massive run up in the price of gold since 2022 is because central banks in this sort of
+store value bucket of uses of a currency are saying, well, we feel more comfortable accumulating
+gold than we do accumulating US treasuries. I'm sure, although I would defer to you as the
+expert on crypto, that the run up in the price of Bitcoin potentially has something to do with
+this as well, where you have bigger buyers in offshore jurisdictions who are saying,
+this is a hedge against the dollar. I think that in some ways, the thing I'm even more interested
+in though, is this medium of exchange element. Because I got over telling you how even when
+India and Saudi Arabia are trading with each other, this is cutting through a US bank account,
+ultimately. And so there's a choke point that the US government can use to stop the transaction
+from happening. Since the Russia sanctions, a number of efforts to try to evade that choke
+point have been really accelerated. So one that predates it, but I think it was also motivated
+by American economic power, was the ECNY or the digital renminbi. It's a Chinese central bank
+digital currency. You now have many central banks around the world. Actually, the US is
+an oddball that we don't have this, who are building these central bank digital currencies.
+And China, in association with the central banks of Thailand, the UAE, Saudi Arabia,
+and the Bank of International Settlements, has actually built a platform called M-Bridge
+that allows different countries who are part of this platform to clear cross border payments
+using their own central bank digital currencies. And those types of transactions do not have to
+touch a Citibank correspondent account here in New York City. They have no nexus to the US financial
+system at all. And actually, at the end of 2024, the Bank of International Settlements dropped out
+of this project, M-Bridge, which has effectively left the People's Bank of China, the Chinese
+central bank, completely in charge. And they are now basically trying to expand that, bringing
+in other members. You've seen the BRICS talking about clearing cross border payments as an
+incredibly high priority. So it wouldn't surprise me if M-Bridge winds up becoming
+the main vehicle for that. Wow. Okay. So let's talk about that more because you were talking
+about the different use cases of money, right? We have store of value, we have medium exchange
+unit of account. So from a store of value perspective, yeah, I do think you're right.
+This has been part of the narrative of some of the US adversary central banks and even non-US
+adversary central banks are saying, yeah, do we really want to hold this level of treasuries if
+they could be frozen? So they're slowly diversifying to other assets, maybe harder
+assets, particularly gold at this stage. What's interesting though is it seems like for the store
+of value use case, there's a little bit of mutually assured destruction there, which is like
+the central banks would also sell boatloads of treasuries on the open market and do really nasty
+things to US bond prices and yield prices. So maybe that's happening in a slow way,
+but what's happening in a faster way are these alternative payment networks.
+And so when you're looking at the alternative payment networks, is the Chinese alternative
+payment network and their central bank digital currency, is that the one that is vying for
+primary alternative to the US or are their pockets, their fragmented pockets of different payment
+networks that are starting to spring into action? When Russia and China do some trade,
+what do they use? In the non-digital currency world,
+the non-blockchain world, China has also created something called SIPs or the Cross-Border
+Interbank Payment System, which is the Chinese equivalent of SWIFT or the Belgian-based
+messaging service we talked about before, as well as CHIPS, which is the Clearinghouse Interbank
+Payment System. It's the US-based system that actually clears dollar transactions. So China
+has created their alternative. Russia also has one called SPFS that they created. Both of these,
+by the way, initiatives, interestingly enough, were founded in around 2014, so after the initial
+Russian invasion of Ukraine and sanctions that were put in place. So they've been
+percolating for a while, but SIPs, the Chinese version, has grown quite quickly. Russia has
+effectively yuanized its economy. Their main foreign exchange reserve right now asset is the
+Chinese renminbi. They settle most of their payments in RMB. And look, that's put them
+at the mercy of China, which I think eventually is going to be a very big problem, but it's been a
+survival tactic for Russia, and China has been only too happy to oblige. I think strategically,
+though, if you are going to fundamentally threaten the dollar's role as a medium of exchange,
+I don't think it's going to be done through China creating correspondent bank networks and using
+SIPs. And I think it's really going to be done through a paradigm shift through, okay, it is
+just better to clear cross-border payments using digital currencies. It's way faster,
+it's more trackable. I don't know if anyone, listeners to your podcast have tried to make
+an international wire transfer recently. Oh, gosh, yes. It's a constant complaint.
+This podcast is called Bankless Eddie, so yes. So yeah, it could take a week or more.
+There's a lot of middlemen involved. There are fees you have to pay for wires, right? I mean,
+there is a... Setting aside any geopolitics, technologically, cross-border digital payments
+are better. They're faster, right? They're faster. They're more direct, right? And so I think that
+we are at the precipice of a major shift in terms of how cross-border payments work.
+China has by far the biggest and most advanced state-backed project to do this through both the
+ECNY as well as Enbridge, this platform that they built with other central banks. And so the question
+is, can the US retain its lead? And the US, as listeners to your podcast will know, has made a
+big bet that it will actually be through the private market. It'll be through stable coins,
+not through a digital dollar or a US-backed central bank digital currency that the US will
+be able to retain its lead. And we may be right, but it is a really interesting bet to make. When
+you look at all the other big central banks, PBOC, the European Central Bank has a digital euro.
+They're all doing at least wholesale central bank digital currencies. The US is going all in on
+stable coins. And in some ways, interestingly enough, it mirrors this period in the 1960s.
+I talked about this in my book in 1970s, where the euro dollar market starts as this quasi-illicit
+dollar market that exists offshore. And eventually the US government's like, hey,
+this is really important. We actually should just co-opt this. And so I see the same thing happening
+at the very least with stable coin right now, where the US government's like, look, we need to
+figure out a way to actually win this race for the future of payments. And the best way to do it is
+to take these various US dollar-pegged stable coins and co-opt them and make them the instruments
+of our own influence. Yeah, I like that. Very much like that euro dollars comparison with
+stable coins. In fact, a friend of the podcast, frequent guest Nick Carter, he's tried to rebrand
+these things to, let's call them crypto dollars rather than stable coins. Why don't we just do
+that? That's more fitting. And I think that's a good label for what they actually are. And so
+are you painting a picture, Eddie? I want to talk more about stable coins and crypto digital assets
+and how they fit into the full story here, but are you painting a picture of maybe three networks,
+three types of networks emerging here? So we've got the traditionally US dominated network,
+Chips and Swift, and that's got full dominance, the 90%. Then we've got a payments network
+coming out of the Chinese central bank, so the PBOC, and that's doing its thing. Maybe Russia
+is the first to one-eyes their economy. Maybe they won't be the last. Maybe China continues
+to try to use its economic might to co-opt countries closer into that system. So that's
+maybe the second. And this third is maybe decentralized crypto networks as another viable
+successor to, and I don't know if I want to use the successor term, but to start eroding market
+share from the current dominant monetary system, which is Swift and Chips.
+Yes. I think that's a fair outline of the current players in the race. I don't think that's
+necessarily the only players that may enter the race because I mentioned, we've talked about the
+Russia sanctions of 2022 as this big pivot point where China starts building its alternative
+infrastructure. I worry that Trump's liberation day tariffs from early April may have been sort
+of a similar fork in the road where now Europe may also become a player, right? Because you're
+seeing the dollar, for instance, steadily depreciate, decline against the euro since
+April. And I think in some ways the euro has a fighting chance now, particularly if this
+digital euro thing works. So I wouldn't say that they're anywhere close to where the other three
+projects are, but I wouldn't fully count them out because they start from a pretty good spot
+where 20% of foreign exchange reserves right now are in euros. And a lot of the reasons
+you may not like the European Union, which is like it's slow, it's bureaucratic, may actually
+be effective when it comes to payments. Because with payments, you just don't want to think about
+it. You don't want to be to worry about arbitrary and capricious moves. So I do think the euro
+may also be a fourth horse in the race, but we'll see how that develops.
+Yeah, this is fascinating. It's just not just US adversaries, but it might even be US allies
+that are looking to alternative to Swift. As maybe a bellwether of this, I saw this post from
+somebody I follow just generally. He's in traditional finance. He writes a lot about
+money. His name is JP Koning. I don't know if you've ever run across his blog.
+I think I've read a few things by him.
+He wrote this in April. He's Canadian, so he lives in Canada. He wrote this blog post,
+Trump-proofing Canada means ending our dependence on Swift. This is our neighbors to the North,
+the peaceful Canadians. The first line of this is, it's time to stop staring at the headlights
+and respond to the fact that Canada is being eyes as a choice morsel by the much larger predator,
+our former ally, the United States of America. Basically, he goes on to make the case that
+we can't be as Canada if we want. Look, there's economic warfare going on. There's tariffs going
+on. We don't know what the shape of the US as allies are going to look like in the future.
+We're utterly dependent on Swift. One tool that Trump hasn't yet used in the tariff negotiations
+is like, heck, cut you off Swift, Canada. How would that feel? Anyway, I don't know how widespread
+this is, but even allies are sort of looking at this and saying, should we be dependent on
+the US as a payment network at this point? The difference between what Trump has done
+in the last few months on economic warfare and his predecessors, I think is important to call out,
+because on the one hand, it is a continuation in that every single president in the 21st century,
+from George W. Bush to Barack Obama to Trump's first term to Biden and now to Trump again,
+has actually imposed sanctions at twice the rate of their predecessor. There is this structural
+secular trend where there's this more and more sanctions, tariffs, export controls.
+The thing that Trump has done differently is this weaponization of American economic power
+against everybody and unilaterally, critically, doing it all by ourselves. As we talked about
+earlier, with the Russia sanctions of 2022, the US acted in unison with the issuers of the other
+big reserve currencies, the euro, the pound, the yen, to sanction Russia. As a result, it wasn't
+like the euro was seen as a viable hedge against the dollar. If anything, actually, the euro lost
+share against the dollar between 2022 and 2025, because they were seen as geopolitically equivalent,
+but the dollar is much more useful. If the US is just weaponizing the dollar and American
+technology against everybody else, there's going to be an incentive to hedge. It's not just the
+RMB or Bitcoin or gold. It's also the euro that could be a viable alternative. There are people
+in Canada who want to join the EU. They're talking about building oil and gas pipelines
+so that they can export their energy from coasts to places like Europe and Asia instead of selling
+everything to the United States. I do worry that that is the novelty of Trump's approach, which is
+this unilateral use of economic warfare against so many other countries, adversaries and allies
+alike, which I do think could put more horses in this race for the future of global finance.
+Is that just generally what you see in the future of Europe to predict the future,
+Eddie? Is it the balkanization of the financial system? I mean,
+90% market share is pretty hard for any entity to maintain in monopoly status. It appears like that
+is fragmenting at the edges, but is that the future we just balkanize, the US loses?
+Maybe not. It'll still be a reserve currency, but maybe one of several and not the only. Do
+we lose that dominance that we've had in the past? Yes, that is definitely the direction of travel.
+If you were to just look at all of the various factors and make the most rational forecast,
+it's that the dollar isn't going to be supplanted as the global dominant currency. It's just that
+other currencies, including these challengers like cryptocurrencies, are going to chip away
+at the dollar's share across all of the metrics, whether it's unit of account,
+medium of exchange, or store value. You will eventually get something like a multipolar
+monetary order. At the same time, we also got over talking about a few minutes ago, the fact that
+if you went back in the early 70s and we were doing this podcast then, we would say,
+oh, the US is toast. Yeah, it's over.
+Yeah. You never know, right? We may pull a rabbit out of the hat. I think right now,
+probably, if I were to make the case that actually no, the dollar is going to be even
+more dominant 10 years from now, I think you have to make some sort of big bet on stablecoin,
+on the idea that you could, in a way, start seeing everyday consumers, businesses, et cetera,
+in the developing world start using the dollar in their everyday transactions. I know you had the
+head of Tether on your podcast recently making this case. I think that is possible. In some ways,
+that would make the dollar even more ubiquitous, right? But a lot of things have to go right
+for us to get to that endpoint.
+Well, let's talk about stablecoins. I would love your perspective and somebody that has
+previously worked on economic sanctions, financial sanctions, that kind of thing.
+We have stablecoins. Now, it seems like the Trump administration is full steam ahead.
+It looks like, let's say, the genius bill passes, that's in the Senate,
+it's going to get kicked over to the House. It could pass in July, August. It still has
+sanctions. It's part of it. There's the full Bank Secrecy Act requirements, AML KYC.
+There's a bit more freedom of travel with respect to from one crypto wallet to another crypto
+wallet, which is somewhat interesting. It's something that I think privacy and crypto
+advocates have really hoped would happen and it seems like that's the case. But just generally,
+what's your lens on stablecoins and thinking about that and maybe through the lens of
+economic sanctions as well?
+I do believe we are on the precipice of a big change in terms of how cross-border payments work.
+Because my own view is, when there are new technologies that clearly improve the status
+quo, it's hard to restrain them indefinitely, right? And if you can clear a cross-border
+payment in seconds, as opposed to two weeks, we should probably do the thing that allows that
+payment to happen in seconds, right? So my own view in terms of stablecoins is, it seems like,
+unless there's a big political shift in the US, we are really putting all the eggs in the stablecoin
+basket. We're not doing even a wholesale central bank digital currency. And even if there's a new
+president in 2029 who authorizes the Fed to do a digital dollar, it might be too late at that point,
+given how fast some of these alternatives coming out of China are developing.
+So my own view is, if I were to wave a magic wand, I would say we need to figure out a way
+to ensure that a well-regulated stablecoin ecosystem develops, one that is not used for
+corrupt practices, is not used for illicit practices, where American consumers are protected,
+where they're not going to lose their money because of some sort of scam or something like
+that. And critically, that there are these AML KYC requirements so that they're not being used
+as a way to skirt sanctions. My own view is that's possible, right? You could build a stablecoin
+ecosystem where the US has zero less power than they do today to impose sanctions. And that would
+be good, right? Because I think ultimately you get the benefits without having the costs with the
+dollar being used to fund Iran's nuclear program or finance Putin's imperialism, right? So that
+would be sort of my macro take. And I hope the genius bill is a step in that direction.
+Have you read the text? What do you think about it?
+I'm not steeped in it. I'm not steeped in it. It's something I need to do
+probably a little bit more of. But I think it's better than the status quo, for sure.
+And the idea that you could actually start going in this direction. I think the idea that you're
+going to have one piece of legislation that is the perfect regulatory framework is not going to
+happen, right? You're going to need the willingness to iterate over time to see how things are working,
+to have different regulations that are put in place, to have new laws put in place.
+But I think it's a step in the right direction. You need a well-regulated ecosystem if this is
+going to be viable over the long term. Yeah. I mean, we had Senator Bill Haggerty
+on a couple of weeks ago. He's one of the bill's co-authors. And you walk through it. Obviously,
+he's a proponent of it since he is one of the authors. And it does have some of the
+protections you're talking about. It's like full reserves, audited. They're all backed by
+dollar-backed instruments, treasuries and the like. And so is an improvement from some of the other
+so-called stable coins that we've had in crypto that were like endogenous collateral.
+And you may have heard of Terra Luna. There's a stable coin that collapsed in 2022 and some
+of those things. So I think some of that regulation is happening. Let me ask you a question from the
+desk of somebody who's sort of been inside of the belly of the beast and the US government.
+So in all of the cases of economic sanctions, you've talked about, we've seen those economic
+sanctions being imposed on foreign adversaries, not US citizens. And there's an interesting kind
+of, I guess, civil liberties take and worry that I have personally about these same powers being
+deployed domestically. And they are incredible powers we just illustrated. You're going through
+the, what would it feel like to be cut off from the US dollar? One thing, if you're in a foreign
+country, what would it feel like to be cut off from the US dollar if you're a US citizen
+living in New York City? What do you do? And there are totalitarian states like China, for instance,
+that do seem to have that power tying into social credit systems and the like. And that level of
+capability deployed domestically in the US is just a path that we don't want to go down.
+So what's your concern about that? I know there are some laws that protect against it,
+but there are... I mean, I'm not sure that we have good kind of privacy and protections
+in place or to the extent that we need. I'm not sure Patriot Act, Bank Secrecy Act even,
+I'm not sure that that is protecting citizens to the extent that it could be.
+06 It's pretty rare for
+the Treasury Department to impose sanctions on US citizens. Almost always in the cases where it is,
+it's a dual national, where they're a Russian who's gained American citizenship or something.
+And even in those cases, oftentimes they refrain from doing it just because Americans have due
+process rights. And it's quite a step, I think, for an executive branch agency just to freeze
+your bank accounts and cut you off from the dollar. That is terrifying, right? So I'm with you. I
+think that it's scary. And I do think that in some ways we've seen the Trump administration
+be willing to weaponize parts of state control over economic organs to advance its own agenda
+against American citizens, right? And there are accusations that this also happened during
+previous administrations. I know through crypto companies not being able to get bank accounts,
+I don't have any insider perspective on that. But I think that that's absolutely terrifying
+and that these tools should never be used against US citizens. I think that even when we use them
+against foreign citizens, we really do need to have some level of empathy because they're not
+friendly tools to use, right? We should really only be using these tools when there's a vital
+US national security interest at stake. We shouldn't be using them willy-nilly. I think in my ideal
+world, we would have probably five sanctions programs instead of 30. But in the cases where
+we actually do think that we really need to use economic warfare, like Russia trying to conquer
+a sovereign country or Iran trying to build a nuclear program that threatens the existence
+of Israel and potentially could have a nuclear terrorist attack on US soil, then we should go
+much harder, right? I would have fewer sanctions programs, but the times when we do use them,
+when it's a serious, vital national security interest at stake, we should go very big.
+I'm interested in this as we maybe start to close this out, Eddie. If your opinion is different than
+the bankless opinion, that's maybe even more interesting about this. We've talked about
+stablecoins, which have AMLKYC sort of attached and they're much more regulated cousins to
+crypto native assets. So something like a Bitcoin or something like an Ether, right? Something that
+really US economic sanctions have much less power over because they're decentralized network. Now,
+maybe you're kind of shaking your head because you're like, well, we haven't really tried.
+And to some extent, that's true. I mean, there's the ability to kind of free stablecoins, but
+I wonder, are there any cases where the US has actually gone out and tried to like seize
+someone's Bitcoin in a foreign country and what that would even look like? Could they even do it?
+Yeah. So I'm skeptical. There is this take in the crypto community, which is, oh, this is going to
+end American sanctions power. To me, that is just not the case. And interestingly enough,
+if you look at the biggest fine for sanctions violations that the US government has meted out
+in recent years, it was against Binance, right? It was about a $4 billion fine against effectively
+a crypto company, which the CEO actually went to jail, right? So I mean, the US government has
+quite a bit of power even over crypto companies. The other thing too, is when you think about the
+concept of choke points, and this gets into the broader concept of my book and takes our
+conversation full circle, like there are areas of the global economy where one country has a
+dominant position. There are few, if any, substitutes, right? The dollar is this really
+important choke point. It's the most important today. It's why we've talked about it. There are
+other ones, right? The US has used semiconductors as a choke point against China. China has used
+its dominance of rare earth minerals and batteries as a choke point for economic warfare
+against the United States. Well, think about Bitcoin, right? Who's running all of the cloud
+computing network and the servers that all of these- Bitcoin monitors being a choke point,
+basically, is what you're saying. Yeah, I mean, there are probably other infrastructural layers
+in the economy that the US government could use if it really wanted to come down hard on crypto
+companies. I don't see why that should be the case, but I also don't think that we have not
+yet seen industrial scale sanctions evasion using cryptocurrency, and I think there's a reason for
+that. Are you glad we live in a world where there's at least that option or that kind of release
+valve, a way to sort of route around some of these choke points and maybe the case is to get around
+totalitarian regimes? Yeah, no, for sure. And I do think that there is this scenario where especially
+dollar-backed stablecoins could be used as an alternative to domestic currencies that really
+you can't trust or domestic regimes where you may have your assets confiscated. So I do think there
+is a role, there is a civil liberties role for various cryptocurrencies to play. At the same time,
+I do think that it is important for the US to retain the power when I say the US government
+to retain the power to use economic warfare against foreign countries. And again, I wish
+we lived in a world where this wasn't necessary, but if we're going to accept that geopolitical
+competition is a fact of life, and unfortunately, it's intensifying, it's much worse than it was
+when I was a kid, the 90s, when we sort of basically didn't have geopolitical competition
+for a short period of time, like you need some tools of leverage. And if you don't have viable
+economic tools, I worry that we'll wind up fighting more military wars, that basically
+the alternative to sanctions oftentimes isn't peace or doing nothing, it's dropping bombs.
+And I think the clearest demonstration of that is in 2018, when Donald Trump pulled out of the
+Iran nuclear deal, he made a bet that maximum pressure sanctions on Iran, that crushing their
+economy, even more so than Obama did, would get him an even better nuclear deal. And ultimately,
+that bet failed. And the result was airstrikes against Iran, first by Israel, then by the United
+States, which does potentially threaten to bring us into yet another war in the Middle East.
+And so I do worry that if we don't have these tools, we will wind up fighting more wars,
+and it'll be more risk to the US ultimately. So is that the message of your book,
+we want these tools, but we need to use them sparingly in order for them to remain effective?
+Exactly. We need to use sanctions more intelligently. And I think maybe my biggest
+takeaway is the way that we plan and execute military force is incredibly serious, right?
+We train and recruit professional troops, many of whom spend decades of their life in the US
+military. We game plan out wars, we do tabletop exercises, military exercises. So by the time the
+chairman of the Joint Chiefs of Staff is advising the president in the situation room about what to
+do, there is really good basis for these decisions, even though sometimes you make the wrong call.
+With sanctions and economic warfare, oftentimes it's a whimsical, poorly thought through decision.
+And so I think we need, honestly, the biggest goal of my book, Choke Points, is to demystify
+economic warfare so more people can feel like they understand this topic so that they could weigh in,
+improve our policy outcomes, and ultimately get us to a better place.
+Well, I think that's exactly what you did today. And I was hoping for a crash course in sanctions,
+and I think that's exactly what we got. So Eddie Fishman, thank you so much for joining us on
+Bankless. The book is called Choke Points, American Power in the Age of Economic Warfare.
+I highly recommend it. And I'll end with this. Of course, you guys know none of this has been
+financial advice. It's not even economic sanctions advice. Okay, crypto is risky. So is the monetary
+system of the world. You could lose what you put in, but we are headed west. This is the frontier.
+It's not for everyone, but we're glad you're with us on the Bankless journey. Thanks a lot, and thanks, Eddie.

@@ -1,0 +1,274 @@
+Ah, Ethereum.
+Sorry, what?
+Not so long ago, it was arguably one of the most hated cryptos out there,
+with investors everywhere feeling the FUD and almost nobody feeling the FOMO.
+Well, over the last few weeks, it looks like this has completely reversed,
+with ETH's price going parabolic.
+It's crazy how fast things can change in crypto, eh?
+It's crazy.
+That's why today, we're going to bring you up to speed with all of Ethereum's latest updates,
+analyze ETH's price action, and determine just how high it could climb in the coming months.
+My name is Guy, and unlike your boss's invite to that Coldplay concert,
+this is a video you don't want to ignore.
+Okay, before we begin, you need to know that I'm not a financial advisor,
+and nothing in this video should be considered financial or investment advice.
+This video is purely for educational purposes,
+meant to inform you about the latest updates with Ethereum.
+So, if that sounds good to you, fire up those like and subscribe buttons,
+and slap that notification bell too, so you don't miss our next one.
+Now, our last Ethereum update was back in March of this year,
+when ETH was underperforming not only against BTC, but most of the crypto market.
+It was bleeding heavily against Bitcoin,
+and there was no significant rally for us to get excited about.
+In fact, if you watched that video, you'll recall that ETH was trading at bear market levels,
+and sentiment was in the toilet.
+Safe to say, a lot has changed since then.
+As I record this, Bitcoin dominance is in freefall,
+and altcoins are finally getting their moment.
+And the wild part? Ethereum is leading the charge.
+So then, what changed?
+How did ETH go from laughing stock to cool kid at the party?
+Well, while everyone looked away, and while Vitalik was busy meowing at robots,
+Ethereum's devs doubled down.
+In early May, Ethereum rolled out its long-awaited Pectra upgrade,
+a hard fork that implemented 11 Ethereum Improvement Proposals, or EIPs.
+Each EIP improved some part of the network,
+whether through enhanced performance or an improved user experience, or UX.
+Of the 11 EIPs rolled out, three in particular caught the eye.
+EIP 7251 improved the UX for validators by increasing the staking limit from 32 ETH
+to 2048 ETH, allowing their operations to be more consolidated.
+EIP 7691 enhanced Layer 2 scalability by increasing the amount of data blobs
+that can be processed in each block.
+And the EIP that people were most excited about was EIP 7702,
+which enabled smart wallets.
+Basically, wallets that are treated as smart contracts
+and can cover transaction fees in any Ethereum-based token, not just ETH.
+And what's more is that Pectra is the first of three major upgrades.
+Later in the year, there will be another hard fork called Fusaka,
+which will be followed by Glamsterdam,
+and no, that's not a music festival with lots of glitter, despite what it sounds like.
+But Pectra wasn't the only big change.
+The Ethereum Foundation, the non-profit supporting Ethereum's development,
+also saw a major shift.
+In late April, it underwent a change in leadership,
+which many hoped would spark renewed excitement for Ethereum.
+And this was a big deal because the Foundation was getting a lot of the blame
+for ETH's underperformance, mainly due to them repeatedly selling large chunks of ETH.
+Naturally, that didn't look great, and many believed it was suppressing ETH's price.
+Since the leadership change, though, the Foundation has adopted a more transparent
+treasury policy and will release quarterly and annual reports to outline its holdings,
+investment performance, and any other significant developments.
+But perhaps most importantly, the Ethereum Foundation turned to supplying and borrowing
+from DeFi protocols like Aave to fund its operations, rather than dumping large amounts
+of ETH at a time.
+Oh, and you can learn about who's now running the Ethereum Foundation
+by checking out the video right over here.
+But leadership wasn't the only thing that the Foundation changed.
+In early June, it rebranded its Protocol Research and Development, or PR&D team,
+to just Protocol, laying off a load of staff in the process.
+The new Protocol team will focus primarily on three areas.
+Layer 1 scalability, expanding blob space for roll-ups, and improving Ethereum's UX.
+Oh, and one more big change since our last update is the spot Ethereum ETF flows.
+Back then, Ethereum ETFs were flip-flopping between inflows and outflows,
+so they didn't really support ETH's price.
+However, this trend changed in April,
+and inflows have been significantly larger than outflows ever since.
+So, lots of key moves for Ethereum, but how have they affected ETH's price?
+Well, if it wasn't obvious before, ETH is now far out of the bear market territory
+it found itself stuck in.
+In fact, since our last update, it's rallied from about $2,000 to around $3,700
+at the time of shooting.
+Now, this is great news for ETH holders, but even better news for anyone who bought in February
+after Eric Trump tweeted, quote,
+In my opinion, it's a great time to add ETH.
+The funny part is that ETH's price roughly halved in the weeks after,
+but nevertheless, Eric later replied to his own tweet with a mic drop when,
+five months later, ETH was 30% higher than at the start.
+Well, a win is a win, I suppose.
+The caveat is that at the time of shooting,
+ETH has yet to reclaim its previous all-time high of around $4,900.
+In fact, ETH has been flirting with the $4,000 mark,
+but hasn't quite managed to push past it.
+This is in stark contrast to many competing altcoins
+that have already set new all-time highs and are positioned to keep on climbing.
+Oh, and if you're looking to trade ETH or any other crypto as they head to the moon,
+then you'll want to check out the Coin Bureau deals page.
+That's because you can find sign-up bonuses of up to $100,000,
+trading fee discounts of up to 50%,
+and deposit cashbacks of up to 75% on crypto exchanges.
+Now, these deals won't be around forever, so click the link down below while you still can,
+or you can scan this QR code.
+But back to Ethereum.
+Now, while it's great that ETH's price has soared in dollar terms,
+it's even better news that ETH is finally gaining strength over BTC.
+For those unaware, ETH has been bleeding against its BTC pair since way back in September 2022.
+Specifically, between September 2022 and April 2025, ETH lost around 80% of its BTC value,
+which is crazy considering that they're the two largest cryptos by market cap.
+However, in early May, ETH finally began to regain some of its strength against BTC
+and has since rallied by 75% on its BTC pair.
+Still a long way to go, but this is a strong start nonetheless.
+What's crazy is that ETH has even been gaining strength over Solana's SOL,
+which is arguably its biggest competitor.
+As it happens, SOL has been bleeding against ETH since April,
+falling by around 40%, which really puts ETH's performance into perspective.
+And if you want to see how Ethereum measures up against Solana,
+then you can check out our recent comparison video right over here.
+So, by this point then, it's clear that ETH is finally starting to move up and to the right,
+but it still has a long way to go before it breaks above its previous all-time high.
+The question now is what future milestones does Ethereum have that could drive ETH's price even
+higher? Well, Vitalik has a clear vision for Ethereum and privacy is a big part of it.
+In April, he unveiled a new privacy-focused roadmap aiming to add privacy tools to Ethereum
+wallets to keep transactions anonymous and boost privacy across the ecosystem.
+Notably, he said, quote,
+users should not have to download a separate privacy wallet.
+That same month, Vitalik wrote a blog post titled, quote,
+Why I Support Privacy.
+And we'll leave a link to the blog in the description,
+but the TLDR is that Vitalik believes that privacy equals freedom.
+Anyway, besides privacy, Vitalik has proposed boosting Ethereum's execution layer scalability
+by replacing the EVM programming language with RISC-V.
+This is a radical move, but he argues that bold steps like this
+might be the only way to break through Ethereum's bottlenecks.
+And Vitalik isn't the only one working to improve Ethereum.
+In April, the Ethereum Foundation announced a shift towards layer 1 scaling and better UX.
+So, while Vitalik focuses on privacy and speed,
+the Foundation is enhancing scalability for the layer 1 and layer 2s
+and improving interoperability through upcoming hard forks.
+Now, to refresh your memory, Ethereum's Pectra upgrade went live on the 7th of May,
+introducing smart wallets, validator UX improvements and layer 2 scalability enhancements.
+The next hard fork will be Fusaka, which is expected to roll out in November.
+Just like Pectra, Fusaka will implement 11 EIPs.
+Highlight include EIP 7825, which boosts scaling while making the network tougher against attacks,
+and EIP 7892, which introduces small incremental hard forks to gradually scale data blob sizes.
+The most anticipated EIP, though, is 7594, which brings Peer Data Availability Sampling,
+aka Peer DAS.
+Now, basically, Peer DAS lets nodes on Ethereum's beacon chain, the consensus layer,
+perform data availability sampling.
+And this lets validators download just small parts of a blob's data instead of the whole thing,
+helping validators and cutting layer 2 transaction costs significantly.
+It's important to note, though, that the list of Fusaka's EIPs isn't final and could change,
+but Peer DAS is reportedly the only EIP that Ethereum devs unanimously agree on.
+Also, Ethereum devs are known for delays, so don't be too surprised if the upgrade
+gets pushed back past November.
+Anyway, after Fusaka is Glamsterdam, although no date has been set at the time of shooting.
+In fact, the list of EIPs to be included in Glamsterdam is currently unconfirmed,
+although these details are set to be confirmed on the 1st of August.
+What we do know, though, is that Glamsterdam will primarily focus on gas optimization
+and protocol efficiency improvements, put differently, making Ethereum faster and
+cheaper to use, which, let's be honest, is much needed for Ethereum to stay competitive.
+Oh, and don't worry, you can bet that we'll keep you updated on these upgrades
+closer to the time, so make sure you're subscribed to the channel.
+Anyway, aside from developments with the Ethereum network, there's another major
+development that could help with Ethereum's adoption and attract a new wave of investors.
+That's because asset managers everywhere have been filing with the SEC
+to add staking to their spot Ethereum ETFs, which could attract serious investment.
+That's simply because it would enable traditional and institutional investors to earn a yield.
+What's encouraging is that ETF issuers are racing to be the first approved for a staking ETF,
+hoping to attract eager investors before anyone else.
+Now, whether the SEC approves all some or none remains to be seen.
+But the SEC is predicted to make this decision by the end of Q3 this year,
+and a sudden surge in spot Ethereum ETF inflows implies that investors and asset managers
+expect them to be approved and soon.
+This would likely be rocket fuel for ETH's price.
+Consider that some analysts predict it could bring in between $20 and $30 billion annually.
+With all that said, however, this does beg the question of what challenges Ethereum might face
+next. Perhaps the most obvious challenge is competition from other layer 1 blockchains
+like Solana, Sui, Aptos and many more.
+Even with upgrades, Ethereum is still slower and more expensive to use than these rivals.
+In the short term, this could result in ETH underperforming against these competing
+blockchains, which isn't helped by the fact that Ethereum has the second largest market cap behind
+Bitcoin. Naturally, competing cryptos with lower market caps will have more upside potential.
+The caveat, though, is that Ethereum's development is focused on long-term improvements
+that will help future-proof it as a network.
+This means that each upgrade is being carefully planned and executed rather than each one being
+rushed and containing potential imperfections.
+This will make Ethereum more stable and secure, which for many will make ETH a more attractive
+long-term investment.
+This stability is also a key reason why Ethereum is being embraced by Wall Street,
+which is largely adopting it to launch tokenized real-world assets or RWAs.
+In any case, this relates to the second challenge that Ethereum faces and that's
+fragmented liquidity.
+While the speed and cost efficiency of layer 2s are beneficial to Ethereum's overall UX,
+many investors also believe that the proliferation of layer 2s will ultimately result in liquidity
+being siloed to separate layer 2 chains, meaning there's less overall demand for ETH.
+Some critics also argue that the sheer number of layer 2s creates additional layers of complexity,
+which presents additional challenges to Ethereum's UX.
+However, what many don't consider is that DeFi activity on these protocols continues to rise.
+So, while ETH isn't necessarily being used for fees, it is being used more frequently
+as collateral and as a trading pair.
+Put differently, the demand for ETH is still very much there, just in the ways you might
+perhaps not expect.
+This is especially true when you consider that roughly half of all stablecoins are issued
+on Ethereum and around 60% of DeFi activity happens on Ethereum too, and that's not even
+counting its layer 2 ecosystem.
+So, as institutions dive into DeFi and tokenized RWAs, Ethereum is set to attract the most
+capital inflows.
+But, while perhaps not an obvious challenge, there's a more immediate and serious threat
+which is that Pectra's smart wallets have a potential attack vector for hackers.
+Basically, hackers could exploit a new transaction type to take control of a wallet
+just through a message signature, without the user signing an actual transaction.
+So, just connecting a smart wallet to a phishing site could drain all the funds.
+The worst part is that these attacks have already happened.
+And while wallet providers and security advocates have warned users not to sign unfamiliar
+off-chain messages or delegation requests, a fix has yet to be rolled out.
+For what it's worth though, the Ethereum Foundation has also created the so-called
+Trillion Dollar Security Initiative which aims to identify and communicate with developers
+areas where security can be improved.
+Ironically, this initiative was announced on the 14th of May, exactly one week after
+Pectra was rolled out.
+Anyway, this all brings us to the big question.
+How high could ETH's price go?
+Well, to determine this, let's take a look at what some respected market analysts have
+to say.
+Although, we will reiterate what we said at the beginning.
+Nothing in this video is financial or investment advice.
+So, let's start with Standard Chartered, which late last year gave an impressive price
+prediction of $10,000.
+However, in March this year, the firm released a report titled, quote,
+Ethereum Midlife Crisis, accusing the base layer 2 blockchain of removing around $50
+billion from Ethereum's market cap.
+As a result, Standard Chartered slashed its prediction by 60% to just $4,000, implying
+that not only will ETH not pump, but it won't even reclaim its previous all-time high.
+Then there's our good friend Benjamin Cowan, who used his formidable analytics skills to
+predict that a realistic target for ETH could be anywhere between $5,700 and $7,500 for
+this market cycle.
+We'll leave a link to Ben's video down below and we recommend you check it out if
+you have the time.
+Anyway, another price prediction comes from a chap called Gert van Lagen, who predicted
+that ETH could hit $8,000 using a technical analysis method called Elliott Wave Theory.
+However, investors typically love a good round number and as such, there's one price
+target that most have in the back of their minds at least, $10,000.
+Analysts everywhere are eyeing up $10k if only because this would be a huge area of
+psychological resistance.
+Now from our perspective, there is a decent chance that ETH could reach this hallowed
+level if not exceeded.
+The reason for this optimism is a combination of the things we've covered in today's video.
+Spot Ethereum ETFs are on the rise and the high likelihood of the SEC approving staking
+for these products will lead to a surge in capital inflows.
+Ethereum also continues to dominate the broader crypto market with the lion's share of on-chain
+DeFi activity happening within its ecosystem.
+On top of this, though, there's one more major catalyst that could drive ETH's price
+beyond the expectations of many investors and that's the proliferation of companies
+adding ETH to their balance sheets in a similar way that Michael Saylor's strategy has been
+accumulating BTC.
+For instance, SharpLink Gaming, which FYI is chaired by Ethereum co-founder Joseph
+Lubin, currently holds over 360,000 ETH at the time of shooting.
+There's also Bitmine, which is shifting away from just being a Bitcoin mining company
+to also becoming an Ethereum treasury company.
+Bitmine currently holds more than 300,000 ETH.
+And there's also Bitdigital, another crypto mining company that now holds over 120,000 ETH.
+The point is, though, while this trend continues to gain momentum,
+this will naturally drive up demand for ETH, pushing its price up and to the right in the process.
+Combine this with Ethereum's growing institutional adoption,
+massive spot ETF inflows and investors finally taking ETH seriously again,
+and it's clear this rally is just getting started.
+We won't put a number on it, but put it this way.
+Investors have been laughing at Ethereum for a long time,
+but it's ETH holders who will have the last laugh.
+Okay, if you enjoyed this video, then smash those like and subscribe buttons
+and be sure to turn on notifications.
+If you want to up your crypto trading game, then check out this video right over here.
+And if you want to learn about the latest altcoin ETFs,
+then check out this video right over here.
+Okay, thank you all so much for watching and we'll see you in the next one.
+This is Guy, over and out.

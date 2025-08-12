@@ -1,0 +1,825 @@
+I think that Ethereum can generate a lot of transaction fees if it catches on and it becomes
+kind of the base layer first for DeFi and maybe in the future for like large parts of
+kind of the internet itself and like just become the platform on which many things are
+built and like a lot of applications, a lot of businesses kind of host their application
+logic and yeah, I'm like really bullish I think on this future.
+I just don't think that you can really, I don't see by which mechanism you basically
+say that like, oh, ETH should play a big role in this, like, you know, like people are not
+all of a sudden going to prefer holding ETH over dollars or over stocks or over index
+funds or over, you know, anything really, right, or like they will not also prefer trading
+it against that.
+Like there's, you know, you need to basically go to what people want to do and what problem
+does ETH solve for people.
+All right, here we are with Hasu, strategic advisor to LIDO and Flashbox.
+Hasu, it's great to have you back on the Define Podcast.
+Welcome.
+Camila.
+Thank you.
+Thanks for having me back.
+Yeah, always, always great to have you.
+You know, you are very deep in one of Ethereum's biggest protocols, LIDO.
+Can we just start by getting everyone on the same page about what LIDO is?
+Yeah.
+LIDO is the largest decentralized staking pool in Ethereum.
+It's trusted by around 25% of all stakers.
+And what makes LIDO special, you know, one, it's decentralized, so it's fully non-custodial.
+When you give your stake to the protocol, it's distributed across a bunch of different
+note operators, but you can always take the LDO back and you can hold it, you can always
+take the ETH back and you can hold it in self-custody.
+And the other big thing that makes LIDO different is its liquid, liquid staking.
+So when you use stake, let's say on Coinbase or Binance or some other more centralized
+provider, then you can, you know, also un-stake at any time, but you cannot use the stake
+while it's sitting with this provider.
+And how LIDO is different is you get a liquid staking token, in this case, it's called Stakedief.
+You get that into your wallet and you can use that in one of many different DeFi integrations.
+So for example, you can borrow against it on Aave or other lending protocols.
+You can swap it.
+You can stake it to an additional yield even.
+And so, yeah, it's more capital efficient for that reason, and many people, you know,
+engage in strategies like looping, which is borrow against your Stakedief to borrow more
+ETH and then, you know, stake that to get more Stakedief, et cetera.
+So it's very popular with all the liquid staking tokens, this strategy.
+And so if you're like a smaller, you know, user, then you would mostly kind of engage
+in these liquid strategies, but for bigger players, you know, like exchange traded products
+for example, they have also kind of withdrawal rules, all redemption rules that they need
+to serve from their regulators.
+And so for them, the liquidity is also, you can think of it as a second kind of exit door
+from the protocol, because when you stake normally, you know, it can, depending on the
+size of the withdrawal queue, how congested it is, it can take up to weeks to get your
+money out.
+And when you have Stakedief, then you can not only unstake it the normal way, but you
+can also sell it on the market, right?
+So that gives you an additional way to exit your stake, which is a type of flexibility
+that I think especially bigger users and institutions really value in LIDO as well.
+Perfect.
+Okay, now I'd love to dive into one of the latest developments in LIDO, which is a change
+in governance.
+And this is especially important given what you mentioned that 25% of stakers are using
+LIDO.
+It's crucial to have a very robust and decentralized and censorship-resistant governance systems.
+What's the implications for the latest governance change?
+Right.
+So we recently released Dual Governance, which is a protocol upgrade that's been in development
+for I think over three years at this point, from idea stage to final implementation.
+So it's a really big deal for us.
+And so why is, you know, basically in a nutshell, Dual Governance gives stakers the ability
+to always veto any proposal that happens in the LIDO DAO, which is the DAO that's governing
+the upgradability of the LIDO smart contract system.
+And it guarantees that if enough stakers disagree with a proposal that they always can exit
+in time.
+And so why is that important?
+So first, you know, governance, like Stakedief, the token, it has a certain security surface
+that is basically controlled by governance.
+And that is a risk for these stakers.
+Right.
+So we, in the beginning, we talked about how LIDO is more liquid than forms of direct staking.
+But in the past, the benefit of direct staking was that because there's no smart contracts
+involved, you don't need any upgradability.
+So this one is actually like fully secure against any type of governance attack.
+And so the way that other smart contracts handle this is, you know, A, they make the
+smart contract immutable.
+So if you look at a Uniswap, for example, Uniswap pool is immutable, right?
+So there's never any risk that the Uniswap DAO or the Uniswap Labs kind of upgrades your
+smart contract in a way that that would be bad for you.
+The other way is you need to have it upgradable, but you just install what's called a time
+lock.
+So you just, you know, propose the passes, but then still, you know, there's a week or
+two before it becomes executed where people can look at the changes and say, you know,
+if those changes, I don't like them, then they can still leave.
+So with LIDO, first of all, you need smart contracts to be upgradable.
+And it's not for any like choice of hours, but it's because the Ethereum protocol itself
+is changing and the staking implementation, the decentralized staking pool kind of needs
+to be upgraded in order to even stay compatible with the changes that the Ethereum developers
+make.
+Or maybe at some point, that's no longer the case.
+And I think we're looking forward to that day.
+And the second problem we'd already hinted at is just the Ethereum exit queue has a variable
+length, depending on how many people want to unstake.
+That's because Ethereum doesn't want too many people to withdraw at the same time because
+then they're worried that like basically the consensus could become unstable.
+And so basically for LIDO, it would be very hard to make a time lock that's long enough
+so that everybody can withdraw before every proposal.
+And so the key insight behind dual governance is where you still want to have a time lock,
+but what if you can make it dynamic?
+So if the proposal is good, like it's harmless, and it's good for the stakers and the protocol,
+then it can just pass right away.
+But if anybody is concerned about the proposal, then it basically you have a longer time lock.
+And if enough people say, you know, guys, we're really worried about this proposal,
+like a lot of us are quite worried, then the governance just stops entirely.
+And so the way that it's implemented is people can deposit their staked EVE or rep staked
+EVE or their withdrawal NFTs from LIDO.
+They put it in a smart contract that you can access.
+You know, if you go to dg.lido.fi, dg meaning dual governance, and you can just, you know,
+put your staked EVE there in an escrow contract.
+And if 1% of all the stakers deposit in there, then the protocol enters the state that's
+called veto signaling.
+And then the protocol is, the governance is basically paused for between 5 to 45 days,
+depending on how many people deposit.
+And if 10% of stakers have deposited in this contract, meaning like either some very big
+stakers disagree or like enough small stakers disagree, then the governance just becomes
+frozen entirely.
+And it stays frozen until everybody from this escrow has withdrawn their stake.
+So like nobody disagrees anymore.
+So what it means in principle is that the risk of any kind of smart contract, you know,
+of any smart contract changes that are bad for the stakers happening, it's just like
+it's massively reduced, right?
+So neither the LIDO DAO can do anything.
+For example, let's say, you know, increase the fees by 10x, right, that would be very
+bad for stakers and would be clear instances where they just disagree.
+But also a governance attack, maybe from the outside or something, somebody manages to
+like sneak in a kind of malicious attack.
+All of this can be now much more easily prevented.
+And so when I was saying in the beginning that there used to be this trade off, like
+either you do direct staking, but then you don't have liquidity or you get the liquidity.
+But then, you know, you have to take a hit in the security because you're exposed to
+the additional smart contractors.
+I think dual governance basically solves this dilemma entirely.
+So you can now have the liquidity of a liquid staking token, but with the security of direct
+staking.
+And so I think this is like a really big deal for stakers, especially those who care a lot
+about liquidity and security.
+Super interesting.
+A couple of follow up questions.
+One, how much participation do you usually get in governance?
+So I'm thinking about stakers who might just be holding stake deeds, but aren't really
+aware of what's happening in LIDO.
+And maybe there is a proposal that would harm them, but they don't even know what to do
+or like how to participate.
+So I'm wondering how engaged invalidators are.
+And the second follow up is whether there's any chance that, you know, like how immutable
+are these mechanisms themselves, right?
+Like maybe, maybe, yeah, like these time locks are in place, but at the time that you really
+need them, maybe there can be some sort of attack to.
+Yeah.
+Okay.
+So regarding your first question, so right now only the LDO token holders are voting
+in governance and propose, like there's a 5% quorum.
+So 5% of LDO holders need to agree to pass a vote.
+And then the quorum, like it's always, you know, 5% of people voting.
+Why?
+Because I mean, if already 5% voted, proposal is already passing.
+The incentive for more people to vote is basically, it doesn't exist, right?
+So the thing to understand, like with LDO, only LDO holders can pass new proposals and
+the StakeD folders can basically indefinitely like time lock the protocol.
+So if they don't like the active proposals, then they can block it until, you know, they
+had the time to leave, which is what matters basically for them.
+But they can't make any proposals that would be bad for the DAO themselves.
+So that is only, basically you have this like bicameral system now where like one party
+can propose, but then the other party can basically veto.
+And so I think that's very helpful.
+So I think that, I think I, what you're getting at with your question is like, you know, are
+these maybe numbers too high, like 1% and 10% are enough people even like paying attention
+to what the, what those things are.
+So there was a bunch of kind of, you know, nothing like this has been built before, right?
+And so there was a bunch of kind of modeling involved from the LIDO side to arrive at the
+right numbers that are like not too high, that basically you need to activate too many
+people to do it, but also not too low.
+So that like, it's very easy kind of to grief the protocol and like slow everything down.
+And also it should be kind of robust to, you know, at one single party that's like, like,
+you know, let's say like a big lending pool getting hacked and like StakeEve kind of taken
+from there that it's also like robust against something like that.
+So like in our mind, like it turned out that 1%, there's a lot, there's a bunch of individual
+holders who hold more than 1% of StakeEve and like it's, so getting that kind of triggered
+is like not that hard.
+And then from there, you know, via social media, et cetera, I think it's relatively,
+it's possible to kind of activate the necessary 10%.
+And you have more time, right?
+So every time like the number of people in the escrow contract goes up, also the time
+lock extends up to 45 days.
+So you have a lot of time to reach the 10%, like one and a half months is a long time
+in crypto.
+That's true.
+And you're right that social media at least or X does serve as this sort of town hall
+where, you know, at least you get a decent chunk of people are aware and participating.
+Yeah, I mean, I hope, I think that, you know, if a dual governance actually activated in
+Lido, I think even like the Defiant would write about it because I think it would be
+very spicy.
+Yeah.
+That'd be a fun story.
+So regarding the third part of your question, are these, you know, is this smart contract
+actually immutable or can it be gamed?
+So no, it is like it is immutable.
+It's actually like part of the way that the Lido smart contract is upgraded, can only
+be upgraded through this process that is, you know, like the Unita Aragon kind of Lido
+contract kind of to, you know, you have Aragon voting whenever you want to upgrade the Lido
+smart contract.
+So the token orders need to agree and then the staked e-folders can disagree.
+And so this is now part of the upgrade process and like this could be changed, but it requires
+itself like an on-chain vote, right?
+So like, you know, already like, you know, LDO orders would need to agree to change it
+and staked e-folders would have to not disagree to change it.
+And then it can be changed, but there's no other way that it can be changed.
+Same as like nothing else in Lido can be changed outside of this process now.
+Got it.
+Is this already implemented?
+Yeah, so the vote passed last week on Monday.
+So it's now live.
+So yeah, you can go to dg.lido.fi and can read like, this is the smart contract that
+you can deposit in.
+It's permissionless, like in its, you know, non-custodial.
+And you can read the instructions there and you can see how many other, like what proposals
+are currently live being voted on, how many other people have deposited in the contract
+and how long the time log lasts.
+Like this is your portal basically for engaging with this.
+And yeah, I think if you, you know, if you hold staked EVE, I think it might be a good
+idea to bookmark this and just like, so you know, you know where to go.
+Cool.
+Have there been cases in the past where you think this change would have been useful?
+There have been like controversial upgrades in the past.
+So no, I don't think so.
+The thing is, I mean, this mostly, I mean, so this is secure basically against two things.
+One is I think big tail risks.
+So let's say there's like a really actually like malicious proposal happening maybe because
+like somebody hacked enough LDO tokens or somebody, you know, found a way to like sneak
+something like that in, in the, in the protocol.
+And like this has not happened.
+And if it had, then probably LiDAR wouldn't be like around anymore.
+Okay.
+So it's like for like really big edge cases.
+Yeah.
+And like, this is the one area where I think this is like extremely helpful, right?
+It's like when a big edge case happens, you know, just a governance attack, let's say,
+or hostile takeover, then it would be supremely useful, but it hasn't happened.
+And if it had, then, you know, there's a high chance that LiDAR wouldn't be here anymore.
+Got it.
+Okay.
+But the other thing is just, you know, let's say, you know, let's say there's almost like,
+you know, like an activist investor who says, oh, but like, you know, why does Lido charge
+only 10% fees to Stakers?
+Shouldn't you charge like 50%?
+You know, and so they, they make this proposal and it's not evil, right?
+In the sense that, you know, they just think it's like better, you know, and, but then
+the Stakers can still disagree with this and it wouldn't pass.
+And so I think this is, you know, you know, it's even like, you know, kind of like not
+technically malicious, but just like proposals that the Stakers don't like now are very hard
+to pass.
+So this, for example, I think doesn't mean that Lido can like never raise the fees, but
+it needs, you need to have like a strong rationale that the Stakers actually agree with, right?
+You know, if you say we're going to raise, you know, fees by 2% because we want to invest
+in the way that makes this protocol better for you, makes it more liquid, more integrations,
+whatever then, you know, like it needs to grow the pie.
+And that's important.
+Everything can still pass if the Stakers think it's good.
+But if the Stakers think it's a bad idea for them, then now it's just very, very difficult
+to pass anything.
+Super interesting.
+I wanted to get back to the point about, you know, how much of Stake ETH is in Lido with
+25% of staking concentrated in the protocol.
+Are there systemic risks to Ethereum of having so much of ETH in one, in one protocol?
+Yeah, so, I mean, I think it's a nuanced question.
+I think there used to be like a big debate about this a couple years ago.
+And so, I mean, in general, when like a centralized actor controls a lot of stake, I think the
+risk is there's a non-zero risk, you know, not, it can still be decentralized in the
+sense of like non-custodial for the user.
+So it's not like they can steal all this.
+But if they can control the way that blocks are proposed, for example, or like attestations
+are made and they cross certain thresholds in the protocol, then there are things that
+they can do to like hurt the consensus, you know, make the chain not finalize or something
+like that.
+Again, in practice, the incentives to do any such attack are basically non-existent because
+the social consensus of the blockchain can always kind of override that, you know, you
+will still get slashed and you can also be socially slashed because it's very attributable
+basically to like a single party.
+So I've always thought this is like, it's mainly like an optical concern for some people.
+It's not a real concern.
+Like if you wanted to hurt Ethereum, there would be much better ways to kind of do such
+an attack rather than kind of misappropriating like funds trusted to you by your staking
+customers when you have a business that's like working very well, it just doesn't make
+any sense.
+So that said, I think if you have actually decentralized stake and protocol, then of
+course, those risks even are like much smaller yet, right?
+Because in LIDL, you give your ETH to a protocol and it automatically distributes it to hundreds
+of different node operators and those node operators all decide on their own what blocks
+they want to produce and they don't, you know, there's like, I think the biggest node operator
+has like 1% of stake in LIDL.
+And so it's, you know, there's no coordination between them and there's no control exerted
+by the LIDL protocol over those node operators.
+You know, there are some rules that they have to follow.
+So they have to pay all the rewards basically to a LIDL address because that's how we basically
+make sure that they don't funnel away some rewards away from the stakers they belong
+to, right?
+But apart from that, there's no pressure exerted on them.
+So I think in general, this issue has become like much, I think, less important in the
+community than it was a couple of years ago.
+I think there was a big kind of scare, I think, two, three years ago when LIDL was still like
+hadn't been around as long and it was at a similar market share and people were like,
+yeah, okay, this is clearly going to grow to like 50% and then 100% because liquid staking
+has a lot of network effect and all the staking configurations are like the same.
+So you would always kind of favor like, you know, everybody will like hold the same token
+and because it's more liquid, everybody will kind of switch to that.
+And I think in reality, like that just hasn't happened.
+So I think if anything, then it turns out that there are more different ways that people
+want to stake.
+Like some people actually prefer direct staking, some prefer exchange staking, some prefer
+liquid staking, some prefer restaking, some prefer like more customized kind of setups.
+Like we can get into that when we talk about LIDL v3 because LIDL v3 is basically our
+response to this change in the market.
+But yeah, like it turns out that I think the marginal value of liquidity tapers off much
+faster than people expected and like LIDL is kind of at a, you know, roughly similar
+market share than it was like, you know, three years ago or two, three years ago.
+And so I think this risk that any one provider is like going to grow to like 100% market
+share.
+I think that's not really happening.
+And then, I mean, I think in a lot of ways also LIDL makes it even better, especially
+if you compare it to a realistic baseline.
+So I think a lot of people a couple of years ago were still like, yeah, but, you know,
+it looks like we would rather have everybody just solo staking, you know, or like if there
+were like 100, like 1% providers or like even 10, 10% providers, but then it turns out,
+you know, there was like never realistic, right?
+Like the stake will always kind of centralize somewhere because there's economies of scale
+and there's brand and people want to go like with the brand that they trust and that's
+convenient for you and all those things.
+I think it's just a matter of like which providers are kind of, you know, getting like 20, 30,
+40% market share.
+You can't really avoid it.
+And with LIDL or liquid staking in particular, I think, you know, it really lowers the barriers
+to entry in staking.
+Like it's actually, we make it easier to be kind of a solo staker because you can actually
+like by engaging kind of in LIDL as a solo staker, you can stake some of your own money
+and then you can also get money from LIDL to stake.
+And so we're giving, effectively giving you leverage on what you're already doing and
+you're controlling like everything yourself.
+And if you're a user slash staker, then you can just, you know, give the money to a protocol.
+It's fully non-custodial and decentralized, you don't have to worry about it.
+Every day just the balance in your wallet will go up and you're contributing to the decentralization
+of Ethereum.
+And yeah, the node operator set, if you look like at the node operators inside LIDL, it's
+much more distributed geographically.
+There's a higher client diversity, there's kind of fewer nodes in the big data centers
+and more self-hosting and like all of the things that we care about than actually like
+outside of LIDL.
+Why?
+Well, because we actually care about this, right?
+So we want to make the Ethereum validator set as decentralized as possible.
+And so we can make some rules inside LIDL and then, you know, this is how we distribute
+the stake and it's just very like good for Ethereum.
+I think that, yeah, there are, I don't want to say there are no risks, but I think especially
+if it's a decentralized staking pool, then those risks are like not very big, especially
+compared to the benefits that you're getting from this as well.
+The PR Genius is a top crypto PR and growth marketing agency, helping brands globally
+with expert PR and strategic growth marketing.
+They've worked with 300 plus projects like Movement Labs and io.net.
+Unlike traditional agencies, they charge only on performance.
+Their services include earned PR opportunities and marketing services to help boost wallet
+holders and organic ex-followers.
+Learn more at www.theprgenius.com.
+What about the how open the system is to actually becoming a node operator?
+Can anyone do this?
+Like what are, what are the requirements?
+Yeah.
+So there's two types of node operator right now in LIDL.
+We have one module that's called the curated set.
+And so this is generally for professional node operators.
+They can apply and then like twice per year they can be added to the set if they've basically
+follow certain, like if they meet certain criteria in terms of quality.
+The other way is you can actually be a home staker and this is completely permissionless.
+And so yeah, actually you could like with the home staking setup, like, you know, go
+to CSM, I think it's csm.lido.fi and yeah, you can basically like register there, your
+validator.
+And if you like, again, like select the right kind of reward address, you will get some
+stake from LIDL and you will have some stake of your own that's used as collateral basically
+to kind of make sure you're not getting slashed or something.
+Yeah.
+And then you can actually participate in this and CSM launched a couple of months ago only
+and already like maxed out its cap twice.
+So it's now at 2% of LIDL share and we're going to keep increasing it because it's like
+a very capital efficient way of doing it.
+Like it's permissionless, which we generally much prefer.
+And it's also very capital efficient because like people bring like some of their own stake
+to LIDL.
+You know, LIDL gives them some stake, but they bring their own stake and they operate
+the notes at home.
+And yes, I think just like overall really good.
+Is that related to the distributed validator technology that you mentioned or how does
+that work?
+Yeah.
+So distributed validator technology for our listeners.
+I mean, it's basically a way of like, you know, if you know how like a multi-sig smart
+contract works, you know, multiple people are controlling the same key.
+This is equivalent of multiple parties being able to control the same validator.
+And so they can propose blocks together and like make attestation decisions together.
+And this is generally good, I mean, for the security because it's, you know, much harder
+to let's say, you know, behave for one party, but this also improves like the operational
+efficiency because it's, you know, even if like, let's say you're in a like DVT set up
+with four other people and like one or two of them maybe go offline and miss their slot.
+As long as the other three kind of still decide to sign like the block, then you will still
+build the block.
+Right.
+And so it's really like a way of kind of driving operational efficiency.
+So DVT, we use it in LIDL in its own module.
+So we have a DVT module and it's basically, this was a way of basically testing this in
+LIDL in a kind of more controlled way.
+And so this was like all specific kind of, you know, only in order for us to use DVT
+and kind of wanted to pioneer this for Ethereum.
+But increasingly DVT is actually just, you know, used in all of the modules.
+We allow, you know, in the curated set or the CSM module, we allow people to use DVT
+and it kind of, you know, makes their setups more robust and improves.
+It just improves at the end of the day, like the bottom line of LIDL, right.
+And like what money that we can make for the stakers.
+And it's good for Ethereum because like there's fewer, like let's say missed slots.
+It's very hard to get slashed, whether by intention or by accident.
+So it's just like, it's very useful.
+I think the one, the kind of challenge or like the difficulty is, so you do, you have
+almost like two tiers of DVT, right?
+So like, let's say you have maybe five different machines and you just like connect those together
+with DVT, but it's all your own kind of setup on your own premise, right?
+Or in your, on your rented server in a data center.
+Then this is like, you know, could almost like call this like tier one DVT and it's
+still useful.
+Like it's still helping with operational efficiency, but it doesn't help with this, like you specifically
+kind of wanting to do something that would be bad, right?
+And so there's this other kind of even more useful and expansive tier of DVT where it's
+actually you and four other people who you don't even know kind of being in a set together,
+right?
+So doing this and like coordinating this across many different node operators, maybe not even
+know each other, coordinating this, getting them signed up.
+I think this is like a challenge that Lido is also working on.
+And that's if you want to get really like the full, full value of DVT, then you need
+a lot of infrastructure for this, for this kind of, you know, coordinating at first,
+like in a more kind of, you know, centrally managed way, but then giving people kind of
+the tools to do it all on their own and like discovering kind of their peers and setting
+this up and testing it.
+And so, yeah, that's something that we want to do to eventually, I think, scale this everywhere.
+Like I think this can just be, you know, if it works, it's just like part of the baseline
+kind of setup that everybody will use.
+Cool.
+So, you know, like, yeah, we've talked a lot about how Lido is working to reduce the risk
+that it may pose to Ethereum and validators with this new governance system, with DVT,
+but you know, there's, there's still this, there's kind of a growing discussion about
+whether there just should be a maximum cap of state ETH.
+I had Justin Drake on the podcast a few months ago and he discussed this saying that he doesn't
+think there should be more than 50% of ETH state at all.
+And so he wants to decrease the amount of issuance that goes to validators to, to kind
+of disincentivized staking when that, when ETH reaches 50% of, when more than 50% of ETH
+is staked.
+So, yeah, when he mentioned this, the first thought was like, oh, I wonder what Lido thinks
+of this.
+So, yeah, I wanted to get your reactions to this proposal.
+Yeah, there have been actually a bunch of different, I mean, there have been a lot of
+proposals kind of in this direction and I think it's kind of people trying to figure
+out a little bit what they want.
+So, I mean, in my view, I think in Ethereum, folks on the research side are generally a
+little bit worried about what happens if like too much ETH is staked and the number one
+argument they give is, I mean, the number one argument I would say they give is like
+other tokens will then like replace ETH as collateral and like ETH should have the special
+status in the protocol.
+This argument in particular has never kind of really resonated with me because ETH is
+being replaced as the main collateral anyway.
+First of all, I think stablecoins are actually about to flip ETH in market cap, including
+like in DeFi as well, like as collateral, if you look in like lending markets.
+And this will just be like, there's only one direction like this can go, right?
+Like, I mean, we all, I think, expect that ETH will play a very small role kind of in
+the future of DeFi because people want to get leverage on all kinds of assets, right?
+I mean, if you just look in TradFi, then that's what you see.
+Second, like, you know, if ETH is in a smart contract, it can be upgraded or ETH is in
+a roll-up bridge or ETH is in a centralized exchange wallet.
+I mean, these are all different ways of like encumbering the ETH.
+And it's like in this idea that there's this all of this like pristine ETH and it has
+this great security property.
+I think it's just, you know, is A not true today and B is not, you know, if you play
+it out into the future is anyway, like not really, doesn't matter that much.
+And then I think if you look actually like in other chains, ETH is like the total
+anomaly in terms of like, that there's only, I think we have around 30% staked right
+now. Like, I think it's a total anomaly how little is staked in Ethereum.
+And for example, Solana, which is a much younger network, has 70% staked and it's
+fine. What is kind of seen as bad by some Ethereum people is actually a design goal
+for other people.
+Like they just want staking kind of to be as democratized as possible.
+They are saying that if we kind of, you know, if we kind of, like they want this,
+like the staking, the people who stake and the people who actually own the currency,
+they want the set to be like, you know, as overlapping as possible to kind of align
+the incentives and yeah, like it's, they also like think it's generally good for
+DeFi if kind of the, you know, there's a way to get yield on their native token.
+So there's like a bunch of reasons why it's, this is actually like a design goal
+for other chains and it's working great for them.
+But in Ethereum, we're like more worried about what happens to ETH.
+I think the argument was that they see as 50% being enough to, for like security
+purposes. And so that they see it as inefficient if more than 50% is staked.
+And like, like, yeah, as you said, they would rather that ETH be used across DeFi
+or for payments or whatever, like in other ways and not be kind of locked up, you
+know, staked away.
+Yeah, I mean, like, but you can still use it for all of these things, even if it
+stakes, right? That's kind of the, I mean, first of all, you don't need like that
+much ETH to do these things because people want to use stablecoins or other
+tokens for them anyway. And it's kind of an illusion that like, well, if you just
+allow people to use ETH, they will use ETH for these things. Like, you know, no,
+like nobody wants to do all this stuff against ETH. Like, ETH is being replaced
+everywhere. Like, you know, it's no longer really used, you know, as a dominant
+trading pair indeed. Because why would you, why would I prefer to like, make a
+liquidity pool against ETH? Like, because it's much more risk, right? Like, if I
+can do it against USD instead. And so yeah, I just think this argument is kind
+of not that great. The other big one, I think this is more like the argument of
+kind of, so if you're on the other side and you say, I'm really like against
+kind of capping on the staking rate, then the main argument from that side is
+mostly, so the lower you cap the staking rate, the more centralized your node
+operator set will become. And if you look at a kind of most extreme example of
+this, so let's say only 5% of ETH are allowed to be staked. And you do this by
+after like 5%, just the rewards go just like very low or even negative, right?
+Then what happens is the people who can make the most money from staking will
+replace everybody else, right? So like who can make the most money from staking?
+It will be people who basically, you know, host it all in one data center and to
+engage in like the most risky behavior with their ETH. So maybe it's like
+restaked and it's like restaked multiple times and it's like leveraged and it's
+like using every sidecar and like points farming and whatnot, right? So you're
+trying to really like, you have to, the protocol forces you to kind of juice
+like the absolute maximum from your ETH, right? And so it's just like the best
+thing for the protocol. I don't think so, right? So sensor resistance and
+decentralization are really like really core properties that make ETH different
+from other chains. And I think it needs to really like protect these properties.
+And you generally get a more, like much more diverse node operator set and like
+less of this kind of price pressure if you just allow like a bigger staking
+market. Because then people will have more diverse preferences for what they
+want to do. All of those like super kind of like yield seeking people still
+exist, right? And you still have centralized setups, but you also have
+more room for like more decentralized systems to also coexist and, and things
+that have like a lower margin or that like don't engage in all the riskiest
+stuff. So that's kind of the trade off there. So that said, I think I don't hate
+the idea of like capping it at 50%. I think at 50%, probably you get a bunch of
+the benefits that I talked about without necessarily incurring those, those
+downsides per se. I mean, if you look right now, like we're at 30%, we have
+actually been at 30% roughly for I think the last nine months. So it's not like,
+you know, if staking rate is exploding or anything. So I think that what I
+probably like, you know, what I'm generally in favor of just like letting
+the staking rate like run anywhere. Like I don't think it's bad to have a high
+staking rate because I know all these other networks, they have a high staking
+rate and it's like totally fine. They actually get a lot of value from it. And
+so, but because of how far away we are from 50% and I don't really expect us to
+really run against this barrier anytime soon, I think it's probably fine. So I
+don't hate the proposal, but I think I'm more leaning towards the camp that
+actually high staking rate is totally fine.
+Yeah, I don't know, I think I see merits to both, but I'm interested to dive into
+what you think the role of ETH is because yeah, you mentioned how you
+believe that ETH doesn't need to have a huge role in DeFi. And I think that's a
+pretty, it could be seen as a bit of a controversial take. So we'd love to kind
+of get more of your thoughts on that.
+Yes, I mean, so I think that ETH is always going to play a role in DeFi, but
+it's just going to be kind of eclipsed by all of these other assets coming into
+DeFi as well, that are much bigger in the real world. And so I don't think you
+should see it as kind of me saying that I'm bearish on ETH or anything, like I
+know I'm really bullish on DeFi. And so that's more the reason. And like ETH
+I'm becoming the home of DeFi. And so I think the role of Ethereum is the primary
+role will honestly be just like ownership share in the network, like an
+access, basically access to, I mean, so on the one end, it's like used in staking
+to secure the network. And then the other hand, it's just giving you like access to
+kind of the cash flows from buybacks that happens through E1559, which is, you
+know, fees being paid on Ethereum, the protocol burns in order to pay to e-folders.
+And so, you know, even if that's like its primary role, that would be totally fine.
+And I think that Ethereum can generate a lot of transaction fees if it catches on
+and it becomes kind of the base layer first for DeFi and maybe in the future for
+like large parts of kind of the internet itself and like just become the platform
+which many things are built and like a lot of applications, a lot of businesses
+kind of host their application logic. And yeah, I'm like really bullish, I think
+on this future. I just don't think that you can really, I don't see by which
+mechanism you basically say that like, oh, you should play a big role in this.
+Like, you know, like people are not all of a sudden going to prefer holding ETH
+over dollars or over stocks or over index funds or over, you know, anything
+really, right? Or like they will not also prefer trading it against that.
+Like there's, you know, you need to basically go to what people want to do
+and what problem does ETH solve for people.
+So it is, it is basically more immutable, right?
+It's, it's, it's more censorship resistant than holding other stuff on chain.
+And so there is a need for that, right?
+So I'm not going to minimize that.
+So there are people who basically want to hold something that cannot be kind of
+confiscated by, by someone else.
+And ETH plays that role the same way that Bitcoin plays it.
+I think Bitcoin probably plays it better, right?
+So maybe ETH can, can rival that in the future.
+But right now, if I just want to hold, you know, if I want a Swiss bank in my
+pocket, Swiss bank account in my pocket, I want to have money that nobody else
+can take, probably I'm still, I mean, I, I'm actually in the camp that I want to
+hold both Bitcoin and ETH because Ethereum, like Bitcoin is like probably as a
+network is more, even more decentralized and robust and like unlikely to change.
+But in Ethereum, I really like the way that I can program the way that like
+I custody my funds.
+So that's really a great feature of Ethereum.
+The fact that I can have like, I can have a custody setup that doesn't actually
+have a private key, that only, you know, that, that I don't, I need to like, I
+don't have a physical, don't need to have a physical copy.
+I can have like elaborate kind of social recovery setups and, and I can
+program my own spending limits.
+And like, we don't have that in Bitcoin, right?
+And I think we may get it if like something like OPC-TV eventually makes it
+in the protocol, which I think it will, but you know, right now this stuff is
+like not really possible to do on Bitcoin and on Ethereum, it's super democratized.
+So I think this is actually like a really underrated aspect of, of Ethereum, but
+yeah, like the, this use case is just, I mean, even if you look at like how many
+people hold gold for similar reasons, like in the real world, gold is absolutely
+tiny, like compared to, you know, like just like the dollar or, you know, stocks
+or even, yeah, too many other asset classes.
+And that's why I think basically that like, you know, Ethereum will not eclipse,
+you know, for the very similar reason, like Ethereum has a smaller role to play as well.
+So to clarify, you view Ethereum's role primarily as a place for programmable
+money, right, for, for DeFi.
+And so like, it is attractive for the fees, for the access to, to the, the
+revenue generated, the fees generated on the network because of people are
+transacting and building there.
+Yeah, so I mean, Ethereum, the blockchain and like the ecosystem, I think is, it
+has a good chance at becoming, I mean, what we call the world computer, world
+settlement layer, whatever you want to call it.
+And I think that DeFi is the first, I mean, it's the first use case in that,
+but it won't be the last.
+Like DeFi is just such good kind of product market fit for Ethereum and
+crypto in general, because there's, you know, a lot of value transferred and it
+really benefits from permissionless innovation because it's so highly
+regulated and so fragmented and such.
+Like basically it's so common that in this way that like people are abused
+through kind of confiscations or censorship or inflation and like for all
+those reasons, I think like DeFi really hits kind of a mark and this would be
+like, this is already like the breakthrough use case for, for crypto in
+many ways with like stable coins in particular, but it doesn't mean that
+I think it's going to end there, right?
+I think the same, the same way that everything moved, you know, everything's
+becoming like software and it started like moving to the cloud.
+I mean, I could see a similar trend happen in the future.
+With crypto, it's just technology just becomes part of like every stack, you
+know, every, just the way that like important software is written where, you
+know, if you want people to trust it, you know, it's going to be on Ethereum or
+like a similarly kind of established blockchain.
+And I think you can, you can attract a ton of like, you know, if you get these
+use cases would be extremely valuable for Ethereum and even if everybody pays
+like a small fee, even if it's just a cent, if there's millions of transactions
+like per second, which is totally feasible or even like sub-cent, right?
+Then you're still going to, you can still, still build one of the
+basically most valuable businesses in the world or in the history even.
+And so, yeah, I think that's the future that I, that I would like to see for ETH.
+What if sending crypto felt more human?
+Pulse just launched Red Packets, a new way to gift tokens with meaning.
+It's gasless, gamified, and claimable inside group chats only.
+Think AirDrops meet social cues on-chain.
+Backed by smart wallet tech and live across major L2s, Red Packets turn
+communities into micro economies of gratitude and growth.
+No seed phrases, no friction, just connection with value.
+Check it out at Pulse.social.
+Um, okay.
+I know that we're running up against time and I do want to get, get, to
+talk about Lido v3 and also, you know, you're, you're like growing integrations
+with DeFi.
+Yes.
+So, so can, yeah, can we, can we get into that?
+Yeah, let's, um, let's talk about Lido v3.
+Okay.
+So I already mentioned in the beginning, I think a couple of years ago, people
+were like, there's only one way to stake and liquidity is just the most important
+thing and like everything else doesn't matter.
+Turns out that's not the case.
+So there's many more ways that people want to stake.
+And so the staking market is actually more fragmented today than it ever was.
+And so Lido, if you go kind of back, or even if you look like right now, before
+Lido v3, Lido is effectively, can think of it as like, it's a way to get
+liquidity on like a validator or like a staking setup, but it has only one
+collateral type, which is what we call Lido core.
+So it's this like central place, you know, where you give your money and it's
+staked across many different load operators that all follow like relatively
+standardized rules after Lido v3, we are creating a separation between this
+liquidity layer and the staking infrastructure.
+So you could say Lido becomes a platform.
+And so what this means in practice, so with Lido v3, anybody can create what
+we call staking vaults.
+And these staking vaults can basically be any, like these are still not like
+a validator kind of at the core, but you can use any setup that you want.
+So you can pick your own node operator.
+You can run any Ethereum sidecar that you want.
+You can charge any fee that you want.
+You can use it in restaking.
+You can do, you can use like only certain relays in MathBoost or you don't
+use MathBoost or whatever you want.
+And you can still, you can do all of this and you can still get
+liquidity on that staking setup.
+And so that's, that's a really big kind of innovation because before everybody had
+to use the exact same setup in Lido to get the liquidity, and now you can use
+your own setup and you can control everything about it.
+And so it kind of even further closes this gap between direct staking and liquid
+staking, and there's a lot of use cases that would benefit from this.
+So, you know, institutions like having kind of know your business rules.
+So they need to decide, like they need to select and like have legal contracts
+with very specific node operators and they either need to be all in the U.S.
+or like they cannot be in the U.S.
+So for example, we have like seen, seen both of those maybe opinionated about
+the use of any infrastructure.
+They, you know, they want to, they maybe want to get liquidity and they have an
+agreement with an operator, you know, Lido charges 10%, so maybe they only
+want to charge like 2%, right?
+So now you can do that as well.
+And yeah, so there's many things that you can do and you can like only use the
+part of Lido that you really care about, which is basically, you know, the
+liquidity and the integrations and the security.
+So yeah, that's what the, that's what the main idea is behind V3.
+And yeah, it's going to go live in, I mean, it's, it's rolling out in phases
+and like, it's going to go live in a couple of months.
+Interesting.
+Okay.
+So it's a more customizable version of staking, giving validators more control.
+And like the first thought, the first thing that came to mind when, when you
+said kind of the, the, um, geo-fencing or like picking where the validators are
+is with, with ETFs, um, and, and just like kind of like securities and regulatory
+concerns, do you, do you see this as, as a way to give more kind of traditional
+finance access to staking?
+For example, maybe BlackRock wants to issue a, uh, a state ETF, but it
+hasn't been approved in the U S but maybe they can make that product available
+for just for kind of validators that are outside of the U S or using investors.
+And, and just like I said, that's, that doesn't touch the U S is that a
+potential use case as well?
+Yeah.
+So I can't talk about BlackRock in particular, but in general, what we're
+seeing kind of from institutional customers that we speak to is that, I
+mean, they really value security, which is also why dual governance, for example,
+is like a big deal, but they also really value customization.
+They may have specific demands put on them about like what noto providers,
+for example, they can use.
+And so this helps them basically gain more control so they can, they can do
+this, but then also like liquidity really matters a lot in the institutional
+market because they have to meet the redemptions as we kind of, this is
+where we started the conversation, right?
+And so if you're an ETF provider or an ETP provider, you need to meet
+redemptions within 48 hours, for example, then you're competing with the other
+providers on, on like how, on the APR that you provide or the fees that you
+have to charge to, to your users.
+And the main lever that you have actually is like how much of your if you can
+stake and so, you know, between like, you know, one provider using direct
+staking and maybe can like stake 25% of their EIF and somebody else using liquid
+staking, they can say maybe stake 75%.
+So that's a really big deal in the bottom line and in the competitive position
+that you can have in this market.
+And so, yeah, I think that, you know, it's a matter, it's only, I think, a matter of
+time, like I think liquid staking is, is really good for institutions.
+And so, yeah, I think that we basically makes us even more, or like removes like
+even more roadblocks that, that kind of may, may have existed in the past.
+So right now, what do you think the, the makeup is between your, or, or
+like, or Lytos and stakers?
+Like, is it mostly retail stakers?
+And do you see that breakup moving more to institutions?
+Yeah.
+So we did actually a study on this, an internal one, a couple of months ago, and
+we only separated into like institutional customers and non-institutional and
+turned out that 25% of staked EIF is already used by institutions.
+So like even in its kind of, you know, before dual governance and before vaults,
+like, you know, staked EIF is still the most secure way that like you can do
+staking while also getting liquidity on this and, you know, that, you know, just
+the ability to kind of use the staked EIF as collateral somewhere and sell it
+really quickly, like faster than you can, then you can unstake it.
+I think our two properties that are really valuable, like a couple of days
+ago, we saw Lytos being added as collateral in Maple Finance as well.
+So this is like a good example of this because what it does is basically it
+was added as collateral.
+So like institutional clients can deposit staked EIF and they can borrow stable
+coins against it so they can get leverage, right?
+So yeah, in general, just like staking is much more attractive when you can have
+a liquidity and then you can use it as collateral.
+And so, yeah, we try to, you know, staked EIF is listed on most major
+exchanges and so, you know, you can use it on Binance or Bybit or like other
+places, right, and you can kind of use it to collateralize like the trading that
+you do and so that's, you know, the more venues that staked EIF is added in, I
+think the more useful it is for our customers.
+So, okay, so that was already 25% of institutional stakers.
+Now with V3 and staked vaults, you probably see that percentage growing.
+Yeah, I mean, I would think so.
+I think in general, like the markup of like institutional customers in
+DeFi versus, you know, non-institutional, I think is changing in that way, right?
+So I think that that will affect Lytos as well, but yeah, it will affect, I
+think, also everybody else.
+Awesome.
+Okay, and now to wrap up and related to this, how do you see Lytos to
+continue integrating into DeFi?
+Like are there other protocols that you're working with or how would you
+want it to see Lytos continue to grow within Ethereum?
+Yeah, so I think that Lytos is already integrated pretty much everywhere.
+I mean, staked EIF I think is the relatively clear leader in terms of
+integrations, it's been around five years, I think, by this point.
+You know, has existed already like I think one and a half years before
+even the merge happened.
+And so, you know, what you can always do is like give people more
+things to do with a staked EIF.
+I think that's a big priority.
+So I think in the past, Lytos hasn't always been kind of open to, I think
+people who just want to maximize the yield that they can get on staking, like
+it was more opinionated in the sense of, you know, here's what we think is like
+a good kind of standard, this is the best like standard I've set up that you
+can get is kind of similar to like, you know, people holding like the S&P
+500 or something like that, right?
+But then there are people who want to, you know, hold like the S&P 500
+leveraged or they want to hold like a more risky set of assets or something,
+right?
+And I think serving those folks' preferences as well is something that we
+are like trying to do now more than ever.
+And so V3 is a kind of reflection of that.
+It's basically giving other people the ability to make use like staked EIF in
+ways that are, you know, much more diverse for users, right?
+So for example, if you look in like Morpho compared to Aave, Morpho uses
+this idea of a curator and it's actually very similar with vaults.
+It's the idea that like a staking vault also has a type of curator.
+And so it's kind of more of a like, it's not necessarily like end users using
+V3, but it's businesses building on top that can make much more diverse products.
+And we're trying to make that as easy as possible.
+And yeah, so I think we really want to make it easy kind of to get like the
+absolute maximum yield that you can if you're into that.
+And yeah, I think you can expect more on that in kind of the next few months.
+That'll be fascinating to see as kind of LIDO becomes a place for not just
+stakers, but also businesses and, you know, projects to build on top of LIDO
+to make their own, you know, staking protocols, like staking projects and dApps
+will be a really interesting evolution, which we will of course be covering at
+the Defiant.
+So Hasso, thank you so much for joining me.
+A pleasure as always chatting a really fascinating talk.
+Oh, it's great to talk to you, Camilla.
+Thank you.

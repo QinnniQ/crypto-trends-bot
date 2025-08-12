@@ -1,0 +1,59 @@
+DeFi Saver is designed to be an all-in-one solution for DeFi users, addressing key needs
+such as swapping, lending, and leveraging. It goes a step further by providing advanced tools that
+simplify and streamline the management of on-chain positions, making the entire process
+more convenient and efficient. But DeFi Saver doesn't just aim to simplify decentralized finance,
+it aims to redefine how enthusiasts engage with it. In this way, their goal is twofold.
+Aggregate top-tier lending protocols to provide unified access through a single interface,
+and create an additional layer of functionality and features not available in default protocol
+applications. And last year was DeFi Saver's biggest yet, boasting record-breaking integrations.
+Sky from the creators of MakerDAO, Euler, Fluid, LiquidEv2, and more joined the platform,
+ushering in endless possibilities for users. So let's see for ourselves what this app is all
+about. They have a comprehensive interface. DeFi Saver brings together lending, borrowing,
+and swapping across 14 leading protocols and four EVM chains, including Ethereum,
+Optimism Base, and Arbitrum. You can execute everything from simple swaps to complex strategies
+like automated leverage management and loan shifting. It's far less intimidating than jumping
+between crypto protocols native UIs. So let's try it out. We start by visiting DeFi Saver's homepage.
+Log into the app using the button at the top right, or simply click the call to action at
+the bottom. It's also helpful that they have a simulation feature that you can use to interact
+with the dashboard before you even connect your wallet. So once our simulated balance is set to
+100 ETH, we'll create a MakerDAO CDP with 30 ETH collateral and 100,000 DAI debt, at a two times
+leverage. We review and confirm the transaction and voila, it's live.
+Now let's check out the loan shifter feature. We're going to move our newly created CDP from
+MakerDAO over to Spark. First, we'll navigate to loan shifter via the dashboard.
+Select your position, choose Spark as the destination, and click shift.
+Confirm the transaction, and it's done.
+So let's talk about security. Last year, DeFi Saver integrated the safe smart wallet,
+the brains behind Gnosis faults, as its default smart wallet. What does this mean? Your assets
+get the advanced protection they need, along with 10 to 15% lower gas fees per transaction,
+according to SAFE. The fact that over 10,000 SAFEs have been deployed post-upgrade speaks
+volumes about user trust. And let's take a look at a couple of the advanced features.
+With automations, you can set parameters to trigger an automatic boost, repay, take profits,
+and more, just like in your stock portfolio. Taking it a step further, you can set the
+leverage management and liquidation protection, allowing you to unwind your position or leverage
+up when the prices meet your preset parameters. This feature in particular is really helpful for
+harnessing the volatility of your crypto assets and for giving you peace of mind as you go about
+your day away from the computer. However, I will note that the automations have a minimum amount
+deployed, so not everybody can use them. So for mainnet, you have to set a minimum amount
+of $30,000, and for L2, just $500,000. We also have TX Saver, which provides stress
+relief for anyone who's had a bad swapping experience, which in crypto happens a lot more
+than we'd like to admit. TX Saver shields you from MEV attacks, and if a swap fails,
+DeFi Saver covers the transaction fees. You gain peace of mind that comes from knowing that you
+won't face hidden costs or surprises. Now let's talk about the fee structure.
+As far as the fee structure goes, advanced actions cost 0.25% plus an additional 0.05%
+if that action is automated. For any simple actions that can be done on a protocol's native UI,
+there is no fee. And DeFi Saver just launched the Discover page. They've announced the launch
+of the Discover page, a new feature designed to provide users with an overview of all available
+opportunities supported by DeFi Saver. This allows users to compare various markets and
+stay informed about the changing conditions across different protocols. To access it,
+open the DFS app and find it at the top of the sidebar. You'll see a layout of all options which
+can be filtered by protocols, collateral, debt tokens, and networks. Whether you're borrowing,
+leveraging, or yield farming for stablecoins, WBTC, ETH, or LSTs, the Discover page is designed
+for all users, no matter their strategy or expertise. And no wallet connection is needed
+to explore this feature. Our final thoughts? All in all, DeFi Saver nails the balance between
+sophistication and user friendliness. Whether you're rebalancing a portfolio or executing a
+standard swap, you get a seamless, secure, and feature-rich experience. I wouldn't necessarily
+recommend this product to a newcomer to DeFi, as this platform is aimed at a more sophisticated
+DeFi user who's more familiar with DeFi concepts. And there's not a whole lot of handholding or
+explanations of the terms and risks. So if you're looking for a one-stop shop for all of your moves
+in DeFi, DeFi Saver is for you. And for the more aspirational,
+well, you can hang out in the simulator until you're ready to level up.

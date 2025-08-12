@@ -1,0 +1,1319 @@
+Bankless Nation is the third week of July. It's time for the Bankless Weekly Roll-Up.
+David, it is crypto week this week, okay? That's just not, that's not just me saying
+it.
+We're talking crypto this week?
+Yeah, no, this is Donald Trump declaring it crypto week. He said, happy crypto week.
+Did you see this?
+Where did he say this?
+You said this on Truth Social?
+Oh, on Truth Social. Yeah, yeah. And the reason why is because the genius bill is in front
+of the House, as well as the Clarity Act, some other House bills for crypto. So he's
+declaring you and everybody at Bankless a happy crypto week. We got to talk about the
+genius bill.
+It is a happy crypto week. I felt that actually this week.
+Okay, so the genius bill, the time of recording, we don't know whether it has passed or not,
+but I'm going to go ahead and say it passed, okay? Bankless listeners, they're living
+the future. We're recording this on Thursday. The bill is going up for vote at 4 p.m. today.
+We don't know the outcome yet. You guys do. I think it passed, David, okay? Hold me to
+that prediction.
+I'm assuming that it's passing, it's going to pass. And also, I don't think that that
+is why the market has pumped, especially Ethereum has pumped. I think that the market will pump
+more as a result of this passing in the future.
+After it passes?
+After it passes.
+Oh, it has passed, of course.
+It has passed, it has passed.
+Yes, yes. Also, we got to talk about Bitcoin, hit an all-time high. We got another all-time
+high week back to back, but I do feel like all eyes are on Ether this week because there's
+been a-
+It was not a Bitcoin story this week.
+No, there's been a vibe change. We talked about that last week, but now we've got ETFs,
+ETH ETFs breaking all-time high records. We also have Tom Lee saying he wants to buy 5%
+of all ETH supply. That's a true story.
+How much? That's like 6 million Ether, and he is not anywhere close to 6 million Ether
+right now.
+No, he's got to work his way up, but he's getting there.
+And then, of course, I'll cover the PumpFun ICO because we don't want Ryan to do that.
+How'd it go? Who bought in? What happened afterwards? And then Coinbase launched its
+Everything app, brand new release out of Coinbase. We're entering in the world where crypto companies
+like Robinhood, Coinbase, they are doing their own internal jazzy marketing campaigns, marketing
+streams like Steve Jobs-esque. They're doing their own roadshows in their own kind of context,
+which is pretty cool.
+We're going to talk about the Roman Storm trial as well. And remember that one time
+the Polymarket founder got raided by the FBI. We're going to hear more about that story
+as well.
+But first, before we get into the markets and talk about all the different ETH treasury
+companies that are up like 40% on the week, we're going to first talk about fundamentals.
+And all those fundamentals you're going to hear are at the Bankless Summit. The Bankless
+Summit is a one-day event that we are throwing at DevConnect. We are recruiting all the
+greatest speakers in Ethereum to give 20 to 30 minute talks, no panels, just straight
+information about Ethereum. The newest speaker is Donna from L2B. He is joining the ranks
+to talk about native rollups and all the research that he's going there. But we've also got
+Justin Drake, Ansgar, Tamash, Arjun, Uma Roy. It's going to be a who's who. It's a TED Talks
+for Ethereum, the second day of DevConnect.
+So if you are going to DevConnect in Buenos Aires, which I highly recommend because all
+you're going to go do is you're going to go down to Buenos Aires, you're going to talk
+about ETH, you're going to eat steak, you're going to drink Malbec, and then you're going
+to talk about ETH or some more. I don't know why anyone wouldn't want to go to Buenos Aires.
+They are the people that adopted stablecoins and Ether. They are the people that built
+MakerDAO. They are the people over at Open Zeppelin. It's a great place to just be a
+crypto person. And then once you're done being a crypto person, you just eat steak. It's
+great.
+Anyways, I'm very excited about it. This is again happening the Tuesday of DevConnect.
+Get your tickets before I increase the prices. Prices are $80 right now. They will not be
+$80 in the future. They are going to track ETH. And so they will be about $160 by the
+time we run around to DevConnect.
+That's an ETH price prediction, okay? That's a $6K ETH if I'm running the math right. No,
+$7K ETH. Oh my God. Wow. We are bullish on the week. Let's talk a little bit about Bitcoin
+price because we got an all-time high this week. Not quite at the time of recording,
+but previous to that, what did we hit and where are we at right now?
+We are currently coming in at $19,000. Bitcoin is up 7% on the week. A good old 7%. The new
+all-time high, $122,800. I think it did hit $1,000 to $3,000. $100,000. So a pretty good
+number there.
+Some charts I guess.
+Yeah. It fell off all the way. All the way it crashed, Ryan. Bitcoin crashed this week
+from $123,000 all the way down to $116,000 and has since come up to $119,000.
+See, they always told not to buy because it would crash.
+It always crashes every time.
+Not only that.
+Well, you know, part of the story of this cycle, of course, has been the infinite institutional
+bid for Bitcoin, the asset. And you're seeing that in no better place to see that than in
+BlackRock's iBit. So BlackRock's iBit, of course, is the BlackRock Bitcoin ETF. It just became
+the fastest ever to hit $80 million in AUM. And David, I got to tell you, it's not even
+–
+$80 billion. $80 billion.
+Oh my God. Did I say million?
+You said million.
+Yeah, I don't know what Bear got in your mind.
+Okay, but look at this chart. It's like, oh, it's the fastest ever. Okay. Nothing else
+is close.
+It's four times faster than the nearest competitors.
+It looks like –
+All the nearest competitors are all within a pretty similar range to each other, pretty
+neck and neck. And then Bitcoin is like, I am four times faster than all of you.
+This is why Wall Street is so bullish on crypto assets this cycle is because they're
+providing a lot of the capital flows here. The question is, is Bitcoin fair market value
+or not? Well, if you look at some charts, like the long-term holder net unrealized profit
+and loss, the nipple, okay, this is basically how up our Bitcoin holders, I believe it's
+a measure – it's that kind of measure. We're actually not in froth market territory,
+okay? We're between point –
+The nipples are not frothy.
+Yeah, the nipples are not frothy, not yet at least. We're somewhere at point six nine
+and that's the below the zero point seven five percent.
+Have I been sabotaged with this week's agenda? My God, is this even a real metric? Forget
+this. Let's go to the classic rainbow chart.
+I like this part much better. This is the classic Eric Wall rainbow price chart. It's
+way easier to understand than long-term holder net unrealized profit loss. What the fuck
+is that? No, you just look at the rainbow chart. We are clearly still on the lower side
+of the rainbow chart. We are in accumulation zone. We are not in the massive deal. We are
+not in the fire sale. We are not in the buy buy buy section. We're in the accumulation
+zone, which is a modestly leaning bias towards buying, but not overly so, but we are definitely
+on the lower side of the bitcoin price. What we want to do is we want to get into the yellows
+and oranges slowly. We want to get into the yellows and oranges in like 2027, which would
+put bitcoin somewhere between one and two million dollars. If we got to the orange red
+area where like FOMO is happening and then also it's a sell signal.
+This is a much better – I feel set up. I think I was set up with this week's agenda
+talking about – I gave you the opportunity to kill the nipples in the car, but you just
+walked right into that. All right. You want to talk about this. There's a new denomination.
+I think this is so cool. We all like to talk about price. Bitcoin is only 21 million. Price
+targets, blah, blah, blah, blah. There's also the cultural element of bitcoin acceptance
+and the tolerableness of bitcoin. This is an indication that bitcoin is just becoming
+so understood. Do you remember the first time we got into the Bloomberg terminals? That
+was huge. That was a huge moment for us, right? Bitcoin was like $3,000 or $7,000 or something.
+The cool thing that's happening right now, maybe this is small. Maybe I'm over hyping
+this, but if you want to go look at bitcoin in the Bloomberg terminals, the pricing chart
+on the right side, like the graph where you see the prices, the little tick marks, they
+are denominated in millions of dollars. Right now, on the price of a bitcoin according
+to Bloomberg, when you go up and open up Bloomberg, you see a bitcoin price of $0.112 million.
+Not $112,000 or whatever. You see it denominated in millions of dollars, which means if you
+implied it's going to be worth millions of dollars. It wouldn't be worth a million dollars
+if people don't assume it's going to hit one point something or two point something. The
+fact that we are denominated publicly on mainstream society, that we are denominated bitcoin in
+millions of dollars, I think is a huge historical and cultural milestone.
+I choose to believe that. And also, you need to make room on the graphs, right? So every
+10x, you got to move the point somewhere, right? So pretty soon we're going to denominate
+in like, what, tens of millions of dollars? Is that what's next for bitcoin?
+Well, I mean, I think bitcoin needs to get to a million dollars and then we can start
+talking about that.
+Yeah, this cycle. You think that's happening in this cycle?
+Well, what I just said, yeah. Sometime in 2027, one to $2 million bitcoin.
+That's what the nipples tell you or the rainbow?
+That's what the rainbow tells me. But the nipples are also pointing in that direction.
+We've got enough here. Let's get to the ETH price on the week. Tell us about ETH price.
+I am very excited about this number, but why don't I let you say it?
+The number, the number for ETH, $3420, up 23%, not just double digits, but double digits
+with a two handle on it, mostly driven by massive ETH treasury accumulation.
+I woke up every single day to three different ETH treasury companies announcing their
+purchasing of somewhere between $10 and $300 million of ETH.
+And I got confused as like, OK, was this yesterday's announcement or is this tomorrow's
+announcement? Which announcement is this? Is this a repeat from the last one?
+Which BTCS, like MNBT, like treasury company is doing this?
+I don't know. They're all just buying.
+Each one is buying like somewhere between like 20 and 10.
+I think it's like 20 was the smallest number that I heard, like $20 million.
+And then the largest I heard is like $300 million.
+But it just happened. It was just a big week.
+And then and on top of that, we're going to talk about this, ETH, ETF inflows had its
+largest number ever. So BlackRock, ETH, ETF took in $500 million of ETH for a total combined
+$700 something something, $700 million of inflows.
+$726 million yesterday.
+That's all time. That's the biggest inflows ever for ETH or the asset.
+By far. Yeah, by far.
+It was a big week for ETH.
+Really big week. Also, kind of close to flipping Bitcoin on that on the daily.
+Remember, that's kind of in terms of daily, which is already massive because Bitcoin is
+still four times larger than ETH right now.
+It is massive. We've got some other measures of that.
+Maybe we'll just talk about that for a second.
+So this is Nate Jirassi saying we have record daily inflows for spot ETH ETFs.
+Nearly $720 million.
+Obliviate the previous mark of $430 million.
+Obliviate. Just Obliviate.
+Obliterate.
+I'm using Harry Potter language.
+That's how bullish I am. OK.
+If you want to get into Anthony Cissano level bullishness, though.
+Oh, yeah. You can look.
+I don't know. You can't go any higher than that.
+You start. Yeah, that's Max.
+That's like, you know, your power maxed at Anthony Cissano, you know, bullishness.
+So he likes to do this and he's been doing this on the daily basis.
+He likes to take the net inflows and then he looks likes to look at the the the net
+issuance. So we got net net inflows.
+Of about $720 million.
+And do you know how much ETH supply was minted that same day, David?
+Not that much. Less than that.
+Six point seven million.
+OK, so I'm not going to use the words ultrasound money here
+because that's not what we're talking about.
+But we are talking about
+like a lack of supply in this market, because this is the demand.
+The inflow demand was 110x the amount of supply issued.
+OK, so much so that there are reports
+where I get that of OTC desks running out of ETH.
+OK, this is what you just said that winter mute said.
+Yeah, we don't have any ETH on our desks.
+Everyone bought it.
+Kind of nitpicky about Sassle's tweet.
+No, this is a this is bull mode.
+We'll allow it. OK, you get one one bearish thing.
+This is what he's doing is he's he's like kind of using the whole this happened
+with the early days of the Bitcoin treasuries, too.
+But the difference here is, well, actually, actually, wait a second.
+This is a bullish interpretation of Anthony's tweet.
+Bitcoin miners have to sell their ETH.
+And so when we look at the net coin, miners have to sell their ETH.
+You asked me that when they when Bitcoin miners.
+Yeah. Excuse me.
+Sorry. When Bitcoin miners mine Bitcoin, yes, they have to sell the Bitcoin
+to pay for the expenses because it's very competitive, very low margins.
+And so when when the sailor was accumulating
+like three times more than the Bitcoin mining sell pressure,
+there was bullish Bitcoin because like, oh, like all the supply is being
+soaked up by the by like Michael Saylor and Bitcoin treasuries.
+Anthony is doing that same thing of alluding to that same effect.
+And it's just even more like there's even larger discrepancy here
+between the seven hundred and twenty million dollars that was purchased
+versus the six point seven million dollars of ETH that was minted.
+But the thing is, are you sticking ETH right?
+I'm sticking ETH.
+Did you do well?
+Do you do you sell the ETH rewards that you accrue?
+It depends. I mean, mostly, mostly not because I continue to be bullish
+at these prices. Yeah.
+And so you just you just stake that ETH too, right?
+That's what most ETH stakers do.
+They stake their ETH and then sometimes less their tax bills.
+But yes, whatever. Yeah.
+You pay for those in other ways.
+You take when you stake ETH stakers, when they stake, they take their ETH
+rewards and they stake them again.
+They keep on accumulating the stake because they don't have very much costs.
+So you don't have to sell. Right.
+And so like the there's not even any sell pressure there.
+It's actually just accumulation.
+There's just accumulation going on.
+Yes. And the story behind the last bull market, again,
+we're we talk about put this in perspective, right?
+We're not even at ETH all time highs.
+We're not even at December all time highs.
+December, we are still 40 percent off of all time highs.
+Yeah. OK. So like at some level, this is a pump for ants still. OK.
+This for like, you know, you still have a lot more to go.
+I mean, 2021 was crazy.
+Do you remember all of that?
+Twenty twenty, twenty twenty one.
+We were range bound from like one hundred and fifty to three hundred
+for a very long time and then explosion.
+I went to four thousand one hundred dollars.
+People don't remember that air of what you can actually do.
+But at that time, what was really interesting is the ETH
+monetary schedule kind of sucked where issuance was like what?
+Like five percent or something. This is pre merge. Yeah.
+It was like three ETH per block in a proof of work context.
+Yeah, it wasn't great.
+Yeah, it wasn't great.
+This time around, you have much less supply.
+Annual issuance is like point four or five percent.
+We have not seen ETH in a bull market under the paradigm
+of both proof of stake and EIP one five five nine, which came in twenty
+twenty three and twenty twenty four, twenty twenty two and twenty
+twenty three, respectively.
+See. And so, yeah.
+The other thing I saw this week, which was interesting,
+there were actually days where Bitcoin was down,
+but down was down in dollars and ETH was up in dollars on the 24 hour.
+And again, this is this is segments of time.
+But I just like do you remember the last time we've seen this?
+That has not happened in a long time.
+Sometimes you've had days.
+Sometimes you've had days where ETH outperforms Bitcoin, right?
+Those have been rare.
+But I can't even remember a day this cycle where Bitcoin's
+actually gone down and ETH has gone up.
+So this is some more story of the winds changing here.
+We got more to talk about ETH in the in the Treasury section.
+We're not done talking about ETH.
+But do you want to talk about macro really fast, though?
+Yeah, yeah, yeah.
+You want to know what happened here in the macro world?
+Yeah, in macro world, in the world.
+Can you start with is it bullish or bearish?
+Oh, actually, before we get to that, can we just check in on coin?
+Oh, yeah. Total crypto market cap, because I feel like we might be all time highs.
+We are tied for all time highs on the market.
+We are three point nine trillion dollars.
+We hit three point nine trillion dollars four months ago, five months ago.
+So we are tied for a total crypto market cap.
+And that is inclusive of Bitcoin dominance being very high.
+Yeah. Yeah.
+Good stuff. Good stuff.
+All right. Here's what's going on in macro.
+So we had some CPI numbers in the report.
+Inflation picked up a little bit, but like it really wasn't that bad.
+It just ticked up a little bit.
+But it was pretty much as expected.
+And I think the big story here.
+Oh, I should say the numbers 12 12 month was at two point seven percent.
+This is still the highest since February, but pretty much in line with expectations.
+Do you know the story that was going on like three or four months ago
+about tariffs causing inflation?
+We just haven't really seen that in the data yet.
+In fact, if you look at Polymarket compared to that point in time
+where you had U.S. recession odds in 2025 at about 64 percent
+during a tariff craziness, it's down to about 20 percent.
+Now, of course, we have less time in the year.
+So the prediction gets, you know, like a little a little more crisp, but 20 percent.
+So recession fears have kind of evaporated from the market pretty much.
+And Trump, of course, used this as an opportunity to to to be Powell over the head.
+He said consumer prices low.
+Bring Fed bring down the Fed right now.
+He's talking to Powell, of course, about this.
+And I don't know if you saw this, David, but there was actually
+the New York Times reported that President Trump actually drafted a letter
+to fire Chair Powell.
+All right. So he had the letter all drafted.
+I've got to wonder what that letter said.
+But he had the letter.
+This is what the New York Times was extremely cordial and reported.
+OK, but then reporters asked Trump, do you have the letter?
+Have you drafted a letter?
+They say Trump said, I haven't drafted a letter.
+Reporter said, I have concepts of a letter.
+The reporter goes, so you didn't show it to Republican lawmakers last night.
+This is what the New York Times is reporting.
+I talked about the concept of firing Powell.
+No, no, no.
+He actually said the word concept.
+Yeah, this is a quote.
+Did it again.
+Reveal it.
+The guy's a fucking meme lord.
+It's great. It's great.
+So Trump on Jerome Powell, he said he's a terrible Fed chair.
+I was surprised he was appointed, apparently forgetting to remember
+that he was the guy that originally appointed Powell, actually.
+So it's all, you know, great stuff.
+But what a circus.
+It is a circus.
+I mean, lots of clippable stuff you can talk about on the week.
+But the bottom line for me is like, what's the probability
+that Jerome Powell is out as the Fed chair?
+Again, this would be unprecedented.
+Never happened in U.S. history. Right.
+Polymarket gives that an odds of about 20, 21 percent chance happening this year.
+OK, so still pretty low odds. Pretty low odds.
+Can I get my macro take? Yeah.
+I don't want to rock the boat.
+I think if you are just like,
+irrationally or uber bullish, you want Trump to fire
+the Powell so that he can like lower down interest rates.
+Do you think you want that?
+I don't know if you want that. I think that I think that's naive.
+I think some like naive bulls are like, yeah, just cut the interest rates.
+Fire Powell cuts the interest rates.
+Let's fucking take this to the moon, which will probably happen.
+And then there will be a massive hangover all throughout 2022.
+And it's going to just delay further wealth.
+Like it's short term wealth. It's short term.
+I don't even know if it's like who knows how the market might react to that.
+They might react in the opposite way.
+They might be like, OK, the central bank impartiality is totally screwed.
+The US is going down.
+I think that's a black swan.
+I think we don't want to rock the boat.
+We have a good thing going right now.
+The SPY, the S&P 500 is up two and a half percent
+from its peak in January right before the tariff dip.
+So if you just ignore the tariffs, we are we're at all time highs right now.
+Like things are good.
+Like, let's just not keep it going.
+I mean, I don't change anything.
+I'm kind of inclined to agree with Polymarket that I don't think it's going to happen.
+It's like 20 percent.
+But the odds that Trump continues to talk shit about your own power,
+what are the odds of that?
+Yeah, what are the odds of that?
+I don't I don't want power that I was doing fine.
+Give that 100 percent odds.
+OK, coming up next, David, we got to talk about this race to a billion dollars
+in each treasury.
+Seems like all of these treasuries are racing.
+And we may have a winner already on the week.
+Somebody first to a billion in need.
+Also, we've got more billion dollars of these billion dollars of it.
+Not when I need to specify about that, because we're going to talk about that later.
+More more Bitcoin mining companies.
+They're pivoting to each treasuries.
+And also Peter Thiel is making a big bet.
+Peter Thiel has entered the chat.
+Yeah. And you got to tell me more about the the Coinbase wallet
+turning into a super app and everything app.
+They've got a big revamp.
+We'll have some videos and more.
+But before we do, we want to thank the sponsors that made this episode possible,
+including Uniswap.
+They are a browser wallet.
+They are a mobile wallet.
+They are the best place to do DeFi.
+Go check them out.
+Ethereum's layer two universe is exploding with choices.
+But if you're looking for the best place to park and move your tokens,
+make your next stop Unichain.
+First, liquidity.
+Unichain hosts the most liquid Uniswap V4 deployment on any layer two,
+giving you deeper pools for flagship pairs like ETHUSDC.
+More liquidity means better prices, less slippage and smoother swaps.
+Exactly what traders crave.
+The numbers back it up.
+Unichain leads all layer twos in total value locked for Uniswap V4.
+And it's not just deep, it's fast and fully transparent.
+Purpose built to be the home base for DeFi and cross-chain liquidity.
+When it comes to costs, Unichain is a no brainer.
+Transaction fees come in about 95% cheaper than Ethereum mainnet,
+slashing the price of creating or accessing liquidity.
+Want to stay in the loop on Unichain?
+Visit Unichain.org or follow at Unichain on X for all the updates.
+Ever wonder how industry leading companies like Coinbase, Metamask
+and Phantom Wallet build products that always stay ahead of market shifts
+and new token listings?
+It's because they all use the CoinGecko API,
+the most reliable and comprehensive crypto data API,
+backed by a rock-solid 99.9% uptime SLA.
+Builders, analysts and businesses rely on CoinGecko
+for real-time data on 9 million cryptocurrencies
+across 1,500 exchanges and 200 different networks.
+It goes beyond crypto prices to access liquidity,
+OHLCV, DEX data, metadata, NFT floor prices and more,
+enabling your team to build and scale powerful products
+like wallets, oracles, exchanges, AI agents and DeFi applications
+without limitations.
+Onboarding is easy with clear documentation and enterprise-grade support
+that answers you faster than finality, 24-7 around the clock.
+Supercharge your product and build with CoinGecko API today.
+Head to gcko.io slash bankless10
+and enter code bankless10 for 10% off any plan.
+CoinGecko API, crypto's most trusted and reliable data source.
+Imagine if your checking account and DeFi wallet
+finally spoke the same language.
+That's Mantle Banking, an all-in-one fiat and crypto account.
+It lets you save, spend and invest all from one dashboard.
+Swipe for coffee, stake ME3 yield
+or even use virtual cards for payments through Apple Pay.
+So it feels Web2 simple yet stays Web3 sovereign.
+For allocators, meet Mantle Index 4, the S&P 500 of crypto.
+A tokenized institutional-grade fund
+seeded with $400 million from the Mantle treasury
+and balanced across Bitcoin, Ether, Sol and yield-enhanced stables.
+One asset, broad exposure, pure DeFi composability.
+The momentum is real.
+ME faults, FBTC bridges and a $2.4 billion community treasury
+are all powering the next phase of on-chain finance.
+Mantle brings real-world access, yield and utility to digital assets.
+Ready for the next era of on-chain finance
+that actually belongs in 2025?
+Explore Mantle at mantle.xyz or follow Mantle underscore official.
+Mantle, bridging TradFi and DeFi so you don't have to.
+Okay, we got maybe the first to $1 billion worth of ETH in treasuries.
+It's been a race and I gotta say,
+the race may have concluded earlier than I thought.
+It's moving faster.
+We've got number one, this is a strategic ETH reserve, by the way.
+I'm gonna filter by treasury companies here.
+We got a new number one and it's just over $1 billion worth of ETH.
+That's $300,000.
+This is Bitmine Immersion Technologies.
+Okay, this is Tom Lee's.
+Tom Lee, this is Team Tom Lee.
+This is the horse that Tom Lee is the jockey of.
+He's riding, yeah, he's riding this Bitmine Immersion Technology horse.
+He's in the lead.
+But he just like, he just took the lead, okay?
+Kind of last minute.
+It looked like Sharp Link Gaming was going to be first.
+Joe Lubin, Joe Lubin's the jockey of Sharp Link Gaming.
+Yup, that's SBET.
+We'll talk maybe more about these tickers.
+Maybe people will remember, maybe they'll forget like I do,
+almost on a weekly basis, we get so many tickers going on.
+But Lubin with SBET, he got up to $960 million,
+at least publicly disclosed.
+He may have more that's not yet been publicly disclosed, but will be.
+So just short of a billion.
+So David, Tom Lee may have won the first round here
+to a $1 billion worth of ETH.
+I think that's great for him, $1 billion of ETH,
+but he's at 300,000 Ether-ish,
+and Joe Lubin's at 280,000 Ether.
+The better number is who's first to 1 million Ether.
+Oh, okay, okay, but...
+I think that's a much better race,
+because it's roughly three times more than what we need,
+where we're at right now, and it's ETH-denominated.
+And so the ETH price doesn't actually...
+Because then we're measuring dollars of ETH price,
+and then we just... Why denominate in dollars?
+It's millions of ETH on the balance sheet is what we want.
+Okay, Tom's thinking the same thing, David.
+He's already ahead of that line of thought, okay?
+This is a quote from Tom Lee about Bitmine.
+We are well on our way to achieving our goal of acquiring and staking
+5% of overall ETH supply.
+David, Tom Lee wants to buy 5% of total ETH supply.
+What are we talking about? What's the math on that?
+If you want to do ETH-denominated,
+what's ETH-denominated 5% of total supply?
+We're at 120 million,
+so times .05 is...
+Six. Six million ETH.
+Tom Lee wants six million ETH.
+He's got 300,000 now.
+He's got 300,000. He wants to get to six million.
+He's basically at zero.
+He basically doesn't have any ETH.
+That is what...
+That is probably one Michael Saylor worth of ETH supply
+if you do the comp to Bitcoin, right?
+What does Saylor have? Three? Four percent?
+No, yes. Maybe he has three percent.
+Maybe it's 2.5. He's trying to do a 2X Saylor.
+All right, I've got the number.
+It's 2.86% is Michael Saylor.
+This is Michael's strategy, or strategy, I should say.
+Michael's strategy, Michael Saylor.
+Strategy owns 2.86% of the total Bitcoin supply.
+All right.
+So Tom Lee wants six percent,
+and Joseph Lewin wants to beat him there.
+He said five percent.
+Five percent.
+He says five percent.
+Yeah, yeah.
+Let's not get ahead of ourselves.
+Yes.
+It's actually interesting.
+SBET actually has more ETH now, publicly,
+than the Ethereum Foundation.
+Okay, so that was...
+So the Ethereum Foundation made a sale of ETH this week
+to do their normal funding operations,
+but they just sold it to MicroStrategy.
+Or excuse me, to SBET, to Joe Lewin.
+So it never actually hit the order books.
+Yeah.
+And everyone was very bullish about that.
+It's like, oh, the ETH's not gonna dump on us.
+They can just buy it.
+Those are gonna get absorbed by SBET.
+But like also at the same time,
+it's just neutral because then the SBET dollars
+don't actually hit the order books.
+This news came in, I don't know if this is recent,
+but it just came in with the Edgar filings.
+I can't believe I'm talking about Edgar filings, okay?
+This is where...
+One of us has to do it.
+Peter Thiel bought 9% of Tom Lee's ETH treasury company.
+That's the bit mine.
+Okay, so Peter Thiel is in on all of this too.
+He's providing some of the capital
+for, I guess, these ETH purchases.
+That seems kind of bullish to me,
+of big money, institutional money,
+coming into these ETH treasury products.
+The thing is too, there's more coming, okay?
+So it's not just these companies.
+There's other horses that are going to enter this race.
+Pretty certain of that.
+Maybe let's look at the stock prices here.
+These are the ETH treasury companies
+that are all publicly traded in the US.
+So the first is SBET.
+So this is Sharp Link.
+Look at this chart.
+That is an unreal chart.
+That is a chart that just is a parabola up
+starting at the very beginning of July.
+Okay, but before that, do you remember that?
+Do you remember this bump right here?
+That weird spike where it was announced
+and it had already pumped from a dollar up to $50
+and then it crashed back down
+and then everyone on Twitter was gravedancing on it.
+That was such a weird, what happened there?
+What happened?
+It looked like such a low float thing to do
+and then it seems like just a bunch more float
+has hit the market.
+The market's behaving much more orderly right now.
+It is, but this was literally, I think,
+crypto investors misinterpreting the Edgar filings,
+the SEC filings.
+They thought all the original holders of this
+were exit selling and they misinterpreted it.
+Yeah, people were wrong.
+Not fully recovered, but it's back to 34.
+Actually-
+I don't think there was much volume.
+Sorry, go back there and look at the volume
+under the very big spike that happened in June.
+Oh yeah.
+Just no volume, absolutely no volume.
+Good point.
+And so people are like,
+oh, Joseph Lubin and ETH people are dumping on you.
+It's like it hit $100 for a blip
+because people were FOMO, we were trying to snipe it.
+Now the volumes under it are 10 times larger
+than when it was at like $100.
+Okay, this is Bitmine.
+So this is the BMNR.
+This is the Tom Lee.
+I can't believe we're looking at stocks so much on this, okay.
+It's stonk season, man.
+Okay, so I don't know what this chart is showing you.
+I don't really know.
+It looks like that one mountain in the Midwest
+I'd like to climb.
+This is Bitdigital, another mountain maybe
+you want to climb here because it's going up.
+It's a nice ascend here from-
+I mean, Espet has all the price action.
+All of these are just not really doing what Espet is doing.
+Yeah, and then there's BT.
+This one's nice, BTCS.
+Yes.
+These are what I'm quoting are the top four.
+And if you're noticing all the Bs in these ticker symbols,
+it's because it used to be Bitcoin mining companies.
+Yeah, these are all Bitcoin miners,
+which is kind of interesting that Bitcoin miners are like,
+you know what, mining sucks.
+We're going to accumulate ETH.
+Literally, I mean, this is the founder of Bitdigital
+we have an episode coming out with the founder of Bitdigital
+and he basically said it was a shit.
+He said it was a shit business.
+And so instead they've diversified into staking ETH,
+which is also validating a chain.
+There's another company that just this morning,
+another Bitcoin company pivoting to ETH.
+This is BTC Digital.
+This is something we hadn't talked about yet.
+This is BTCT.
+You got a third V acronym here.
+I wonder how far this is, the brand of this is indicative.
+Like does Wall Street see notice
+like all of these are Bitcoin mining companies
+becoming ETH treasury companies.
+And do they take that into account
+as to like what's going on?
+Cause like my narrative here as a crypto native
+who's familiar with these subjects is like, oh yes,
+this is highly indicative
+of Bitcoin's long-term security problems.
+And you're actually seeing Bitcoin miners being like,
+okay, well, we are not paid much by Bitcoin.
+We're not paid enough to keep on doing what we're doing.
+So let's do something else.
+And all of a sudden,
+when something good lands on their doorstep,
+they immediately jump ship to that other good thing,
+which is ETH, which has a sustainable.
+I mean, I don't know.
+They don't really have to do that.
+The CapEx expenditure of ASIC mining
+and like electricity and all that stuff,
+they're just doing the ETH.
+Well, the CapEx is buying ETH.
+That's CapEx is buying ETH, but like, yeah, right.
+But that doesn't deteriorate like the electricity
+and the actual hardware that they would have to buy.
+So it's a better business.
+And to me, that is indicative
+of the security budget stuff story
+that we've told for years.
+I think that's a longer term story.
+I think probably Wall Street is not looking at that right now.
+I think right now they're just looking at,
+oh my God, could this be the next Bitcoin?
+Question mark, right?
+And they're very excited about that.
+And it looks like it's a treasury asset
+from early indications.
+One other thing that the strategic ETH reserve
+actually added was the price to the MNAV.
+A very geometric.
+Yeah, this is the premium above basically the assets,
+the ETH assets under these companies.
+Well, higher is more of a premium.
+Higher is more expensive.
+Like, I don't know necessarily if it's better.
+It depends on like, if you own it, it's better.
+If you're a buyer though.
+If you are, yeah, it's not great for the buyers.
+If you already own it, it's better
+because that means that's the premium that you're getting.
+For ETH holders, you want to see higher.
+Higher means that there's more premium to squeeze
+to buy more ETH.
+So the premium eventually turns into buy pressure for ETH.
+Yeah, I think that's true.
+Also, I think it's indicative of froth
+potentially in the future, right?
+There's a time where these premiums will go down.
+There's a time when the premiums will be under one,
+but when they're above one, we're happy.
+Anyway, so we got a range, you know, SBET is 2.63 MNAV,
+whereas Tom Lee is 2.19 MNAV.
+Anyway, investors can look at this
+and all the data is on the strategic ETH reserve.
+So, wow, that's the treasury story
+and it seemed to come out of nowhere.
+David, there's also another treasury on the scene this week.
+I don't know if you saw this.
+The Hype Token getting its own treasury,
+Sonnet Biotherapeutics.
+I believe this is its second treasury reserve company,
+Hype's second treasury reserve company,
+which is pretty crazy.
+This new company will hold 12.6 million Hype tokens
+at $570 billion.
+They also have $305 million of cash,
+which they are going to use to buy Hype.
+And then also the investors in this,
+you will hear and recognize their names,
+Paradigm, Galaxy Digital, Pantera, Republic Digital.
+Paradigm co-founder, Matt Hwang said,
+we've been investors in Hyperliquid since November 2024.
+We keep hearing from our Tradify friends
+that they'd like easier access.
+So I'm pretty sure Paradigm just like had their Hype bags
+and then they did the in-kind investment
+into this new vehicle.
+And then they were able to get shares back.
+And so now they have the shares
+and we're like, why do you want those?
+Well, cause they traded a premium.
+Yeah. It's a free premium.
+That's the thing is as excited as I am
+about all of these treasury entities,
+particularly for ETH and kind of the propagation
+of ETH as a reserve asset,
+treasury reserve asset first, right?
+You can also start to see the signs
+of how this gets too bubbly and too frothy
+and almost how it ends, right?
+So some of these are funded by,
+this goes for all treasuries,
+in-kind contributions, as you said.
+So somebody already has a bag, let's say,
+of ether or Bitcoin or Hype,
+and they just contribute it to this entity
+before it goes public, essentially.
+And then they get an MNAV premium, okay?
+And then they can, quote unquote, exit to retail, all right?
+I'm not saying that's what's happening yet,
+but you start to, always in the beginnings
+of these big narrative, like exciting bubble type things,
+you can sort of, if you squint hard enough,
+you can see how it's also going to end.
+So be excited now.
+And also at some point in time,
+probably it's gonna get overheated and buyer beware.
+I don't think we're close to that yet,
+but you can see a little bit.
+I don't know if it's necessarily retail.
+It's squeezing the juice out of public markets,
+out of the TradFi markets, retail included,
+but also large investors, right?
+Like whoever's buying in their brokerage,
+it's that's who is paying for the premium,
+and that's what the premium converts
+into buying the L1 asset.
+Let's talk about another exciting retail product
+that Coinbase just rolled out.
+This is the base app.
+So I believe this used to be, David,
+correct me if I'm wrong,
+this used to be the Coinbase wallet,
+and they've rebranded this.
+Toshi.
+Toshi turned into Coinbase wallet.
+Yeah, it used to be called the Toshi wallet.
+Oh, that's a long time ago.
+I remember that.
+Which was Brian Armstrong's like cat or something or dog.
+Okay, so that was a long time ago.
+I don't think most people even remember.
+Congrats if you remember what Toshi was,
+but then Coinbase wallet,
+now it's the base app basically.
+The base app.
+But it's totally revamped.
+So they've added a bunch of things.
+What have they added here?
+It's just that Coinbase and Base and Jesse
+really leaning into on-chain social.
+So they're just continuing to double, triple down
+on the whole on-chain social thing.
+So it is a Farcaster client.
+So when you go on there, it's Farcaster.
+It's their own client.
+So they're a competitor to Warpcast.
+And so you can do tweets and all the things
+that Warpcast, Farcaster allows you to do.
+You can buy-
+They're using the Farcaster protocol,
+importantly, yes? Exactly, exactly.
+Yeah, and so you can tweet
+and you can share out tokens that you buy
+and do any of the other features that Farcaster has.
+Zora Markets, for example.
+There's like ENS.
+And then there's also Payments.
+And then they're doing the whole mini-app thing.
+So there is an open graph for mini-apps as well.
+They brand it as an everything app.
+It's a super app, is what Brian Armstrong called it.
+And so it does a bunch of different things.
+There's also an encrypted chat.
+And then you can just like trade tokens
+and like I said, make payments.
+And so kind of encroaching on world apps territory
+because they're doing the mini-apps too.
+Telegram, the Tom blockchain also doing mini-apps.
+So mini-apps are a thing.
+Now the base app is also doing this.
+And then, yeah, like emphasis on really leaning
+into the creator economy.
+They had a Gary Vee and People Pleaser
+and one other creator that wasn't familiar
+who talked about how NFTs and the creator economy
+just helped them with their careers.
+So they were kind of doing like a narrative campaign
+for the creator economy and like branded it with the base app.
+So yeah, pretty cool presentation.
+Well, all the posts can be minted, right?
+To your point about the creator.
+So they've also integrated Zora.
+What I think is interesting here is it just feels
+like it's a coming together of a whole bunch of narratives
+from like circa 2015, 2016 for Ethereum.
+So you got money, okay?
+That's obviously stable coins.
+That's ether the asset.
+You have identity.
+So they've integrated E and S in this thing.
+So you have one single identity.
+You also have socials.
+So this is the Farcaster platform.
+That's a little web three E.
+And then you also have the ability to create mint posts.
+That's the creator economy stuff.
+You have markets.
+So you got Uniswap in here, very easy to trade things.
+You've got all of the DEXs in here.
+And they've got the communication protocol XMTP,
+which is decentralized permissionless communication.
+And they slapped it all together
+in a nice polished retail friendly, user friendly front end.
+So this is like, this almost feels like the contours
+of crypto's version of a super app, of an everything app.
+I haven't used this yet.
+So I'm looking at videos at this point in time,
+but I could see some potential here.
+I could see it all coming together.
+Yeah, it is definitely like a dream come true
+from very early narratives up to like 2021, 2022
+on-chain social, like you said.
+I was listening to this presentation and I was like,
+I don't think this app is for me.
+Like I'm still yet to become a post collector
+or things of that nature.
+And I feel like this is kind of like a shared sentiment.
+Like I want Coinbase to do this and to win
+and to make this a reality and to take
+on-chain social mainstream and to have
+collecting content and the creator economy.
+I want that to work.
+It doesn't work for me.
+And I don't think my peers-
+When's the last time you've been on a Farcaster?
+Has it been a long time?
+Well, I was perusing through this app yesterday,
+not on my phone, but on a friend's phone
+who had the access to it.
+It's like Farcasters kind of putting it together.
+I go on Farcaster and I enjoy it.
+I also feel like it's somewhat overwhelming
+with all of kind of the mini app experience,
+but it's evolving very fast.
+I don't know.
+I mean, I think it might be for you, David.
+Maybe not yet, but-
+The creator economy and coining content and I don't-
+You don't want to coin your post?
+Look at this post.
+This is a perfect kind of post to coin.
+This is Brian Armstrong and Jesse from Baze.
+Jesse Pollock from Baze doing a little
+a fist bump handshake kind of exchange here.
+That was a nice moment.
+And I think they are going to coin that
+on the Coinbase Baze app.
+So there you go.
+I'm not totally, I'm supportive of Jesse
+and I want him to win.
+I have not been coining content, pilled.
+You haven't been, you coined any content yet?
+I have not.
+No, I have not.
+What do we got coming up, man?
+Coming up next, Crypto Week in D.C., the Genius Bill.
+We're going to talk about that.
+We talked about it at the intro.
+And then also Pump Fun just became
+the world's third largest ICO to ever come out of crypto.
+We're going to talk about all that details and more,
+but first a message from some of these fantastic sponsors
+that make the show possible,
+like Frax and their Frax stable coins,
+got some of the best deals in DeFi.
+It's kind of like Circle Athena, make it out,
+all had a baby, but if they also had a layer two as well,
+let's go here from Frax right now.
+In the Wild West of DeFi,
+stability and innovation are everything,
+which is why you should check out Frax Finance,
+the protocol revolutionizing stable coins, DeFi, and Rolex.
+The core of Frax Finance is Frax USD,
+which is backed by BlackRock's Institutional Biddle Fund.
+Frax designed Frax USD for besting class yields
+across DeFi, T-bills, and carry trade returns all in one.
+Just head to frax.com,
+then stake it to earn some of the best yields in DeFi.
+Want even more?
+Bridge your Frax USD over to the Fraxstil layer two
+for the same yield plus Fraxstil points
+and explore Fraxstil's diverse layer two ecosystem
+with protocols like Curve, Convex, and more,
+all rewarding early adopters.
+Frax isn't just a protocol,
+it's a digital nation powered by the FXS token
+and governed by its global community.
+Acquire FXS through frax.com or your go-to DEX,
+stake it and help shape Frax Nation's future.
+Ready to join the forefront of DeFi?
+Visit frax.com now to start earning
+with the Frax USD and staked Frax USD.
+And for bankless listeners,
+you can use frax.com slash r slash bankless
+when bridging to Fraxstil
+for exclusive Fraxstil perks and boosted rewards.
+Binance is the world's number one crypto exchange.
+Over 275 million users
+already trust their world-class security.
+Binance makes starting crypto as simple as it should be,
+whether it's learning about crypto on Binance Academy
+or browsing hundreds of assets
+and viewing your newly created portfolio
+in a clear, easy-to-track dashboard,
+Binance helps you go at your own pace.
+For hardcore traders,
+Binance Pro opens up industry-leading services
+for trading professionals
+with fully bespoke trading products,
+along with a suite of white-gloved services
+for VIP and institutional clients.
+Need support?
+24-7 customer service is on hand whenever you need it.
+And with some of the lowest fees
+and deepest liquidity in the market,
+it's no surprise why over 275 million users
+trust Binance for everything crypto.
+Download Binance today and get started in minutes.
+Binance is not available in certain countries,
+including the United States.
+Check its terms for more information.
+It was crypto week in D.C.
+That's what Trump declared it.
+This is Bo Hein.
+So he's an executive director
+in the President's Council of Advisors,
+basically for crypto.
+He said, huge week ahead.
+It's crypto week in the house.
+Genius heads to the president's desk.
+That's his genius bill.
+Clarity, another bill, moves to the Senate.
+Time to make America the crypto capital of the world.
+Donald Trump echoed those sentiments.
+You know what?
+We should start with the genius bill itself, of course.
+You guys know we've talked about this for a long time.
+That is the landmark stablecoin bill
+that passed in the Senate with a decent majority,
+even got some Democrat support,
+and is now in the House, okay?
+By the time that you are listening to this,
+I am predicting,
+I think you are probably predicting, David,
+that that will have passed.
+So assuming that's true,
+we have the first stablecoin act,
+the first largest legislative action
+out of Congress for crypto ever,
+and it's a milestone moment.
+I do think Scott Besson is right.
+The passage of this bill,
+we're going to see trillions in stablecoins on chain, okay?
+Scott Besson echoed sentiments of three trillion by 2030.
+So that in and of itself is significant.
+There was last minute, some jockeying around.
+They tried to package all of these bills together.
+There were actually three bills.
+There was the genius bill.
+There was the Clarity Act as well.
+That's defining what the difference between a commodity
+and a security with respect to crypto is.
+And then there was like an anti-Central Bank
+digital currency bill of some sort.
+And some people wanted to package
+all of these things together.
+And so it was difficult to get all of the Republicans
+on board last minute.
+So Trump tried to knock some heads together
+in his own party and get some of those
+that were not voting yes to actually vote yes.
+So that's probably happened right now,
+which means huge progress for crypto in the US.
+So while this was going on,
+there was also a campaign by some Democrats.
+This is Representative Maxine Waters.
+She actually announced an Anti-Crypto Corruption Week.
+And she said, I'm sounding the alarm in MSNBC
+short and op-ed about this.
+GOP crypto bills don't just fail to protect consumers.
+They green light Trump's billion dollar crypto grift
+and invite the next financial crisis.
+I think I'm kind of with her on the first part.
+There's a little bit of a grift going on.
+I don't know about the second part.
+And I want to play this clip for you, David.
+This is Elizabeth Warren on the genius act
+in some of these bills.
+Guardrails to make sure that crypto
+isn't used to blow up our entire economy.
+So I'm very worried about that,
+but I want to add one more twist.
+And that is the clarity bill has all those problems,
+but it also has a provision in it
+that would let any company listed
+on the New York Stock Exchange opt out of SEC regulation
+by just digitizing themselves,
+put themselves on the blockchain,
+and all of a sudden it turns out that Amazon or Meta
+or General Motors is no longer governed by the SEC.
+You can just put yourself on the blockchain
+and then all the rules just go away.
+That's how it works.
+You can just digitize yourself.
+Do you hear what she said?
+That could literally blow up the value
+of the New York Stock Exchange.
+All right, we still have some holdouts.
+That's why I'm in crypto because I understand
+if I'm just on the blockchain, then no rules apply to me.
+That's what I'm here for.
+He's being sarcastic, okay, in case this gets clipped.
+You just digitize yourself,
+but you put yourself on the blockchain
+and then you get to be God.
+I'm just kind of annoyed at the doubling down
+on a clearly losing position.
+Talk about the anti-corruption, that's fine,
+but to talk about crypto as if it's going to blow up
+U.S. capital markets, that is just crazy at this point.
+Yeah, before crypto,
+before Elizabeth Warren came after crypto,
+my family was very pro Elizabeth Warren
+and I'm like, oh, okay, sure.
+She's like anti-big banks.
+I'm like kind of into that.
+And then when she goes on crypto, I'm like,
+oh, wait, you're just lying about stuff.
+Yeah, none of that's true.
+None of that's true.
+And now I can't trust anything that you say ever.
+And now whenever my family is talking about Elizabeth Warren,
+I'm like, bro, she's a snake.
+Why are you guys supporting her?
+Yeah, it's pretty disappointing, I think,
+to some that are watching this.
+David, tell me about the pump ICO,
+because I don't think disappointing
+is the word we would use for that.
+Actually, some people are disappointed about that.
+Oh, really?
+Yeah, it started.
+I wasn't paying attention.
+Yeah, and this is why I'm doing this section.
+Okay.
+It started off pretty good and we are now down a decent bit.
+So we are coming in at a $2 billion market cap.
+Ooh, wow, wait, really?
+Is it down that much?
+Okay, wait a second.
+No, no, no, no.
+Market cap, $5.6 billion fully diluted.
+Okay, so they're doing fine.
+They're doing fine.
+Okay, well, why are people...
+The way I saw this was basically they had an ICO on chain.
+It was a successful ICO.
+It was filled in, I don't know,
+six minutes or something like this?
+12 minutes. You tell me.
+12 minutes, okay.
+And a chain didn't go down.
+Some of this activity happened on exchanges.
+Some of this happened on Solana.
+There is some sort of a rev share components,
+not 100%, but 25%.
+Yeah, so they announced,
+they started doing their initial buybacks
+and then the token pumped up to its
+now current all-time highs,
+which, I mean, the token's actually not volatile.
+I remember talking about how it's gonna be volatile.
+Sorry, I was actually wrong about that.
+The token price is very liquid
+and it's pretty stable in the grand scheme of things.
+Okay, so why are people mad?
+Who's mad?
+Well, because it went down.
+It went down 10% while ETH went up 20%.
+Okay.
+And so it didn't try.
+I don't think you actually tracked beta.
+If you did the ICO, I think you're okay,
+but since launch, it hasn't done anything.
+So I think people's expectations are dashed.
+Just to put out some stats,
+this makes Pump the third largest ICO in history,
+raised $600 million.
+EOS is number one.
+No one's ever gonna beat that.
+$4.1 billion in 2017.
+That was also crime.
+Telegram did $1.7 billion in 2019
+and now Pump is now number three at $600 million.
+I mean, there's a lot more stats here.
+Overall, I think it's successful
+and the buyback is pretty cool
+and we could see more of that,
+but I think people were having higher expectations
+than what happened.
+I do have some breaking news, Ryan,
+stuff that's not in the agenda.
+So we're actually gonna go back into Ethereum conversation
+because BlackRock's iShares,
+ETH Treasury just filed for ETH staking.
+Wow.
+So they have filed to have ETH staking in the ETH ETF.
+The ETH A, the BlackRock iShares for the ETH ETF
+filed for staking.
+And BlackRock gets what it wants.
+That's not gonna help the ETH-Pump ratio there, David.
+So, you know, I guess.
+You have the ETH-Pump ratio.
+Yes.
+Are you looking at the ETH-Pump ratio?
+No, dude.
+You made reference to it.
+I'm trying to riff off something you did.
+Also, Binance doing a, what is this?
+Yeah, Binance is doing launchpad.
+Okay, actually, maybe perhaps one of the reasons
+why Pump hasn't had the sellout performance
+is this other launchpad called Bonk
+continues to maintain volumes against Pump.
+And so it's taking a little bit of the wind
+out of the sales of Pump.
+And then also, Binance has unveiled its own launchpad
+on BNB chain, 4.meme, remember 4?
+4.meme is now the Pump fund of BNB.
+And so that's out there.
+And then, Ryan, I'm gonna read you a headline
+and you're gonna guess what year it's from.
+Snoop Dogg sells $12 million of NFTs in 30 minutes.
+What year is this headline from?
+Yeah, I mean, I know it's now.
+That just happened this week.
+But if I were to hear that in isolation,
+that would be so, you know, 2021 coded.
+That's what was happening all of the time.
+So this was on the Tonne blockchain
+and this is part of the sticker pack.
+So the stickers you can use in Telegram
+can be like unique, fungible assets,
+non-fungible assets.
+The tokens in the collection included vintage cars,
+swag bags, a digital dog,
+a marijuana-related objects, of course,
+a mix of other items and symbols.
+So it's a Telegram gift that people can purchase.
+And because it was on Tonne,
+it's integrated into Telegram.
+Yeah, $12 million in 30 minutes by selling stickers,
+NFT stickers on Telegram.
+I'm not feeling bullish on the JPEGs these days, David.
+You know, it was-
+You're not a buyer of a lit blunt, Ryan?
+It's been a hard four years on the lit blunts JPEGs, OK?
+I'm going to wait this one out.
+I'm going to let other people go first.
+David, this was actually big, OK?
+This is Shane Copland.
+Do you remember it was...
+What is it? Just like November?
+It was November of last year because it was just-
+Right before the election? Yeah.
+No, it was eight days after the election.
+OK. After the election.
+So Shane Copland, the founder of Polymarket,
+the FBI just showed up at his apartment,
+I believe he's in New York, busted in.
+Without due process, without a warrant, busted in, arrested him
+and took a whole bunch of his equipment.
+Including his phone, yeah.
+Including his phone.
+This is the founder of Polymarket.
+Obviously, we talk about Polymarket all the time.
+Incredibly successful prediction market.
+This is a startup founder in the US.
+OK, an update on that story.
+This is from Shane.
+Eight months ago on election night,
+we were on top of the world after Polymarket called the election.
+You remember that?
+Eight days later, the FBI broke down my door at 6 a.m.
+and took all of my computers and phones,
+looking for anything that could imply foul play.
+While traumatic, it etched the story of Polymarket's accuracy
+and enduring resistance into the history of American politics.
+And today, here's the news part.
+I'm happy to announce that this the chapter of the story is over.
+After cooperating and engaging, we've been cleared of any wrongdoing.
+Justice prevailed.
+OK, so the FBI was like, oops, sorry, you didn't actually do anything.
+But what kind of evidence did they have busting into his house
+at 6 a.m. in the morning and confiscating all of his stuff?
+Is that not crazy to you?
+And let me ask you this.
+Do you think that the outcome of this investigation
+would have been different under a different president?
+I don't know. I don't know how to think about that.
+I don't want to think about that.
+It doesn't make me feel good to think about that.
+I do enjoy the juxtaposition of an application that speaks truth to power,
+gets harassed by the FBI, and then they just have to
+the FBI just has to let him go and be like, you did nothing wrong.
+But like this this technology that's anti authoritarian gets authoritarian.
+Like the eye of Saron gets pointed straight at Shane Copeland.
+And then because at least we're in a good country with a good court system,
+Shane gets through that process as just completely got clear.
+Brian Armstrong says this was one of the most egregious examples of lawfare
+from the last administration that should never have been possible in America.
+Imagine having your door broken down for predicting an election.
+The onus was on the government to prove to prove there was something worth
+pursuing here and they failed to do that.
+This is how you lose trust in institutions.
+All right. So that's good news, though.
+He was exonerated. Shane Copeland.
+We've got another trial that started this week.
+This is the trial of Roman Storm, the tornado cash trial.
+And as you'll recall, Roman Storm faces charges of a conspiracy
+to commit money laundering, conspiracy to violate U.S. sanctions,
+conspiracy to operate an unlicensed money transmitting business
+at a maximum sentence of 45 years in prison.
+Forty five years, David.
+The stakes are incredibly high.
+Roman Storm raised a whole bunch of funds from the crypto community.
+He still needs more, I believe, because this trial is going
+even longer than everyone suspected.
+There is a judge in the case, Catherine Polka-Filela.
+She is not exactly crypto favorable, OK, not exactly.
+It seems like favorable to Roman Storm's case.
+Of course, we don't know for sure, but this has been indicated
+from some of the pre-trial statements and some of the things
+she allowed in the trial and things she didn't.
+So the prosecution, this is the government in this case, is alleging
+and trying to prove that Roman Storm turned a blind eye or he enabled
+some of the criminal activity that happened on tornado cash.
+Whereas the defense is, of course, saying, no, this is a decentralized,
+open protocol.
+Roman Storm had no ability, no control over how third parties would actually use it.
+This is similar to, you know, HTTPS, the Internet, cryptography.
+Criminals, good guys can use it.
+It's a tool. Bad guys can use it as well.
+And this case is ongoing.
+So like Ryan said, this case, this court case has just started.
+So we're going to be continuing to watch this and we'll provide updates
+part towards the end of every weekly rollout moving forward
+just to keep an eye on this.
+I don't feel like anyone really knows what the outcome here is,
+which is kind of the scary thing.
+The fact that this is like close at all to Roman Storm losing
+is automatically scary.
+It definitely definitely doesn't deserve to have anything happen to him.
+And so it's something that we're going to be keeping an eye on moving forward
+over the next four weeks, I think, is how long this case is expected to take.
+So we wish the best for Roman Storm and we'll provide more updates as they come.
+Guys, you got to end with this, of course, you know,
+even though it's been bullish on the week.
+None of this has been financial advice.
+Crypto is risky. You could lose what you put in, but we are headed west.
+This is the frontier. It's not for everyone,
+but we're glad you're with us on the bankless journey. Thanks a lot.

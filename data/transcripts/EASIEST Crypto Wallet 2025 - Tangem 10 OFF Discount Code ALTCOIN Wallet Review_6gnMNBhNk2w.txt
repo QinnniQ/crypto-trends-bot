@@ -1,0 +1,116 @@
+Why are so many people saying that this crypto wallet is one of the easiest hardware wallets
+they have ever used? Today I want to tell you about an awesome crypto hardware wallet and
+because you're watching this video, I got you a 10% discount if you use our link below. Save this
+video. 10% discount on all products is a very good deal. The crypto wallet that I'm talking about
+is called Tangem, partner of the channel. This wallet is actually quite popular. 4 million
+Tangem cards have been produced already and zero of them have ever been hacked. That's actually
+one of the things that makes this wallet super unique and user friendly. These cards and the
+app that goes with it. I've tried this product in person. The company actually sent me a couple of
+their latest models to try and I understand why this is so popular. I understand why people are
+buying and using these. The Tangem cards or even the ring, it's so easy to tap. This app is so easy
+to use and yes, this product is super secure, beautifully designed. You tap it to your phone
+and it works. It doesn't need a seed phrase. You can store almost any token on it and the price
+starts at just $55 minus the 10% discount you use with our link. It could also be a good idea for
+you to get more than two cards for different wallets. Also the Tangem ring looks really cool.
+It's very interesting. They have a bank card and a ring option. I like this. Let's dive deeper into
+why this product is so cool. Once again, take advantage of my 10% discount as soon as possible.
+It's not going to be here forever and remember it is strongly recommended. Best practice in crypto
+to have a hardware wallet, to use a hardware or cold wallet. Do you know why? Because it's the
+only way to make sure nobody steals your crypto. That's why you become your own bank though. You
+do become responsible. I use hot wallets too, of course. I have extensions like Metamask,
+but it always comes with a little bit more of a greater risk or greater vulnerabilities when you
+use hot wallets. So my point is, with this product or with hardware wallets in general,
+there are just so many less ways for people to steal your crypto or for you to get fished
+because you're using a hardware wallet. If you have a long-term crypto bag, anything above a
+certain amount of money, it might be a good idea to invest in a cold storage wallet. And by the way,
+Tangem works and is even cooler than most other wallets out there. You tap it to your phone,
+use it just like a bank card. You don't need to push any buttons and you don't need to charge it.
+Smash the like button. Let's take a deeper dive into the value proposition and safety and security
+of this product, of course. So more about the product. The card has an NFC chip, but it's not
+just a chip. It actually has a built-in EAL 6 plus. This is the highest standard of security,
+25-year warranty, and the card itself is very durable, high quality, water resistant. The tech
+itself, it's the exact same technology that you use already when you pay with your phone by tapping
+it or a card tapping it at the grocery store. Also, the open source software here is available
+on GitHub, allowing external audits and the ability to recreate the app if Tangem goes out
+of business. The firmware for this product is not upgradeable. That's a unique value proposition in
+the crypto market. No malicious features or upgrades can be added to this product. They
+have anti-counterfeiting protection, meaning they're one of the first and only companies to
+have introduced a firmware validation function, meaning the Tangem application on your phone
+checks whether the card's firmware is authentic and has not been modified. And then the private
+keys themselves are stored on up to three Tangem cards, never connected to the internet. You are
+the sole owner of the private keys. Tangem does not store the private key information on its servers,
+has no access to them. Audited by these two known names in this space, the two independent audits
+confirm that Tangem's firmware has no backdoors or vulnerabilities and cannot be updated. Plus,
+ISO certification, which means protection against electromagnetic pulses,
+electrostatic discharges, and x-rays. Tangem does not collect any private data from users.
+They don't have any servers to store it, no addresses, no keys, no personal information.
+But if you already have a hardware wallet like Ledger, which I mean I like Ledger too,
+the question is why should I get a Tangem wallet? Well, first of all, look at this beauty. It's
+definitely the coolest, looks just like a bank card, looks just like a slick ring, which it is.
+It's simple, accessible, set up in just three minutes, easy and fast. You sign transactions
+with just one tap, always by your hand, compatible with your phone, doesn't require long onboarding.
+It's tap and go. So it's much more convenient for everyday usage than a lot of crypto hardware
+wallet options. Because keep in mind, this is for everything you want to do in crypto. This is for
+all operations in crypto. Buy, sell, transfer, stake, connect to DeFi with just one tap of your
+card or ring. By the way, the ring has the same chip as the card. Only the design is different.
+You also tap it to your phone. When you tap, the wallet is activated. It generates a new
+random private key. This is another reason I like Tangem. Security seems to be a priority.
+And it's a visionary technology developed by Tangem. Tangem wallet is the first seedless
+wallet. You don't have to memorize any secret passphrases. And that's interesting. But if
+you want to, you can also import other wallets into the Tangem app using seed phrases or create
+a new seed phrase and activate a new wallet in Tangem. Once you get this, once you tap the
+card, it takes about three minutes for the wallet to activate and generate the private key and
+activates the two other cards as backup. And then you use the Tangem wallet app on your phone.
+And the design for the app is also just as beautiful. The Tangem app supports Bitcoin,
+Ethereum, all Ethereum tokens, XRP, Doge, BNB, Cardano, and more than 85 block chains in total.
+And please remember this app can do so much more than just store your crypto. You can buy,
+you can sell, you can swap tokens, you can stake, you can connect to dApps, you can check markets,
+you can monitor token prices, and you can also store and manage NFTs. You'll also be able to
+earn crypto with staking and other earning tools. Also, the app is capable of using biometric
+security and access codes. The app is available for both Android and iOS. Download links in the
+description. Note that your phone does need to be compatible with NFC chips, but if you can Google
+Pay or Apple Pay with your phone, then your phone is compatible with NFC. Security, security, security.
+Let me tell you a little bit more about Tangem's security. This fact surprised me. Out of the
+four million Tangem cards produced, none of them have been hacked. Zero. So Tangem has an amazing
+security track record, plus it passed security certifications by known firms. And by the way,
+Tangem itself is based in Switzerland, a country known for high quality products. The chip in the
+card was developed with Samsung semiconductors and has the same security certification as the
+chips in passports and bank cards. It's resistant to extreme temperatures, x-rays, water, dust,
+everything. So your crypto is safe with Tangem. No other hardware wallet uses chips with such a
+high level of security certification and the 25 year warranty. I mean, enough said. Tangem rings
+have the same security features and are just as resistant, including to scratches. They are made
+from a material called zirconia ceramic, which looks like titanium, but it's very light. I love it.
+You can also wear it on a chain like a necklace. So I've already told you about several big
+advantages to Tangem. Security, design, use the tap technology, great app functionality.
+The next huge advantage is smart backups. You can actually get not only one, but two or three Tangem
+cards with your wallet, depending on what set you order. These are like three keys that open the
+same door. And as for the ring, a ring comes as part of a set with two cards. It's the safest
+option, of course, because if you wear the ring, you hopefully won't lose it. The card that generates
+the private key encrypts it, shares it with the other cards. So you can continue using the wallet,
+even if something happens to the original card, but nobody can ever steal the private key. You
+can activate smart backups only once. That's yet another security measure. And for more info on
+security, go to Tangem's official chat on Telegram and ask your questions in their Telegram. The
+links for that are in the description. Oh, and before I forget, Tangem recently announced a
+partnership with Visa. You are able to join the wait list. You will be able to send cryptocurrency
+directly from the hardware wallet to any place Visa is accepted. So by now, you probably want
+to know how to order a Tangem smart card wallet and ring. It's very easy. Click on the 10% discount
+link under this video and go to the order page and choose which set you want. You can get two
+smart cards for basically 50 bucks if you use our special discount, normally 55 bucks, or three
+cards for $62, 63. Which one is better? Well, the thing is, if you have three cards, even if you
+lose one card and forget your access code, you can use the third card to reset the PIN code.
+But with only two cards, if you lose one, you must remember the access codes. So three cards
+are always safer. And you can also turn off the option to reset the PIN code. Next, you choose
+the color. The options are different shades of gray, red, yellow, green, pastels, special editions.
+And the option that I like, it's a blank card, like stealth mode. So nobody can guess that it's
+a crypto wallet. I prefer gray, but if it's a gift for a girl or something, I think the pastels do
+look very pretty. Tangem offers free shipping for orders over $125. So if you buy a family pack,
+shipping will be free. The delivery time is just a few days for most countries. What about the
+rings? Well, it's obviously a pretty similar checkout process. Simply click the link in my
+description for the 10% discount and go to the order page. You'll need to choose a ring size.
+If you're not sure, click on size guide and watch a video on how to measure your finger
+and figure out your ring size. It's actually quite easy. And a set of one ring and two smart cards
+cost $160. But for you, that's only $144 because of the 10% discount. You know, I always like to see
+interesting and unique products like this catered to real needs in the crypto space. It's very cool
+that something like this exists and people can choose to use it. Check it out for yourself.
+All links are in description. For further questions about the product, visit their
+telegram where they have experts in the telegram that can help you out.

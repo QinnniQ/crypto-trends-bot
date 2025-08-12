@@ -1,0 +1,508 @@
+What blockchains are really good for is first, money movements, so sending, receiving money.
+Two, it's programmable finance.
+So it's lending, it swaps, trading, things like that.
+And third, and I think this for me is going to be the next big wave in blockchain to run
+public infrastructure on chain, identity services, land registries, company registries.
+You know, you want to raise money for your company, you can do it on chain.
+The cap table is on chain.
+Your taxes are on chain.
+Your house is on chain.
+All of these things are going to go on chain at some point.
+But it all starts with the ability to have money and the ability to pay people in a blockchain.
+So if you don't make that part confidential, nothing else matters.
+All right, here we are with Rand Hindy, CEO and co-founder of Sama.
+Rand, welcome to The Defined.
+It's great to have you here.
+Thank you.
+Thank you.
+Nice to meet you.
+Yeah.
+Nice to meet you too.
+I know that you've had a very long career in blockchain tech and deep tech that led
+you to founding Sama.
+So we'd love to start there.
+If you can, you know, let me know more of your background and your motivation.
+Sure.
+So my name is Rand.
+I've been a developer since I was a kid, started coding when I was 10.
+I built my first company in the nineties as a teenager, it was a social network and eventually
+got into AI in 2003, something like that, did a PhD in AI over 20 years ago.
+And then got into crypto in 2013.
+I was also an advisor to the French government on their privacy and AI policies.
+I also built one of the first confidential AI companies that got acquired a few years
+ago.
+And now for the past few years, I've been running Sama to work on fully homomorphic
+encryption.
+What drove you to working on this type of encryption?
+So, you know, when you think about privacy, whether it's for AI or anything else, you
+always find use cases where you just don't want the data to be revealed publicly.
+So my previous company, for example, we were working on language related stuff.
+ChatGPT before ChatGPT was actually possible, right?
+And clearly for us, privacy was non-negotiable because if you're going to be talking to
+people about everything, right, from their job to their health, you need a way to make
+sure privacy is protected.
+For Sama specifically in homomorphic encryption, what we found was critical is to actually
+enable confidentiality on top of public blockchains.
+For example, if right now I told you, take your phone and open your banking app and then
+show it on the screen, show your bank account to everyone.
+Would you do it?
+Probably not, right?
+And so when you use a blockchain today, that's exactly what happens.
+People can see everything you do on chain.
+They can see how much money you have.
+They can see how much money you've been receiving, how much you're paying out to people.
+It's literally like having your bank account publicly exposed.
+So there is no way, there is no way that finance and banking and payments are going to move
+on chain unless you have confidentiality.
+So what you need to understand is that the reason why blockchains are public and the
+reason why everything is visible is because you want people to be able to verify that
+what the blockchain did is correct.
+So you need public verifiability.
+So that was kind of the dilemma, right?
+How can you have public verifiability and confidentiality at the same time?
+And this is precisely what FHE, the technology Zama is building, has enabled.
+It enables you to have confidentiality on top of publicly verifiable blockchains.
+I see.
+So can this technology you are applying to a whole new layer one, or what will be the
+kind of end product, like what can people start building on and using once Zama is launched?
+We don't have our own layer one.
+Instead, you can think of the Zama protocol that we're launching soon.
+It's in Testnet and Mainnet soon.
+You can think of the Zama protocol as a layer of confidentiality on top of other public
+blockchains.
+When you connect to a website in your browser, you have this little lock that shows up near
+the address that tells you that the data is encrypted when you send it.
+We're trying to do the same thing for blockchain applications.
+So you're going to be interacting with an app on Ethereum.
+You're going to be interacting with an app on Solana.
+But the data in your transaction and the data on chain will be encrypted.
+So really think of Zama as HTTPS for blockchain transactions.
+This encryption technology can be applied to applications built on any layer one and
+layer two?
+That's the idea.
+We're going to start with Ethereum and then we're going to add support for more blockchains
+soon after that.
+But that's the idea.
+Our technology can be deployed on pretty much any public blockchain.
+It doesn't require any protocol upgrade from the blockchain itself?
+No, that's the key.
+When we started a company, the first thing we sold was this encryption technology.
+We sold it to other blockchains so that they could integrate it.
+What we found is that it's very difficult for an existing chain to upgrade to support
+that kind of encryption.
+It requires a lot of compute power.
+It's a pretty heavy update, I would say.
+But the Zama protocol actually takes care of that by offloading the expensive computation
+to the Zama protocol operators so that the chain on which the application is running
+and that the underlying blockchain itself doesn't have to change anything.
+So really we're on top of those chains as opposed to being integrated inside of them.
+Okay.
+And so you mentioned there are operators of this protocol.
+So does it work similar like a distributed network?
+Like you have nodes that are running the system?
+It does, exactly.
+So there's a set of nodes who are basically the operators of the Zama protocol.
+Think of it a little bit like you know how Layer 0 and those bridge protocols work.
+You use them from Ethereum to bridge to whatever Solana, but the actual actions are done by
+a set of operators which are outside of Ethereum and Solana, the Layer 0 operators.
+Zama does the same thing, but for confidentiality.
+So how will this impact the different kind of transactions that users are trying to take?
+So like obviously the main goal is to bring privacy, but does it also have other like
+side effects?
+Like does it make transactions more expensive or slower?
+Or like what are the trade-offs with the system?
+So if you were to integrate it natively into the chain, it will require a lot more compute
+and it would probably make things slower.
+But the way we built it, because it doesn't touch the underlying blockchain, it can basically
+go as fast as whatever chain is running on.
+And we just need to add more computation on the Zama operator side.
+The nice thing about blockchain transactions, take payments, for example, most payment transactions
+are independent.
+I'll pay you money, someone else will pay someone else money.
+Like it's very rare that you pay out a million people from the same bank account.
+You typically have more distributors or loads.
+A blockchain today, like Ethereum, for example, does all of those payments one after the other.
+This is very slow.
+But in our case, we don't have to do it this way.
+We can parallelize the execution of the confidentiality part so that we can scale pretty much as much
+as we can parallelize this computation.
+So if you tell me, hey, we want to eventually enable 10,000 confidential on-chain payments
+per second, today we cannot do it yet, to be clear.
+But for us, it's just a question of just more hardware.
+Scaling FHE, scaling Zama is not about finding new mathematics.
+It's not about some kind of new fancy blockchain protocol.
+It's purely a question of more hardware, more compute power, more performance.
+That's it.
+Just like AI.
+At some point, AI just became a question of just more GPUs.
+Confidentiality and FHE right now is just a question of more servers doing the computation.
+So what exactly does this protocol make confidential?
+Is it both the amount that's being transacted and also the address?
+What do the transactions look like when you're using?
+I suppose you can do whatever you want, but maybe to compare to what ZK does.
+So with ZK privacy, things like tornado cash, you're not hiding the amount or the balances.
+You're hiding mostly the trace of the transaction.
+So you don't know who sent money to whom.
+This is a big, big problem because it means that every user has to be compliant if you
+want to enable some kind of big financial use case.
+Right.
+It's very difficult.
+FHE is different.
+FHE doesn't hide the trace of the transaction.
+So you can see that I sent you money, you just don't know how much I sent you or what
+your balances are.
+But think of it a little bit like if you compare Tor to Signal.
+If you use Tor, you're accessing public content by anonymizing the trace.
+This is what mixers like tornado cash, ZK stuff do.
+When you're using Signal, you're using a public network so the telecom operator can see that
+I sent a message to you, they just don't see the content.
+This is FHE.
+You can see the transaction, you just don't see the content on chain and in the transaction.
+And this is much simpler because if you think about building financial applications on chain,
+it means you can build all of the logic for compliance inside the smart contract directly
+without every user having to go through compliance checks manually.
+So it's just a vastly different model.
+FHE allows you to recreate confidentiality the way that your application requires it.
+It doesn't have any specific opinion on this is how you should do it or not.
+Okay.
+So if it doesn't have any specific opinion on how to do that, each application chooses
+how they, like what parts of the transaction they want to keep private?
+Yeah.
+It's up to them.
+You could have, for example, a token contract that says the balances are encrypted, the
+amounts are encrypted, nobody can see the balances aside from the users.
+So now you have like a token that's completely end-to-end confidential.
+But you could also have, for example, a real-world asset where nobody sees the on-chain activity
+and balances, but the issuer is allowed to decrypt the activity and on his own application.
+You can do whatever you want.
+Like at the end of the day, it's programmable.
+You make confidentiality programmable just like anything else in a smart contract.
+Interesting.
+And that includes like making the addresses private?
+If you want.
+In practice, it's not what people want to do.
+If you look at the way things are moving right now, we're moving more towards hiding data
+than hiding the identity of the people transacting, as in the addresses, I mean.
+Once again, because historically making transactions untraceable has never been widely accepted
+by companies who want to be compliant.
+Making the amounts and balances, that's fine, because you can always trace back the transaction
+to a compliant KYC, the exchange or something.
+I see.
+Okay.
+Interesting.
+Because like right now, most of privacy, most of the privacy discussions on privacy chains
+are using CK technology.
+Would this be kind of the first case of another type of technology to use privacy on chain?
+Yeah, definitely.
+And I think, you know, to be clear, I don't think anybody really has been using privacy
+that much.
+You know, there is very little usage of ZK for privacy.
+ZK has been massively used for scalability, right?
+They use it for roll ups and things like that, which is quite funny because people call them
+ZK roll ups, but they don't actually hide anything.
+So they should call them snark roll ups really, but anyways, I'm digressing.
+Confidentiality is something that wasn't widely adopted for two reasons.
+First, it wasn't really available.
+And secondly, you want to maintain composability and verifiability at the same time as confidentiality.
+And if you look at the different technologies that exist, ZK gives you verifiability and
+privacy, but it doesn't give you composability.
+You can prove that you've done something without showing the data, but you cannot do anything
+with the secret data aside from proving something, right?
+So you don't have composability in the sense that a ZK token cannot be used in a DeFi contract
+easily.
+FHE is fully composable because you're computing on the encrypted data directly.
+And so this is really important because it means that your confidential token can be
+used for confidential swaps, confidential lending, or whatever other type of composable,
+you know, DeFi primitives you want to use it with.
+That's the key unlock that FHE brings.
+It really gives you this composability on the encrypted state of the contract.
+So with a token that's using FHE to maintain privacy, can that be used in any other DeFi
+app?
+Like can it be used in Uniswap or Aave?
+Or does it have to be used on applications that are also using FHE?
+There are two ways you can do that.
+So one way is you recreate Aave and Uniswap to be confidential end to end.
+So the AMM itself takes confidential orders and does confidential swaps or whatever.
+This of course means that someone has to build that and you need to move the liquidity, which
+is not always very easy.
+If you want to use non-confidential DeFi with confidential tokens, one way that you could
+do it is you could aggregate multiple orders.
+So let's say 10 people want to swap USDC versus ETH.
+You would receive those 10 encrypted intents.
+You would aggregate them in FHE.
+So nobody would know how much each of those things are trying to swap.
+You would put all of them together, decrypt the aggregated order.
+So you can only see the total amount of all those 10 people combined.
+That is just a regular swap that you can do in Uniswap.
+You re-encrypt the results from the swap and redistribute in a private manner to all the
+people pro rata of their initial order.
+So you can do this kind of batching on batching to enable confidential tokens and orders on
+top of any DeFi primitive without changing anything to the underlying DeFi protocol.
+The only downside is you have to wait for enough people to want to participate in a
+batch.
+So there's a little bit more latency.
+So I imagine this would be something for protocol developers to build to facilitate, right?
+Yeah, I think there's going to be a market, just like you have intense markets right now.
+You're going to have a privacy batching market where people are going to be offering various
+kinds of guarantees for how fast or how much they can batch and what kind of stuff they
+can offer for you.
+And that's what's really interesting, right?
+Confidential tokens really fundamentally open up a whole new design space for on-chain finance.
+It enables you to do things that were impossible before.
+You can start including identity attributes in your DeFi transactions.
+You can start including off-chain data like a credit score without people knowing all
+of that on-chain.
+You could also have things like confidential trading.
+So I don't know if you followed the whole hyperliquid whale thing where this guy, James
+Nguyen, which has got chased because everybody could see his liquidation threshold.
+All of that goes away with confidentiality.
+That's really interesting.
+So that's kind of the DeFi use cases.
+What other more institutional, traditional use cases do you think can be unlocked?
+Honestly, for me, I think probably the biggest use case, way bigger than DeFi even, is confidential
+stablecoin payments.
+Again, I believe firmly, and I think everybody now believes that obviously, that stablecoins
+are the future of payments.
+You're going to use stablecoins for paying.
+You're going to receive your salary in stables.
+You're going to use stables to pay at a merchant.
+You're not going to do that unless you have confidentiality, because again, if you're
+starting to use stablecoins like you use dollars in a bank account, you want the same level
+of confidentiality as you have in your bank account, and we enable that kind of stuff.
+So I think for me that one of the major first use cases for Zama and for FHE is just going
+to be confidential payments on-chain.
+Everything else is downstream of that if you think about size and use cases.
+For that to work, say in the case of USDC, would Circle have to use Zama and FHE in kind
+of the issuing side so that USDC itself is private?
+Ideally yes.
+So you have two models here how to do it.
+You can either have a stablecoin that is natively confidential, as in the on-ramp and off-ramp
+from fiat to stablecoin is also encrypted.
+So whenever someone deposits money on Circle, Circle can mint a confidential amount of USDC
+for them, and whenever someone wants to redeem, they can redeem a confidential amount of USDC.
+That's the ideal scenario, but you don't have to wait for Circle to enable that to have
+this kind of capability on-chain.
+You could have, for example, anyone create a wrapped confidential USDC where you simply
+deposit your regular USDC and it mints a confidential version of it, and then you can use that.
+You have ETH and wrapped ETH, or you can have a token and a liquid stake token, an LST,
+from it.
+You can think about the same thing for confidentiality.
+And so here again, you would want, of course, Circle to be the one providing the confidential
+USDC in the first place, but if they don't, they could probably be like a market of people
+who offer confidential wrappers for stablecoins with more or less ... I mean, it could include
+some yield, it could include some additional security, it could include compliance.
+You can build all of those things on-chain.
+Interesting.
+Okay.
+So you see once you launch, there will be builders potentially who will be offering
+these services.
+And so anyone would be able to come and wrap their USDC and get a confidential USDC.
+I can give you a few examples.
+So I can give you a few examples of what people are building.
+So we're going to go on main net end of quarter, so end of September, early October, on Ethereum
+first and then other chains.
+There's this company, for example, called Zephyr.
+They're building this wrapper protocol to enable anyone to wrap any token in a secure
+confidential manner.
+So they're providing the infrastructure.
+Think of them as like a unit swap of confidentiality if you want, right?
+That's one example.
+We do work with some stablecoin companies.
+For example, there's a new stablecoin in the UK called the Tokenized GBP, TGBP.
+They're integrating confidentiality end to end, meaning the on-ramp deposits, the off-ramp
+The on-chain transfers, all of it is confidential.
+So now you have a fiat back UK based FCA regulated GBP stablecoin with end to end confidentiality.
+So you don't even need a wrapper.
+It's just confidential by nature.
+Great.
+You're a company in the UK.
+You want to pay people in pounds.
+You can now do that without having to worry about people seeing anything.
+A third great company being built on the Zama protocol is called Fellow.
+They're building the first self-custodian on-chain bank using confidential stablecoins
+to keep your assets private.
+So it's a bank account.
+I mean, a payments account, like Revolut, for example, but completely on-chain.
+Nobody knows how much money you have.
+Nobody how much you're spending because this, you know, confidential stablecoin is being
+used.
+But the fact that everything is on-chain means that even if the fellow company goes bankrupt,
+you can always get back your money because it's on-chain.
+So it's like, think of it as a bank that cannot rug you effectively.
+Very cool.
+And again, like these tokens, once you're wrapped, they can be used.
+Say it's, so you're starting with Ethereum.
+These are ERC-20 tokens that can be used anywhere.
+So the confidential tokens are not ERC-20 tokens.
+There is a new standard called the confidential token standard, which we're building with
+Open Zeppelin, Inco, and a bunch of other companies.
+So think of it as a confidential ERC-20, but it's not technically an ERC-20.
+It's like a new standard.
+And so you can go back and forth between ERC-20 and that confidential token by having this
+kind of wrapping of ERC-20s.
+So I can take an existing ERC-20 and I can convert it into a confidential token.
+And then I can use this confidential token to pay people.
+And then if I want to use an app that doesn't support confidential tokens, I can decrypt,
+unwrap my confidential tokens and get back a regular ERC-20 on the other side.
+I see.
+Okay.
+All that is just composable on-chain.
+Yeah.
+So right now, like in the early days when you'll probably see fewer apps that are compatible,
+will the easiest use case be wrapping tokens, say stablecoins, and sending and receiving?
+That's something that can be done on day one?
+Absolutely.
+Yeah.
+Day one.
+As I said, I think payments for me, we have to remember crypto started with Bitcoin, which
+was a cryptocurrency.
+Bitcoin, original proposition and only use case was sending Bitcoin to people.
+So I think, again, I've been in this space for such a long time.
+I've seen everything, right?
+I think that what blockchains are really good for is first, money movements.
+So sending and receiving money.
+Two, it's programmable finance.
+So it's lending, it's swaps, trading, things like that.
+And third, and I think this for me is going to be the next big wave in blockchain, to
+run public infrastructure on-chain, identity services, land registries, company registries.
+You want to raise money for your company, you can do it on-chain.
+The capital is on-chain.
+Your taxes are on-chain.
+Your house is on-chain.
+All of these things are going to go on-chain at some point.
+But it all starts with the ability to have money and the ability to pay people in blockchain.
+So if you don't make that part confidential, nothing else matters.
+You have to figure out confidential money before you can figure out confidential finance,
+because before you can figure out confidential government services or whatever.
+Yeah, that makes total sense.
+So let's go over the next steps for you.
+So when is Mainnet?
+What are the next big milestones that you're working towards?
+We launched the Testnet early July.
+We got so much activity on it.
+We were not prepared.
+I'm going to be very honest.
+I was not expecting that many people to interact with it, to give you a sense.
+So our Testnet is on Sepolia Testnet.
+Nearly half of the block space on Sepolia Testnet was due to Zarma at some point.
+Wow, that's great.
+It was a good problem to have.
+It's a good problem.
+We had this demo of how you can have a token and wrap it and do a confidential transfer.
+We had 7 million transactions on the Zarma-related demos on-chain in three days, 750,000 token
+holders in our demo token.
+Over a million FHE operations executed.
+It was insane.
+And so the result of that is they broke it.
+People broke the Testnet.
+But you know the good thing is they showed us the weak points of our infrastructure.
+And so now we're taking that into account so that when we launch on main nets on Ethereum
+at the end of September, it's actually going to be as robust and scalable as you can imagine.
+So by the time we launch main nets on Ethereum, we will be able to support more confidential
+transactions and Ethereum can support transactions in the first place.
+So FHE is no longer the bottleneck.
+The bottleneck for us is going to be the blockchain that FHE is running on.
+Great.
+And then you said main net by the end of Q3?
+End of quarter, end of September, early October.
+Initially the Ethereum main net, so it's going to be main net only on Ethereum, only with
+a few apps that we're going to be whitelisting.
+And then towards the end of the year, we're going to be adding more chains, L1s, L2s,
+and we're going to do a TGE so that anybody can start permissionlessly using the XANA
+protocol.
+So think of it as a whitelisted main net end of September, early October, test it in production
+for a few months, do a TGE and open it up to any developer or user who wants to use
+it.
+And what's the utility of your token?
+It's very vanilla.
+We basically charge fees every time you want to encrypt and decrypt data.
+So we don't charge anything for the computation.
+We only charge for encryption and decryption.
+And it's very cheap.
+You know, like I think for a confidential token transfer, it's maybe a couple more cents
+versus the gas fees you're paying on chain.
+Got it.
+Okay.
+So then you have main net launch and then TGE, and then you'll open up the protocol
+for anyone who wants to build on it.
+Exactly.
+So between now and then, any developer can actually ask to be whitelisted.
+So it's just that we're going to be carefully selecting the few apps, want to make sure
+that a few apps running on the Xama main net are going to be super high quality before
+we open it up to anyone.
+Think of it a little bit like the iPhone.
+You know, when the iPhone came out the first time, there was no app store yet.
+You only had specific apps that Apple built or that Apple chose from the developer community
+on the iPhone.
+The app store came later.
+And it's a little bit the same here.
+You know, we're telling people that in the beginning, we want to make sure the experience
+is very good.
+So fellow Xypher, TGBP, some apps we're building internally at Xama, and then we're going
+to open up to anyone.
+Got it.
+Awesome.
+So to wrap up, I'd love to get kind of your big picture view of Xama.
+How do you see things developing in the next few years if everything goes right?
+I mean, I think if things go right, Xama is going to be okay.
+So I'm going to tell you what I want.
+What I want is first, I want everybody to be able to have confidentiality on-chain because
+I think this is a really important missing piece.
+Xama or not Xama, someone has to crack it.
+Someone has to crack it.
+This is too important for blockchain, for finance, for any kind of future decentralized
+world we want to live in.
+Someone has to crack confidentiality.
+I think Xama is going to crack it because I think we have the right technology, we have
+the right team, and we have the right partners.
+My goal is for at least 10% of blockchain transactions to be confidential using Xama.
+10% is not a big number in absolute terms, but 10% would mean that anybody who wants
+to do something confidentially on-chain will be able to do so.
+Of course, long, long term, I want 95% of confidential transactions to be through Xama,
+but 10% is a first good goal to go after.
+So to start wrapping up, Rand, I'd love to hear your big picture vision of Xama.
+Where do you want to be if everything goes right in the next few years?
+I think when I try to think about what comes next, payments, finance, government services,
+confidential blockchain, that's what we're doing now.
+And I believe that we're going to be able to scale that to a point where the majority
+of blockchain transactions in the future are going to be confidential using Xama.
+But it doesn't mean we have to stop at blockchain.
+Why not actually think about making everything you're doing on the internet confidential
+using FH?
+Why not interact with chat GPT confidentially?
+Why not interacting with your service provider for your company in a confidential manner?
+Why not playing games in a confidential manner?
+I think that we're going to get to a point where FH is going to be so ubiquitous and
+so common in everything that people are not going to care about privacy anymore, not because
+it doesn't matter, but because it will be guaranteed by design in every application
+we use.
+So that for me is really kind of like the long-term vision is if we do our job right,
+you don't know Xama exists because you forgot this was a problem in the first place.
+That would be perfect.
+I mean, not having to worry about anything and just, you know, be transacting confidentially
+on chain.
+Really great vision.
+And to finish, where can people get started with Xama?
+What do you recommend for both developers and just crypto holders and users?
+I think the best way to start for developers is just on the documentation docs.xama.ai.
+We put a lot of effort making it easy for developers to build confidential apps.
+For creators who want to engage with Xama, we also have a creator program.
+So if you go on the xama.ai website, you'll find ways where you can actually participate
+and help spread the love.
+And of course people can always contact me directly.
+I'm very open.
+I'm very transparent.
+You know, like I'm, I like talking about those things on social, out of social.
+So my social is at Randhindi on the Twitter.
+So feel free to DM, feel free to reach out and let me know what kind of stuff you want
+to talk about and build.
+Awesome.
+Randhindi, thank you so much for joining me.
+This was great.
+And yeah, we'll be keeping being, you know, we'll be following your progress and looking
+forward to Mainnet.
+All right.
+Amazing.
+Thank you.
+It was great having you here.
+Thanks.

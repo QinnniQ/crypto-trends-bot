@@ -1,0 +1,1087 @@
+I think the general headline is everything that we believe will work as a proof of human,
+we will also build ourselves and integrate into world ID.
+So we're not like Orb Maxis or anything.
+It's like if it really is about getting to scale and about being inclusive and about
+working in a world of increasing powerful AI, I think the Orb is actually the only way
+to get there.
+Alex Blanias, the co-founder of WorldCoin.
+Alex, welcome back to Bankless.
+Thanks for having me.
+Excited to talk.
+It's been two years.
+Almost exactly two years since we released an episode with you and Sam Altman.
+And I want to start by maybe asking you a question about this because two years later, I feel
+like my social media experience hasn't gotten better, it's actually gotten worse.
+Like the whole problem that you were talking about, which is like you won't be able to
+tell who's a human and who's a bot online, you were right about that.
+We're here.
+Yeah.
+And it's gotten like really bad.
+I mean, I feel like AI is making all of this so much worse.
+AI is pretty much past the Turing test with respect to text.
+I can't tell who's a human and who's a bot.
+So let me ask you, two years later, there's a lot of traction for WorldCoin, we'll talk
+about some of the stats, but why hasn't WorldCoin fixed the bot problem online yet?
+I think it's a couple of things.
+First of all, I agree.
+I think the AI general bot problem on social and internet in general, I think is going
+to be a thing.
+But even more importantly, I think we're still pretty early on the trajectory because I think
+if you now take a very competent open source agentic system or something like that, which
+I think we will see probably later in the year, if not early next year, I think you
+will kind of another 10x whatever we experience right now.
+So it's going to get way worse.
+Way, way worse.
+Meaning like, yeah, I think we're kind of heading to a place where way north of 99%
+of everything happening on the internet will be AI driven.
+And that's like, for like most things, I think that's going to be amazing.
+You know, it's going to be agents that do like all kinds of things for us.
+But I think for things like our social networks, these systems will be smarter than us.
+They will understand us better.
+They will know everything.
+And actually, there was like one very interesting paper that I think is like important to reference
+is like from the University of Zurich, I think two, three months ago, where the University
+of Zurich tried to change the opinion of subreddits with AI.
+There are change my view subreddits.
+So there's a subreddit out there that's supposed to be like, here's an opinion.
+I challenge you other readers to change my view.
+And what happened is that people you leveraged AI to provide compelling, but also oftentimes
+false answers.
+And not only were like they extremely effective, but one of the reasons why they were effective
+is because the bots had the time of day, they had the patience and the ability to just write
+out long responses and actually engage with the people were like typical change my view
+posts on that subreddit go mostly unanswered.
+And so they were it was incredibly effective.
+I remember reading the story is incredibly effective and changing people's opinions.
+Right. And they even targeted on the people that made the comments like they kind of they
+I was kind of tuned on the individual of like, what's their political view?
+How they what are the things they talked about before?
+So it's like it's very targeted towards you and can change your opinion.
+I think that's like that is something that will be pretty scary to us, I think, in the
+coming years where these systems will be smarter than us.
+They will know everything. They will be targeted to us and can change our opinion.
+And I think we will really need a proof of human for many of the things that we care
+about, like social networks.
+So is that what you guys mean when you say way worse?
+Like, it's going to get way worse because the way I experience it right now, it's more
+of an annoyance.
+So what I see is a lot of slop, I would say, on my replies on social media.
+And you kind of know it's AI.
+You kind of do. Or you're like, oh, that's like a low.
+Actually, sometimes I don't do it. Sometimes sometimes the reply guys are that dumb.
+Yeah, a lot of times, honestly, the Turing test is being passed at the 80 to 90 IQ level.
+Right. But so it's it's slop.
+It's annoying. It's almost like getting spam in my email.
+I feel like there could be some like auto filtering out that that feels annoying to
+me right now. But when you guys describe, you know, 10x worse, I guess maybe I get the
+picture of somebody I've developed like a like a long term relationship with some that
+I know online and follow and maybe do business deals with.
+And it turns out this person who I've been working with for the past year and interacting
+with and reading their blog post was actually a bot the entire time.
+That's a way I can see it becoming worse.
+And in addition to me being targeted, like just being fooled at that level for a long
+period of time, that's very I don't even know if I can picture a world like that.
+Yeah, exactly. It will be accounts that just like build up reputation, essentially.
+They just like post over time, interact with users over time and will really look like
+a it will not be slop anymore because it will be very somewhat sophisticated answers.
+Sophisticated slop, yeah.
+Sophisticated slop, yeah.
+So you will just not at all be able to distinguish anymore what is real and what is not.
+I think that's kind of the default we're currently heading into.
+I feel like this begs the question, is Web2 just cooked then?
+Like if Reddit, Twitter, all of these things are not equipped to manage bots.
+This is there does not build under that construct.
+So like if these bots actually get effective at what they do and sufficiently prolific,
+where I think you said 99%, like it sounds like Web2 just can't operate under that environment.
+We know from some of these platforms, they're really racing to try to find a solution.
+And some of them we were talking to.
+So like it definitely is becoming top of mind.
+Of course, like the different platforms have different kinds of problems.
+For example, like Reddit is very, very far on the anonymity scale where you basically
+by default interact with someone you don't know.
+And there's like, it's very comment heavy versus for example, Snapchat is mostly your friends.
+And so like these two platforms have like very different
+shape problems of what kind of AI will do to the platform.
+So in any case, I think like that moment is here now.
+And I think it's accelerating, I think, to your question of why is world not solving that yet.
+Is it's a matter of scale, obviously.
+I think like we're like, it's a very, very hard problem to solve.
+And I think us being able to, I don't know, serve 90% of the users of Reddit,
+or even 20% of the users of Reddit is going to take some time.
+And we recently launched the US, which is going to be a key to that.
+And like we're still only, we have 200 devices across the US.
+So it's like, it's pretty hard to verify yourself right now in the US.
+And so we just need to really, really ramp up operation, get to scale,
+and allow people across the US and then eventually across the world to verify
+within like five minutes, wherever you are.
+That's like a big, big, a big challenge for us right now.
+In the Wild West of DeFi, stability and innovation are everything,
+which is why you should check out Frax Finance,
+the protocol revolutionizing stable coins, DeFi, and Rolex.
+The core of Frax Finance is Frax USD,
+which is backed by BlackRock's Institutional Biddle Fund.
+Frax designed Frax USD for best-in-class yields across DeFi,
+T-bills, and carry trade returns all in one.
+Just head to frax.com, then stake it to earn some of the best yields in DeFi.
+Want even more?
+Bridge your Frax USD over to the FraxTel Layer 2 for the same yield plus FraxTel points,
+and explore FraxTel's diverse Layer 2 ecosystem with protocols like Curve,
+Convex, and more, all rewarding early adopters.
+Frax isn't just a protocol.
+It's a digital nation powered by the FXS token and governed by its global community.
+Acquire FXS through frax.com or your go-to DEX.
+Stake it and help shape Frax Nation's future.
+Ready to join the forefront of DeFi?
+Visit frax.com now to start earning with Frax USD and staked Frax USD.
+And for bankless listeners, you can use frax.com slash r slash bankless
+when bridging to FraxTel for exclusive FraxTel perks and boosted rewards.
+Imagine if your checking account and DeFi wallet finally spoke the same language.
+That's Mantle Banking.
+An all-in-one fiat and crypto account.
+It lets you save, spend, and invest all from one dashboard.
+Swipe for coffee, stake ME3 yield, or even use virtual cards for payments through Apple Pay.
+So it feels Web 2 simple, yet stays Web 3 sovereign.
+For allocators, meet Mantle Index 4, the S&P 500 of crypto.
+A tokenized, institutional-grade fund seeded with $400 million from the Mantle Treasury
+and balanced across Bitcoin, Ether, Sol, and yield-enhanced stables.
+One asset, broad exposure, pure DeFi composability.
+The momentum is real.
+ME defaults, FBTC bridges, and a $2.4 billion community treasury
+are all powering the next phase of on-chain finance.
+Mantle brings real-world access, yield, and utility to digital assets.
+Ready for the next era of on-chain finance that actually belongs in 2025?
+Explore Mantle at mantle.xyz or follow Mantle underscore official.
+Mantle, bridging TradFi and DeFi so you don't have to.
+Okay, so you think some of the reason world hasn't solved this yet is because you haven't
+scaled up yet.
+My question is, what are the bottlenecks to scale?
+Is it literally the number of ORB hardware that exists in the world and that are deployed?
+Is that the scale limiter?
+Are there some other scale limiters that you think of when you say,
+hey, we still have to scale and we're bottlenecked?
+Yeah, it's actually different things at different points in time.
+For example, in the previous administration, we did not launch the US
+just because given Sam is a co-founder and the stance of the SEC back then,
+we were just very, very cautious.
+And so, yeah, if we would have launched the US two years ago,
+we would have been at scale here already.
+But now that we're here, it's just a matter of actually just ramping up, scaling up.
+Currently, we're actually manufacturing constrained.
+So currently, we just produce much more ORBs
+that will start hitting us in September, end of September.
+So currently, we're hardware constrained.
+At some point, we will be deployment constrained.
+So you need an operations team to actually make deals with chains across the US.
+Maybe you want to have an ORB in every Walmart or in every clothing store or every convenience store.
+Currently, we do a lot of that BD to get these devices
+in there and roll them out that way.
+So it's different things at different points in time.
+And then we always go viral in different countries.
+And it's hard to predict.
+Currently, I think in Thailand, we are at a K factor of 1.7 or 1.8.
+So it's going pretty ballistic in Thailand.
+Early in the year, it was Argentina.
+Last year, it was Spain.
+It's always different things.
+It's a pretty complex network at this point.
+The numbers that we can see out of World Chain are pretty impressive.
+For those that aren't paying attention,
+1.5 million daily transactions on World Chain coming from 20,000 to 30,000 daily active users.
+Today, it's fun to be able to go look at these numbers.
+Today, there's been over 31,000, 31,043 users in regular crypto world,
+non-World Chain, non-World ID crypto world.
+When we see a daily active user number, we all just reject it.
+Because we cut that number down by 50% to 75%.
+If you tell me some chain's got 30,000 users, I'm like, all right, you've got 3,000 users at best.
+But on World Chain, this is different.
+But is it one-to-one with a human?
+Really?
+What does a World Chain daily active user actually mean?
+Is it actually a one-to-one relationship?
+So, well, technically, you could, of course, use the chain without your World ID.
+Because the chain is just an Ethereum 02.
+Chain is permissionless, okay, yeah.
+Yeah, you could just send transactions on there.
+What practically is happening, and that's actually a big focus for me this year,
+is what we are building has to be a protocol.
+And there have to be many other clients that you can get your World ID through.
+You can interact with World Chain with, and that's practically just not the case.
+Right now, pretty much all the usage happens through World App.
+Because that's what we launched with, and that just went viral.
+And that's the best product right now to verify with and use a World ID with.
+And so pretty much everything that is happening on World Chain right now is a result of World App.
+And World App is just pretty large.
+It's now 30 million users in total, 13, 14 million of which are verified.
+So it's a pretty large app.
+And so the numbers you just quoted, they are pretty much 100% World App.
+And so these are real numbers.
+We know many of these users are verified.
+And most of them come through a single client.
+And these numbers will continue to go up throughout the rest of the year.
+But the big focus is really to allow many more clients.
+And really turn it into a true permissionless protocol.
+Which in our case, again, is hard, but we will get there.
+So how many people have you actually orbed?
+And then how many of those people get converted to World Chain Transactors?
+So 30 million have a count in the app.
+Then roughly half of that verify.
+So we are now at 14 million that are verified with an org.
+14 million people have looked into the hole and gotten their eye scanned.
+Yes, exactly.
+And then of these, we have 9 to 10 million monthly actives.
+So that kind of Transact and World Chain do things.
+So that's the rough ratios.
+So I am one of those users.
+I've not gotten verified, which David called getting orbed.
+And getting verified means I think you have to go find one of these hardware orb devices.
+You have to stick your eyeball inside of it.
+You don't have to stick your eyeball in.
+You just look into it.
+Actually, I think it's a cooler experience than clear at the airport, for example.
+Because we just invested much more into imaging.
+But you just stand in front of it and it's just like taking a picture.
+It's very fast.
+Okay, so you don't have to do like this, right?
+When I look at the device, when I look at the actual orb itself,
+I get a picture of like going to my optometrist.
+You know those things where you get your cornea checked and they shoot a burst of air into your eyeball.
+No burst of air anywhere.
+No, you just stand in front of it.
+It's like at the airport like clear or something or even just the border control.
+And you just stand there and 20 seconds later, you're verified.
+So I've got the app itself open.
+This is a world app.
+I see all the world IDs out there.
+So you said 30 million.
+I can see all the kind of the accounts.
+I'm playing with this right now.
+I see the world coin price.
+And then there's this section called mini apps.
+This is kind of curious.
+This reminds me of like Apple stores, something like this.
+And I've got some top apps here.
+There's an app called Ad Money.
+There's an app called Uno, Drop Wallet.
+And then I've got these gift card type apps.
+And then I've got this whole category, which is somewhat interesting, called human only.
+So the idea, of course, with world coin and the world app is basically once I get verified,
+then you know in a simple resistant way the app does, the network does, the protocol does,
+that I am a human and I'm not a bot.
+That's the whole thing that you're doing here.
+That's the entire point.
+And then you can create classes of apps like human only apps.
+Maybe just talk about this whole mini app idea.
+Is the goal for world to essentially create kind of an app store type of experience?
+And once you get people into the world app itself,
+then you get them into the app ecosystem?
+Is that how you're going to market?
+What are all of these mini apps and what's the strategy?
+Well, so kind of at a 10,000 feet level, the idea, the thing that I think back then we
+already discussed two years ago is that once you have that proof of human property and
+you're actually simple resistant, you can use the token to bootstrap that network to
+kind of critical scale.
+So let's say, I don't know, 100 million users is roughly what we think it will be.
+And so you're simple resistant.
+You use a kind of a token interrupt as an incentive to get the network going.
+And then you build out utility for the network as you go along.
+And so that was like the very, very early strategy.
+And as the app got bigger and bigger, and we talked to a lot of developers,
+what they mostly asked for is like, how can they get this distribution?
+How can they get people to kind of ship their products to?
+And that was the starting point for many apps is like, we have a lot of users in world app.
+We will not be able to serve every use case.
+And how do you just make it easy for devs to ship something to all these users?
+And I think what it will end up being is that I think, if we talk again in a year or so,
+is that you will have many apps for more so like a launch pad for kind of startups,
+devs, and kind of companies that are just getting started.
+And then using the distribution of world app to kind of get a product going.
+So for example, kind of something that is really picking up right now is micro lending.
+So there's many app called Credit.
+I think there's still waitlist only, but there's a lot of lending apps
+that are picking up right now.
+And so they use the distribution.
+And then on the other side, you will have large companies that actually use World ID,
+the Proof of Human, you'll probably have some of the social networks you will have.
+We had an integration with Match Group, Tinder.
+And so yeah, I think these will be the two sides.
+You will have apps with a large distribution themselves that use the Proof of Human,
+use World ID, use other features of the network.
+And then on the other side, you have developers that just need distribution
+and use many apps for that.
+Okay, so let's talk about maybe the external.
+I want to come back to the internal with kind of the mini apps.
+That's what I'm calling your app ecosystem.
+I'll call that the internal.
+The external is where they're using World ID outside in an external app.
+You mentioned Tinder, which is just like...
+Are you telling me on Tinder right now, there's bots posing as your next relationship
+and that's a problem for Tinder?
+And Tinder can tap into World ID and basically prove some humans on their app?
+Well, the short answer is yes.
+The long answer is...
+The long answer is one thing that we believed in pretty early on is that
+it's not just that you will need to have a kind of a Proof of Human,
+but you will need to be able to prove things about yourself.
+So for example, when you verify for World ID,
+you actually get a signed face image that the orb captures
+and you have that on your phone in a self-custodial biometric package.
+And you can then use that to prove things to apps.
+So for example, you can prove to Tinder
+that not only that you're a verified human,
+but the individual that is actually shown on that profile picture is you.
+Or you can log in into Zoom and I can prove to you on Zoom
+that what you see right now is actually me
+because there's a real-time comparison to my World ID package.
+And so these are all the things that are rolling out now.
+So it's like you will be able to do video calls.
+We call it product deep face.
+So you can prove yourself on video calls.
+You can prove your profile pictures on dating apps, for example, on social networks.
+So it's not just I'm a human, but also I am who I claim to be on Tinder.
+And then the next step will be you'll be able to actually like prove specific actions.
+So like I will be able to send you a message and be like,
+hey, on Tinder, you just asked me to meet in person.
+Is that really you?
+And you have to prove like it prompts essentially like a face ID check on your phone
+to agree, yes, that was actually me.
+And let's meet in person.
+Is this a problem on Tinder?
+It is a big problem on Tinder, yeah.
+There's like a big catfishing situation going on.
+Like there's AI created profiles all over the place and they kind of catfish of like...
+Information?
+Like what are they trying to get from their targets?
+Well, there's a whole range of things.
+It's like it starts with simple things like phone numbers or gift cards to actually
+convince someone to go to a date and then on the robberies to kind of even worse things.
+As if the dating world wasn't complicated enough, you have to worry about this now.
+It is a thing, it is a thing.
+And I think like the, but that is like in general, I think the general statement that
+human interaction on the internet will require a new version of trust.
+Like Zoom calls, like there's all these like news now of CFOs of companies getting scammed
+because like you had a Zoom call of the CEO calling the CFO and tell them to wire something
+that was actually a deep fake.
+So yeah, so dating gaming is another big one.
+So we integrated with Razer, which you might know from the gaming hardware.
+To kind of bring the world they need to gaming where bots are now obviously better than
+professional gamers and like most of these games.
+And if you play for hours a day and you train to be good at a certain game and then you actually
+you play against an AI, that's really annoying.
+And there's a lot of money involved in their business too.
+So it's like it's gaming, dating, social, all of those different industries that we currently
+get into.
+Amazing.
+Yeah.
+So there's the potential MMO RPGs out there that can gate to their app with world ID so
+that we have a human verified only MMORPG that we can play.
+Yes, correct.
+I think for me, the two things like maybe stopping me from getting like fully arbed
+and going all the way here are like maybe the incentive to get arbed.
+But I would call this like number one, there's some monetary incentive.
+You get world coins in order to do this.
+I think when I checked in my app, it's like $50 worth of world coins.
+I'm like, well, I mean, if that was $5,000, all right.
+If that was an airdrop size, yeah.
+But for me, $50 is not quite enough.
+But what can compensate for that is if I'm getting utility on the other side, right?
+And I don't yet know in the mini app ecosystem you have internally to the world app, whether
+there's anything there that would provide me enough utility to go do that.
+The other piece that's kind of stopping me is like privacy.
+And that's a separate conversation.
+Let's stay on the utility piece.
+One thing to me that would probably push me over the finish line in terms of utility
+is if the world ID was like integrated in some of the commonly used social media apps
+that I use on a day-to-day basis.
+So I'm not a Tinder user.
+Bankless listeners will know.
+Long time since I've been in the dating game.
+So it's not a problem for me.
+But on Instagram or Twitter, I mean, like X for me is just like if we had some sort of
+proof of humanity on X, then that would be a game changer.
+So I guess my question is when you think about scale, you're thinking about the
+internal mini apps and then you're also thinking about these external apps.
+What's the plan to get world ID integrated into all pockets of the internet that a user
+like myself might locate to add utility that way?
+Well, we're working really hard on that.
+Just a short answer.
+And then the longer answer is like, I mean, a year ago.
+So two years ago, people just made fun of us.
+Three years ago, everyone made fun of us.
+Two years, like a little bit less people made fun of us.
+A year ago, people appreciate it might be a thing, but it's not yet.
+And so like people didn't want to meet with us.
+And now suddenly, like all the big companies want to meet us and figure something out.
+And it's still like on the cusp of things where like you have some of these social
+networks that really already have the problem like X and Reddit, I think, are two examples of that.
+Snapchat, not really yet.
+And so like it's still ramping up.
+But kind of my short answer is I would bet that we will be integrated with many of the
+services you care about in the next 12 to 24 months.
+I think then it will still not be the case that a large fraction of the users of these
+platforms use WorldID.
+So it's going to be then a status thing of like you will have a human badge and maybe
+like you will get, you will rank higher and kind of in the ranking, your comments will
+show up earlier, something like that.
+And it's then still going to take us time to kind of really get to, I don't know,
+10, 20, 30, 40% of these platforms.
+But I think like the early, the actual integrations I think are about to happen pretty
+soon for many of these platforms.
+So in my mind, all of this is an equation.
+You have like utility, which is like the integration first need to exist.
+And second is what does the product of these integrations actually look like?
+So for example, I think for people like us that are maybe in tech and use these products
+a lot, I think status will be the, will be actually the biggest pull initially.
+Like maybe you're able to do things that other people are not.
+You have like, you can prove things about yourself that other people cannot.
+So I think that's going to be a big pull.
+And so these product integrations, how they look in detail really matters.
+And then the third bucket is we need to bring down the friction for you to verify by a lot.
+So for example, like if you could imagine in Argentina and Buenos Aires, you can already
+do that.
+Like if you can imagine, let's say a world ID would be integrated with X and then you
+get a human badge and whatever, like you get a kind of verified checkmark and maybe your
+comments are ranked higher.
+You post a ranked higher, something like that, some combination of different things.
+But then also you can verify by, with Uber essentially, like Uber Eats kind of situation
+where the device actually comes to your home, you get verified, you get your world ID and
+you don't even have to go anywhere.
+So like if the friction, and so like that actually, we do that with Rapi and Latam.
+So you can just literally order an orb via the Rapi app and get verified.
+And so like there's many, many different things coming together.
+The friction needs to go down to zero, integrations need to happen, the product integration needs
+to be great.
+Let me ask a question about these platforms, the Web2 platforms that you were talking about
+that most users would love some sort of proof of humanity inside of today.
+What's their alternative to what you're doing with world, right?
+Is it basically like driver's license and passport, basically citizen ID, a lot of the
+AML KYC type stuff?
+Because that's from a practical user perspective on the internet today.
+That's the only other form of ID that seems to do something.
+And of course, that's like so easy to get.
+I mean, all of that information is just like everywhere.
+But I guess maybe you answer the question, what's the alternative to what you're doing
+with world for them?
+It would be KYC, but it would actually, I think the most promising approach would be
+you use the NFC enabled passports.
+So like some of the passports have NFC chips in there where you get the actual signature
+and then you could de-duplicate on that signature, for example.
+And we actually, we do that in world ID.
+So you can get a world ID already today with an NFC enabled passport, just so we make it
+easier for these platforms to like scale out the users and it's not just orb gated.
+Meaning like, I think the general headline is everything that we believe will work is
+a proof of human.
+We will also build ourselves and integrate into world ID.
+So we're not like orb maxis or anything.
+It's like, it's just that if it really is about getting to scale and about being inclusive
+and about working in a world of increasing powerful AI, I think the orb is actually the
+only way to get there after thinking about this problem for like a very, very long time.
+So I think there will not really be a way around this or something that looks a lot like that.
+There's also now competitors that are emerging.
+A lot of companies raising money to kind of build a world competitor to build different
+kinds of hardware that are palm-based, face-based.
+Like I think you will see different offerings in that direction, but the only alternative
+would be government IDEs that are, I think the privacy implications are
+conceptually really, really bad, especially if you talk about social networks.
+Because I think like the freedom of speech, the anonymity, protecting all of those rights,
+I think is so critical.
+So I think it would be a horrible outcome for that.
+And then, yeah, I could go much more technical, but I think that's the high level.
+I want to turn that conversation to the incentives.
+Because like Ryan said, you get about $50 at the current prices of world coin.
+Do you call it world coin?
+Well, we need a bull market.
+That's going to be one.
+Yeah.
+And so I would imagine one of the big reasons why people are getting onboarded into world ID
+is because of the incentives.
+I don't know if you have any intuition or notion about like,
+is that 50% of the people getting orbed, is it less than that, more than that?
+I don't know if you have any sort of idea about that.
+It is more than 50%, I would say.
+That are coming through the incentives?
+Yes, I think that's...
+That was always part of the plan.
+The plan was to like, we're going to have...
+Yeah, that was part of the...
+Yes, I think that is the plan.
+I think it's going to remain like that for probably another year, is my guess.
+Where like, now you actually already start...
+Like some media has pulled users in, some integrations pull users in,
+like you already start seeing that transition happening.
+But I think until you see that being the case for like, I don't know,
+everyone that signs up for world, because like, let's say world is integrated into X
+and that's now kind of a core user flow in X,
+I think that's going to take another year at least.
+Right, right.
+And then in addition to that, there's also incentives to use some of the applications.
+And I think with Morpho, Morpho is deployed on the world chain.
+And so you can go and use Morpho.
+But typically with DeFi incentives, they come like they're TVL based, right?
+So if you deposit $10,000 into Morpho, you'll get some amount of incentives.
+And then if you deposit $100,000, well, you'll get 10 times the incentives.
+But that's also not how it works on world chain because you guys have world ID.
+And so you guys are able to deploy world incentives on Morpho
+on an individual account basis, which is pretty cool.
+Can you talk about just like, because you have the world ID,
+talk about how you can leverage your guys's treasury,
+the world incentives differently than anyone else can
+because you have this feature of proof of personhood.
+How are you guys getting creative with incentives?
+Yeah, so first of all, like the Morpho mini app is actually a good idea,
+is a good example where like I think on base there's around 3,000
+depositors of Morpho on world chain, it's like 30,000, 30,500, something like that.
+And essentially what the incentive is that Morpho is giving is,
+and I think the foundation is a combination of both,
+is the first $250 that you deposit, you get additional yield.
+And we can do that because we have world ID.
+So it's not just whale based in some sense.
+And so of course, it's a different user group.
+It's everyday people that deposit their money into our Morpho mini app
+versus like some mega whales.
+But I think that's why we're building this.
+I think that's cool.
+And other than the actual core kind of token incentive,
+the core idea of eventually every human will have some amount of world coin,
+we actually don't do that much.
+We give rewards to mini app devs that are kind of somewhat early.
+Like we have a mini app dev fund, which we support them with, but that's pretty much it.
+What is the size of the actual like war chest that you guys have?
+How much do you have of world coin to actually hand out for incentives?
+The overall tokenomics was right from the beginning.
+That's like pretty much 75% will go to users.
+Okay.
+And that is what we're going to use it for.
+Again, pretty much all of that is going to be the core world coin airdrop.
+So the simplicity that eventually every human will have some amount of these tokens.
+So we actually don't freely just play with these tokens,
+but rather they're dedicated to when you sign up,
+you get some amount of world coin and we will follow that kind of curve.
+So, and I think that a treasury of the foundation at this point,
+yeah, a couple hundred million WLD.
+Okay.
+Yeah.
+Yeah.
+Well, at a $10 billion fully delegated valuation, the war chest is like pretty damn good.
+One of the better ones we've ever seen, which like the reason why I'm getting here is because
+this is also a bug bounty of the civil strength of world equity.
+Right.
+So if there is this much money to be given out,
+certainly people are trying to figure out how they can get their hands on world coins.
+Not just theirs, but everyone else's that they can get their hands on.
+So how is that going?
+How has the strength of world ID civil resistance held up?
+Are people poking through?
+How are you managing that?
+Tell us about this.
+So actually like the last time we spoke two years ago,
+this was one of my biggest concerns.
+I was like, okay, if the launch goes like amazingly well, this is going to be,
+as you just said, like a multi-billion dollar bug bounty on a new hardware platform.
+We actually did not see, we saw a lot of attacks,
+but the system held up against everything so far.
+So that was like very, very, very good.
+When you say the system, what does that mean?
+Does that mean the orb?
+Does that mean the chain, the world ID app?
+I mean, so like, I think the biggest one was the orb.
+Definitely.
+Because like that is where you actually could fool the entire thing.
+Like if you get, if the orb gets cracked, then everything falls apart, right?
+Still like the orbs would be rate limited.
+So meaning like you cannot, so like even if you get one orb
+and you attack that orb and you succeed with that,
+it's not that you can just like mint a billion WLD or something.
+And like there's a spoof detection system going on at any point in time
+where if an orb behaves not the way it normally would,
+like just much more signups or it doesn't move or things like that,
+like that will be detected.
+And the cool thing is like actually all of this will be in the public pretty soon.
+So you will have public watchdogs of people that can monitor the entire orb network
+and can spot if something is not working the way it's supposed to.
+But yeah, like we had a lot of people try to attack the orb.
+We did not see any kind of meaningful breaches.
+Okay.
+Orb is still holding strong.
+Still holding strong.
+Yeah.
+Okay.
+Where have you seen things break down and how bad have those breakdowns been?
+The biggest one was like honestly World App.
+I think World App then before, at some point we were on OP mainnet
+before we launched World Chain.
+And back then the combination of like a lot of user traffic
+and kind of a pretty high market sentiment and they're all like
+led to kind of chain congestions back then.
+And so like transactions would not go through,
+which was a pretty annoying experience on World App.
+That was like a big part of why we actually launched our own chain.
+Just because I think we have been like 80% of the block space of OP mainnet back then,
+which was bad for us and bad for everyone else in OP mainnet.
+So we kind of were forced to launch our own chain back then.
+That was probably number one.
+Problem two is like World App in general.
+I think we, now it's pretty stable, but in the early days of the launch,
+we had outages and like again, just bad UX around that.
+These would be like the main two.
+Like the chain itself and the app.
+So if you had to give yourself a grade,
+if you had to go back two years and tell yourself, previous self,
+hey, here's how we did.
+We got an A minus, we got a B plus, we got an A plus.
+What would you give yourself versus your expectations two years ago?
+I think it depends on the, do you want me now to do a grading exercise on the company?
+Let me think.
+So I would say on, I think on thesis, I would give us an A plus.
+I think like overall strategy and thesis, I think was an A plus.
+Or like, I think again, back then everyone was giving us shit.
+Everyone was making fun of us.
+And I think like the core idea was actually pretty good and made sense.
+And I think the timing was pretty good.
+So like, I think like thesis strategy pretty good.
+I think on hardware engineering, I would give us an A.
+I think like we could have been faster, but like everything is working.
+So like the whole like biometric pipeline, I would give us an A.
+So all of that system is working pretty well.
+On operation, I would give us a B to C actually.
+I think we could have been much faster in the overall rollout.
+So it was a lot to learn there and like dealing with privacy regulators,
+dealing with governments.
+Like it was like a lot of stuff back then to go through.
+Overall engineering, like an A to B.
+Let's talk about maybe the other thing that's holding me back from
+getting my eye photographed by the orb.
+Yeah, orbed, orbed.
+Orbed, getting orbed.
+The thing that's holding me back properly is privacy.
+And it's like truth be told, I haven't done an exhaustive deep dive on world privacy, right?
+But this is important biometric data.
+I mean, there's all sorts of ways this has gone wrong in the past when data has been shared.
+People have recently, recent memory.
+Is this the past year, 23andMe?
+Where's that data?
+Who owns that?
+I mean, like, who knows, right?
+You can look at something like chat GPT and this is not the self-sovereign data privacy
+that I want as a crypto user basically, right?
+So internal employees under certain circumstances with controls
+can access your chat logs in AI.
+It's not just chat GPT.
+I assume all of the AI chat bots are like this.
+Even when you turn it into like disappearing chat mode or whatever with chat GPT,
+that can all still be accessed.
+Tell me about privacy here.
+And how can I, I don't want the trust.
+This is crypto, right?
+So we can't do the trust me, bro.
+Hey, we'll keep your data private.
+And like, if you get subpoenaed by a government, for instance,
+doesn't have to be the US government, some government somewhere in the world.
+Like, does that government just get my data?
+And what does that mean?
+How do you answer my concerns about privacy?
+Yeah, so actually I think like this is the audience to,
+where all of this should resonate with,
+because I think in all the other cases you just mentioned,
+what of course has been missing is cryptography.
+And that's why the space exists.
+So I think like you can, many of these things are counterintuitive,
+like zero knowledge proofs in general,
+I think are still counterintuitive to most of the population.
+But there's more things here.
+We have like multi-party computation, we have CKPs,
+and I will walk in kind of in that direction in a second.
+But like, we kind of a general idea for this project right from the beginning,
+it obviously did not resonate like that in the beginning,
+but I think that will change is that I think proof of human
+will become this very, very fundamental thing on the internet,
+that people need to use for pretty much everything we do.
+And I want this to be the signal equivalent of like,
+this is like the hardcore privacy alternative that is independent of governments,
+that is fully provable and decentralized.
+And like that's actually what we're aiming at.
+So we have a big, big chunk of the team.
+It's now a 500 people company.
+So like a pretty, it's a pretty big company.
+It's a pretty big team.
+And a large chunk of the engineering is sitting on privacy.
+Um, and kind of the core ideas without not going too much into detail,
+but is, um, making like, so you sign up with an orb.
+First thing that happens is it checks that you're an actual person.
+So it, there's not a display.
+So it takes a picture in multiple wavelengths, actually,
+infrared, near infrared, RGB, all of that happens on a device.
+And then you have neural networks on the device to check against all kinds of attacks.
+Then, uh, takes a picture of, uh, the iris.
+That is because that's actually one of the very few modalities
+that will get us to billions of users because, um, face ID, for example,
+on your iPhone, that is a one-to-one comparison.
+So it just checks that you're again, Ryan logging into your phone,
+but to solve the proof of human problem, we will need to compare you against,
+uh, let's say everyone else that is using X and make sure that you as Ryan,
+you only get one X account versus like a thousand.
+It goes from one to one to one to N in our case.
+And so face doesn't work.
+Fingerprint doesn't work.
+Uh, like some Palm veins could work and iris certainly works.
+And so that is why, why that then it calculates an iris code
+out of that picture on the device.
+And it actually splits that iris code into many different pieces
+and sends it to a multi-party computation.
+So like right now there's the, uh, university of,
+well, it's Berkeley Friedrich, uh, like a German university,
+which I did my undergrad at FAU, um, Nethermind, uh, and a couple others
+that all have to come together to, to do one comparison.
+That means like any, any of the party doesn't actually have the data,
+but they need to come together for one multi-party computation.
+If that uniqueness is then given.
+So we know that you, Ryan actually don't already have a world ID account
+and that MPC computation comes back positive.
+Then, uh, public key gets inserted into a Merkle tree.
+And, uh, which is on the Ethereum may not.
+And then how I actually use my world ID is if I go to a platform, I go to X.
+I prove to X that I'm actually, uh, the private key that I have on my phone
+self-custodially is included in a Merkle tree.
+Um, public, public key generated by the private keys is included in Merkle tree.
+And so meaning you have the multi-party computation,
+there is no central storage of any information,
+but then the actual usage of world ID is decoupled even from that
+with zero-notch proofs.
+And so you remain fully anonymous using your world ID
+and there is no database or anything that can get compromised.
+That was, again, there's like a lot of things that I think still can improve.
+Like we want to have the MPC computation, not before parties,
+but like 50, um, and, and like many other things that I think can be tweaked
+and kind of improved.
+But in general, I think this is the most, the most private by far,
+the most private solution we have, uh, for that, for that kind of problem.
+Like, for example, using, yeah, even, even using like NFC IDs from a government
+with zero-notch proofs would not get you nearly as far in privacy scale.
+So Alex, if a three-letter agency shows up and they're like,
+Hey, this, this Ryan Adams guy, he's kind of a shady dude.
+And, uh, we need you to give us all of the information,
+everything you have on Ryan Sean Adams.
+What can you give them and what can't you give them?
+Uh, well, we can, we can give them your transaction history,
+your financial transaction history, because it's a, obviously it's a,
+it's an Ethereum wallet.
+So like transactions are, are in the public.
+We can give them app, uh, some app usage, uh, files of like,
+when have you been online?
+What have you done in the app?
+Which screen did you use?
+So there's, there's things like that.
+Uh, we cannot give them, uh, your biometrics.
+We cannot give them your kind of, where did you use your world ID?
+None of those things, because all of it is self-custodially with you
+on your phone.
+Um, so, so yeah, I think it's like, we, we, again, app, app usage
+is like kind of TLDR of what we as tools, we may, you could give someone.
+So if Ryan logged into some application that integrated world ID,
+so like he, he logged into how to build a nuclear bomb.com with world ID,
+you would not be able to report that to the three letter agency.
+Neat.
+No.
+Why'd you use that example?
+It's Ryan's hobbies.
+It's incredibly unlikely that I would ever do that.
+Right.
+I know.
+Let's go to the website right now, actually.
+Well, just by the domain, just on the, um, on the privacy issue,
+what kind of privacy regulations have you run up against?
+Maybe in other jurisdictions.
+I'm not sure if there's any in the U S but I mean, EU has all sorts of things
+and you know, like privacy.
+Um, what's, what's been kind of, I guess, interesting or at odds with how you've
+designed things or like where things fit together, maybe what, what has
+your experience been with regulation, privacy regulation that governments are putting out?
+There's like a whole, uh, scale of things that I think we, we encountered.
+I think like the first, the first thing is like we launched back then and you might
+remember that, but it's like a very, very loud launch where I think pretty much in
+every country that we, we already were operating at or we operated before.
+It was like a national TV type situation and kind of in, in all the big newspapers.
+Okay.
+Was it basically a Sam Altman's orb is coming for your eyeballs type of thing?
+Yeah.
+Okay.
+Actually, it was like a pretty easy headline to write.
+Yeah.
+It's a pretty easy headline.
+It was a lazy reporting there.
+For better or worse, actually like back then it was already much more positive.
+Like I was like, it was still Sam Altman is like doing X, but it was like, oh, Sam
+Altman's like crypto project is launching in Germany or something.
+It was like, I'm originally from Germany.
+Every major newspaper, it was like headline.
+Sam Altman is, is, is doing this new thing.
+And it's a new kind of, it was actually, it was the reason that like the sentiment
+back then was pretty positive around the launch.
+But then the second thing that happened is like, back then we didn't have a GR team.
+It was like me and our, and my, and my, and my GC, uh, back then the company was
+like much, much smaller.
+And we had like within the span of two weeks after launch, we had pretty much
+every regulator you could possibly think of reach out to us from like financial
+regulators, crypto regulators, privacy regulators, like, like everything.
+Is this just how it happens?
+Like you get a big media splash and then governments are going to hold it.
+That is totally how it happens.
+And if I were a privacy regulator and I wake up to a newspaper saying there's
+like Sam Altman with orbs in like all of our big cities and it's somehow
+scanning eyeballs and crypto is involved.
+Like, of course I would take a look at that.
+That's the, that's the job description of a privacy regulator.
+And so, yeah, we basically get outreaches from like every privacy regulator in the
+world that we even in countries who didn't touch.
+I was like, just like, Hey, just FYI, if you want to launch here, we want to talk
+like, like that kind of hundreds of emails.
+And, um, and then of course we also fell like squarely into all the crypto
+regulation debate back then.
+We're like, uh, Europe was forming their crypto regulation, uh, in Southeast
+Asia.
+You had many countries who didn't know yet what, what crypto relations they
+had, like me and my GC facing.
+Facing all of the drama.
+And then the, the second, the second order was like, so you now actually
+meet with a privacy regulator and you have to explain them multi-party
+computation, zero knowledge proves all of that stuff, proof of human.
+We will have AI on the internet and it's going to change everything.
+It was like, the conversation was so disconnected from the normal
+conversations that they used to have that it really took us like months to
+just get through the basics.
+Um, and so the good thing is like every, like some of the conversation is still
+not concluded, meaning we're still having conversations or are still kind
+of going through because some of them really went pretty deep, like they went
+for source code or like hired consultancies to kind of go into things,
+but, uh, either they conclude positive or they will be, they will be concluded
+positively pretty soon.
+Um, so overall it was a pretty positive story, but, um, of course, uh, a lot
+of work to get there.
+And then actually like, uh, my favorite stories are the ones that were like
+back door government kind of cross-stations that are like, well, you
+would allow democratic, democratic, uh, kind of votes or something in our
+country.
+We don't like that.
+And so we would never want you to launch here.
+It's like at all kinds of crazy conversations over the last two years,
+you have no idea.
+And like every scale.
+So, yeah, I have a lot of, a lot of stories to tell.
+Ethereum's layer two universe is exploding with choices, but if you're
+looking for the best place to park and move your tokens, make your next stop.
+UniChain.
+First, liquidity.
+UniChain hosts the most liquid Uniswap v4 deployment on any layer two,
+giving you deeper pools for flagship pairs like EthUSDC.
+More liquidity means better prices, less slippage and smoother swaps.
+Exactly what traders crave.
+The numbers back it up.
+UniChain leads all layer twos in total value locked for Uniswap v4.
+And it's not just deep, it's fast and fully transparent.
+Purpose-built to be the home base for DeFi and cross-chain liquidity.
+When it comes to costs, UniChain is a no-brainer.
+Transaction fees come in about 95% cheaper than Ethereum mainnet, slashing
+the price of creating or accessing liquidity.
+Want to stay in the loop on UniChain?
+Visit unichain.org or follow at unichain on X for all the updates.
+Ever wonder how industry-leading companies like Coinbase, Metamask,
+and Phantom Wallet build products that always stay ahead of market shifts and new token listings?
+It's because they all use the CoinGecko API, the most reliable and comprehensive crypto data API,
+backed by a rock-solid 99.9% uptime SLA.
+Builders, analysts, and businesses rely on CoinGecko for real-time data on 9 million
+cryptocurrencies across 1,500 exchanges and 200 different networks.
+It goes beyond crypto prices to access liquidity, OHLCV,
+DEX data, metadata, NFT floor prices, and more, enabling your team to build and scale
+powerful products like wallets, oracles, exchanges, AI agents, and DeFi applications
+without limitations.
+Onboarding is easy with clear documentation and enterprise-grade support that answers you
+faster than finality.
+24-7 around the clock.
+Supercharge your product and build with CoinGecko API today.
+Head to gcko.io slash bankless10 and enter code bankless10 for 10% off any plan.
+CoinGecko API, crypto's most trusted and reliable data source.
+Binance is the world's number one crypto exchange.
+Over 275 million users already trust their world-class security.
+Binance makes starting crypto as simple as it should be, whether it's learning about crypto
+on Binance Academy or browsing hundreds of assets and viewing your newly created portfolio in a
+clear, easy-to-track dashboard, Binance helps you go at your own pace.
+For hardcore traders, Binance Pro opens up industry-leading services for trading
+professionals with fully bespoke trading products, along with a suite of white-gloved
+services for VIP and institutional clients.
+Need support?
+24-7 customer service is on hand whenever you need it.
+And with some of the lowest fees and deepest liquidity in the market, it's no surprise
+why over 275 million users trust Binance for everything crypto.
+Download Binance today and get started in minutes.
+Binance is not available in certain countries, including the United States.
+Check its terms for more information.
+What's something that you hope gets built on the world chain, world ID platform, by like
+the end of this decade?
+And maybe this can be like a fun toy that you just want to use, or maybe this is something
+that, I don't know, since you just brought it up, something that like disrupts authoritarian
+regimes or, I don't know, something exciting.
+What's something that you daydream about?
+That it becomes like some version of internet citizenship, where you plug in both your,
+you have some version of internet native identity and internet native finances that kind of
+almost like give you an internet native citizenship.
+And there's like billions of other people that have that.
+And it doesn't matter where you come from.
+You have like access to the same kind of tools and systems.
+I think that's the future where we're heading to.
+And I think that's like the cypherpunk dream to some degree.
+That's certainly been a bankless dream for a while, having an internet citizenship.
+And you guys have come a long way in the past two years.
+And the way you're building it, I think, has been impressive, at least to Dave and I,
+as we've been watching this with kind of a layer two, doing everything with ZK,
+building it with privacy in mind, actually scaling it.
+30 million users is pretty impressive.
+15 million of which have gotten the orb treatment.
+It's worth pausing and reflecting, actually.
+Like the topic of identity has been with us since getting into crypto.
+I think it's one of the...
+When you're going down the crypto rabbit hole and you get to the identity part of the crypto
+rabbit hole, you realize like, oh, an Ethereum address is an identity.
+And then it kind of goes from there.
+This was on Bitcoin Talk Forum.
+It's like Bitcoin addresses mean identities.
+And then it opens you up.
+It's like, what is an identity?
+And then we have to like deconstruct an identity.
+And there were so many different ways to solve identities.
+There was Martin Koppelman's Circles project.
+There were so many different identity projects trying to solve identity.
+Nothing that scaled, though.
+Nothing that scaled, nothing that worked.
+This one has gotten so far down the line of actually solving identity.
+And actually, it doesn't feel like there's any unknowns.
+It's just an execution at this point on WorldCoin's part.
+It's no longer just like a science experiment.
+It's actually like in production.
+And so I think it's kind of worth pausing to reflect on like, oh, I didn't expect it
+to come from hardware.
+Turns out the key unlock was hardware.
+But there were so many other attempts at building identity that never really went anywhere.
+And this is actually the one that is so far showing plenty of fruit
+and promise of actually getting us to the internet citizenship,
+which we all kind of daydreamed about.
+So first of all, thank you.
+I think we're always still very, very early.
+And it could fail for like a thousand reasons.
+But I think it actually has a meaningful shot at getting to kind of internet scale.
+And I think actually, if it does that, it's going to be much more than identity.
+I think that's the cool part.
+I think like the early vision of you create a real human network on the internet
+and you have financial primitives built in
+will become one of the most valuable networks on the planet, I think,
+is fundamentally the right idea.
+And I hope we get there.
+And actually, to your point, one of the funniest things is actually
+how Finney had proposed proof of human in the kind of very early Bitcoin forum.
+Eventually you would get to a biometric device and you would get a proof of human.
+You will be able to use it across the internet.
+So it's a pretty OG idea.
+How Finney concluded biometric hardware?
+Yes.
+Wow.
+One of the contenders for maybe Satoshi, who is Satoshi.
+Yes.
+When I hear your name, I'm like, okay, so you mean Satoshi.
+OG.
+Alex, this has been great.
+Maybe as we close this out, I want you to reflect, if you will,
+on kind of some convergence here that seems to be going on.
+So we have another podcast that David and I sometimes occasionally guest host
+called Limitless and that's exploring the frontier of AI,
+the way bankless explores crypto.
+We're seeing a lot of interesting developments, right?
+If we're looking at kind of the next generation of social media platforms,
+it feels like there's like four things that are kind of emerging as important there.
+The one is it's got to have money and that's like a crypto wallet probably,
+and you guys have a crypto wallet inside the app.
+The other is it has to have media, right?
+So you have to have the breaking thing.
+You have to have a bunch of humans congregating over some sort of information,
+whether that's prediction markets, whether that's traditional media,
+tweets, that kind of thing.
+The other thing is it has to have intelligence.
+So that's some kind of a model, right?
+So Grok is kind of X's attempt at this.
+XAI and ChatGPT, of course, is the open AI attempt at this.
+And one wonders whether open AI is actually going to launch its own social media platform.
+And then the last ingredient, the fourth, is basically some sort of identity,
+some sort of proof of humanity.
+And it seems like all of these ingredients need to be active together
+in order to launch our next generation of internet experience, social media experience.
+And so I don't know how people are assembling the building blocks here, right?
+A bunch of companies building models.
+Obviously, we have the crypto thing in the background.
+We have World, which is working on kind of the humanity piece.
+I don't know if there's maybe some smaller competitors on this.
+All sorts of like, there's a milieu of parts.
+It's kind of a stew of all of these bits and pieces.
+What do you think happens next?
+Do you think all of this converges together
+and creates a better internet social media experience for us all?
+Or do you think there's some Balkanization where there's maybe the Elon Musk world,
+there's the Sam Altman world, there's the Google world,
+and these are all kind of separate using different protocols?
+What do you think is going to happen?
+So first of all, I do agree with,
+I think these are the fundamental building blocks for the next generation of such a platform.
+And I think probably right now is the opening to take a new shot at something like that.
+And so I think the timing is very interesting.
+I think the observations you made are pretty correct.
+I think the money part is probably initially secondary,
+but I think the idea of you have an AI native social network
+that somehow also is able to have kind of a positive coexistence of AIs and humans,
+meaning you will need some version of identity or proof of human.
+I think that will happen.
+I think the other big thing that will happen is
+there's going to be some form of flywheel where the big model,
+certainly the big labs will have it, but probably other servers will have it too.
+I think you will get more and more personal context about everyone by usage of these models,
+which then I think should allow you to build a much, much better feet,
+a much more personalized feet that actually just shows you the things that
+you're interested in.
+And I actually think it's hard to say that X makes you a better person.
+It's really hard to claim that X is truly just improving my life
+and it's making me a better person.
+I took a break for three months and I felt great.
+Right. And so I think we all feel like that.
+It's like a mix of the craziest shit on the internet all thrown at you all day long
+and some percentage of interesting things in between.
+So it's really hard for me to say it makes my life better and I really, really need that.
+I use it a lot because I need to use and then I take down all the negatives that come with that.
+But I think my hope for the next version of such a product would be that because it understands
+me and it knows what I care about, it actually shows me things that either just make me better
+or just improve my life, improve my experience versus like a hell hole of
+the craziest shit happening on the internet.
+That's actually nothing I need to know.
+And so I think the other big flywheel from the things you just mentioned,
+I think is personalization towards all of us.
+And it comes with a lot of danger, actually, because the potential downside of that level
+of personalization is that we actually don't have a public town square anymore,
+but rather we just like build dopamine maximizing systems that like,
+they will make me very happy and feel great.
+But actually, I miss out on what is happening in the world.
+So there is like a balance you need to make.
+But TLDRs, I think it will be vulcanization.
+I think there's going to be just that's the nature of that.
+I think these networks will get more and more personalized.
+I think these networks will include financial programs that definitely
+include some form of proof of human or identity.
+Otherwise, they will break.
+And if there is a moment to start a new major network, it probably is now.
+Maybe I'm reading some things into what you just said there, Alex.
+But maybe it sounds like there's some announcements to come.
+Alex, thank you so much for joining us today.
+This has been a fascinating discussion.
+Thank you, Rolf.
+I feel like we got to do this more than every two years
+because the world is moving so fast.
+I mean, we should get you on next year too.
+Let's do it.
+Got to let you know, bankless audience, crypto is risky.
+You could lose what you put in, but we are headed west.
+This is the frontier.
+It's not for everyone, but we're glad you're with us on the bankless journey.
+Thanks a lot.

@@ -1,0 +1,451 @@
+I think of Ethereum as civilization scale infrastructure.
+I think of it as a new trust foundation for the planet.
+I think of it as digital oil or Ether's digital oil.
+I think of Ether as the highest octane trust commodity that the world has ever seen that
+powers transactions on this new kind of software, trustware, the Ethereum technology.
+And so it's too big to describe with one metaphor, which is why we use all of them.
+And yet, Tom Lee came out with this simple statement a few days ago, which kind of captures
+it all and is really intelligible by the lay audience.
+And he said, Ether is the next Bitcoin.
+All right, here we are with Joe Lubin, CEO of ConsenSys and Ethereum co-founder on the
+Defined Podcast again.
+Joe, welcome back.
+It's so great to have you.
+Hey, Kamie.
+It's good to see you.
+Okay.
+So I was very excited for this conversation with you and your dog.
+It's adorable because I think you've always had a really important role in the Ethereum
+ecosystem.
+Alicia is one of the initial co-founders and then with ConsenSys, then recently you've
+taken a new angle here with accumulating a bunch of ETH with Sharp Link.
+So would love to hear your description on what led you, what's motivating you with this
+strategy?
+And if you can describe the strategy itself, what's the end game for SBET?
+So our thinking started by just paying attention to what Michael Saylor was doing with the
+strategy strategy, a formerly micro strategy strategy.
+And he's just doing remarkable things.
+His problem was that he had treasury assets that didn't retain their purchasing power.
+He felt like he was fighting an uphill battle given that there's so much debt in the system
+and the US government was likely to have to print lots of money and there's a long-term
+structural problem developing.
+And when we took a look at it, we figured, hey, we can do the same thing.
+We can run his exact playbook in terms of the different kinds of financial instruments
+straight up equity, common equity and preferreds and convertibles.
+But Ether is a productive and yielding asset.
+And so for all the Ether we purchased, that Ether would be put to work in staking and
+restaking and DeFi and could be used to do what he's doing.
+He calls it growing Bitcoin yield.
+And by that, he doesn't mean he's earning interest.
+It means he's growing the amount of Bitcoin per fully diluted share of equity.
+And so his pledge and his strategy is all about just ensuring that if you have a share
+of strategy of MSTR, then you will constantly see the amount of Bitcoin underlying that
+and grow over time.
+So we can do that, but we can do it much faster because we're taking in lots of US dollars
+in exchange for equity.
+We're immediately buying Ether and we're immediately staking Ether.
+And so we don't use the term yield the same way that he does.
+In the theorem, there's already native yield in different kinds of protocols.
+So we've termed it Ether concentration, where essentially we pledge that or we believe that
+through our operations, we will constantly grow the amount of Ether underlying each fully
+diluted share of SBET.
+And so that's a remarkable thing already.
+And it serves a huge need in the Ethereum ecosystem.
+The Ethereum ecosystem has been building for the future for a long time, and we think that
+future is now.
+And so in order to really launch us into the future, what we need to do is fix two more
+issues that we have.
+We fixed the scalability issue so we can now add horizontal and vertical scalability as
+necessary.
+We're doing a pretty good job on usability and we're going to be doing a great job on
+usability as we get more AI into user interfaces.
+We fixed affordability.
+There's a ton of block space that's cheap at layer one and layer two.
+And the US political system fixed the problems we were having as the United States of America
+tried to make it really hard or impossible to be a blockchain company in the US or to
+be a company and use tokens or be a company and issue tokens or be a company and use DeFi
+or be a builder and build something, build a startup in the Web3 space.
+That was not a smart idea to pursue, given that you're probably going to have a tough
+time getting a bank account or be debanked if you get one or have the SEC chase you in
+its inquisition of our ecosystem.
+And so the builder stayed away and the company stayed away.
+And that is all over now in a big way.
+And our ecosystem is surging because of that.
+But because of that, we don't have a ton of applications and we don't have a ton of users
+in our space. We have lots of people holding tokens, but it's really crypto financial nerds
+that are playing in DeFi, crypto art nerds.
+We're playing in NFTs and even meme coins and protocol nerds are still building deep
+infrastructure. And so we need the best and the brightest builders from the traditional
+economy and Web to come in and build in our economy using Web3 primitives, which enable
+people to build essentially up by and for the community rather than building in an adversarial
+nature with your users.
+And when we have the applications, we'll have many more users.
+I think that'll really kick off mostly in DeFi.
+And we're seeing TradFi recognize DeFi, explore DeFi and onboard itself to DeFi via these
+treasury companies, via stable coins.
+And perhaps most importantly, to really ignite this next phase of development, this next
+decade of Ethereum is to get supply demand dynamics for Ether into a healthier form.
+Because there's so much block space and there's not enough transaction volume, there
+has been too much Ether out in the world. And that resulted in supply demand slackness
+and malaise in the ecosystem, price drive sentiment.
+And so we recognize that if we could raise lots of capital and start buying Ether and
+if we could inspire other projects to do the same, that we could take lots of Ether and
+lock it away in different protocols for a long time and really tighten up the supply
+demand dynamics.
+And so you're seeing that in full force right now and it's going to keep going for a long
+time.
+The other really interesting idea is that Ether and Bitcoin are really the only rigorously
+decentralized protocols in the world.
+And if you believe that the world is going to move increasingly on the path of decentralization,
+then both of these are going to grow to be very, very valuable in comparison to where
+they are right now. And stacking up big piles of what I think of as highest powered money,
+decentralized money, uncensorable money, I think that's going to be an important construct
+for the next economic super cycle, the next 80 or 100 years potentially.
+Perfect. Okay. So the motivation summarizing greatly for SBET and SharpLink is to make
+sure that the supply demand of ETH is such that there's more pressure for the ETH price
+to rise. Therefore, just igniting this cycle of interest and activity and more buying and
+innovation, because as we saw, kind of underperformance drives the opposite kind of, you know, just
+skepticism.
+Yeah. So it's a great business model. We believe long term money making business model. It
+lights a fire under the Ethereum ecosystem and we're building a business that is accumulating
+a huge amount of high powered money. And you have giant piles of high powered money. As
+Berkshire Hathaway, they have giant piles of low powered money. You can do pretty profound
+societally beneficial things with it. You can think of this strategy or this construct
+as similar to what happened after Bretton Woods, where the US dollar was effectively
+made the reserve asset of the world. And that created imbalances where the US was trading
+paper, treasuries and US dollars for goods and services around the world. That led to
+a structural trade in which US treasuries went up in price and down in yield for about three
+decades. Similarly in Japan, the massive disinflation that they experienced after their boom led
+to about 30 years of the Japan carry trade, where you borrow in cheap yen and you put
+it in higher yielding assets. So those kinds of structural things in an economy can drive
+trades or strategies that can last for a very long time. And I at least believe that this
+decentralization trade will last for years or decades.
+Do you have a target for the percentage of E outstanding that you want to buy or maybe
+it's a dollar amount target that you're looking for?
+So we're going to keep raising money and turning it into ether. And we're going to
+keep deploying the ether in productive yielding ways. We don't have a specific volume or amount
+of ether that we're trying to buy. We don't have a specific price that we would love to
+see ether get up to. But if we think about it in terms of this stable coin phenomenon,
+the United States is excited about our ecosystem because it needs to grow. So the US has been
+trying to reduce expenses, but austerity is un-American. So that hasn't been working very
+well. The US knows it needs to grow out of the debt that it's in. And in order to do that,
+it will deregulate and it will make use of our technology because our technology can make things
+much more efficient and effective. The US will try to weaken, has successfully weakened its currency
+in terms of exchange rates. And it needs to do that in order to reformat trade imbalances,
+make the dollar cheaper and its products more attractive. But the US also in its
+effort to maintain political primacy, it needs to keep the dollar politically strong. And what
+that means is the US can enable the world to dollarize. So many countries that are in
+challenging economic situations where they have high inflation or tyrannical rulers,
+rulers who financially repress or exploit their citizenry, those tyrants are going to be weakened
+in their ability to exploit. And the people in those countries will be able to have access to
+stable stores of value and maybe even access to the US legal system if they're transacting in US
+instruments. Not sure about that. But so this entry into our ecosystem by the US is both
+incredibly wonderful to see validating for us. It also perhaps represents a threat to our technology,
+a threat to decentralization because all these stable coins are based on centralized institutions.
+And so if there's a future administration in the US that doesn't like decentralization,
+that prefers to control all aspects of life centrally, then our technology would become
+very inconvenient. And so what we need to do is have decentralized stable coins,
+like make or die or sky product that are CDP based or over collateralized based instruments.
+But there isn't enough Bitcoin and ether in the world in order to support enough with that.
+And so what we need to do in order to make the financial system more decentralized,
+the DeFi system more decentralized is to grow the price of ether and Bitcoin enormously so that we
+have enough decentralized economic bandwidth in order to operate at global scale.
+That's a really interesting long-term effect of the rising ETH price. Of course, rising price
+drives attention and builders and so on. But you're right that it also enables a truly
+decentralized stable coin because the reason why make or die slash sky now started adding
+USDC and centralized collateral was because it couldn't scale enough with ETH.
+I hadn't thought about it that way. ETH price raising also enables more
+decentralized assets by having ETH as collateral.
+The PR Genius is a top crypto PR and growth marketing agency.
+Helping brands globally with expert PR and strategic growth marketing,
+they've worked with 300 plus projects like movement labs and IO.net. Unlike traditional
+agencies, they charge only on performance. Their services include earned PR opportunities
+and marketing services to help boost wallet holders and organic ex followers.
+Learn more at www.theprgenius.com.
+Going back to SBET for just a couple of questions. I wanted to ask you about what do you think makes
+attractive for investors versus an Ethereum ETF, especially now that BlackRock and others are
+filing to add staking to the ETF? Why would an investor buy SBET versus
+an ETH ETF, especially when there's a staking? The ETFs will have lower yield and they won't
+be able to stake all their assets. They'll only be able to stake in vanilla ways, so earn less
+yield and they charge fees, so there'll be a fee drag as well. But they're good products
+intended for different kinds of audiences. We'll have different kinds of investor types.
+Retail traders will have convertible bond buyers that appreciate different strategies that they
+can run with the fact that we'll have a pretty rich options environment around the equity.
+Bond buyers are often pretty comfortable with 5% yield, but a convertible bond buyer would
+benefit from seeing potentially much higher volatility or much greater upside.
+Will you be deploying ETH besides layer 1 staking in DeFi, too?
+Yes, absolutely. Currently we're doing it in vanilla, but we're working on plans to
+do more exciting things. It's interesting to see
+more large-scale use of DeFi in the works. The EF is doing that with its treasury.
+You're going to be doing that with a sharp link treasury. It's good tailwinds.
+Other things we can do because Ethereum is programmable is we can put some investment
+contracts on-chain potentially. It's complicated, but there are a lot of projects trying to tokenize
+public equities currently and that's really exciting. It's also potentially problematic
+in some cases. Hester Purce has sketched a short warning despite being the major
+saint of decentralized protocols. She's also saying, hey, wait a sec, there are some serious
+issues that we need to take a look at. If we allow people around the world who aren't subject to
+effectively to the US securities laws, it could put some companies into difficult positions if
+they're holding large amounts of equity. It's doable, but we need to figure out how to do it
+in a healthy way. We at Sharp Link Gaming are very interested in exploring what we can do in
+terms of tokenizing our equity. One exciting benefit of that is that unlike in the current
+environment where it's not easy to know that somebody holds a share of Apple or Nvidia,
+because it's really owned by Seed and Company, which is owned by DTCC. You're getting
+sort of arm's length ownership of your shares through this securities industry infrastructure.
+What we can do is there can be equity in an SPV and we can give people ownership of a token that
+controls a share in the SPV. Then we know who owns the stock effectively. Just like in the NFT
+ecosystem, we can do token gated experiences or perks or something like that. It could really
+change the game for public companies in terms of how they engage their owners and users.
+That'd be really interesting to see and maybe easier to pull off from a regulatory perspective
+than current equity tokenization experiments, because in the case of Robinhood, they are
+offering derivatives of equity and not equity itself. But if you're like the primary issuer
+of equity and the token, maybe you can just map them together more. Maybe it's just easier
+to regulate that way than through a kind of a derivative. There are different ways of doing it.
+You can just track the price movements and do contracts for differences and just make sure
+people are getting paid based on what the actual stock does. You can put a whole bunch of equity
+in a special purpose vehicle. You can have an arrangement where when people are buying tokens,
+you're actually buying equity. When people are selling, you're actually selling equity.
+That only works during market hours. You can combine some techniques. I think that's what
+Robinhood is going to be doing a bunch of different things in order to make it all
+work and feel smooth. It's really interesting times. Then the last question I have is on the
+risks that this might pose for the ETH price going forward in the case that there is a prolonged
+bear market or a sharp downturn. What's that? What risk? It's going to get too high?
+Well, the opposite can happen, as we've seen. There is this concern if there's leveraged buying
+of assets in a downturn, liquidations can turn a bear market or a decline in price and make it
+even more pronounced. How do you see that playing out? If you're hoping to build an ether treasury
+company that lasts for decades and has a giant impact on the world, you probably want to take
+a very prudent approach to risk management. We're not levered at all currently, but we'll
+probably do some things that involve small amounts of leverage. We will, I believe, never
+get ourselves anywhere close to a position where we're forced to do something that we wouldn't
+want to do. That thing would be selling ether, which is just not the worst thing in the world,
+but certainly not the point. We will manage our risk and our leverage very carefully.
+Great. Now we've talked about what you think drove ETH underperformance before with
+right now not enough activity and usage and just a lot of cheap blocks or just a lot of ETH supply.
+But you've also said that you expect ETH to outperform Bitcoin going forward and to even
+potentially flip in Bitcoin. What do you think the drivers for this outperformance will be?
+Well, the two protocols are very different. They have different use cases. Bitcoin has
+one main use case and not, you know, people are trying to make other use cases possibly work,
+but I haven't seen anything successful on that front. So whether it's lightning or layer twos,
+a little bit of success in the Bitcoin NFT space. So Bitcoin is basically gold 2.0.
+A lot of people feel like it's perfect and complete. It shouldn't evolve anymore. It's
+going to have to evolve for quantum computing reasons and people are working that out as we
+speak. So $20 trillion in gold. TAM is maybe their target audience and some portion of that.
+Ethereum is, I believe, increasingly being seen as the infrastructure for first the future financial
+system of the world. And then once that gets established, and that's really accelerating
+right now, which is why you're seeing some of this run up, we're talking to nations and major
+financial institutions who are understanding that, hey, they're unshackled. The SEC isn't
+going to stop them anymore from doing innovative things. And so they're now able to execute
+some thinking and planning that they've been doing for a few years. So TradFi is absolutely
+moving to DeFi. It's coming on to DeFi. Beyond that, once Wall Street gets fully engaged,
+so first financial institutions and Wall Street traders get fully engaged, and once Main Street
+sees that, hey, Wall Street's all talking about these tokens, ether's going up in price,
+ether races towards its all-time high, ether surges beyond its all-time high. Journalists,
+we love journalists, especially when they say nice things about our technology. And they'll have an
+opportunity to do that because things are going to get very energetic and exciting in the Ethereum
+ecosystem going forward. We and others are working on social graph technology, decentralized identity
+technology. And so once this first wave involving mostly DeFi and brings in lots of institutions,
+enterprises, and people, then I think we'll have the incentives in place so that lots of great
+builders start to build applications on decentralized protocols and decentralized networks of social
+graphs. So we will become the substrate for the global financial industry, and we will move the
+world's applications from web to walled gardens to the re-decentralized worldwide web. That's
+why it's going to flip. That's the vision. It's going to massively flip the previous economy.
+So the thesis is the time for Bitcoin is Bitcoin's use case is digital gold,
+it has a 20 trillion asset, but Ethereum's target is bigger. It's the entire financial system,
+to be a substrate for the global economy. And it's going to be a much more valuable global economy
+than it is today because AI and decentralized protocols are going to drive growth. If we
+think about decentralized trust as a new kind of thing, and it sort of changes how much value can
+be created in the world. So the world currently operates under centralized trust, where authorities
+imbue intermediaries with power and trust, and the intermediaries run systems of the world
+by maintaining trusted third-party databases, which hold letters of who owns what and who has
+what rights. And that is pretty good for building a society, but it's not really that good for
+most 99% of the people in this society. So we can do better, and we now have the tools to
+build a more decentralized world. So Satoshi Nakamoto had issues with centralization and
+invented a new kind of database technology and invented a new kind of trust. Decentralized trust
+showed us how to implement decentralized trust with a blockchain that enables anybody to
+inspect it or anybody to use it or build stuff on it permissionlessly. And we've taken those
+ideas and we built decentralized finance on it. And so we are now able to operate and govern in a
+much more decentralized world. And that's going to enable all the industries of the world, all the
+applications of the world to build differently in ways that are much more enabling for people
+and communities. And that's going to, that plus AI is going to lead us into an economy that is going
+to grow much, much faster than anything we've been able to do so far. And so if you think about trust,
+what is trust? Hard to define. We've thought of it as a new kind of commodity, kind of virtual
+commodity, where if you add the virtual commodity of decentralized trust to a transaction, to a
+relationship, to a process, a set of activities, then that decentralized trust virtually guarantees
+that they happen, guarantees that they happen fast and guarantees that the agreements in place
+get done really quickly and you don't need a whole bunch of lawyers. And once you've had made an
+agreement like that in a smart contract, Hey, anybody can use that really inexpensively. You
+don't need to hire lawyers and have issues around it. You can take each one of those value creating
+events and you can squish more of them into a unit. So you can effectively compound value creation.
+The value of compounding is pretty enormous. If you're, if you're just growing on larger and
+larger amounts of value, the TAM of Ethereum is not with this new trust commodity, this new highest
+grade trust commodity called ETH. It's not just the size of the current economy. It's probably
+orders of magnitude larger than the current economy because we're all going to grow very fast.
+Okay. Two follow ups. In what timeline do you see ETH becoming the substrate of the global economy
+and web? And what will the price of ETH be then? So it's happening faster and faster. We're still
+a pretty small part of the global economy, but the paradigm shift towards bringing things on
+chain is accelerating. And I just don't think it would be meaningful to give you a number
+regarding what the price of ether would be. And it's obviously going to go up at various
+stages of the parameter shift. Right. But like, no, no, like, what's that? What price do you think
+it'll be in five years from now? No, no idea. I'm just a writer. You're, you're, you're the finance
+guy here and the ETH accumulator. But I don't know, like for like back of the envelope calculations
+for kind of this, like, you know, like financial system time, if you, if you go through kind of
+that, like mental exercise, have you kind of sketched out like an idea of what that could be?
+Yeah, we do some thinking about that. And the problem with doing that, people like to put
+numbers on things. The etherealized people put together their excellent report thinking about
+ether as essentially fuel or digital oil. And so they put some number on it,
+maybe tens of thousands of dollars. We put together a really interesting thought piece
+on Ethereum as trustware on ether as the highest octane trust commodity. So ether in that situation,
+both powers transactions and storage on the Ethereum platform, but also if you apply ether
+to any sort of activity on any of the Ethereum related networks, then it guarantees execution
+and brings a lot more trust into the situation and probably adds a ton of value there. And so
+we looked at some narrow situations and I think we got a range up to $20,000. There's a sort of
+a bear case, bull case and mid case. So I think it's misleading though, because you're really
+only looking at one sort of use case, one characterization of what ether does. What we
+may end up doing in the second chapter of this work is take a look at all the different kinds
+of business sectors there are out there and sort of guesstimating how much value, how much savings
+we can find or how much value we can add to business activities in those sectors. So more
+to come on that front. Okay. Look for version 2.0, which will probably have a chapter with lots of
+numbers in it. Big numbers. Interesting. Big numbers, I'm sure. But for now like the
+EKA range is maybe a ballpark. What if sending crypto felt more human? Pulse just launched
+Red Packets, a new way to gift tokens with meaning. It's gasless, gamified and claimable
+inside group chats only. Think AirDrops meets social cues on chain. Backed by smart wallet
+tech and live across major L2s, Red Packets turned communities into micro economies of
+gratitude and growth. No seed phrases, no friction, just connection with value. Check it out at
+pulse.social. Do you think though that Ethereum will be the only blockchain to secure all this
+trust and activity and transactions? Because maybe a risk to that valuation model is that
+Ethereum is not the only one doing that. Yeah. I don't think anyone thinks that Ethereum will
+be the only blockchain system in the world going forward and eventually. I do think that Ethereum,
+because of its current massive lead, because the size of its ecosystem, number of developers,
+amount of infrastructure, specification. I don't know how many blockchains have an actual
+specification that enables teams to come along and build clients for their blockchain. Really
+hard to do without a specification. And so if you don't have more than one client keeping the
+network operational, then you risk one client having a bug and then your network stops,
+which is not the kind of platform that you want to run critical global infrastructure on.
+As you're aware, Ethereum cut its first block, its genesis block, July 30th, 10 years ago,
+and has been running nonstop pretty close to flawlessly from a protocol perspective
+for nearly a decade. So that's the kind of civilization scale mission critical infrastructure
+that you can build an economy on. And we also need lots of different kinds of databases. We
+need super high throughput databases like Mega ETH. Linea is going to run Linea Layer 2 technologies,
+going to have some exciting characteristics, including high throughput projects like Solana,
+Dosei, Swee, many others have valuable characteristics for certain kinds of use
+cases. I think in the not too distant future, we'll start thinking about just building
+applications. The applications will either sit on software development kits or operate
+through AI agents and the underlying blockchain infrastructure will be less important. The builder
+will pay attention to that and the builder will choose the appropriate kinds of database
+characteristics in the different blockchains that will be necessary. The other consideration
+is sort of geopolitical where the world is going to move on chain in the same way that
+the world moved online in the 90s and the aughts. And so we're going to see nation states and
+companies and business sectors, gaming ecosystems, either establish their own layer ones if they
+don't need a ton of security or if they're willing to pay a lot for expensive security or building
+on Ethereum, building a layer two on Ethereum layer one or building a layer two and layer
+threes and layer fours. So if Canada wanted to set up a bunch of financial and governance,
+civil infrastructure on blockchain, which is a smart and transparent thing to do, even voting
+perhaps, then it would probably be best to set up a layer two to give all its provinces different
+layer three as provinces can give layer fours to some of the subdivisions. So I think the future
+of on chain online of decentralized protocols will be that there are geopolitical constructs
+that we see with different kinds of networks and functional constructs where different kinds of
+networks provide different capabilities. There's also just community stuff. So base is a bit of a
+religion. Linea is a bit of a religion. Arbitrum is a bit of a religion. These are tribal things,
+Ethereum, Bitcoin, et cetera, very tribal also. And so there will be that sort of social inertia
+that probably maintains some divisions. Okay. So definitely a multi-tank future with a lot of...
+But it's also, I think from the end user's perspective, it's just going to be applications
+and we're gluing all this stuff together as we speak so that it works,
+feels more homogeneous and works fluidly. So that's been a big problem for Ethereum usability
+in the past and it's definitely become better, but still not fully fixed, I'd say. The layer one,
+layer two interpretability. What's missing? What's going to happen going forward that
+will make that feel more seamless? So we did this divergent phase where we had lots of
+builders and researchers figure out how to scale a horizontal and vertically. That's gone well.
+It introduced fragmentation. We knew it would. So the next phase is what we're in right now,
+which is convergence, which is sewing everything together in interesting ways with the
+intense base architecture, with AI, working across different networks, with solver networks,
+and just taking intents and figuring out where to get the activity done on different networks.
+SDKs will enable builders to just put different kinds of activity on different chains and just
+fast communication channels being worked on across is a project that's driving a lot of that activity.
+It's happening. It will accelerate. Another direction for the Ethereum ecosystem is to
+really beef up layer one. And so that's happening in terms of increasing gas limits. It's happening
+in about being worked on now, but probably launched a year from now. The Glamster Dam
+hard fork where we layer one. One of the techniques for doing that is to enable
+zero-knowledge proof pre-compiles. We'll have layer two infrastructure sitting inside layer one.
+We'll still be able to have layer twos, but they'll be able to access
+code inside layer one, which will make things more efficient and bring much greater
+synchronous or near synchronous composability. So do you think that the end state of this is
+a user will just come to an app, they won't know what's happening, whether they're using
+Ethereum or base or linear, and any kind of transfer or communication between the
+Ethereum layer twos and layer one will just happen instantly and the user won't even have to
+worry about that. Is that possible? So the internet's been around for a long time. Web one
+has been around for a long time. Web two has been around for a pretty long time. It all works really
+smoothly. It works really smoothly because lots of technologists have taken unfathomable complexity
+to then build it up in layers and made it all work smoothly. That enables a builder to think
+about, hey, what sort of use case do I offer? How do I get product market fit? How do I make
+it intelligible and satisfying or delightful to the user? And that's all great, except it was
+centralized and it turned incredibly exploitative of the user. Many aspects of big tech have
+effectively done things that are very destructive of the social fabric of the world. So yeah, great
+technology globalized the world, but introduced some real problems. And the thesis is that, hey,
+we want lots of those applications. We want them to be less exploitative. We want them to
+do better things for more people, get people more economic and political agency. So how do we do
+that? We have to build an entirely new information infrastructure for the planet and really a whole
+new way of thinking about trust and governance around the world. Yeah, it's not a small feat,
+for sure. The biggest transformation in recorded human history, I believe. So it's taken a few
+years to get to this point. What we can expect is that pretty soon, a small number of years,
+there are going to be a lot of delightful applications that give people much greater
+agency, personal bank in your pocket that you really, it's based on decentralized protocols,
+but you're self-custodying your own assets. And if you want to lend them out, you can do that.
+And you can do that on decentralized protocols. So that's the kind of example that we should
+expect. We should expect applications built on social graphs that you own, you control,
+you can monetize, you can pay people for adding value to your different social graphs. And so
+all of that is getting fluid. It's going to be less about which blockchain tribe you belong to
+in the early years of blockchain development. And it's going to be about just what applications
+or what decentralized organizations you choose to make use of in your business life, personal,
+social, et cetera. So what role do you see Ethereum having in that future? Like for example,
+do you think that there will be a certain set of applications that will be better suited
+for Ethereum versus others? Or yeah, where does Ethereum fit in this ecosystem?
+Ethereum will have a very big role. It'll have a foundational role. I think layer one Ethereum
+is going to be the digital asset settlement layer for the planet. So big valuable stuff,
+whether it's valuable assets that are minted and issued there, whether it's valuable protocols,
+whether it's nation state or network state, political stuff like treaties and the big heavy
+duty things. It'll be deep infrastructure, layer one, and some of the layer twos will probably be
+deep infrastructure too. If the United States has its own layer two, then it's going to have to be
+a really beefy thing and it'll have lots of subdivisions. And so I kind of think of Ethereum
+as the central clearinghouse of lots of global infrastructure going forward. There will be many
+new quasi-independent networks built, but it's not easy to get security to incentivize lots of
+block builders or validators to run your blockchain infrastructure. And so why not
+pay a little bit to Ethereum because you can inherit all the security guarantees of Ethereum
+layer one by running an appropriately architected layer two. So I think it's going to be an economic
+issue. I think the reason there are lots of layer ones right now is not because they're
+really needed, but it's because somebody had a cool idea that might be a 5% improvement over
+where Ethereum is right now or where it's going. And a VC figured, hey, I can make a lot of money
+on this project and I'm going to fund it and we'll run it for a while and figure out how we exit a
+couple years from now. Okay, so I guess the outcome for those VC chains... I'm not saying
+I dislike VCs. We do a bunch of that work also, but I think that's the main driver for a lot of
+these projects. Yeah, for sure. We see it a lot. I'm sure some of those chains will be successful
+though, right? And somebody could come along with a spectacular idea that's 10, 20, 100x better than
+what Ethereum is going to be anytime soon and that could win giant mind share. I don't think
+it would replace Ethereum because the momentum that Ethereum has is giant and flipping so much
+infrastructure and usage wholesale to something totally new is not the kind of thing that you see
+in the economy normally. Ethereum has a huge first mover advantage as being the first smart
+contract chain. It just got so much builder mind share. It does have that. That's just
+impossible to replicate at this point. Yeah, there will always be Ethereum killers.
+Yeah. The moment Ethereum was born, that was going to happen. All right. I just wanted to ask you
+to wrap up. We've seen, I did it about this, how the narrative for Ethereum has really come back to
+the first days of like the very early days of Ethereum, times at the Miami house, like people
+were talking about the next Bitcoin, the world computer. So I've seen kind of the memes around
+ETH just like really becoming more simple, more kind of focused, which I think is a good thing for
+forgetting just like the broader public to understand what ETH is about. So to you,
+what's your preferred meme for ETH? Is it like digital oil, world computer, next Bitcoin?
+How would you pitch or how are you pitching ETH to like just like institutional investors or like
+just like everyday people? Yeah. So we pitch Ether and Ethereum differently to different kinds
+of actors depending on what they're interested in. And we can do that legitimately because
+Ethereum is so much, can do so much. I think of Ethereum as civilization scale infrastructure.
+I think of it as a new trust foundation for the planet. I think of it as digital oil or
+Ether's digital oil. I think of Ether as the highest octane trust commodity the world has
+ever seen that powers transactions on this new kind of software, trustware, the Ethereum technology.
+And so it's too big to describe with one metaphor, which is why we use all of them.
+And yet Tom Lee came out with this simple statement a few days ago, which kind of captures it all.
+And is really intelligible by the lay audience. He said Ether is the next Bitcoin. Actually,
+he said Ethereum is the next Bitcoin. It's pretty true in the sense of the impact that it will have
+and the fact that Bitcoin is in its moment of mainstream acceptance because it has
+a very clear use case. And Ether and Ethereum are just getting there. We're about to cross
+the chasm into mainstream culture. Awesome. Okay. I think that's a great place to wrap up,
+Joe. Thank you so much for joining me. This was a pleasure as always. And yeah, great to see
+all the things that you're doing on Ethereum. And amazing to have this conversation just
+a few days before Ethereum's 10th birthday. Have you bought a present yet?
+Maybe I should just buy more Ether. Thanks again.

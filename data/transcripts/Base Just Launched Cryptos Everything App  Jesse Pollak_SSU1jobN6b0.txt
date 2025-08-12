@@ -1,0 +1,417 @@
+Welcome Bankless Nation to Bankless TV. On this episode of Bankless TV, we are covering
+the base ecosystem. That's right. It's base day on Bankless TV. And to kick off base day,
+we are bringing on the creator of base, Jesse Pollock. Jesse, good to have you on.
+Thanks for having me. Excited to be here. Happy base day.
+Happy base day. Yeah. Fridays are base day. And then every other base day, every other
+day is base day as well. I believe that's how that works.
+I think that's right. It is base era. So we like to think every day is base day.
+I thought your guys' naming of your marketing, your announcement day of a new day one was
+pretty clever because it's like, okay, it's actually the next, it's the next thing, but
+it's still day one. It's still day one. It's the next chapter. It really felt natural
+for us because we were unveiling a new brand. We were kind of bringing a new product experience
+that led a lot more people in the world to actually experience base firsthand in a way
+that's understandable to market. But I think with both of those, we felt like it was still
+very early. We haven't solved any of the problems fully yet. We have, I think, a good line of
+sight on how we're going to, but we have so much more work to do. And so that mindset
+of it's still day one, we got a lot more work to do, is really important for the team.
+My understanding of the base app is it is the just consumer front end to the base chain.
+And so blockchains are plumbing. Blockchains are software. They are back end infrastructure.
+But we know that they can be more than just plain dumb asset ledgers. They can do more
+than that. And to me, when I saw the presentation of the base app, I was like, oh, this is,
+this is Coinbase. This is Jesse putting a cosmetic interactive consumer pointing way
+to interact with base. Is that how you think about it?
+I think that's roughly right. Two slight shifts I would say. One is that we think that the
+base app is going to be your front door to everything on chain. So it's not just base
+chain. Base chain is like a component of the infrastructure, but we've really always thought
+about base as being a bridge, not an island. We want to make it possible for everyone to
+come and do whatever they want on chain, whether that's on base chain or somewhere else. And
+so that's the mindset we're going to be bringing towards this.
+And then to your broader point, I think that that's actually exactly right. The thing that
+we've seen over the last two years is that we've really clearly articulated this vision
+of bringing the world on chain, of building a global economy. But really the only people
+who it's resonated with have been builders because they could actually get in the weeds
+and like build on base chain and experience, oh my God, this is such a better developer
+platform for all the things I want to do. And then they could connect that up to this
+idea of the global economy and this new next generation of the internet that we're building.
+But when we talk to our friends and family or the random person on the street, we were
+like, we're building a global economy. And they were like, what are you talking about?
+And we were then like, here's Coinbase wallet and like bases in here. And like, they just
+didn't get it. We did not have a product that matched the vision. And really the way I think
+about the base app is that for the first time, we have a product that matches the vision.
+The base app isn't everything app. You can come in, you can post, you can earn, you can
+chat with your friends, you can explore thousands of apps, you can trade, you can pay, and all
+of it works in this totally seamless, interoperable, connected app that is available to anyone
+in the world. And that I think is the first time where we've really had that consumer
+experience where I could give that to my mom and I have given it out to my mom and my friends
+and people immediately get it. And they're like, oh, this is fucking awesome. And then
+they resonate with this idea of we're building a new global economy. We're building the next
+generation of the internet because they can actually experience themselves firsthand.
+In 2025, it seems to me there's a convergence of a bunch of different companies attempting
+to build out a new social media platform. And I know the base app is an everything app.
+And so it's social plus other things. And we'll talk about other things. But I want to
+focus on the social side for just a moment. We have brewing rumors that Sam Altman and
+OpenAI want to build out a social media application that goes hand in hand with chat
+and you can kind of squint and you can integrate like world ID, his investment with world ID
+into that same whole thing, like making sure a proof of personhood based social media
+application. And then there's been a number of temps of just like, you know, next generation
+social media apps, kind of as an understanding of like Web2 is like kind of cooked. Like my
+Twitter experience is just so broken. The reply guys are terrible. You know, Reddit is, you know,
+indistinguishable from bots, you know, Instagram, Snapchat, these highly social Web2 apps are
+pretty buffered from the penetration of AI. But there's a lot of like Web2 social media
+platforms that don't really seem to be trending in the best direction. And so that downstream of
+that, there's been a lot of investment into building out a new social media app. And now
+Coinbase and base have a social media app. If you look at you go open up the base app, I think that
+would be somebody's like first impression if they didn't know exactly what's behind the scenes
+here. They down there downloading this app and like, oh, this is a social media app. I think
+that's probably a fair, pretty fair, justified first impression. How do you think about that
+in the grand scheme of just like social media broadly? Yeah, well, I think over the last 20
+years, we've seen that there's been so much good that come with social media on the internet,
+right? Like for the first time you've given, you know, hundreds of millions of people a platform
+where they could share their creativity, their thoughts, they could connect with people all
+around the world. But at the same time, while I think that provided a lot of good,
+the realities of the way those social media platforms worked meant that for the most part,
+the creators who are actually bringing their creativity to the internet have kind of gotten
+a raw deal in the economics of all of it. Like if you look at the economics, like creators earn
+less than 5% of the overall earnings of these big platforms. And I think what that's led to is
+basically you have this like bubbling discontent where people are feeling like, oh, there's some
+good stuff here. But also there's something fundamentally broken in how this is working
+for me as a creator, because I'm the one who's bringing my creativity to these platforms. And
+then someone else is profiting off it. And so that bubbling discontent, that's something that I think
+I hear and see in like every first conversation about the base app where people intuitively and
+immediately get it. They understand, oh, the existing system is broken and we need to build
+a new system. And this is the way we think about the base app. It's not just a new social media
+app. It's really the first time where I think we've started to see what a social media app
+and a super app can look like when it is built on open protocols. Base is built on Ethereum,
+and then it's built on XMTP and Farcaster and Zora and Aerodrome and Uniswap. We've basically
+stitched together all of these open protocols that work together because they're built on the
+shared foundation and made it so that when you post in base app, you earn. Because the new
+foundation, this decentralized foundation that we're building on is actually structured in such
+a way that it's built for creators. And it's built for the people who are using the apps that they
+benefit from their creativity. And I think that is this sea change that it's a little bit hard to see
+if you're new to the space because it still looks the same. But it's almost like we've
+swapped out the engine of the plane while we're still flying it. And now we have this new
+foundation that we can build on that's going to unlock a ton of value for creators and I think
+unlock a ton of just opportunity in terms of what we can do from a product experience perspective.
+I think mini apps are a great example of this. One of the things we get from building on this
+open platform is that we have these composable mini apps that just work in the feed and just
+work in messaging. So you can be scrolling the feed and see something cool, tap it,
+and immediately check out. And that whole experience is built by a third party developer
+where they can control their user experience there. Then you can send that to your friend
+in a group chat and they can do the same thing. And so I just think we're just starting to scratch
+the surface on this, but I do think that we've kind of started like a shift that's pretty big
+one to this new way of building. I'm going to share my screen here and show some tweets and
+talk about some of the commentary that has come out of the announcement of the base app. So this
+one is from Nikhil Eith. Just got a special invite to the base app. First impression would be it's
+the everything app, payments, social apps, chats, crypto, you name it, everything is here. I think
+that's kind of highlighting some of the maybe superpowers that I think you've integrated into
+the base app. There's a lot of protocols that are integrated. Like you said, the base chain is
+integrated, built on Ethereum. And eight other EVM chains, including Ethereum and Optimism and
+Arbitrum and Polygon and Avalanche. And so again, we really want to make sure it's not just base
+chain. This is an app that gives you access to everything in the on-chain economy. Solana and
+others coming soon. Certainly. And that's just the chain side of things. There's also like the
+Farcaster client. There's just a bunch of protocols that you've kind of just legoed together to build
+this experience that other social media apps just don't have some of the superpowers you have
+because you've integrated all these protocols, mainly money and tokens and finance and things
+related to blockchains. And I thought this tweet was pretty cool. This is from a content creator
+who makes a bunch of clips on Twitter. And he tweeted out, going viral on your first base app
+post and immediately getting a stream of creator earnings is an absolutely insane onboarding
+experience. And this man is just scrolling down saying like 0.01 ETH, 0.02 ETH receiving from
+people onboarding into the base app. Now, this is- This is really a crazy experience. And this is
+what we're seeing really resonates with creators. And it's not just Jack. Jack made a few viral
+posts and I think he earned a couple thousand dollars. Another woman, Sierra, made a viral
+post yesterday. She earned like $3,000 or maybe it was $8,000. I forget what. But the thing that
+we're seeing is that that experience of even if it's just a few cents, posting something and then
+immediately earning. And it's not like, oh, you have to get X followers. Oh, you have to live in
+Y country. Oh, you have to wait 60 days for a payout. The immediacy of my content is valuable
+and I'm earning for it is really, really profound. And that's something that's when creators come in,
+that it's hooking them. And I think they're almost like feeling this realignment where
+they're feeling this discontent with the existing system. And then they experience this post and earn
+moment. And they're like intuitively grokking it. They're like, oh, I get it. Now I get it.
+And I want to keep posting here. I think one thing that's really important about this is some
+people are going to say, oh, but only some posts are going to go viral and you're going to earn.
+They look at my creator earnings or Brian's creator earnings. Brian earned like $150,000 over the last
+week of posting. I've earned like $30,000 over the last week of posting. And they're like, oh, but
+Jesse and Brian are special. And the truth is that A, of course, you're not going to earn and go
+viral on every post. That's just like social media. There's going to be a small number of posts that
+go viral where you earn the outsized amount of your money. And then of course, people with big
+audiences, I have 300,000 followers. Brian has, you know, however many million followers, they're
+going to earn more. That's because they have more distribution. And so that means it's easier for
+them to go viral. And so I think that, you know, people are looking for a reason why this isn't
+going to work. And I actually think if you start to put the hat on of like, holy crap, look at how
+well it's working right now when there's like so few people using this. And then extrapolate that
+to like 100 million people or a billion people in the network, all interacting with surface areas
+where it's all interconnected with this value layer. I think there's just so much opportunity.
+We haven't really seen it get started. So we as a society have seen social media apps,
+enough social media apps come where we kind of understand a little bit of the science about how
+they grow. And there's like that rule of thumb out there that like the people that are big on Twitter
+aren't necessarily big on Instagram. And yes, you can like port your audience. So like a big
+Instagram earner can come to the base app, sign up and then get onboarded with a little bit of
+just like a bump just because they're already they already have influence in one domain.
+But really the big people on Twitter grew with Twitter and they invested in Twitter specifically
+and they learned to make their tweets resonate with the form factor. And so, you know, there's
+one there's one strategy for growing the base app, which is like, let's get some of the biggest
+influencers and get them on the base app. But also there's going to be the organic strategy of,
+well, this is a net new consumer behavior. There's going to be net new, you know,
+people that are successful on the social media side of the base app that learn to
+build content that resonates with the form factor of the base app.
+Talk about the strategy of growing that cohort of people.
+Yeah, 100%. And of course, we're going to go get existing creators with scaled audiences.
+We're already seeing that, you know, like people are coming, coming over Gary Vee,
+for instance. He's like so fired up about the base app. He's coming over, he's earning,
+he's making money, he's getting involved in that. But I do think that you're actually
+spot on that the biggest opportunity is for new creators. It's the people who have
+creativity inside of them and have been looking for where to express it. And the opportunity for
+them with base is to get in early and to start building an audience from the ground floor with
+us. Because right now there's only a few thousand people in the base app and we build on Farcaster.
+So there's probably, you know, another few 10,000 people kind of in the network overall who are
+using it daily. But if you come in right now and you start posting, you start building an audience,
+you have the opportunity to grow with us. And so I don't think you should be coming into the
+base app and being like, oh, immediately I'm just going to have massive distribution.
+Instead, you should be coming to the base app and saying, I'm early. And if I am good and early,
+there is outsized potential for me to earn in this new network that's being built right here.
+And the thing that we're looking for, so if you're out there and you're a creator,
+the thing that I'll say to you is we are going across every single content vertical,
+particularly video content, fitness, food, makeup, small business, like any content vertical,
+you name it. And we're trying to find the up and coming creators who don't have a big audience on
+the existing platforms. And then we're going to do everything we can to make you successful,
+make them successful. Because those are the people who are going to help build this next
+generation of the internet. And so if that's you, if you have a content type that you're really into,
+but you don't have a big audience or you're not earning right now on existing social platforms,
+come to the base app and we're going to help you earn. We're going to help you grow.
+You're going to grow with us. And then you're going to benefit from this collective force
+that's coming into this new economy that we're building. And the really, really important thing
+about this is that you can be anywhere, anywhere, anywhere in the world. You can download the base
+app, you can get started and you can get started earning. And that means that the opportunity is
+basically open for everyone in the world. And it's a level playing field for everyone in the world
+because you're starting at the ground floor. It doesn't matter where you're born. It doesn't
+matter where you live. It doesn't matter what phone you have. You can get started. You can get
+started earning and you can help us build this future. Ever wonder how industry leading companies
+like Coinbase, Metamask and Phantom Wallet build products that always stay ahead of market shifts
+and new token listings. It's because they all use the CoinGecko API, the most reliable and
+comprehensive crypto data API backed by a rock solid 99.9% uptime SLA. Builders, analysts and
+businesses rely on CoinGecko for real time data on 9 million cryptocurrencies across 1,500 exchanges
+and 200 different networks. It goes beyond crypto prices to access liquidity, OHLCV, Dex data,
+metadata, NFT floor prices, and more. Enabling your team to build and scale powerful products
+like wallets, oracles, exchanges, AI agents, and DeFi applications without limitations.
+Onboarding is easy with clear documentation and enterprise-grade support that answers you
+faster than finality. 24-7 around the clock. Supercharge your product and build with CoinGecko
+API today. Head to gcko.io slash bankless10 and enter code bankless10 for 10% off any plan.
+CoinGecko API, crypto's most trusted and reliable data source. Ethereum's Layer 2 universe is
+exploding with choices. But if you're looking for the best place to park and move your tokens,
+make your next stop Unichain. First, liquidity. Unichain hosts the most liquid Uniswap V4
+deployment on any Layer 2, giving you deeper pools for flagship pairs like ETHUSDC. More
+liquidity means better prices, less slippage, and smoother swaps. Exactly what traders crave.
+The numbers back it up. Unichain leads all Layer 2s in total value locked for Uniswap V4. And it's
+not just deep. It's fast and fully transparent, purpose-built to be the home base for DeFi and
+cross-chain liquidity. When it comes to costs, Unichain is a no-brainer. Transaction fees come
+in about 95% cheaper than Ethereum mainnet, slashing the price of creating or accessing
+liquidity. Want to stay in the loop on Unichain? Visit Unichain.org or follow at Unichain on X
+for all the updates. Imagine a world where traditional finance meets the power of
+blockchain seamlessly. That's what Mantle is pioneering with blockchain for banking,
+a revolutionary new category at the intersection of TradFi and Web3. At the heart is UR,
+the world's first money app built fully on-chain. It gives you a Swiss I-Ban account,
+blending fiat currencies like the euro, the Swiss franc, the United States dollar,
+or the renminbi with crypto, all in one place. Enjoy real-world usability and blockchain's trust
+and programmability. Transactions post directly to the blockchain, compatible with TradFi rails,
+and packed with integrated DeFi futures. UR transforms Mantle Network into the ultimate
+platform for on-chain financial services, unifying payments, trading, and assets like
+the MI4, the METH protocol, and Functions FBTC, backed by developer grants, ecosystem
+incentives, and top distribution through the UR app, reward stations, and Bybit launch pool.
+For MNT holders, every economic activity in UR drives value back to you, embodying the entire
+stack and future growth of this super app ecosystem. Follow Mantle on X at Mantle
+underscore official for the latest updates on blockchain for banking. That's x.com slash
+mantle underscore official. I want to kind of explore what the optimized form factor of
+content looks like on the base app because I think Instagram or Snapchat or, you know,
+pick your web two social. It aligns with a certain style of content and that style of content has
+been optimized to go viral on Instagram or, you know, same thing for Twitter. Certain content goes
+viral on Twitter and it wouldn't really necessarily go viral anywhere else. So if we're extending that
+same lesson to the base app, there's going to be a certain form factor of content that is uniquely
+suited to go viral on the base app. And it's going to leverage some of the features of the base app,
+mainly those creator earnings, probably. And so the things that people are going to optimize for,
+the posters, the content creators, creators are going to optimize for are going to be unique to
+the base app. And they're going to learn how to truly optimize their income, optimize their revenue.
+What do you think that looks like? What kind of content do you think you guys
+are emergently optimizing for at the base app because you guys are just hooked into
+chain features such as like creator earnings? Yeah. Well, the first thing I'll say is that I
+do think a lot of people, their head goes to like, how do we do like these economic systems with the
+creator earnings to like do something, you know, kind of crazy fancy there and that's going to be
+the thing. And I'm less convinced that that's actually going to be the thing. Like what we're
+seeing mostly from creators is that once they turn on the monetization, like they just stop
+thinking about it. Like it's not this active choice where they're like, oh, now this is this
+new mechanic. I need to go do it. And it's like consuming my head space. It's like, oh no, now
+it's on and it just works and then money comes in. And I actually think that that's going to fade
+more and more into the background as people just normalize the fact that your content is valuable
+and you earn from it. And so I'm sure there's going to be interesting experiments, but I
+wouldn't suggest that people get overly myopic on like, that's the primary thing to do.
+The things that I think are going to go viral, two things that I think are kind of traditional
+and then one that's novel. The two things that are traditional, like starting to go viral is
+one video content. Like I just think video content like on Instagram and TikTok is going to work.
+And you're going to be speaking to an audience. It's going to be more global. You're going to
+have to figure out how to dial that in. But video content is really, really important. And like I
+said, we're going across every content vertical right now and we're trying to figure out how do
+we get a handful of really good creators in each vertical so that there's actually good content
+for consumers to actually engage with. And so I think that that's the first thing. The second
+thing is crypto Twitter, ship posting, whatever you want to call it, like a little bit high-minded
+text-based posting that can kind of bootstrap off this network that's being built there.
+I think that that's going to work successfully as well. The content format that I'm actually
+most excited about that's totally novel is mini apps. And that's enabled by this kind of open
+platform and enabled by the chain is you can build a mini app and you can distribute that mini app
+through the feed or through messaging and it can go viral. And then that can be an experience that
+someone is one tap away from where they can just get started doing the thing. And some of those
+are little mini games. You can imagine commerce where it's like one tap checkout. You can imagine
+all these other like little mechanics where people are earning and kind of like sharing
+funds with friends. But that kind of ability to turn the post into this canvas that anyone can
+build and that anyone can make a viral hook, I think that that's probably the biggest net new
+form factor that will kind of open up the opportunity for people to build in a new way.
+And so those are the three things that I'm most excited about. It's one video across a bunch of
+non-crypto surfaces and content areas. Two, kind of like traditional crypto Twitter posting and then
+three, mini apps and the viral potential that's baked into those. Make a viral mini app. I just
+vibe coded some mini app that's capturing the zeitgeist, right? There was that one like vibe
+coded find the couple at the Coldplay concert that went pretty viral and it had something like a
+million users and it was this very kind of like stupid little app that people were having a ton
+of fun on. And it was just vibe coded in an afternoon and it went viral. If I build that
+app or some other app that goes viral, do I have access to that same creator rewards monetization
+that like all the other content does? Yeah. Yeah, exactly. Yeah. And we're still trying to figure
+out how to work all these things together, right? Like there's the monetization that's associated
+with the post and the monetization that's associated with the app and then the monetization
+that's associated with the reshares of that post. And so I will say it's still early,
+like it's day one. We're trying to figure it out as we go. But the pieces are all there and now
+it's mostly about kind of like stitching them together in the right form factor.
+So here's just to give an example of this is right now on kind of all posts by default,
+monetization is on. So that means it'll get coined, it'll trade. People can kind of speculate on the
+attention. People can collect it if they want to support you and then you're going to earn fees
+from that. When someone quote posts your quote, monetization is off. And that's like, we don't
+want people to be quote posting and then like kind of stealing the value from other people.
+But I'm actually not convinced that that's the right long-term solution. Someone yesterday said
+when you quote post, you should pair the coin of the quote post with the existing coin.
+Because that means that every time someone buys the quote post, what it actually is doing is
+going out to the open market, buying the previous coin and then locking up in the bonding curve to
+get the quote post. And so you kind of create this daisy chain where the quote post monetization is
+getting fed back into the underlying post monetization. And so this is one of the really,
+really cool things that's opened up from a kind of surface area perspective in terms of how we
+can build by building all this on chain and by turning everything into a coin is that we can
+compose all these coins. Zora is doing this in another way where you create a creator coin
+that's kind of long running. And then each piece of content you post is paired with that creator
+coin. And so that all demand for your content is also demand for your creator coin. We're going
+to be bringing that into the base app as well, starting with letting people import those creator
+coins so you can just use yours and it will be auto paired. And so that kind of mechanism and
+the ability for us to kind of like route all of this value and compose it in new novel ways,
+I'm so excited about the potential there. And I think there's a lot of stigma about coins that
+we're still working through candidly. People are very fearful about them. But when you just look at
+the surface area of what we can do with them, and then you look at the real world experiences that
+people are having with them, like real creators, I think it's pretty incredible. And I'm just so
+excited about the opportunity. Right. It sounds like you are trying to plumb together this network,
+finding, tweaking the right balance of like, you know, we have algorithms and social in web two,
+and now the same algorithm is actually more about like, okay, payouts. What's the right way to
+balance a payout in the right way and orchestrate it? And rather that being the algorithm that goes
+viral, it's the payout mechanism that's really the thing. It's the market. It's a free market.
+The market is the algorithm. What we've basically done is we've taken all this content that we know
+is incredibly valuable because people have built trillion dollar businesses around it,
+multiple trillion dollar businesses around it. And we've brought it on chain into the free market
+where before it was one corporation that was valuing that thing and then monetizing it through
+things like advertising or subscriptions or whatever other monetization method that they
+chose. And we're saying, no, now we're going to let the free market value your content.
+And then we're going to kind of use the free market and all of the kind of like economic
+off flows that come from the free market to reroute that value back to the creators and
+back to the people who are engaging with the content. And we think that that is just a much
+stronger foundation for us to build this next generation of social networks.
+I think the concept of a market-based algorithm, social media algorithm, can nerd snipe a bunch
+of people. And I'm looking forward to seeing that. Yeah. I think that there's a lot of like,
+yeah, there's a lot of cultural stigma and resistance to this. But if you look at the
+truth is what has the best product market fit in crypto? It's coins.
+Yeah, always. And whether those are pump meme coins or those are ICOs, like it's always been
+coins. And that's because it's the most liquid, most composable form factor. That's actually pretty
+easy for people to understand. Like I was, I onboarded my trainer that I work with this morning
+and I was like, yeah, like every post is an asset and people can buy it and you earn from it.
+Your gym trainer, personal trainer, you're like, hey, download the base app and go viral.
+We talked about all this stuff and I was like, yeah, the base app. And I was like, you can post
+and earn and do chat. And he was like, can I get that now? It wasn't me forcing it on him.
+Like for the first time, the messaging actually really resonated. And he just made his first post
+and he earned like, whatever, $10 on it. And now he's going to keep posting fitness content.
+I was like, we need more fitness content. $10 is enough. I do want to give a voice to the skeptics
+for a moment. This is a tweet that's going around from Brooke Lacey who is just giving her honest
+take about what she experienced as a creator. She onboarded the base app and she just basically
+voiced a concern about people flipping coins that she created because she's a content creator.
+And in order for her to get paid, she had to quote, I had to dump on them to get paid. And so
+she's a creator. She minted the coin and she felt like in order to monetize the work,
+she had to dump the coins. I think this is kind of what you're talking about, which there's this
+stigma around tokens and all of this kind of stuff. But I think this is kind of giving a voice to
+some of the people that aren't totally convinced about this model yet, where we are really
+encouraging this consumer behavior that we've never really seen happen on its own before.
+Collecting content inside of social media app is like a novel concept to basically everyone.
+And I think crypto people understand it, but the rest of the world, it seems like we are trying to
+really bootstrap this consumer behavior that we haven't seen before. So what gives you the
+conviction that this is right? Yeah, it's a new consumer behavior and we have a lot more work to
+do, A, to get it in the perfect form factor and then B, to explain it because it is complex.
+But I do want to just respond to this directly, which is she says, and I had to dump on them
+to get paid. And Aniri, who's leading our social team, just jumped in and replied and I replied as
+well. But I want to be really clear to creators, you do not need to dump your coins to get paid.
+And from where I'm sitting, I would not advise that you dump your coins. I think that it's
+short sighted. There's two ways you earn. One is from the attention and the fees that are generated
+whenever someone buys or sells your coin. And that's just a stream of value to you. Anytime
+someone buys a little bit or sells a little bit, you're going to get paid. And then two is that you
+earn 1% when you create that thing. And so, you know, whenever the attention is going up,
+you're going to see more trading activity. And that's going to be this ongoing stream.
+If you look at that and you say, oh, but this post is small, I didn't earn that much. Well,
+not every post goes viral. Some posts are going to go viral. You're going to earn a ton from the
+fees. Some aren't going to go viral and you're going to earn less from it. But the thing to know
+is that if you don't sell, I think you're more likely to go viral in the future because there's
+actually people who are going to want to collect your content. Because if you're selling every
+piece of content, you're saying, I don't believe in this content. Investor relations, you know.
+Yeah, a little bit. But also it's just like, you know, if someone was selling everything that they
+got, I would want to invest in that content or back them either. And so again, I don't think
+this is on her. We have to do a better job explaining all this. But my guidance, and I
+think Iniri said it here is like, don't sell that 1%. It's not worth it. Like keep posting.
+Some of your posts are going to go viral. You're going to earn. Brian Armstrong earned $150,000.
+He sold none. I earned like $30,000. I sold none. Sierra earned like $3,000. She sold none. Like
+people are earning a lot of money just from the fees. And I think that's the sustainable way.
+Whereas a creator, you're monetizing your attention and then you're just holding your ownership
+because it's cool to own your content. And if you just do that, then you can stop worry,
+right? You don't need to be feeling like, oh, am I dumping on my holders? Am I doing something wrong?
+No, you're not. All you're doing is earning from the attention. But you're holding your content just
+like everyone else is. And that's something that you can be proud of because it's awesome to own
+your content and to participate in this new system. Well, Jesse, congratulations on a brand new day
+one. And right now I'm about to bring on Alex from Aerodrome right after you for the second
+episode of Base Day. What should I ask Alex? What are you excited about Aerodrome? How does Aerodrome
+fit into the base app? Or what do you think I should talk to him about? Yeah, I guess two things.
+And one is just building on this conversation. You know, Alex was a skeptic about content coins
+and kind of like how they worked and whether they would be good. And then he's kind of gone
+full circle where he's actually a really big believer now. And so I think it's worth asking
+him, like, what changed? What did he see? What was his experience? I generally find it's always
+good to hear from skeptics who are kind of had their perspective changed just because,
+you know, it's a new perspective. And I'll just say I was a skeptic too. The first time Jacob Horn
+came to me and said, we're going to make everything a coin. I was like, that's crazy, Jacob. We're
+definitely not going to do that. Too many coins. And through a lot of conversations and a lot of
+product building and iteration, I realized, oh, this is actually a way better tool for what we're
+trying to do. So that's the first thing. And then the second thing that I would love you to ask him
+about is kind of how does he see the asset issuance on base evolving, right? You know,
+one of the things I think is going to be really important as we're building this global economy
+is trying to get every asset onto base so they can be traded. And we're seeing this happen with,
+you know, international stable coins and with content coins. And I just would love for folks
+to hear his perspective on like, A, how far we've come in the last two years from where we started,
+and then B, where he thinks that's going. Because Aerodrome really sits at the middle of it. I think
+they're hands on with all of these builders who are starting to bring their assets. And I think
+I have a really good perspective. Jesse, thanks so much for joining me on Bankless TV. Thanks for
+having me. Cheers. In the wild west of DeFi, stability and innovation are everything, which
+is why you should check out Frax Finance, the protocol revolutionizing stable coins, DeFi,
+and Rolex. The core of Frax Finance is Frax USD, which is backed by BlackRock's institutional
+Biddle Fund. Frax designed Frax USD for best-in-class yields across DeFi, T-bills,
+and carry trade returns all in one. Just head to frax.com, then stake it to earn some of the
+best yields in DeFi. Want even more? Bridge your Frax USD over to the FraxTel Layer 2 for the same
+yield plus FraxTel points and explore FraxTel's diverse Layer 2 ecosystem with protocols like
+Curve, Convex, and more. All rewarding early adopters. Frax isn't just a protocol. It's a
+digital nation powered by the FXS token and governed by its global community. Acquire FXS
+through frax.com or your go-to DEX, stake it, and help shape Frax Nation's future. Ready to
+join the forefront of DeFi? Visit frax.com now to start earning with Frax USD and staked Frax USD.
+And for Bankless listeners, you can use frax.com slash r slash bankless when bridging to FraxTel
+for exclusive FraxTel perks and boosted rewards. Binance is the world's number one crypto exchange.
+Over 275 million users already trust their world-class security. Binance makes starting
+crypto as simple as it should be. Whether it's learning about crypto on Binance Academy,
+or browsing hundreds of assets and viewing your newly created portfolio in a clear,
+easy-to-track dashboard, Binance helps you go at your own pace. For hardcore traders,
+Binance Pro opens up industry-leading services for trading professionals with fully bespoke
+trading products along with a suite of white-gloved services for VIP and institutional clients.
+Need support? 24-7 customer service is on hand whenever you need it, and with some of the lowest
+fees and deepest liquidity in the market, it's no surprise why over 275 million users trust Binance
+for everything crypto. Download Binance today and get started in minutes. Binance is not available
+in certain countries, including the United States. Check its terms for more information.

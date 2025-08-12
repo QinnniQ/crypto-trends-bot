@@ -1,0 +1,1602 @@
+Market makers are hedge funds in crypto.
+You know, there is, of course,
+the concept of a franchise business
+and they have sales team,
+but ultimately they're profit driven.
+They're here to make money.
+I'm not saying that they don't care about clients.
+I'm not saying that they don't care
+about their responsibility as a providing markets,
+but they are not regulated like a market maker,
+like a Citadel is in trade side, right?
+Technically, when you look at the paperwork,
+they are pure hedge fund.
+Bankless Nation, I'm here with Brian and Matt
+from CoinWatch.
+Brian, Matt, welcome to the show.
+Thanks for having us, David.
+Thanks to you guys for having us.
+CoinWatch is probably not a name
+that the average listener is familiar with,
+but by the end of the episode,
+we're gonna illuminate exactly what you guys are doing
+because what you guys are doing
+are illuminating a part of the market
+that is very important for informed investors
+to be aware of.
+This has been a topic, market making has been a topic
+with a potentially, or a particularly large limelight
+in the first half of 2025 downstream
+from a bunch of just controversies, debacles, drama,
+as it relates to toxic market making deals
+with liquid tokens that have generated a bunch of hype.
+And so this is definitely a part
+of crypto's overall market structure
+that needs to get repaired, needs to get fixed,
+needs to be a little bit more orderly.
+And something that you guys are announcing today
+is definitely going to help with that.
+Now, I don't wanna get to that part
+of this conversation too fast, too soon.
+I want to slow roll our way there
+to really be able to land the importance
+of what you guys are doing.
+And then we'll get to the exact product release
+that you guys are bringing to the table.
+Before we go there, I want to just educate listeners
+on exactly the part of the market that we are talking about.
+So we'll just quickly do kind of like a one-on-one
+on market making and how deals get inked
+and who is at the table when deals get inked
+and how deals end up looking like the way that they look
+so that when we talk about what you guys are releasing today,
+we can talk about how that's impacted.
+Let's start there.
+Market makers, what do they do?
+Why do we need them?
+How do they operate?
+How do they make money?
+And then why are they so ripe for toxic behavior?
+All of these questions are very big,
+but Matt, I'll throw it to you first
+to try and tackle this pretty big subject all in one.
+Great questions and important to lay out
+the ground foundation for this conversation.
+So market makers, I think there was a lot of,
+I'd say caricature going around in crypto Twitter
+about the bad market maker who's responsible
+for price going down and all of the ills
+of any token really price direction
+is always the fault of the market maker,
+that shadowy entity that operates in the shadows
+and it's a hedge fund, it's an investment firm,
+it's what exactly do they do.
+So at the core of the definition of a market maker
+is really the job of providing bids and offers
+in an older book.
+That's it, that's market making.
+Literally putting a lot of bids,
+ideally as close to the made as possible
+and a lot of offers and with these orders
+being made available in the book,
+now if you or me or our friends wanna trade,
+buy or sell this token, they will meet these orders
+when they try to buy and sell and that is gonna give us
+ideally a better buying price or selling price.
+Without market makers, potentially these orders
+would not be available in the book and as a result,
+we would only be facing what we call natural buyers
+and sellers and guess what?
+Natural buyers and sellers are not there every day.
+Sometimes they only trade on weekends,
+sometimes they only trade when the token is interesting,
+when the token is being talked about,
+but really if you wanna be able to trade whenever
+in Asian and European and American time zone,
+you need to have market makers in the book
+to provide that constant 24-7 liquidity.
+That's at the heart of the job of the market maker.
+So when I'm going on to an exchange
+and I'm buying and selling a token,
+typically the base case is my counterparties
+probably a market maker somewhere
+and usually that works out for both parties
+because me as the buyer or seller,
+I'm usually getting a better deal
+and then the market maker is able to equilibrate,
+is able to arbitrage across different venues
+so that they can also gain a profit by matching an order
+that's on one side like on Coinbase
+with matching an order that is somewhere else,
+Binance or Hyperliquid or on-chain somewhere.
+So usually both parties are pretty happy
+and that's kind of like the happy case, right?
+That's the happy case and also the classic image says
+that while the market maker is putting an offer
+that's typically above mid-price
+and a bid that's below mid-price.
+So if they do this a lot
+and they sell to you slightly above
+and they buy back from Ryan or Brian
+slightly below mid-price and they do that a lot,
+well, they make money, right?
+They sell high, buy low and they do that many,
+many times per day and that makes money
+and then the arbitrage of course that you just mentioned,
+that makes money.
+Everybody should be happy.
+Market makers are making money.
+Client is buying or selling at a better price
+than otherwise and happy days everywhere.
+Imagine if your checking account and DeFi wallet
+finally spoke the same language.
+That's Mantle Banking, an all-in-one fiat and crypto account.
+It lets you save, spend and invest all from one dashboard.
+Swipe for coffee, stake ME3 yield
+or even use virtual cards for payments through Apple Pay.
+So it feels Web 2 simple yet stays Web 3 sovereign.
+For allocators, meet Mantle Index 4, the S&P 500 of crypto.
+A tokenized institutional grade fund
+is seeded with $400 million from the Mantle treasury
+and balanced across Bitcoin, Ether, Sol
+and yield enhanced stables.
+One asset, broad exposure, pure DeFi composability.
+The momentum is real.
+ME faults, FBTC bridges
+and a $2.4 billion community treasury
+are all powering the next phase of on-chain finance.
+Mantle brings real-world access,
+yield and utility to digital assets.
+Ready for the next era of on-chain finance
+that actually belongs in 2025?
+Explore Mantle at mantle.xyz
+or follow mantle underscore official.
+Mantle, bridging TradFi and DeFi so you don't have to.
+Binance is the world's number one crypto exchange.
+Over 275 million users
+already trust their world-class security.
+Binance makes starting crypto as simple as it should be.
+Whether it's learning about crypto on Binance Academy
+or browsing hundreds of assets
+and viewing your newly created portfolio
+in a clear, easy to track dashboard,
+Binance helps you go at your own pace.
+For hardcore traders, Binance Pro
+opens up industry-leading services
+for trading professionals
+with fully bespoke trading products
+along with a suite of white-gloved services
+for VIP and institutional clients.
+Need support?
+24-7 customer service is on hand whenever you need it.
+And with some of the lowest fees
+and deepest liquidity in the market,
+it's no surprise why over 275 million users
+trust Binance for everything crypto.
+Download Binance today and get started in minutes.
+Binance is not available in certain countries,
+including the United States.
+Check its terms for more information.
+Ever wonder how industry-leading companies
+like Coinbase, Metamask and Phantom Wallet build products
+that always stay ahead of market shifts
+and new token listings?
+It's because they all use the CoinGecko API,
+the most reliable and comprehensive crypto data API
+backed by a rock-solid 99.9% uptime SLA.
+Builders, analysts and businesses rely on CoinGecko
+for real-time data on 9 million cryptocurrencies
+across 1,500 exchanges and 200 different networks.
+It goes beyond crypto prices to access liquidity,
+OHLCV, DEX data, metadata, NFT floor prices and more,
+enabling your team to build and scale powerful products
+like wallets, oracles, exchanges, AI agents
+and DeFi applications without limitations.
+Onboarding is easy with clear documentation
+and enterprise-grade support
+that answers you faster than finality.
+24-7, around the clock.
+Supercharge your product
+and build with CoinGecko API today.
+Head to gcko.io slash bankless10
+and enter code bankless10 for 10% off any plan.
+CoinGecko API, crypto's most trusted
+and reliable data source.
+And so why are market making,
+why is market making so ripe for toxic behavior?
+Because like downstream of the first half of this year,
+I think the term, the idea of market making
+has kind of become like a bad word.
+It's like market making,
+oh, you're doing something bad
+is like people's connotation.
+Really? What?
+You can get into that, David,
+because I don't really have that connotation,
+but I just missed like three months in crypto.
+So maybe it happened while I was out.
+You actually skipped this phase of the crypto market
+when you were gone from-
+Yeah, when I left, market making was neutral.
+There were like players like Jump Capital
+who had like, you know, bad reputations,
+but so what happened?
+Maybe people don't know that story like me.
+Maybe to be, to kind of be reductive about it,
+the idea of market making has not completely,
+but has been connotated with toxic behavior,
+market manipulation, extraction, down only charts,
+and pumping prices to have like insider cabal deals
+between founders, market makers, and VCs.
+And so while like there's the idea of market making,
+which is neutral,
+I think specifically market making in crypto
+has been too closely associated with like toxic behavior.
+But isn't this more of a symptom
+of the high FTV, low float types of tokens,
+you know, kind of like the VC type tokens?
+Isn't it more that?
+And market makers are just kind of fulfilling
+the liquidity of maybe a bad deal to begin with,
+or am I missing something?
+I don't know, maybe Matt, Brian,
+you can kind of chime in here
+with your guys' perspectives as to like,
+if how like on target we are here.
+There's a lot to unpack here.
+And first, let me go back to
+why are market makers involved here in the first place?
+And then Brian, please jump in to describe a bit more
+the shadier side of market making.
+So going back to the market maker, right?
+The market maker, you might think, oh great,
+you know, market maker gets to buy cheap and sell high,
+so they make money, so everything's fine.
+Well, actually it's not exactly working like that.
+When you look at the stock that's in the S&P 500
+that trades a ton,
+you have basically 50-50 chance of buying and selling.
+So the market maker will naturally equilibrium himself.
+However, in crypto, that's not really the case.
+As you know, when something's hot, everybody wants to buy.
+When something's going down, everybody wants to sell.
+And so that means that the market maker
+is usually the one left holding the bag, right?
+Imagine being the market maker for Solana
+at launch six or seven years ago,
+and you start making markets,
+literally showing offers at 90 cents,
+then a dollar, then a dollar 10,
+all the way to $200 a year later,
+you've been selling, selling, selling.
+Well, you're gonna be losing a lot of money there, right?
+And so to compensate for that potential loss,
+the market making industry in crypto
+has found this structure
+that now makes probably 90 to 95%
+of the large market making deals,
+which is essentially the following.
+The client, the token, the foundation,
+will extend to the market maker a loan of token, right?
+Here you go, market maker, GSR,
+flow traders, winter mute, you name it, right?
+You receive a loan of token.
+And the loan says, at maturity,
+either you return to me the tokens in full,
+exactly the amount that I lent to you,
+or you return to me a dollar amount.
+That is essentially giving a call option
+to the market maker.
+And from that call option comes value,
+mark to market, as we call it.
+If you were to price that call option
+in a Black Scholes model,
+typically they're worth between half a million dollar
+and many, many millions of dollars.
+And through the option now,
+the market maker has a lot of power for a simple reason.
+If they wanna sell the loan that they received,
+they can do so very safely.
+Because if the price was to keep on rallying,
+so they sell and the price keeps on going up and up and up,
+it's okay because they have a strike.
+They have the call option that protects them.
+And this is where the misbehavior comes from.
+The very large loan means that the market maker
+on day one or day two or day seven
+are one of the only counterparty in the market
+that can sell in size,
+because their drop recipients are, of course,
+very heterogeneous.
+Investors are not liquid.
+Team is not liquid.
+Foundation is usually even not liquid.
+So only the market maker and a bunch of retail have tokens.
+And the call means that they can sell in size
+without any repercussion, without any risk to them.
+And this has given rise to a number of behaviors
+that are not directly related to providing liquidity
+and more so to maximizing their profit.
+And this is where, of course,
+some bad things can increase in size
+and take an absurd proportion.
+And Brian, you can talk about this a little more,
+but about six months ago,
+we started to see a rise in the number of projects
+that were interested in looking at parallel structures
+to not so much provide liquidity,
+but really help them manage the price of their token.
+Yeah, I mean, to provide a little bit more color.
+Ryan, I think your understanding is consistent
+with the way market making used to work this time,
+about a year ago.
+But I would say a lot of projects
+looking at a lot of the 2024 launches,
+seeing sort of the down only price action
+of a lot of these launches,
+started looking for alternatives,
+ways that they could sort of financially engineer price.
+And you're right to spot the connection
+between sort of low flow, high FDV,
+and some of the more toxic behaviors
+that I think David is mentioning,
+because they are related.
+You know, what projects basically started to do,
+in some cases, not all projects,
+is sort of a multi-step process
+that would probably be illegal in TradFi.
+You know, it would be considered market manipulation.
+And so what they would do is,
+first they would make the flow of their token really low.
+There would be misrepresentations about the float,
+of course, because, you know,
+crypto Twitter would be very upset
+if you advertise that your true float is actually 1%.
+So projects would start by sort of
+misrepresenting their float,
+saying that, you know, my float is 20%,
+when in reality, you know, it's closer to 1%.
+Then projects would accumulate cash somehow.
+There's different ways that you can do this.
+You can sell locked tokens to liquid funds,
+you can get a loan,
+or you can partner with a shady market maker
+who has a balance sheet.
+Projects would then use the cash
+to sort of pump the price of their token,
+generating a chart that goes up and to the right,
+with the hope that this entices retail to buy their token.
+Then once the project's token
+has reached a sufficient price,
+the market maker or the project itself
+might start dumping tokens, you know,
+out of their foundation to generate cash.
+Now, if the project is able to sell enough tokens at the top,
+then when the price starts dumping,
+which it inevitably will in, you know,
+one of these structures, and we can talk about why,
+well, they give them ammunition
+to buy back the float of their token.
+What the overall structure allows
+is basically projects to paint a chart.
+Now, during the Gensler era, this was super uncommon.
+You know, no good lawyer would sign off
+on these types of structures.
+But I think during the Trump era,
+because people, for whatever reason,
+perceive that the SEC will be a lot more lax
+in sort of pursuing enforcement cases against projects,
+they're a lot more open
+to some of these shadier structures.
+Does that make sense?
+Yeah, it totally makes sense.
+I guess I have one follow-up,
+which is like, how does this work in non-crypto markets?
+Like the function of a market maker is much different,
+it sounds like, they're not fulfilling this sort of role.
+Like almost how should it work?
+I'll jump in, because I was a market maker myself
+in Shroud 5 for about 10 years.
+The way it works is that the trading volume
+is order of magnitude larger than what you would see
+on Qcoin or Coinbase or BitGit
+when you look at equity market making.
+And so in that case, really,
+the market maker makes money just by having inventory.
+They don't need a call option.
+They're not paid a call option.
+They're usually paid by the exchange
+and have very strong KPIs with the exchange,
+NYSE, NASDAQ, to hit those liquidity metrics.
+You need to be up in the order book 99.99% of the time.
+Your bid offer spread needs to be 0.01% all the time.
+You need to have at least $10,000 up this far away from it.
+And the market maker is gonna make a lot of money
+just trading around that flow,
+because you're gonna get a lot of buy orders
+and a lot of sell orders.
+That's not the case in crypto.
+Of course, people think about hype,
+think about big tokens, BTC and Solana and Ethereum,
+but very quickly you go into the long tail,
+which actually doesn't trade that much.
+When it trades just a few million dollars per day,
+you're gonna be bleeding money market making.
+And that's why market makers have typically required
+an incentive, an extra payment
+in the form of either a call option or retainer deals,
+which are the two main, let's say types of deals
+that we see in crypto market making today.
+Is there regulatory reasons as well, Matt?
+So in addition to making it up on volume,
+let's say making a profitable business,
+because equities are such higher volume,
+is there any regulation that basically prohibits
+market makers from getting into
+this call option type territory?
+That's a very good question.
+Honestly, like for penny stocks, for example,
+certainly you still need a market maker
+and yet you don't trade like Tesla stock
+or anything like that.
+So is there an extra incentive that comes in?
+Is there large retainer payments?
+I don't know because I wasn't trading small cap equities,
+but probably there is extra fees coming to the market maker
+so that they can kind of make themselves whole.
+So you talked about one of the reasons
+why this dynamic exists is because tokens in crypto
+tend to have crazy price action.
+And when a market maker is market making for like
+sole at 50 cents, for example,
+and then sole goes up to $200
+and they were selling sole all on the way up,
+they're missing out on that potential gain.
+Why is that bad?
+Because they shouldn't, if they're delta neutral
+and they're just selling sole on the way up,
+sure, they're missing out on the price appreciation of sole
+as it goes from 50 cents to $200,
+but they're market makers, they're not hedge funds.
+They should be missing out on the price appreciation
+of tokens because they get their revenue
+from arbitraging across exchanges.
+So why is missing out on the price increase
+actually all that bad if their business model
+is more aligned with just volume arbitrage
+across different venues?
+That's a very good question.
+I'm smiling because all these things we hear a lot
+from market makers.
+We're not a hedge fund and we're here at delta neutral
+and we make money on arbitrage.
+These things are not true.
+Each of them.
+Market makers are hedge funds in crypto.
+There is of course a concept of a franchise business
+and they have sales team,
+but ultimately they're profit driven.
+They're here to make money.
+I'm not saying that they don't care about clients.
+I'm not saying that they don't care
+about their responsibility as a providing markets,
+but they are not regulated like a market maker,
+like a Citadel is in trade side.
+Technically, when you look at the paperwork,
+they are pure hedge fund.
+Making money on arbitrage,
+that just is not really available anymore.
+Arbitrage is certainly available at launch
+and a few days post launch
+and we track a lot of launch action for our clients.
+So we're full control looking at price differences.
+Really you have the kimchi premium
+that pretty much happens every single time a bit
+and bit them is gonna go live with the token.
+Apart from that, here and there sporadically,
+a couple of projects maybe in Q4 had like three, four, five,
+10% at most arbitrage between OKX and Bybit
+because of some idiosyncratic reasons that we can get into,
+but these things don't really happen.
+And then the arbitrage is tiny.
+So there's very, very small amount of money to be made
+and the arbitrage band that you see a basis point
+or two basis points is hard to capture
+simply because everything runs in AWS.
+This is not a co-location
+and you can immediately capture the price difference.
+No, there's a lot of risk and settlement risk
+and exchange custodial risk.
+So this is actually fair value.
+You cannot capture that last basis point.
+Market makers make money
+if they are in the option of market making business
+by either trading around the option,
+meaning when the price goes above the strike,
+they start to sell more, delta hedging more.
+And when it goes back down below the strike of the option,
+they buy back whatever they sold.
+If you do that a lot,
+you're gonna make money on that's called gamma trading.
+And, or you make the right trading call
+and you say, actually, this is Solana, this is gonna rip.
+So I'm not gonna delta hedge anything.
+I'm not gonna sell any of the tokens
+that I have to hedge my option.
+I'm gonna let it run.
+And then you don't sell at a dollar,
+you don't sell at two, you don't sell at 50,
+you don't sell at 100.
+You sell it only all the way at the top.
+You made the most amount of money here,
+but you can make money both ways.
+And you can also make money on the way down
+simply by selling everything, by overselling,
+over hedging your delta.
+So then you sell the entirety of your token notional.
+And now you have no more tokens.
+So you have a lot of dollars
+with which you can still market make, bid side.
+You don't show anything on the offer side anymore,
+but bid side, you can still meet your KPIs.
+The token goes back down because get what?
+All of these tokens that have been sold,
+they kind of wait on the token supply,
+especially if you signed a very large deal,
+a very large token notional to your market maker.
+And then they wait for zero and buy back.
+So I'm not saying that this is very common,
+but certainly there is ways to make money on the way up,
+on the way down, and on the way around the option strike.
+And I was an option trader for 10 years,
+so I've done these things at length and professionally.
+So yeah, it's not all arbitrage.
+Market makers would like to you to think
+that they only make money by doing something very useful
+for the community, which is aligning prices.
+That's just not true.
+So I think I have my answer to the question
+that I was asking earlier,
+which is why do market makers have a bad rap right now?
+It is because these charts that are being painted
+through this type of activity,
+because they're not just market making,
+they're actually like playing with options essentially.
+And they're painting these charts that go up quite a lot
+in a very short amount of time.
+Retail buys kind of the top,
+or starts sticking along the top of these charts,
+and then price comes crashing down,
+a lot of retail is left with bag holders,
+and over and over we go again and again and again.
+Feels like a short-termism.
+Is this a summary of why retail investors in crypto
+are just so jaded and pissed off
+at market making type activity?
+Yeah, I think so.
+One thing I wanna disambiguate between though
+is sort of the toxic market manipulation,
+and then the normal job of liquidity provisioning,
+which does in crypto, at least often require
+projects to extend market makers to call option.
+Because these firms, Wintermute, GSR, Flow Traders,
+they're not in the business of manipulating markets.
+Matt, can you maybe explain the positive case
+for why market makers need a call option
+just to do their job?
+Yeah, I think the Solana example is just the right one,
+and it happens more often than not.
+Thankfully, you are the contracted market maker
+for Solana at launch back in 2019,
+and you start the launch, it launches on Binance at 90 cents
+a year and a half later, it's at $200.
+You need a call option to protect you
+because everybody's gonna be buying from you, everybody.
+Unlike Tesla stock where it's buying and selling,
+no, everybody's gonna be buying.
+So you're gonna be selling and selling and selling.
+So imagine being Solana, here you go Amber,
+here is two million Solana tokens for you.
+In one year's time, you gotta give them to me.
+Okay, sure.
+Oh, but I sold them today.
+Oh, and I sold the token tomorrow and the day after that.
+So, and all the way up to $200.
+I showed bid prices, but nobody traded on my bid.
+Everybody took me on my offers.
+So the call option protects you
+in case of this giant runner up.
+And exactly as Brian says,
+it's important to really differentiate
+between the market makers who specialize in painting charts
+and what they call active market making.
+You always have to take this qualifier
+with a pinch of salt because there is no such thing
+as active and passive market making in trade fight.
+It's a thing made up in crypto to really say,
+well, these people are gonna try and manage the price.
+She's not the point of market making.
+And then the very serious established market makers,
+still profit-driven,
+but they're here to provide liquidity.
+The Wintermute, the Amber, the Oros, the Keyrock,
+et cetera, et cetera, names I'm sure
+that you're very familiar with,
+which are never gonna do that simply because,
+I mean, not only it's extremely unethical,
+but also if they get found and dragged into a lawsuit,
+that's it for their business,
+because this is extremely bad for any investor,
+any potential future plans to raise money, to even IPO.
+I mean, this would be a huge black mark for the shop.
+So they wanna make money,
+but while staying on the right side of the law
+or the ethics, that are pretty clear.
+So what I'm hearing is that this call option
+part of market making can be good.
+It can be a very strong component
+of creating a necessary deal
+between a market maker and a token.
+And it's also ripe for,
+it creates the surface area for toxic behavior.
+And so this same deal could be inked
+between a token and a market maker.
+And if the market maker is good,
+then there's positive outcomes
+where spot market token buyers are also happy.
+Or with a different market maker, it could be toxic,
+where the outcome is that spot market token buyers
+are actually very unhappy
+because of the nature of the market maker.
+So there's some trust involved
+with the market maker in question
+to actually be a good actor.
+And I guess you don't really know ahead of time
+when these deals are inked.
+And so there's a gray line here
+between market makers are supposed to be unopinionated.
+They're supposed to just dance around the spot.
+They're not supposed to have opinions
+about whether the market's going to go up or down.
+But because of crypto, because it is what it is,
+there needs to be this extra thing,
+which is the call option,
+that brings on aligned market makers
+to do their job inside of crypto-specific context.
+But then that also does open up the door
+for the barbarians at the gate to get through
+and then also become toxic market makers.
+And we don't really know until after the fact.
+And also it just so happens that toxic market makers
+have quite a lot of optionality
+to extract quite a lot of money.
+And there's this one more component
+that market makers might be able to coordinate
+with a founder or also perhaps with VCs.
+And everyone can be in on it
+and really just everyone is winning
+and retail is just the exclusive loser here.
+I think this is really the narrative that happened
+in the first half of this year.
+I don't know how much insight or clarity you have
+as to how rampant that kind of behavior was
+or even maybe that's actually just a boogeyman story
+that retail loves to tell.
+Maybe you could provide some clarity, Matt.
+Like is the whole like cabal between market makers,
+VCs and founders sitting down at a table
+to negotiate the right deal
+so that they can get paid from like retail buying spot.
+Is that a real thing?
+Is that a real story?
+Or is that mostly a boogeyman?
+Maybe you could tell us some examples
+of what's real and what's fake.
+Sure, so first of all,
+we have some selection bias at CoinWatch
+simply because what we do is really
+about bringing transparency,
+about breaking that dynamic
+that is long established in crypto,
+which is clients lend a giant amount of tokens
+to market makers and market makers for a year
+have complete freedom
+as to how they're gonna use these tokens.
+Our whole mission is to stop that,
+to bring accountability and transparency
+throughout that relationship
+so that market makers are actually held accountable
+with what they do with the tokens.
+That's a little aside.
+So because that's our job,
+protocols are gonna try and do these deals,
+you know, these mercury deals
+to do things that are unethical
+and to let's say accelerate their price chart.
+They don't want a third party professional coming in
+and bringing transparency on the contrary.
+They want as much opacity as possible.
+They don't want anybody to know about it
+except the people around the table.
+So we've never been invited at one of these tables
+and thankfully, because quite frankly,
+I don't know what I would have to do with this information,
+but certainly what we've seen in Q1 and Q2
+as Brian said earlier,
+was a broad repricing of the regulatory risk
+that you take on by exploring,
+let's say more creative structures,
+to put it mildly.
+Ultimately, these structures,
+is really about, as Brian said,
+getting cash today, whatever tomorrow,
+or let's just sell a bunch of tokens in six months.
+Nobody cares because in six months,
+that's many years from now in crypto time, right?
+So let's just get the cash now
+and with the cash we buy tokens and token price goes up
+because circulating supply is small
+so nobody can sell and it's great.
+Are VCs happy about it?
+Well, I mean, sure they can, you know,
+mark to market their position higher,
+but VCs by and large don't really have any liquid tokens
+to sell into that rally.
+What they can do is sell perps,
+but from our experience,
+and of course we work closely with big name VCs,
+but these guys are not really trading perps.
+You know, maybe they have one guy
+doing the liquid fund on the side,
+and this person, they buy a lock token,
+it's probably because they think it's a good discount,
+it's interesting.
+But by and large, VCs are not gonna try and do these things
+because these structures are by design very short-term.
+And the more they get done,
+the more short-term they become.
+You know, before you had six months before the unlock,
+now you have three weeks
+before the perp market catches on and the price crashes.
+So the VCs are like, wait a minute,
+I'm investing in one year, right?
+I don't care about the price now,
+I care about the price in one year,
+so let's not do that.
+Certainly market makers,
+let's call them active market makers
+because they love to give them some of these titles,
+so let's leave them with that.
+Active market makers go around all conferences
+and go and talk to every founder
+and says, look, we did active market making
+on this token price,
+it's the only token that's up in this category, right?
+Don't you want your token price to go up?
+Work with us.
+And so founders really, for them,
+you can kind of see,
+because they don't come from finance,
+they're not market experts,
+but a lot of them see price as a problem
+that you can engineer yourself out of,
+just like a bug on your landing page.
+And so they're like, oh, yeah,
+I'd rather have a higher price.
+I can actually get my price go higher.
+Let's do it.
+And it's really toxic, right?
+And generally in finance, you have two rules.
+The first one is the Wall Street Journal rule.
+If whatever you do,
+you're not comfortable having it on the front page
+of the Wall Street Journal, don't do it.
+And the market is always right.
+So you can do,
+you can get the price in a certain direction
+for a certain amount of time.
+At the end of the day,
+the market will go where it wants to go, full stop.
+And usually, of course, these things are not zero sum, right?
+A lot of people lose a lot of money there.
+So yeah, that's kind of where we are today.
+And in my opinion, this whole change of,
+call it vibe, comes from the fact that people are like,
+oh, we're never gonna get sued,
+so let's just try new things.
+Okay, so in this example,
+VCs can actually get kind of like
+the short end of the stick as well,
+because they're locked up.
+So it actually can just be a coordinated deal between,
+this is in the unhappy case,
+this is in the nefarious case,
+it's not all cases,
+but in the nefarious case,
+it can be a coordinated deal between founding team members,
+people with very large token supplies
+on the team side of things, and the market maker.
+And these two parties can come together,
+create a deal where like,
+they all kind of understand, wink, wink,
+that this token is not gonna be valuable
+in 12 plus months.
+But in the short term,
+they can just do negotiated extraction
+where the team is still vested,
+but the market maker is this imbued entity
+that gets this supply of tokens according to the foundation.
+They can market make with those tokens,
+extract many dollars by controlling the price,
+because when you have so much control of the total float,
+then you get to basically pick what the price is,
+you get to pick the price that spot market buyers buy in at,
+and that money turns into reserves
+that the foundation has, that the market has,
+that these two entities can split
+and then go their happy ways with mansions and Lambos,
+and then VCs actually don't get anything,
+and retail investors also don't get anything.
+Certainly.
+And so this is the unhappy case.
+Ryan, this is what we were talking about,
+the negative connotation that market makers
+have been given in the first half of this year.
+And to be fair, I wanna believe that founders have no,
+they're not thinking, oh, in one year's time,
+it's worth zero, so I'm gonna sell everything.
+I wanna believe that Rushy was actually doing this
+because he thought genuinely it was good for his price.
+I don't know, but I really hope so.
+I kinda wanna give the benefit of the doubt to the guy.
+But certainly the end result is extremely bad,
+because once the shape, once the chart looks like
+one of these now pretty famous lock token deal charts,
+there are quite a few around in Q1 and Q2, that's it.
+Credibility is gone, your ability to close any new
+of these deals is gone.
+Fundraise, let's not even talk about it.
+Your community is gonna be like,
+wait a minute, we were up 150%,
+now we're down 10 on the year.
+Nothing has changed, what exactly happened?
+So it is quite regrettable.
+The good news is that I think the tide is shifting.
+The pendulum is swinging back and people now realize that,
+okay, this is actually extremely short term
+and I'm gonna completely destroy the future of the project
+because yeah, I'm gonna make a few people happy
+for a few weeks, but that's just what I'm getting
+while burning millions of dollars in cash.
+In the Wild West of DeFi,
+stability and innovation are everything,
+which is why you should check out Frax Finance,
+the protocol revolutionizing stable coins, DeFi and Rolex.
+The core of Frax Finance is Frax USD,
+which is backed by BlackRock's Institutional Biddle Fund.
+Frax designed Frax USD for best in class yields
+across DeFi, T-bills and carry trade returns all in one.
+Just head to frax.com, then stake it to earn
+some of the best yields in DeFi.
+Want even more?
+Bridge your Frax USD over to the FraxTel layer two
+for the same yield plus FraxTel points
+and explore FraxTel's diverse layer two ecosystem
+with protocols like Curve, Convex and more,
+all rewarding early adopters.
+Frax isn't just a protocol,
+it's a digital nation powered by the FXS token
+and governed by its global community.
+Acquire FXS through frax.com or your go-to decks,
+stake it and help shape Frax Nation's future.
+Ready to join the forefront of DeFi?
+Visit frax.com now to start earning with Frax USD
+and staked Frax USD.
+And for bankless listeners,
+you can use frax.com slash r slash bankless
+when bridging to FraxTel for exclusive FraxTel perks
+and boosted rewards.
+Ethereum's layer two universe is exploding with choices,
+but if you're looking for the best place to park
+and move your tokens, make your next stop Unichain.
+First, liquidity.
+Unichain hosts the most liquid Uniswap V4 deployment
+on any layer two, giving you deeper pools
+for flagship pairs like ETH USDC.
+More liquidity means better prices,
+less slippage and smoother swaps,
+exactly what traders crave.
+The numbers back it up.
+Unichain leads all layer twos in total value locked
+for Uniswap V4.
+And it's not just deep, it's fast and fully transparent,
+purpose-built to be the home base for DeFi
+and cross-chain liquidity.
+When it comes to costs, Unichain is a no-brainer.
+Transaction fees come in about 95% cheaper
+than Ethereum mainnet, slashing the price
+of creating or accessing liquidity.
+Want to stay in the loop on Unichain?
+Visit Unichain.org or follow at Unichain on X
+for all the updates.
+So you guys have a solution that you guys are bringing
+to this table, into the market,
+which I almost want to get to.
+The last conversation I wanna get to
+before we introduce this product
+is a little bit about who you guys are.
+Brian and Matt and CoinWatch,
+can you illuminate for us
+where your perch is in the market?
+Who are you guys?
+What do you do?
+Why do you have the knowledge that you have?
+What's your vantage point?
+Where would you describe you guys?
+All right, so let's rewind a little bit.
+We're back in 2018.
+So I was 10 years a market maker in traditional finance
+and trading options, so the oil book at Barclays.
+And pretty tired of that.
+And I was looking for something else to do.
+It was 2018.
+And guess what?
+Bitcoin was up a lot.
+And I start to look at it and like,
+well, this is brilliant.
+I wanted to stop trading
+and to do something else with my life.
+And I'm like, okay, I made a bit of money
+so I can take my time and explore
+and maybe do like everybody else, do an MBA
+or just explore this thing that's called crypto.
+There was this company named CoinList in New York also
+who was hiring.
+And I was like, hey guys, I'm this trader guy
+and I'm interested in Bitcoin.
+And how about we just let me interview.
+And so CoinList was super nice.
+And they hired me as a PM.
+I had no idea what a product was.
+All my life I'd been on the trading floor,
+buying and selling.
+The only thing I knew how to do.
+And so Brian, one of the co-founders of CoinList,
+quickly we started to get along.
+We were about 20 in this office.
+And one thing that CoinList was doing really well
+back then was token sales.
+And still today, token sales.
+So Filecoin and Solana and Flow and SellO
+and all these projects will do token sales on CoinList.
+And so I was kind of the trader guy sitting in the corner
+looking for something to do.
+And what was my job exactly?
+And so a few of these token sales projects came to me
+and said, hey, look, we are about to launch an exchange.
+We're being told we need a market making deal.
+Back then it was basically Jump and GSR.
+That was it.
+And so we have a term sheet for a market making deal.
+Do you mind looking at it?
+And so I'm like, okay, sure.
+And so that's what got me started.
+So I negotiated the first Solana market making deal
+and then Flow and then Filecoin and SellO, et cetera.
+The idea back then, the angle was,
+hey, I'm gonna negotiate your market making deal
+and help you get a better option
+because oh my God, what I was seeing in those term sheets
+was just a fall of my chair.
+But in exchange for that,
+you are gonna ask your market makers
+to also provide liquidity to CoinList exchange,
+not just to Binance and Kraken and Coinbase.
+So that was, of course, very,
+that was a lot of value for CoinList
+because liquidity is expensive
+and they were not paying for it.
+And so then I left CoinList and Brian also left CoinList
+and we kind of went our own ways.
+I went to Coinbase and Dapper.
+Brian worked on a number of on-chain protocols
+as an engineer.
+And one day I get hit up by Andreessen
+and Andreessen tells me,
+hey, we heard about what you were doing at CoinList,
+helping projects not get completely fused
+by the market makers.
+Would you mind helping some of our protocols
+who have this problem very much now?
+That's three years later,
+three years after I quit CoinList.
+I'm like, well, yeah, sure, I can do it on the weekend
+because I have a full-time job now.
+And so I start to do it on the weekends
+and WorldCoin was declined that they were talking about.
+And so I start to advise WorldCoin
+and then more and more and more projects came.
+I'm like, okay, I should really stop
+doing whatever I'm doing at Dapper Labs back then.
+And of course, the NFT wave had by then crested
+and I hit up Brian.
+I'm like, Brian, let's build this.
+I can do the advisory,
+but I need to be able to track market makers
+to see what they're doing
+because I can negotiate the best deal in the world,
+have a really good option with really great liquidity.
+If we don't make sure that market makers
+deliver what they promised,
+this time is wasted, right?
+What is the point?
+And so that was the split of responsibility.
+I was advising and Brian was building the product.
+And so that's the genesis story of CoinWatch.
+That's three years ago now.
+Now we're 10 people, about four engineers.
+The rest is your product and operations
+and myself still doing very much the account management.
+And the place of CoinWatch in the market today
+is really we help some of the biggest project
+negotiate better market making deals
+with their market makers.
+Deal that makes sense,
+deal that are appropriately sized
+for the liquidity that they get
+and deals that our clients can get out of
+if something goes wrong.
+You'd be pretty shocked to read term sheets
+where essentially the market maker is like,
+yeah, yeah, yeah, so if we don't do things right,
+well, you're just gonna have to wait a year
+to get back your loan.
+And we still keep the option.
+It's like, what kind of remedy is that?
+It's really quite crazy.
+I still sometimes have a heart attack
+when I read some term sheets that clients sign
+before we get involved.
+So that's the story and the purpose that we felt.
+Negotiating and tracking.
+We've done this for some of the largest projects out there
+from Morpho to Babylon and Eigenlayer
+and I'm just being careful
+because I know some of them are very confidential.
+We, yeah, we worked with-
+Optimism, Aptos, yeah.
+If I may correct the timeline a little bit, Matt,
+the first projects we worked with were like Optimism
+and Aptos and at that point what happened is
+all the other top PCs who I knew through my network
+as a founder basically heard
+that we could provide this service.
+And so we started advising all of their portfolio companies.
+Yeah, that's kind of the genesis of Fortwatch.
+I know the WorldCoin sale was really controversial.
+I mean, ironically, they didn't,
+not the WorldCoin sale rather,
+the WorldCoin token launch.
+Ironically, they didn't really follow
+a standard market maker structure,
+didn't really follow our structure.
+But yeah, Matt was advising them
+in the background here and there.
+And yeah, and then tracking of course was always
+the big piece and tracking was always extremely hard
+for a simple reason.
+Ryan, David, go on Binance right now
+and look at the price of Bitcoin.
+It's a beautiful thing.
+But tell me who's doing what in this order book.
+You don't know.
+Wintermute, GSR, Amber, KeyRog, you have no idea.
+Same for us.
+We had the same access.
+And so because of that, we crafted the deal,
+but the deal was essentially, well, market maker,
+as long as liquidity is good on Bybit,
+we're gonna assume it's you and congratulations.
+But hey, we had no idea.
+It could be Bybit being very liquid
+because Bybit has a lot of users
+or it could be that market maker was working hard
+and vice versa.
+If liquidity was bad, well, was it the fault of GSR
+or flow traders or others?
+Whose fault was it?
+And so we were faced with that wall
+that prevented us from connecting the deal that was made
+to the work provided by the market maker.
+And this is kind of, of course, a segue to the product
+that we are now launching that solves this issue.
+That's a long-standing issue and that we're so happy
+that we finally managed to bring to market.
+Yeah.
+Yeah, we'll pause here for dramatic effect.
+Talk to us about the products that you guys are releasing.
+I'll prime the listener with the phrase,
+sunlight is the best disinfectant.
+I think the thing that you guys are really doing
+is you're bringing sunlight into a part of the market
+that the market has never had before.
+Investors who want to be informed
+just haven't had the information available to them,
+the tools available to them to really see what's going on
+and peer behind the curtain.
+So what is the sunlight?
+What's the mechanism that you guys are bringing to the table
+that is becoming a tool in the tool belt
+for informed investors to be more informed?
+I'll let the architect of the product take over
+because it's all his build.
+The high-level pitch for the product is basically
+that CoinWatch Track, which is what those things call them,
+allows projects to see what their market makers are doing
+in real time, 100% verified using market maker API keys.
+So this enables projects to basically
+hold their market makers accountable
+and ensure they get what they paid for.
+How are they getting transparency before?
+Was it completely trust-based as you hand over the tokens
+and then you kind of vibe the volume on Binance
+or Bybit exactly what Matt was just saying
+and hope that it kind of checks out
+and if it checks out close enough, then you're happy.
+And if it doesn't check out not nearly close enough,
+then you, I don't know what you would do.
+But how would they verify that the market makers
+is actually following through on their obligations
+prior to this product?
+Yeah, there wasn't a really good way.
+Often the obligations would be defined
+in terms of the aggregate sort of depth
+in the order book, for example.
+So you can see there's a million dollars
+in the order book on Binance,
+but there was really no good way to know
+how much of that is the market maker, right?
+Is 900K of that the market maker
+in which case they're doing an incredible job
+or maybe it's only 25K and the market maker
+actually sold all their tokens at launch
+and now they're super short, right?
+You just don't know.
+You don't know, you don't know.
+And these are the things going through founder's head
+and especially when price starts going down,
+they get really paranoid, et cetera, et cetera.
+There was kind of a bit of a historical solution to this,
+but it was a pretty bad solution,
+which was market makers would self-report
+their trading data, their trade,
+high level statistics on their trading information.
+You know, this would be things like daily depth,
+daily average spread and daily average volume.
+But this sucks, right?
+The information is totally unverified.
+So it's almost like having a student grade their own exam.
+It's only reported once a day.
+It's not real time.
+So it's not very useful.
+You know, if you're a founder,
+you wanna be able to see,
+oh, my token price is going down.
+What is my market maker doing right this second?
+And often these reports would come in a non-standard format
+making it really difficult
+to compare your different market makers.
+So, you know, that's some of the problem
+we're trying to solve with this new technology.
+Brian, is this just for founders
+or is this also for like retail investors as well?
+Because that transparency as an investor
+in one of these tokens
+like would also be incredibly valuable to me.
+Yeah, yeah.
+It's something we're exploring, right?
+So the information that we're starting to expose
+to projects and founders is very sensitive, right?
+So at least to start,
+we need to slow roll this, right?
+I don't know how market makers would feel
+about revealing this type of information to VCs
+or to the general public,
+but it seems like the kind of thing
+that is potentially worth doing in the long run.
+Does that make sense?
+We're basically asking market makers
+to change quite a lot about the transparency
+that they offer to projects.
+And so we don't wanna freak them out
+by asking them right off the bat,
+oh, you should expose this to a project's VCs
+or oh, you should expose this to the general public.
+We'll see how that goes.
+I don't wanna over promise,
+but I mean, certainly it's technically possible.
+Let's talk about, illuminate for us a little bit more
+about what this project actually is.
+CoinWatch Track is the name.
+What does it do?
+How does it work?
+Where to begin?
+So like I said, it allows projects to see
+exactly what their market makers are doing
+in real time using market maker API keys.
+Getting market maker API keys has always kind of been
+the holy grail of market maker tracking.
+Because if you have market maker API keys,
+you can see exactly what market makers are doing
+in real time across all the exchanges, et cetera, et cetera.
+But there's always been a problem,
+which is that market makers don't wanna give
+their API keys out to any third party.
+Because it's kind of like showing your cards, right?
+It's like if you're at the poker table
+and it's like, okay, please show me your cards.
+It doesn't exactly work.
+Yeah, if a malicious third party
+got a hold of the market maker's API keys,
+they'd be able to pull down the market maker's trades,
+the market maker's open orders,
+and use that information to trade against the market maker
+and cause them to lose a lot of money.
+So we've kind of been in this dilemma
+for a long time in crypto,
+where basically the best way to verify market maker activity
+is to get their API keys,
+but market makers have really good reasons
+for not wanting to give out their API keys.
+Does that make sense?
+Totally, but then it begs the question,
+why are they giving you their API keys?
+What did you guys do that changes the game here?
+Right, right.
+And the truth is they're not actually
+giving us their API keys.
+What they're going to do is they give their API keys
+to a trusted execution environment.
+And so the way this works is basically market makers
+put their API key into a trusted execution environment.
+The trusted execution environment, or T,
+is able to query exchanges,
+pull down the information necessary
+for computing statistics
+that will ultimately go to the project.
+So these statistics are things like market maker depth,
+market maker spread, and market maker trading volume.
+In order to compute these statistics,
+the T needs to be able to pull down
+the market maker's trades, the market maker's open orders,
+all of this very sensitive information.
+But this information never leaves
+the trusted execution environment.
+The only thing that's returned to projects
+is the depth, the spread, the volume,
+and a few other statistics.
+So what ends up happening is projects are able
+to get the information that they need
+to verify whether market makers are doing their job
+while preserving market maker's privacy and security.
+Does that make sense?
+Totally, yeah.
+So TEEs are kind of like a ZK cryptography shortcut.
+They aren't exactly ZK cryptography,
+but they give a lot of the same properties
+that ZK cryptography do.
+And so just like you said, Brian,
+it can show the output of something
+without actually showing the work of how it got there.
+And because it's inside of a TEE,
+you can verify that the specific code
+was ran in the correct way.
+And so there's a little bit of a black box,
+but you are okay with the contents of the black box
+because you can verify the code that's running.
+And then you can consume the outputs of said black box,
+which is like Brian said, the information that you need,
+which still allows the market maker
+to kind of like keep their cards hidden.
+But why would a market maker actually sign on
+to do this in the first place?
+What's the carrot for them?
+Why?
+Because it sounds like extra work
+so far without too much incentive.
+So what's the incentive?
+That's a really great question.
+And it comes from three things.
+And you need those three things together
+to be able to ship TEE.
+The first thing is you need the technical know-how
+to actually build it, code it.
+And here, props to Brian and our excellent engineering team
+who kind of built it in three weeks.
+Crazy, but true.
+The second one is clients.
+Because if we go out of the blue to GSR
+and to Amber and Oros and others and say,
+hey, API keys, TE, they're gonna be like, dude, what?
+Again, like you're already pressuring our margins,
+negotiating all these deals.
+Come on, no.
+So you need a critical mass of clients
+to go to the market maker and say, we want this,
+this is real.
+And if you don't do this, then bad things will happen.
+We'll terminate the deal.
+We'll just put our relationship to somewhere
+where it will be more transparent.
+And so this speaks to the work we've been doing
+for the last three years,
+working with the top projects out there who trust us,
+who use us to track their market makers
+and who kind of rely on CoinWatch to see the truth.
+And when we provided this temporary idea to them and,
+hey, guys, would you be okay to help us push this idea?
+They were all like, yeah, sure, count us in.
+We want this to happen, so let's try and get it done.
+That's number two.
+And number three, we also need great relationship
+with the market makers.
+Because market makers, yes,
+they will probably all tell you
+that CoinWatch is an annoyance.
+CoinWatch has cost them a lot of money in the past
+because we have broad deals to a much fairer value
+and we track them and we keep them accountable.
+So we're not necessarily-
+You guys are the cops.
+You guys are market cops.
+We are, very much.
+And so they don't love us,
+but also they know that we're fair.
+Myself being a market maker for so long,
+I understand the P&L pressure and the balance
+that you need to strike as a market maker.
+And so in terms of the product specs,
+we could not design the product just by kind of,
+no, we need to know exactly what kind of depth is sensitive.
+10 bips might be too sensitive.
+50 bips sounds okay, right?
+And really, feature by feature,
+looking at the pros and cons and the trade-offs
+of having the data and potentially angering market makers
+and having less market makers onboarding
+and not getting the data and having more people,
+et cetera, et cetera.
+So really coming up with the spec that makes sense
+to meet the target which you just described, David,
+which is getting the data that we need.
+But the set that we don't need,
+we're not gonna look at it and it's okay.
+And that's gonna allow us to ship it.
+So about two months ago, T went live for Babylon,
+who pushed extremely hard to get it
+for their token launch.
+Five market makers were onboarded.
+This is public, Babylon has five market makers signed
+and it was published by Binance on the day of launch.
+Today, two months later,
+we have 13 market makers onboarded
+and more in the wait list.
+And that's what's amazing, David.
+You were asking, why would market makers do this?
+Well, now market makers see this as a way
+to actually get deal flow
+because they know that through CoinWatch,
+a lot of deals are gonna come, number one.
+And number two, if they can tell prospect clients of theirs,
+we are onboarded to this platform.
+So you should trust us when we say that we mean it,
+when we say we do the right thing, we're transparent,
+we're the good guys, we are on this platform.
+It's not just in a PowerPoint, it's not just pretending.
+We are so confident about the way we do things
+and the way we trade and our value
+as an ethical partner of projects
+that we onboarded to this platform.
+And so we're super happy to see that, yes,
+some market makers are waiting for a spot, right,
+for us to just crank enough engineering,
+you know, man hours to onboard more market makers.
+And now it's really becoming a badge of honor
+for market makers and hopefully these market makers
+will not only get more deal flow as a result.
+And what other market makers love
+is that now they can be compared to the big guys.
+The work matters.
+How much equity do you stream?
+How much trading volume do you generate?
+Right, it's not about the marketing,
+it's not about how many hackathons you sponsored
+or the event or the dinners that you paid
+at the last conference.
+It's about the work that you provide.
+And our technology displays that trustlessly,
+establishes a standard for the entire industry.
+And we're very excited to see that many, many, many
+market makers wanna be a part of this story.
+You know, there's been a recent push for efforts like this
+in the crypto markets recently,
+just because I think a lot of liquid investors
+are just kind of fed up with the state of affairs
+as it is in the liquid markets.
+I know Felipe Montenegre from Thea Capital
+and also Blockworks have really been pushing
+their token transparency report,
+which is called like another tool
+in the informed investors tool belt
+to be able to be an uninformed investor.
+One of the criteria in the token transparency report
+that if you are a token and you want to be reported on
+by the Blockworks token transparency report,
+one of them is you have to actually
+report your market making deals.
+And then you'll get a grade as to how transparent
+your market making deal is.
+It'll be very nice as an informed investor
+to be able to go to the Blockworks token transparency report
+and look at that market making deal
+and then go to the CoinWatch track product
+and see if the token is one of the tokens
+that is being traded on by the market makers
+on the CoinWatch track product.
+And so if I'm a liquid hedge fund,
+which crypto is missing a lot of liquid investors,
+by the way, because there's just been
+this toxic equilibrium that we haven't really been able
+to inform liquid funds about exactly the deals
+that are going on behind the scenes.
+If I'm a liquid fund, all of a sudden,
+I'm seeing all the tools that are at my disposal,
+CoinWatch track being one of the big ones.
+And I just feel much more confident
+in deploying liquid funds into places that I can see,
+in places that I have sunlight shining on
+that make me an informed investor.
+And so perhaps we can zoom forward
+into one, two, three years after this product really matures
+and it becomes more closer to industry standard,
+the tokens and the market makers
+that are on CoinWatch track simply have more volume.
+They have this, like you said, Matt,
+a badge of honor of trust and credibility
+because hopefully the product is working as intended.
+It's aligning incentives between retail investors in spot,
+founders and market makers.
+And we are in a self-regulated, healthier equilibrium
+because we've been able to use pretty cool technology,
+TEEs, to shine lights on parts of the market
+that we haven't shown light on before.
+And so the ultimate bulk case for crypto is
+we can fix this bad equilibrium that we've put ourselves in
+because we were just kind of so offshore
+and so unregulated as an industry
+that we can't really provide investor confidence
+to more capital to come into the industry.
+So the bulk case for this product is
+we actually open up the TAM for liquid funds to come in
+and deploy more capital and have a tide
+that raises all ships.
+That's kind of my bulk case here.
+I love to hear it.
+Obviously you are preaching to the choir.
+I think at the very least,
+you know, kind of focusing the nose very close
+to the road at Cone Watch as you can imagine.
+But one thing that I absolutely love to see with this product
+and I've been advising deals for many years, right?
+Probably north of a hundred deals by now
+from the first Solana one to the latest,
+you know, whether that's Babylon or yeah.
+Anyway, just a lot of launches.
+Having this transparency,
+you do not realize how much the pressure cooker
+that is a launch just goes down, right?
+Because now there is stress of,
+oh, I'm sure my market makers sold it.
+Actually, no, look, the tokens are in the order book.
+I can show you real time
+how many offers are in the book right now.
+Why your market makers is 75% of buy bit today at your launch.
+You can thank them.
+Without them buy bit would be 75% smaller.
+That's insane.
+Your market makers actually working really hard here.
+Hey, look at the trading volume they did today.
+That's not them reporting.
+Oh yeah, we did a really good job.
+I'm gonna shake my own hand.
+No, no, no, no, no.
+We have the exact data down to the trading pair
+to every exchange of what each market maker did.
+So go and say thank you
+because they actually did a terrific job.
+But you know what, there is so much mistrust
+and so much kind of bad blood
+in these protocol market maker relationship
+that by definition,
+whatever comes from the market makers
+has to be looked at with a very suspicious eye.
+This is no longer the case.
+Thanks to this product, it makes our life easier,
+but also just in general,
+the industry market maker protocol,
+just the trust can be rebuilt
+because there is data that you can trust to rely on
+and base business decision
+and yeah, your relationship on really.
+I know retail investors, crypto Twitter,
+they really tend to, when they hear one bad story, right?
+Like the movement story
+was really the bogeyman of the cycle.
+And maybe it was as bad as people interpreted it to be.
+And then like what the typical
+like crypto Twitter retail reaction is,
+is to extrapolate that so far
+to like blanket over the whole rest of the market
+and include otherwise good products in with the bad
+because they just don't know.
+They just don't have the information to say
+that that's actually not the case.
+And so one of the happy outcomes that I'm hoping for here
+is we can actually differentiate
+between the projects, the bogeymans
+and actually the true noble products
+that have done everything correctly,
+everything by the books,
+but they don't have the tools to differentiate
+for themselves from the truly like insipidists
+like cabal negotiating tables
+that come at the cost of retail investors.
+100%.
+I think just one thing I wanna mention
+is that we wanna make this technology available
+to any crypto project, right?
+Not just crypto projects who use CoinWatch
+to negotiate their market-making deal.
+So if you negotiate it on your own, totally fine.
+If you use another advisor, totally fine
+as long as the advisor agrees not to like knock off
+our product or something like that.
+We think that every crypto project should have the ability
+to see what their market makers are doing.
+It's just so important for the industry broadly.
+And so we want everyone to use this.
+We want it to be a market standard.
+What can people go do right now?
+You guys mentioned that you already have
+something like 13 market makers who have signed up.
+Are there token projects that have signed up?
+And then if there are interested market makers
+or interested founders or projects
+that want to get in touch with you guys
+to get on board here, what should they go do?
+CoinWatch.co, our landing page,
+there is a link there to submit a form to onboard
+to get a demo, et cetera.
+Twitter account is at coinwatch.co, D-O-T-C-O.
+And market makers should not hesitate to use the same
+channels to reach out to us if we have not spoken
+with you yet and onboarded you yet.
+We'll do our best for a small team again,
+but yeah, we'll do our very best to onboard
+as many market makers as possible.
+Matt, Brian, I think what you guys are doing there
+is very noble and I hope the best for you
+because I think what's best for you
+is also best for my bags as an owner of tokens
+in this market, so I appreciate what you guys are doing.
+Thanks a lot.
+Thanks, David.
+For giving us the chance to describe
+what we've been working on and tell our story.
+Bankless Ancient, you guys know the deal,
+crypto is risky, hopefully a little bit less risky
+every single day as products like this come into the market,
+but nonetheless, you can lose what you put in.
+We're on the frontier, it's not for everyone,
+but we are glad you are with us on the Bankless Journey.
+Thanks a lot.

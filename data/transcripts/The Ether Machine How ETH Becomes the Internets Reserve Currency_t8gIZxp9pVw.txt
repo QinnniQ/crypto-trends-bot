@@ -1,0 +1,582 @@
+What is ether? Ether is the commodity to the future of the internet. Ether is the fuel for
+every computational step necessary to process a transaction on the future of the internet.
+Bankless Nation, very excited to introduce you to our next guest. We have Andrew Keyes,
+we have Dave Marin of the Ether Machine. How are you guys doing?
+We're great. Thanks for having us on. Thanks.
+In the business of the combined entity after completion of the proposed business combination,
+Dynamics and Ether Machine are under no obligation and expressly disclaim any obligation to update,
+alter, or otherwise revise any forward-looking statements, whether as a result of new information,
+future events, or otherwise, except as required by law. In addition, these remarks are neither
+an offer to purchase nor a solicitation of an offer to sell, subscribe, or buy any securities,
+or the solicitation of any vote. In connection with the proposed business combination, Dynamics
+and Ether Machine intend to file a registration statement on form S4, contain a proxy statement,
+and prospect this with the SEC, which you should read carefully and in its entirety when it becomes
+available, because it will contain important information. Dynamics, Ether Machine, and the
+respective directors and officers may be deemed participants in the solicitation of proxies of
+Dynamics and shareholders in connection with the business combination. More detailed information
+about each company's directors, executive officers, and their interests in the business
+combination will be described in the form S4 when it becomes available.
+What are you guys starting on? How much Ether do you guys have right now?
+So we're anchoring this with 169,984, which is basically the amount of validators divided by 32
+of mine, and we are going from there. Okay.
+Yeah, I think the press release announced the plan to, at current prices, to be more than 400,000
+Ether. More than 400,000 Ether is square one, base one, number one for you guys. Day zero.
+And how do you get there? How do you get from the, did you say 169? Okay. Yeah, 169,000. How do you
+get to 400,000? Is that net new purchasing coming in? So that's a great question, and I think that
+this is a key differentiating point. We've seen others say that they own ex-Ether, but with an
+asterisk, that that's an in-the-money call option, and we are not going to be employing
+in-the-money call options for our exposure. What is an in-the-money call option?
+So basically one buys a call for Ether to, that it's basically above a certain price
+at a certain date, and they basically take the cash amount of that delta, and they consider that
+Ether exposure. But because we believe Ether is a productive asset, and we are going to be generating
+our alpha, actively managing that for public market investors, in-the-money call options leave
+yield on the table. And if you were to consider this like the Ether ETF is like a stock without
+having access to a dividend that one enjoys. And so we could employ call options as proper
+risk management, but the majority of our strategy, like the well-overwhelming, let's call it 99% of
+our strategy is around the active ownership and yield generation of Ethereum.
+So some of these other treasury companies are doing this via call options, and you're saying
+it's going to be like straight purchase of pristine Ether in the Ether machine. But so
+continue that line of thought then. So you've got 170,000 now or so. How do you get to 400,000
+of that clean, pristine ETH that you're putting on your balance sheet?
+So part of our raise has been in-kind contribution, and part of it has been dollars.
+And the in-kind contribution is being contributed right now as we speak. The first part of our
+raise was through a private placement, and capital is due today, Friday, July 25th. And that will
+immediately be staked and be generating Ether. And then the dollars that come through our private
+placement will be used to acquire spot actual Ether, not call options, and to be actively
+risk managed, generating yield through staking, restaking, and eventually through DeFi strategies.
+I had a question about how other treasuries are doing this. And recently, it was very interesting
+to me, Tom Lee's outfit. I'm going to forget all the acronyms. David helped me out. BNMR,
+is that the one? BNMR, yeah.
+Okay. Yeah. I knew there was a B because it was formerly Bitcoin. Okay. So Tom Lee's outfit,
+they added another, I want to say, was it 200,000 ETH, 300,000 ETH? It's all getting lost. About a
+billion dollars worth of ETH just this week. Okay? They just bumped up. Now they're above
+500,000. We'll show the strategic ETH reserve where everyone can kind of track this for the
+latest. How did they buy or get a billion dollars worth of ETH in one week without the price moving?
+I mean, what were we, David? Up 9% on the week? That's a price move for ants. I mean, like a
+billion in purchases and we only move 9%. I don't understand where that's coming from.
+So I'm not here to talk about other companies. I believe that we're all playing on the same
+team with Team Ethereum. But a way to have exposure to Ethereum without moving the price
+would be call options. But does that count? Does that count on like the strategic reserve
+treasury website? It's a derivative. Will it be ETH in the future?
+Well, then if one were to have a call option, they would earn dollars and then would have
+dollars later to potentially buy Ether, potentially buy more calls. I can't opine for another strategy.
+But one way to have exposure to Ethereum without necessarily having the price move,
+but also not being able to participate in the yield generation or really help the network
+by securing it and validating transactions would be through call options.
+Over to the Fraxstl Layer 2 for the same yield plus Fraxstl points and explore Fraxstl's diverse
+Layer 2 ecosystem with protocols like Curve, Convex, and more. All rewarding early adopters.
+Frax isn't just a protocol. It's a digital nation powered by the FXS token and governed
+by its global community. Acquire FXS through frax.com or your go-to decks, stake it, and
+help shape Frax Nation's future. Ready to join the forefront of DeFi? Visit frax.com now to
+start earning with FraxUSD and staked FraxUSD. And for Bankless listeners, you can use frax.com
+r-bankless when bridging to Fraxstl for exclusive Fraxstl perks and boosted rewards.
+Ethereum's Layer 2 universe is exploding with choices. But if you're looking for the best
+place to park and move your tokens, make your next stop Unichain. First, liquidity. Unichain hosts
+the most liquid Uniswap v4 deployment on any Layer 2, giving you deeper pools for flagship pairs
+like EthUSDC. More liquidity means better prices, less slippage, and smoother swaps. Exactly what
+traders crave. The numbers back it up. Unichain leads all Layer 2s in total value locked for
+Uniswap v4. And it's not just deep. It's fast and fully transparent, purpose-built to be the
+home base for DeFi and cross-chain liquidity. When it comes to costs, Unichain is a no-brainer.
+Transaction fees come in about 95% cheaper than Ethereum mainnet, slashing the price of creating
+or accessing liquidity. Want to stay in the loop on Unichain? Visit unichain.org or follow
+at Unichain on X for all the updates. Ever wonder how industry-leading companies like Coinbase,
+Metamask, and Phantom Wallet build products that always stay ahead of market shifts and new token
+listings? It's because they all use the CoinGecko API, the most reliable and comprehensive crypto
+data API, backed by a rock-solid 99.9% uptime SLA. Builders, analysts, and businesses rely on
+CoinGecko for real-time data on 9 million cryptocurrencies across 1,500 exchanges and
+200 different networks. It goes beyond crypto prices to access liquidity, OHLCV, DEX data,
+metadata, NFT floor prices, and more, enabling your team to build and scale powerful products
+like wallets, oracles, exchanges, AI agents, and DeFi applications without limitations.
+Onboarding is easy with clear documentation and enterprise-grade support that answers you
+faster than finality. 24-7 around the clock. Supercharge your product and build with CoinGecko
+API today. Head to gcko.io slash bankless10 and enter code bankless10 for 10% off any plan.
+CoinGecko API, crypto's most trusted and reliable data source.
+I'm going to talk about the machine word because the machine word in the ether machine seems to be
+doing a lot of work here. My interpretation of this is that your company is building
+what you are calling a machine that just produces more ether, hence the ether machine.
+Talk to us about this name and then tell us how does one build a machine that produces ether?
+Let's pop open the hood and tell me what the components look like and how ether comes out
+the end of it. I think this really dovetails nicely
+with what Andrew was talking about the importance of acquiring pristine ether. To us,
+ether is not just a treasury asset, it's working capital. It's kind of the fuel for our reactor,
+is ethereum itself. We view the ether machine as a machine to produce additional ether.
+This is kind of why we have assembled this diverse team of deep ethereum experts
+to generate the optimal amount of ethereum on our ethereum base or ethereum reserve.
+That's why we have folks like Tim Lowe, who is our CTO, who was the initial founder of
+consensus staking, has been staking since the very inception of proof of stake.
+Folks like Darius Pritzel, who's been deep in D5 for years, being core contributor to blue chip
+protocols, etc. We kind of have this team of deep ethereum experts that's going to be focused
+full-time in-house on generating the optimal amount of ether we can generate off this base,
+obviously in a risk-adjusted fashion. Yeah, make no mistake, we are ether heads and
+we want to see the ethereum protocol grow. To that extent, we want to employ ethereum as much
+as possible. Back to this call option example, we want to be staking ether so we can secure the
+network and be a benevolent part of the ecosystem. We want to restake ether so we can use ethereum's
+proof of stake security for other middlewares. We want to employ DeFi so we can actually be a
+contributor to the decentralized financial economy. But at the same time, with this public vehicle,
+we now have the opportunity to explain to Wall Street and Main Street what ethereum is.
+This is going to be the first time our banking partner is Citibank. It's the largest investment
+bank on earth. Say what you will about investment banks, this is going to be the first time you're
+going to see real sell-side coverage creating reports quarterly. What is ethereum? What is
+staking? What is restaking? What are the DeFi protocols? We're going to use this opportunity
+to educate Wall Street top down and Main Street bottom up about the power of ethereum. As I
+understand it, ether is this unique asset in comparison to bitcoin as it relates to being
+productive. Bitcoin, it's got this great narrative, 21 million units, hard cap, easy to understand. I
+think that's what's propelled microstrategy to its highs. But as a reserve asset specifically,
+employing this same sort of strategy, ether is pretty unique, specifically due to its
+productivity. There's a particular resonance that a productive asset has, a productive
+store of value reserve asset has for this type of strategy where we are accessing the capital
+markets, taking on debt to go and buy a store of value reserve asset to put it on the balance sheet.
+Bitcoin is not productive, it's inert. Ethereum is highly productive. You can use it inside of
+ethereum's DeFi. You can stake it and get a yield. You can restake it and add more yield on your yield.
+I don't know if you guys are doing this, but you can put it into Aave and access stable coins and
+get yield. There's all these variety of opportunities that ether as a productive asset has,
+which lends itself very well to having this sort of core business that you need to have in order
+to pay off the debt that you took on in order to buy more ether. Am I over the target here, Andrew?
+Is this what you guys are going to do? Are you going to put ether into DeFi?
+You nailed it. First and foremost, we need to thank Satoshi for her contribution to the world
+creating Bitcoin. Bitcoin is the opening act. It is awesome. I was asked on CNBC if I own a Bitcoin
+and I said, no, I actually own 0.18, which is a little bit of dust, so I do own some Bitcoin.
+I found that out afterwards. I recall seeing that clip and I recall you saying,
+why would I own a flip phone when I can own a smartphone is what you said, right?
+I'd rather have an iPhone than a landline. Bitcoin is great and it can serve its singular
+use case. On the Bitcoin blockchain, there's one asset, Bitcoin, and it does one thing,
+send. One asset, one send. Ethereum, conversely, is the infinite machine. We can digitize any asset,
+a bar of gold, a barrel of oil, a stock bond derivative, a stablecoin, and then we can have
+infinite functionality. Rather than just send, we can create smart contracts that we can just
+imagine. Basically, any if-then-else statement can be codified on top of Ethereum.
+Furthermore, and to that point where Bitcoin, you need the hardware, real estate, and electricity
+for proof-of-work mining, Ethereum has an exponentially more efficient consensus mechanism
+where all you need is the Ether and to be a benevolent actor that's self-interested
+to earn yield via proof-of-stake. Ether has this intrinsic yield that we can employ through
+staking, restaking, and proof-of-stake. I believe it's a better asset for public market exposure.
+And furthermore to that, so that's like, let's call it the DeFi side of the house.
+And then you talk about the TradFi side of the house. We believe that MicroStrategy did
+create from inception a very interesting concept of what we would consider a positive sum game.
+Bitcoin is a volatile asset, and we can sell the volatility of Bitcoin as MicroStrategy
+to hedge funds that want to buy volatility and use those proceeds to acquire the asset of Bitcoin
+as for the shareholders that want exposure to that asset. And that's why
+I believe there is a multiple TNAB, is the ability to access those public debt markets.
+That, in my opinion, is a positive sum game. The good news is that Ether is double the volatility
+of Bitcoin. So if you liked Bitcoin as a volatile asset, hedge fund X, Y, Z, you're going to love
+Ether. If you liked Bitcoin as a buy and hold treasury asset, you'll probably like this one
+with yield, shareholder. So I think that this is just a better mousetrap when compared to
+the MicroStrategy Bitcoin buy and hold. You talked about the intrinsic yield that
+Ether gets because of how Ethereum works, right? Ethereum, of course, it doesn't have proof of
+work. The way that Ethereum secures itself is with proof of stake, which means if you hold Ether,
+you do a little bit of work for the network, and then you get the Ether inflation that comes out
+of the network to secure it. And then we don't have to have all the costs of the electricity
+and all the baggage that comes with proof of work. It's very, very beautiful, very elegant.
+One of the things that Ethereum has invested in and researched in since its inception in 2015.
+That's not the only place that Ether gets intrinsic utility and intrinsic demand. Something that
+pills many people, like me and Ryan specifically, is Ethereum's own internal DeFi ecosystem,
+where there are applications like Aave, where Ether is the primary pristine asset.
+It is the Bitcoin of its respective ecosystem, right? And so like Aave, it has millions of
+Ether in Aave, and people are accessing using Ether as collateral, as a store of value inside of Aave
+to take on debt in stablecoins or other tokens on Ethereum in order to go be productive.
+And so not only does Ethereum itself produce intrinsic yield because of the nature of how
+Ether works, but Ethereum has its own DeFi ecosystem. It has its own on-chain Wall Street
+that allows Ether to be productive. Are you going to use DeFi to get productivity?
+Tell me about that strategy. Yeah. So I think as I alluded earlier,
+we actually brought on a full-time head of DeFi who has been a core contributor to protocols
+like Synthetix. So OG DeFi, in addition to having an institutional risk management background,
+right? So he used to work in risk at JPMorgan, Fortress, groups like that, right? So it's
+important to us. But I think one important thing to flag is that we are trying to create
+an institutional quality vehicle, which kind of runs through everything we've done from day one.
+And so when you look at this, you'll see us engaging in DeFi, but in a measured way,
+you probably won't see us yoloing our whole stack into the latest protocol that dropped
+over the weekend. What you're going to see is us helping to credentialize the battle-tested
+blue-chip DeFi protocols that have functionally had a deck of billion-dollar bug bounties live
+for years and prove their security over time. I think that's how you're going to see us engage
+here and you will see us engage, right? I think to my knowledge, we're the only company of our
+kind that has a dedicated full-time DeFi team, right? In-house as opposed to outsourcing some
+of this. So for sure you will. Like I said, it'll be measured and they should be able to point to us
+as proof to broader Wall Street that a given protocol is trusted and secure and is safe for
+institutional adoption. And that's what's awesome about this, right? So we're going to,
+I think you referenced Aave. I think Aave is a great example of something we would employ.
+Over $50 billion of TBL, been around for five years, has had this bug bounty. It's not the
+latest, greatest brand new thing that's yoloing 100% APYs. And this is where we're going to,
+when we have our quarterly guidance calls with the public markets, we're going to be educating
+what is DeFi and we're going to explain what is Aave and what is staking and what is restaking.
+So half of this is the ability to explain what Ethereum is institutionally.
+Use that word explain. Dave and I have often sat on bank lists since the very early days,
+the most bullish thing for Ether is to be understood. And this has been part of the
+challenge that we've seen, at least in traditional finance in Wall Street, that I was hopeful would
+get better maybe post Ethereum ETF and it got marginally better, but it still is not there,
+which is you talked about Citi being a banker in this and now we're going to see more sell side
+type research and actual information about Ether the asset. I want you to tell the story, the
+narrative of Ether the asset. So when you try to tell the story of Ether, not just Ethereum,
+I feel like that Ethereum story has been told a lot of times by a lot of people, smart contract
+platform, decentralized, global economy, all of these things. And then people are going, oh,
+I love Ethereum, the technology. And sometimes in TradFi, they forget about Ether the asset,
+or they think it's like an equity type of play. It's a high growth tech stock and they try to
+value it based on revenue it throws off and all of these silly things. So what's your message to
+Wall Street? When you describe Ether the asset itself, what is Ether? Ether is the commodity
+to the future of the internet. Ether has multiple use cases and multiple ways to be valued.
+Ether is the fuel for every computational step necessary to process a transaction
+on the future of the internet. Ether generates yield intrinsically through staking, restaking,
+and participation in the decentralized financial economy. And Ethereum has escape velocity
+where 90% of the high quality liquid assets on blockchains are settled to Ethereum. And each
+one of those requires a micro payment of Ether. EIP-1559 burns Ether on layer one transactions.
+EIP-4844 essentially burns Ether through layer two blob transactions. So we have this burning
+mechanism and the finite conversation versus a dynamic supply in our experience, that is a
+feature and not a bug. And when we employ EIP-1559 for burning at layer one and EIP-4844 for blobs
+that basically burn from layer two to layer one, we are working with a dynamic economy.
+The world is way too sophisticated for something static like a finite supply.
+So what are we dealing with here? Because in TradFi, they like to put things in categories.
+You use the word commodity, which brings to mind things like oil, things even like a gold,
+which has sort of been viewed as a monetary store of value type commodity. And of course,
+Bitcoin has really taken off under the moniker of digital gold. What is Ether the asset,
+if you're to categorize it? Because some in TradFi are still putting it in the,
+oh, it's like Amazon stock or something, or it's like OpenAI stock or something like this.
+It's a digital commodity. It's a CFTC accepted digital commodity.
+Okay. Is it a reserve asset? Is it a store of value? Is it a currency?
+It can be both. I mean, I think it can be all of the above.
+Why should somebody put it on their treasury then? Is the reason because number goes up?
+Is it number go up technology as well? I think if someone wants exposure
+to how the future of the internet is going to work, the best beta on all of that
+is the acquisition of Ether. How close is Wall Street to understanding
+what you just said? What's kind of the Delta? And is that Delta the opportunity?
+We're getting there. We're getting there. Give us four quarters of quarterly reporting
+and education. And I welcome you all to join our quarterly guidance when we are a public company,
+because that is our job. Our job, make no mistake, is to explain this to institutions.
+What is Ethereum? What is Ether? What is staking? What is restaking? What is DeFi?
+What are the blue chip best benevolent actors? What are the best use cases?
+There is no Michael Saylor of Ethereum, because Ethereum and its use cases and its utility
+should be the story. What's the size of this story?
+So like, is this as big as gold? What's the size of the TAM of the internet?
+I don't know. What is the size of the TAM of the internet?
+We've been asked not to make specific price predictions, but I think both of us have published
+extremely bullish price predictions in the past at orders of magnitude above where we are.
+So you guys can't make price predictions. Is that yet? Because Michael Saylor makes
+price predictions, let me tell you. The ETH Digital Oil piece, I helped co-author
+with Tim Lowe and the good gentlemen and ladies at Etherealize, and we've pointed people to that.
+I love the piece that ConsenSys recently released, both Dave and my alma mater,
+on just showing the escape velocity and the gravitational pull of high-quality liquid assets,
+where basically there's something like $250 billion of high-quality liquid assets on
+blockchains, and over 90% of that's going onto Ethereum. And the best analogy I can make is
+90% of searches happen on Google, and Yahoo gets 1%, and Bing gets 1%, and Ask Jeeves gets 1%.
+And I'd ask you guys, when's the last time you've used Bing, Yahoo, or Ask Jeeves versus Google?
+And I think that that is becoming more and more apparent, that Ethereum is the only blockchain
+that is decentralized enough, has enough client differentiation to be a global substrate
+where nation-states, institutions, and people can trustlessly interact with each other.
+Is this a bigger story, a bigger opportunity than Bitcoin?
+For sure. I mean, Bitcoin's TAM, if we want to be generous, is digital gold,
+which is one use case, send, and one asset, Bitcoin. Ethereum can generate any asset
+and can codify any function. So recently BlackRock filed a new S1 for their ETFs in order to make
+staking happen inside of the ETFs. So let's assume, fast forward to the future, let's assume that
+Ether ETFs are all staked ETFs, and so you can get the yield of Ethereum staking inside of the ETF.
+Why in that world do we need the Ether machine then? Because then the ETFs are just doing it.
+Great question. What I would point you to as a proxy are the European ETPs. If there's,
+let's call it a billion euros in a European ETP, they are staking back of the napkin 50%.
+So why aren't they staking at full capacity? And let's say the floor,
+risk-free, just vanilla staking, is 3% yield. So on their billion euros in an ETP,
+they're staking at 50% capacity, and so they're really earning approximately,
+let's just use the example number of 3% yield, they're really only earning 1.5% on the total
+amount of money. And the reason why is that the Ethereum protocol is built for decentralization,
+and the brilliant researchers at the Ethereum Foundation don't really care about, you know,
+what Trad 5 financial wrapper Ethereum can go in. They care about the scalability, robustness,
+and decentralization of Ethereum. And to that point, there is a technological nuance
+that is extremely important to understand. It's called the withdrawal queue. So today,
+if one wanted to withdraw their Ether, it would happen in a few days. If, God forbid,
+a bad black swan event happens on Earth, and the world goes risk-off, and everyone wanted to
+unstake their Ether at the same time, let's call it 50% unstaking, 90% unstaking, that withdrawal
+queue would go from a couple days to six months or a year. ETFs have 24-hour redemption requirements.
+ETPs have 24-hour redemption requirements. So what we foresee, so what we're already seeing,
+let's just call it right now, because we can, the ETFs have zero staking, but the ETPs are
+staking at 50%. And they're only doing, let's call it floor vanilla staking. They're not able
+to restake. They're not able to participate in DeFi. And we don't foresee a world where
+the ETFs are going to be able to exceed a similar yield. And, you know, a devil's advocate would be,
+well, what about a liquid staking token? If you guys have been watching, because we're the Ether
+heads, and we've been, you know, able to understand the TradFi part, but we know Ethereum as well as
+anybody else, the liquid staking token's de-pegged. So you think that BlackRock and Fidelity is going
+to be able to use a liquid staking token that's just de-pegged? Nope. And furthermore, you know,
+using this example, the billion euros staking 50% capacity only generating vanilla floor yield
+versus our vehicle that doesn't have the 24-hour redemptions, that's able to participate in the
+vanilla yield, that's able to participate in restaking, that's able to participate in DeFi.
+That's why we believe this is the right vehicle for public market participants to access the
+full suite of capabilities that Ethereum is able to generate. Maybe just to add on to that, right?
+I think as you guys well know and have articulated over the years, ETH is a very dynamic asset,
+more dynamic than some other ones that you might just sit on and hold that are appropriate for a
+passive wrapper. Properly capitalizing on Ethereum requires active use and management
+to maximally capitalize on that. That doesn't lend itself to a passive wrapper like an ETF.
+It requires the kind of active management you can really only get in a company structure
+if you're going to provide that in public markets. That's why we think this is the
+best way for public market investors to own Ethereum over the medium to long term,
+which is why we set this up with an eye towards the medium term with the de novo structure as
+Andrew flagged. We're trying to set this up to become a pillar, not just of the Ethereum
+ecosystem, but of Wall Street in the medium term. That's what we're doing here because this is the
+way for those investors to own this asset. Yeah, that de novo structure, I think that
+comes across in the ticker, right? Some of the other ETH treasury companies that we've seen,
+they've been things with a B in them. That means they were formerly a Bitcoin mining type company
+or other things that are not related to crypto at all, like gaming companies. That's where
+SBET comes from. What's the ticker for the Ether machine? It's pretty clean, as I recall.
+The ticker right now, because to your point, I looked at this from first principles and I thought,
+well, if I want pure play exposure to Ethereum and to actively manage a vehicle to be able to
+access the public equity and debt markets, I don't want to be operating or working on another
+business that has pre-existing operations, pre-existing governance, pre-existing
+liabilities. I wanted something clean. That's why we created a de novo entity, so a brand new LLC
+that I anchored with my own capital because I'm going to lead by example and I'm not going to
+let anyone do something that I wouldn't do myself and I'm patient zero and I need to be
+maniacally focused on Ether accretion per share. That is the spirit of why we differentiated from
+not doing a reverse takeover of some micro cap shell company.
+The ticker currently is DYNX and will be transitioning upon SEC blessing of the merger
+of the two businesses, DYNX and the Ether Reserve, once we create the Ether machine, will be ETHM.
+ETHM. Right now on NASDAQ, this is trading under DYNX.
+Let's call it three, four months. It's just like the SEC process where we then run our operating
+business under the purview of the Ether machine, but currently it's DYNX, which is the blank check
+company that we're merging with. Imagine a world where traditional finance meets the power of
+blockchain seamlessly. That's what Mantle is pioneering with blockchain for banking,
+a revolutionary new category at the intersection of TradFi and Web3. At the heart is UR,
+the world's first money app built fully on chain. It gives you a Swiss IBAN account,
+blending fiat currencies like the euro, the Swiss franc, the United States dollar,
+or the renminbi with crypto all in one place. Enjoy real world usability and blockchain's trust
+and programmability. Transactions post directly to the blockchain, compatible with TradFi rails,
+and packed with integrated DeFi futures. UR transforms Mantle Network into the ultimate
+platform for on-chain financial services, unifying payments, trading, and assets like the MI4,
+the ME's protocol, and functions FBTC, backed by developer grants, ecosystem incentives,
+and top distribution through the UR app, reward stations, and Bybit launch pool. For MNT holders,
+every economic activity in UR drives value back to you, embodying the entire stack and future growth
+of this super app ecosystem. Follow Mantle on X at Mantle underscore official for the latest
+updates on blockchain for banking. That's x.com slash Mantle underscore official. Binance is the
+world's number one crypto exchange. Over 275 million users already trust their world-class
+security. Binance makes starting crypto as simple as it should be, whether it's learning about
+crypto on Binance Academy or browsing hundreds of assets and viewing your newly created portfolio
+in a clear, easy-to-track dashboard, Binance helps you go at your own pace. For hardcore traders,
+Binance Pro opens up industry-leading services for trading professionals with fully bespoke trading
+products, along with a suite of white-gloved services for VIP and institutional clients.
+Need support? 24-7 customer service is on hand whenever you need it, and with some of the lowest
+fees and deepest liquidity in the market, it's no surprise why over 275 million users trust Binance
+for everything crypto. Download Binance today and get started in minutes. Binance is not available
+in certain countries, including the United States. Check its terms for more information.
+Andrea, I gotta say, it's good to have your voice back in Ethereum. You're back in the spotlight,
+and I think that maybe you could tell us a little bit about that because I think that a lot of
+early Ethereum folks will remember your work at Consensus, will remember the Enterprise Ethereum
+Alliance and some of those kind of early days and getting that off the ground. Maybe they just
+assumed, you know, Andrew's passive. He's in the background now. I mean, maybe some people
+assumed you were retired or that you were just like maybe no longer interested in Ether.
+And then next up, we see you're launching a massive ETH treasury with a good chunk of your
+own ETH stake. You're depositing this and now you're on CNBC. Did you ever leave? Why come back?
+Why step back into the light? So a few reasons. So first and foremost, you're right. I went to
+the first ever Ethereum meetup like a complete nerd in Manhattan, literally meetup.com, and was
+with Aaron Wright, founder of the Lao, Joe Lubin, founder of Consensus, Sam Cassett, who is the chief
+strategy officer of Consensus, like the OOGs of day zero pre-Ethereum, pre-Genesis block.
+I ran around Asia with Vitalik explaining what is Ethereum to anybody who would listen.
+2014, 2015, 2016, the first time Ether crossed one dollar, I put a permissioned version
+of Ethereum onto Microsoft Azure and created blockchain as a service.
+I helped create the enterprise Ethereum alliance, which was the largest open source standards body
+focused on blockchain technology on earth. I helped build Consensus's global business
+development, go to market strategy. I have been staking because I thought Ether was a commodity.
+I created a commodity pool operator and commodity trading advisor named Dharma,
+which is an acronym for digital asset risk management advisors, and have been securing
+the Ethereum network from day zero of proof of stake. You may not have heard from me
+during the Gensler era because there was no upside in speaking. But every minute of every day,
+since proof of stake, I have been institutionally managing and securing the Ethereum network.
+Now that we have a positive regulatory tailwind where we have acts like the Genius Act,
+which basically gave stablecoin clarity, and the largest beneficiary of the Genius Act is Ethereum
+because the majority of stablecoins settle to Ethereum. Now it's time to get loud again.
+It's time to get this from proof of concept into production. The ZKEVM is en route. It's going to
+improve speed, privacy, confidentiality. L2s are cooking really well. We're seeing the fast actors
+like Coinbase with base, Robinhood with their L2, Kraken with Inc. creating their L2s that are all
+going to settle to Ethereum layer one. All the institutions, both bracket banks, are going to
+have their own L2. It's going to settle to Ethereum. We're here to usher that conversation
+along and educate Wall Street top down, Main Street bottom up. Andrew, you mentioned something
+that makes me want to go down a quick side quest about not wanting to be loud during the Gensler
+administration. There's a debate in crypto world about how specifically the Gensler SEC
+administration targeted Ethereum versus crypto broadly. They gave Bitcoin the green light and
+then everything else they targeted. There's a debate as to whether or not Ethereum was
+specifically hazed by the Gensler administration versus crypto broadly. There's one argument where,
+no, the Gensler administration, they labeled Solana as security. They labeled other tokens
+as security. They never specifically labeled Ethereum security, but they treated it as such.
+Saying that the Gensler administration specifically targeted the ecosystem is just wrong because
+literally they labeled Solana as security. That's one side of the debate. The other side of the
+debate is, well, actually, they labeled Ethereum as security in secret and really pointed all their
+firepower at the Ethereum ecosystem specifically. Ethereum builders like Danny Ryan specifically
+got SEC subpoenas. Yes, while they targeted the crypto ecosystem broadly, it was Ethereum that
+was really what was in the crosshairs of the Gensler administration. Provide your perspective
+on that conversation for me. I believe that Ethereum got most of the headwinds
+and Ethereum's position to get most of the tailwinds because, again, let's call it versus
+Bitcoin. Bitcoin has one asset, Bitcoin on it, and one function, send, where Ethereum is going to
+have infinite assets and infinite functionality. Ethereum is experiencing these parallel dynamics
+similar to Google with Search where 90% of assets are being tokenized to settle on top of Ethereum.
+Whether they specifically targeted Ethereum or not, what did they get right? They missed FTX,
+they missed Celsius, but their real job is to... They emboldened meme coins. The majority of the
+meme coins are on Solana. I think those are three strikes, you're out. If you're really talking
+about protecting the US stakeholders, so I'd rather move forward. Hester Pierce is my hero
+and let's keep moving forward. So, Andrew, you mentioned that you never left,
+but at some level you're back in a loud way, okay? And you're back to tell the story of
+Ether, the asset, and the entity of the Ether machine. The question is,
+how loud are you actually going to be, okay? Michael Saylor's pretty damn loud. Are you
+going to out loud, someone like that? And then second to that is, if we get how loud you're
+going to be, I also want to know how are you going to be loud, okay? So, where are you going to go?
+Most of crypto already knows about Ether, the asset. In order for the Ether machine to be
+successful at some level, you have to take that to the rest of the world, take that to TradFi.
+Sure. So, I'm going to let the use cases of Ethereum speak for themselves. I don't want
+to be the Michael Saylor of Ethereum by any means. And I think Michael Saylor is amazing,
+but the problem is, is he's got a singular asset that's got a singular function, and there's only
+so much you can say about holding Bitcoin and sending it. With Ethereum, the good news is we can
+talk about the productivity of the asset, the yield generation of the asset, the economy that's
+being built on top of it, and we can make the Ethereum ecosystem the stars. So, where we're
+going to differentiate is we're going to be highlighting the difference in that Ethereum
+is a productive asset and a productive economy and letting the use cases speak for themselves.
+And to where we're going to be having that conversation, you're right. You're not going
+to necessarily see me at, even though you probably will see me because I love crypto events, but I
+probably won't be best suited for the ecosystem there. I've got to go where people need to learn
+about Ethereum, so there's probably going to be an institutional educational road show,
+and then Main Street non-crypto, where we're educating people that are not as experienced,
+but I love going to DevCon, I love going to ETHember, I love going to ECC in France,
+and it's fun for me to see my friends and to see what's being built, so
+you're not going to keep me away from the OG crypto conferences.
+Let me just build on that a second. So, there's also a reason there's two of us on this podcast,
+not just one, and you'll likely hear from more of the team in the future.
+We're trying to build an institution, not a cult of personality, right? We want to build something
+that is going to endure for the long term, like Ethereum itself, right? That's why the focus is
+on the name, the Ether machine, right? We spend a lot of time on branding. We care about kind of
+building a broad and deep institution here to drive the whole ecosystem forward, right? And
+while Andrew is truly incredible and has a fascinating story, right? I think we hope to
+highlight many more voices, not even just the two on this call. Yeah, totally. I think that's an
+excellent point, and to that point, to kind of further elaborate, you're going to get probably
+Ethereum and its use cases from me. You're going to probably get corporate strategy with respect
+to Ethereum from Dave as a former McKinsey consultant who basically did corporate strategy
+for some of the largest Fortune 500s on earth. You're going to get Ethereum and its staking
+capabilities from Tim Lowe, who was the founder of Consensus' staking vehicle, built the institutional
+staking vehicle for Dharma. You're going to get Ethereum and its DeFi capabilities from Darius
+Pritchell, CFA, core contributor to Synthetix, core to Consensus' DeFi ecosystem. You're going
+to get Ethereum and public company excellence from a new face on the block. His name is Jonathan
+Cristodoro. He is a classic underachiever. Cornell, Wharton, Harvard, Marine Corps,
+Morgan Stanley Investment Banking, worked for Steve Cohen, worked for Carl Icahn, sat on
+a dozen corporate boards, including Xerox, Dell, Lyft, eBay, still sits on the board of PayPal.
+Basically, he is going to be our lead on corporate governance and excellence because this is a public
+company. We'll be explaining how Ethereum works in this context. We have another surprise
+who's going to be joining us on growth and marketing, who's going to be marketing Ethereum
+from Wall Street to Main Street, from The Hague to D.C., and basically explaining some of the
+non-financial use cases. To Dave's point, the Ether machine story is going to be multifaceted
+with multi-persona and multi-directional. But you're playing for number one slot here on this
+board. Always play to win. Absolutely. Yeah. To build on it, I would say our real target is we
+want to acquire as much of the network as we can without threatening the decentralization and
+security of the network. Internally, we've actually been kicking around numbers of about 10%,
+obviously. But our North Star here is really, over the medium term, to be clear, over the next five,
+10 years, because to us, this is a long-term game. Like I said, our North Star is to acquire as much
+as we can without threatening the network itself. Can I ask a question about that just in general,
+so without threatening the network? This is the Bankless Podcast, right? Bankless means
+self-custody of your own keys, defile of things. We're really excited to see the capital from
+traditional finance enter the space. It's the world's largest capital market. It's only a matter of
+time. Had to happen. We were going to integrate all of these things. But is there any worry
+as we get a larger percentage of Ether inside of ETFs and inside of treasury companies that we lose
+some of the decentralization in general? I mean, we're at low percentage points now, but you look
+at the Bitcoin network, that's kind of where it's headed. No one's even transacting on Bitcoin
+anymore. I mean, the fees are low because no one's doing it. People think they own Bitcoin
+when they own like a micro strategy, and that's not the same as owning actual Bitcoin.
+So is there a concern if we get too much in these treasury entities, too much in these ETFs that we
+sort of lose some of the decentralization properties that made Ethereum and makes Ethereum what it is?
+I don't think so, because I actually think that the transactional layer will be the layer twos,
+and I think that Ethereum through its blob architecture, inspired by EIP 4844, really
+encourages the application layer to be developed on thousands, potentially millions of layer twos
+that are customizable. So I actually think that we will be good participants within the Ethereum
+ecosystem, and we'll always have that North Star that this should be a decentralized, robust protocol,
+and our contributions to it will never be in a place where it can harm the decentralization.
+Yeah, and I think just to build on that, a large part of the value here, as Andrew alluded to,
+is using Ethereum itself. So we aren't just a buy and hold structure. We're going to be using
+the tokens to secure the network, to participate in the network.
+We will be working to help grow the network. This isn't a passive-
+The business model is ETH.
+Exactly. And look, we think one of the most valuable aspects of Ethereum is its credible
+neutrality, is its decentralization. That is, at the end of the day, core to the value prop here,
+and obviously we won't do anything to undermine that in any way. But with that guardrail in place,
+our aim is to get as big as we think we responsibly can.
+Andrew, I'd love for you to weigh in on this, because you've been around Ethereum from the
+very beginning. You've seen kind of the roadmap evolve. Back before, there was even the concept
+of really proof of stake. It was in the distant future. Now it's here, obviously that happened
+a while ago. David and I have been having this ongoing discussion where, looking at the price
+performance of the past, I don't know, two to three years for Ethereum, it's pretty meager,
+at least compared to what we think it can do. It's been lagging. Bitcoin, for instance,
+Solana has had a good run, a couple of other altcoin ecosystems, but Ether has been kind of
+flat. We're hanging out in the 3000s. My take on that is like, oh, it's because people don't
+understand Ether, the asset. It's a narrative type problem. And that's why partially I'm excited
+about Treasuries. David agrees with me. I think, David, you agree with me. But he also would add,
+and I also agree with him, that, okay, a big problem too has been the roadmap itself and the
+focus. And we did these layer twos, but we forgot to integrate them all together, right? So it feels
+fragmented. We haven't economically integrated all of these things. And so maybe in the future,
+and the EF hasn't shipped the way it should be shipping. I guess my question to you is like,
+when you look at the Ethereum roadmap right now, 2025, what do you see? Are you bullish? Are you
+optimistic? Do you still feel like we need some changes or pivots? So I think that there are
+confluence of issues that I think have been ameliorated and we're seeing positive progress.
+So first and foremost, I'll just group it. The Gensler era prevented the marketing of Ethereum.
+People like me shut up. People like Consensus shut up. No one was going out screaming from the
+mountains what Ethereum is, why it is what it is. And it also thwarted use cases. So we weren't able
+to see Ethereum's capability where those headwinds have now turned to tailwinds, where the largest
+beneficiary of the Genius Act is Ethereum because the majority of the stable coins happen on Ethereum.
+So I think there's the political aspect. Then what I would say is super important
+is the layer two architecture. So EIP 4844 dictated a lot around blob pricing and it's cheap.
+It's super duper cheap. Coinbase owes the Ethereum Foundation a large donation, in my opinion,
+because of how cheap base is and how much is settled to Ethereum layer one. But jokes aside
+there, I think that that's the right architecture. And I would kind of analogize it to if you used
+an Uber 10 years ago to go five miles, it cost X. And if you use the same Uber to go five miles,
+it costs two, three X now. Basically, Uber became ubiquitous and became the majority of used
+ride sharing app and has raised prices. And as the Ethereum layer one congestion increases
+and more L2s anchor to Ethereum, I believe that we're going to see price per transaction,
+gas burn, whether that's layer one and layer two evolve and frankly increase in price.
+Third, the EF, I can't say that they haven't shipped like they should have because frankly,
+they have a let's call it $400 billion network that's in flight and they've changed the engine
+while in flight. Like proof of stake was amazing transition. And I have just welcomed all of the
+evolution of the Ethereum foundation over the last six months. I am extremely bullish
+on the direction they're going. It seems like realignment was necessary. And I think that
+that happens within organizations. And it seems to me as though they have taken that initiative
+very seriously. And I wouldn't have done this if I didn't think Ethereum is the only true
+blockchain to be the substrate of the next generation of the internet.
+Andrew, Dave, as we start to bring this to a close, I've got one thing in my mind. Every
+cycle we've had in crypto, you guys have been through several of these seems to have a theme.
+So last time for Ethereum, it felt like it was DeFi. DeFi just kind of broke out 2020.
+And then we got NFTs after that 2021. There's some new use cases there. Looking for a theme
+for this cycle that we're in, this bull cycle. And to me, it seems like what might be emerging
+is the theme of institutional. It's the institutional theme. We saw Bitcoin take a
+run just on the institutional bid, right? And it's up into the trillions of dollars. Now,
+Ether is not in the trillions yet, but maybe it has the potential to get there. And I think it does.
+Also, we're seeing real world assets. We're seeing the tokenization of stocks and treasuries. And
+we've never seen that before. We're seeing stable coins. That seems like an institutional moment
+where all of the banks are like, we need an Ethereum strategy, essentially. We need a
+stable coin strategy. And so question in my mind, or maybe the bull case here, is like,
+if this theme of this cycle is institution, what is the next institutional grade asset?
+The first was Bitcoin, quite clearly. That's how it got into the trillions. Is the next Ether?
+Or is it a long tail of all sorts of different assets? Am I onto something here? What do you
+think the theme of the cycle is? Yeah, maybe I'll start there. Look, I think
+we very much think the theme of this cycle is institutional adoption, right? That's why we're
+doing this right now. And I think these concepts aren't necessarily novel. I believe Andrew was
+first kicking around the idea of an ETH SPAC with some members of our team now in 2020.
+But the reason for the push right now is because this is the vehicle for the moment. This is the
+time of institutional adoption. And we're trying to drive that in a first-class way. And we're
+seeing it not just in the rise of some of these vehicles like the Ether machine or like the ETFs,
+but also in real adoption out of these banks. So when we are part of trying to build this
+institutional quality vehicle is that we partner with a blue chip investment bank,
+Bulls-Royce investment bank, to take this out. That had to get signed off at the very top of
+that institution. We're the only treasury vehicle with that kind of support. And by the way,
+they're only doing it in Ethereum, not other places, because they want to explore building
+on Ethereum over the next year or two. So I think what we're seeing is it's taken some time to get
+the wrappers up to allow Wall Street to own part of the Ethereum network, just as we have for years.
+But the next step after that is going to be getting those use cases online, which I think
+we're really going to start to see over the next 12 to 18 months. We only got regulatory clarity
+out of DC in the last couple of weeks. And these large institutions can't build on Ethereum without
+the regulatory clarity. They've only just gotten. And now they can actually start to
+put into production some of the use cases we've been talking about for the better part of a decade.
+Right. And so I actually think this institutional cycle is really just getting going.
+And I'd add to that, you know, the bold brackets are starting to engage in DeFi.
+They're taking a conservative approach. And one of the things they're looking for are clean blocks
+that have no other transactions to any other unknown entities, including unknown validators.
+They're also looking for a kind of timely inclusion of these blocks. And if they're
+going to avoid the public block building marketplace, then the only option is a
+direct agreement with a validator that has a decent proportion of the network.
+We could be that validator. We are built to be that validator. So we will be working top down
+institutionally and bottoms up for Main Street for the benefit of Ethereum and its
+decentralization properties. I gotta say, Andrew, it's true that you never left, but I gotta say
+it's great to have you back in the spotlight. I think I'm talking for, I'm speaking for a number
+of people in the Ethereum ecosystem. It's just really great to have you back and doing what you're
+doing in such an active way. And Dave, it's been great to meet you. What can folks expect to see
+from the Ether machine next? The active acquisition and management
+of Ether to compound Ether and to serve as a benevolent actor in the Ethereum community,
+bottoms up Main Street, top down institution. We're here to help. When you say active
+acquisition, does that mean spot order book purchasing of Ether with cash money?
+That and OTC. Okay. Cool.
+Amazing. Guys, we'll have to end it there. This has been an exciting episode. Dave,
+Andrew, thank you so much for joining us today.
+Thank you, guys. Bankless listener, gotta let you know, of course, you know crypto is risky.
+You could lose what you put in, but we are headed west. This is The Frontier. It's not for everyone,
+but we're glad you're with us on the Bankless journey. Thanks a lot.

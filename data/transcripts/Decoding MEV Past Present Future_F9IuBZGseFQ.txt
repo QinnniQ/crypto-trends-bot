@@ -1,0 +1,165 @@
+Did you know that when you make a move on Ethereum, there's a hidden high-stakes game playing out?
+And what if I told you this game could be the secret to cheaper, more efficient transactions,
+or sometimes the cause behind those unexpected high fees and delays?
+Meet MEV, a concept that's reshaping the Ethereum we know.
+But who drives this game? What roles do searchers, builders, and proposers play?
+How do flashpots come into the picture, and what's the mission?
+And does MEV provide extra incentives for validators,
+or create an existential threat to the decentralization of the whole network?
+You will find answers to these questions and more in this video.
+And we promise you, by the end of this video, Ethereum will never look the same to you again.
+Before we dive in, if you want to learn more about decentralized finance and the technology behind it,
+make sure you subscribe to my channel, hit the bell icon, and enable all notifications.
+To define the concept of MEV, let's first look at the simplified model
+that many people believe represents how Ethereum transactions work.
+At its core, when you initiate a transaction, it first enters the mempool.
+Think of the mempool as a waiting room for pending transactions.
+When building a new block, the block proposer can choose and prioritize transactions from the mempool
+based on their transaction fees. However, MEV introduces a unique twist.
+Block proposers can not only choose which transactions to include
+and their order within the block, but also add their own.
+The sequence of these transactions can occasionally yield substantial profits.
+Imagine this scenario. Alice purchases a large amount of a specific token.
+Following her, Bob opts to sell the same token.
+If Bob's transaction is processed after Alice's, he capitalizes on a better sale price
+due to the increased demand Alice's purchase creates.
+Spotting such opportunities, a block proposer might rearrange
+the order of transactions to benefit and take a cut.
+The proposer can achieve this by inserting its own buy transaction
+just before Alice's transaction and placing a sell transaction
+after Alice's transaction and right before Bob's transaction.
+In this rather nasty example, the block proposer essentially front runs Alice's transaction,
+benefiting from the price movement they can predict and influence.
+This additional profit resulting from altering the transaction sequence
+is termed MEV, which stands for Maximal Extractable Value.
+Understanding MEV is extremely important as it creates various challenges for a network like
+Ethereum. From an end user perspective, MEV can manifest in different ways,
+including affecting trade executions. For instance, if you receive fewer
+tokens from a DEX trade than initially anticipated, it could be due to MEV.
+From the network's standpoint, MEV risks pushing a decentralized system towards centralization.
+Under proof of work, mining pools were incentivized to become highly specialized,
+potentially leading to centralization among them. This draws uncomfortable parallels with
+traditional finance, moving away from the aspirational, transparent decentralized finance
+model. Outside of transaction ordering, block proposers can also decide to include or exclude
+a particular transaction, either by prioritizing one offering higher fees or censoring specific
+transactions. In general, MEV can be extracted and classified in a number of ways.
+Let's visit the realm of MEV with these common strategies.
+Front running. Proposers spot a pending transaction in the mempool that can shift the market
+and jump right ahead to benefit from the price change.
+Opposite of front running. Proposers position their transaction right after a significant one,
+often exploiting potential price discrepancies or arbitrage opportunities between exchanges.
+A combination of front running and back running. Proposers see a large order,
+place their own order ahead of it, front run, and then place another order after it,
+back run. Essentially, they sandwich the user's transaction. That is what happened in our previous
+Alice and Bob example. Censorship. A proposer could censor transactions to benefit from MEV elsewhere,
+demanding higher fees or manipulate oracles. Generalized front running. A proposer could
+execute any profitable transaction for themselves, even without fully understanding the transaction
+content. This strategy is possible by simulating transaction execution and determining if the
+color of a given smart contract method ends up with more funds than before the execution.
+MEV strategies can sometimes be categorized as toxic or non-toxic. Toxic MEV is the type of MEV
+that has negative effects on the blockchain ecosystem and its users. Examples of toxic MEV
+include front running, sandwich attacks, censorship. With front running and sandwich attacks, users end
+up having worse execution of their transactions. With censorship, the decentralized and stable
+nature of the ecosystem is at risk. Non-toxic MEV on the other hand, refers to the form of MEV
+that don't negatively impact users or the integrity of the blockchain. Back running serves as a prime
+example of this. However, it's worth noting that the classification of MEV as non-toxic can be
+subjective. As an example, while arbitrage and back running lead to more efficient prices,
+they also lead to losses for liquidity providers. As we can see, it's helpful to classify MEV as it
+allows us to understand its impact better. Before we jump into the current MEV landscape,
+let's look at how we got here and how the MEV space evolved over time. Though MEV has been an
+intrinsic part of Ethereum since its inception, its prominence surged notably from 2018 onwards,
+especially with the rise of DeFi and the introduction of flash loans. In these early days,
+MEV opportunities were primarily seized by outbidding rivals in the public mempool,
+marking the era known as PGA or Priority Gas Auction. Imagine two MEV bots seeing a profitable
+MEV opportunity. Let's say there is a cross-dex arbitrage that can capture 0.1 ETH of value.
+Both bots are incentivized to keep increasing their bids until the opportunity becomes
+unprofitable. Now imagine this intense standoff but compressed within Ethereum's typical block
+time, which was averaging 13 seconds pre-merge. Once a bot secures its transaction in a confirmed
+block, the profit window vanishes. In this scenario, while the winning bot pays the full
+transaction cost to secure its spot in the block, the competing bot often finds its transaction
+included as well but as a failed attempt, still incurring some transaction fee. Extrapolate
+this scenario to hundreds or even thousands of bots competing for analogous profitable opportunities
+and we can quickly see why this became a huge problem. Such aggressive bidding not only
+escalated transaction fees but also contributed to network congestion, detrimentally impacting
+Ethereum's regular users. This chaotic chapter of early MEV and its Priority Gas Auctions
+was well documented in Flashboys 2.0. The name of this paper was inspired by the famous Michael
+Lewis book Flashboys, which dives deep into the early days of high-frequency trading,
+a concept with a lot of analogies to the MEV world. To mitigate problems caused by PGA's,
+a group of Ethereum community members rallied around and formed Flashbots with the primary
+goal of addressing the negative externalities of MEV in a transparent and community-driven manner.
+After deeply investigating MEV to understand its dynamics, the Flashbots community introduced
+two integral tools, MEVGath and MEVRelay. MEVGath is a modified version of the EthereumGath client
+that enables miners to communicate directly with the MEV searchers and prioritize their
+transaction bundles. These bundles are groups of transactions packaged together by searchers
+to extract profitable MEV opportunities. MEVRelay on the other hand is a relay network facilitating
+the submission of these bundles from searchers to miners. The term searchers refers to entities
+or algorithms searching the Ethereum mempool for MEV opportunities, crafting specialized transaction
+bundles to maximize potential profits. With MEVGath and MEVRelay, miners, instead of just relying on
+the transactions in the mempool, would run these additional pieces of software to gain access to
+another transaction flow that otherwise wouldn't be visible in the mempool. A miner would look
+at the mempool and transaction bundles coming through MEVRelay and construct the most profitable
+block. Together these tools aim to create a more organized, transparent and efficient framework
+for MEV extraction, reducing network congestion and aligning incentives among different participants.
+Over time MEVGath started gaining more and more market share, reaching around 90% of the mining
+power. Although it looked like the MEV landscape matured and the main pain points were addressed,
+the space was ready for a big disruption caused by one of the most significant changes to Ethereum
+itself. The shift from proof of work to proof of stake and the merge. In the post-merge world,
+the concept of miners on Ethereum ceased to exist. Validators were now the entities responsible for
+adding blocks to the chain. Alongside this shift, MEV evolved from miner extractable value to
+maximal extractable value. Anticipating these changes, Flashbots, together with client teams
+and the Ethereum Foundation, commenced the development of a new protocol dedicated to
+proof of stake Ethereum called MEVBoost, which was activated as soon as the merge was completed.
+MEVBoost is a type of Proposer Builder Separation, PBS. PBS is a design philosophy that allows
+validators to effectively use third-party block builders for the block building duties.
+A block builder is a new role introduced by PBS. Using MEVBoost, validators can sell block space
+to specialized third parties called block builders, which collect, sequence and introduce
+transactions to produce a block. Builders want to produce a block that maximizes the fees collected.
+MEVBoost works by allowing validators to pick the highest paying block offered by builders.
+Builders then compete to produce blocks. The validator then chooses the highest paying block
+and proposes it to the network. Unlike MEVGet, where miners had to run Flashbot software alongside
+their client, MEVBoost operates as an add-on, allowing any validator to use it regardless
+of their chosen consensus and execution clients. Yet again, the solution started quickly gaining
+significant adoption, reaching around 90% of the network participants. Although the MEV ecosystem
+undergoes frequent changes, let's paint a comprehensive picture of the current MEV landscape
+by examining the MEV supply chain step by step. The journey begins with a user initiating a
+transaction from their wallet. Typically this transaction ends up in the mempool, although
+alternative private mempools such as Protex by Flashbots and MEVBlocker by Cowswap are also
+available. This is where searchers come into play. They search for the most optimal and profitable
+transaction bundles and send them to the builders. The builder with access to multiple searchers,
+potential private order flow and the mempool itself constructs the most valuable block it can
+and sends it to a relay. Validators are connected to multiple relays and listen to all the
+incoming blocks from multiple builders. The validator that becomes the next block proposer
+selects the most profitable block and proposes it. As we can see, the current landscape diverges
+significantly from the early straightforward Ethereum model of user, wallet, mempool, miner.
+Although the system is more complicated, it allows participants to benefit from builders' work
+without needing to trust them. Outside of the current MEV landscape, it's also worth discussing
+the future of this space. One of the main challenges in the current landscape is builder
+centralization. Currently, the five main builders build around 90% of Ethereum blocks. Additionally,
+exclusive order flow and cross-domain MEV present new emerging centralization threats to not only
+Ethereum, but many other chains. To address these problems, Flashbots started working on
+two new initiatives, MEVshare and SWAV. MEVshare focuses on creating a permissionless and private
+matchmaking protocol between users and searchers, where users can benefit directly from the MEV
+they generate. Users can access MEVshare automatically by sending transactions through
+Flashbots protects. SWAV, the single unifying auction for value expression, unbundles the
+mempool and block builder roles from existing blockchains and offers a highly specialized and
+decentralized plug and play alternative. SWAV is currently being developed with a first release
+expected sometime in 2024. There are also some optimizations that can be applied to MEV. One of
+them is MEV burn proposed by Justin Drake. It describes a simple enshrined PBS add-on to smooth
+and redistribute MEV spikes, a design similar to EIP 1559. Speaking about enshrined PBS, it will
+be interesting to see its impact on existing out of protocol implementations of PBS, such as MEV
+boost and the MEV space in general, once it's materialized. We'll for sure dive deeper into
+some of these topics in the following videos. To sum up, MEV, with its intricate dynamics,
+is a fundamental aspect of the Ethereum machine. The MEV extraction is a perpetual dance with
+searchers, builders and block proposers on a relentless quest for MEV rewards countered
+by the Ethereum's community's pursuit of a balanced, fair and efficient ecosystem.
+At the time of making this video, the size of MEV opportunities on Ethereum itself lay in upwards
+of 320,000 ETH, and this is just since the merge. That's roughly 800 ETH a day of MEV.
+The future is still uncertain. Will we advance towards an MEV utopia,
+decentralizing all aspects of the MEV supply chain and returning the generated MEV to users?
+Or might we see an MEV dystopia emerge, where a few centralized entities control block production
+across all significant chains, extracting value from unsuspecting users?
+It's going to be fascinating to watch how the MEV landscape evolves.
+So what do you think about MEV and its impact on the future of Ethereum and
+cryptocurrency in general? Comment down below. And as always, if you enjoyed this video,
+smash the like button, subscribe to my channel and check out
+Phenomatics on Patreon to join our DeFi community. Thanks for watching!

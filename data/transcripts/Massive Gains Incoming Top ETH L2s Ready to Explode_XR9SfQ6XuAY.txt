@@ -1,0 +1,274 @@
+As Ethereum's price pumps, everyone is wondering where that capital will rotate to next.
+And the answer could be Ethereum's own Layer 2 ecosystem.
+Most Layer 2 tokens are still significantly down from their all-time highs,
+and this means they have even more upside potential.
+Even more!
+And that's why today we're going to tell you everything you need to know about
+Ethereum's largest Layer 2s, including
+How to access them
+Where to find projects within their ecosystem
+And how high their native tokens could go
+My name is Nick and this is a video you don't want to miss.
+Before we begin, you need to know that I am not a financial advisor
+and nothing in this video should be considered as financial or investment advice.
+This video is purely for your education and entertainment,
+intended to inform you about 5 of Ethereum's leading Layer 2s.
+Also, do note that some team members at CoinBureau
+do hold some of the tokens we will be covering today.
+But we promise to be as objective as always in our analysis.
+So, if you're ready to get into it, fire up those like buttons,
+don't forget to subscribe and ping that notification bell as well.
+And let's begin.
+First, let's start with what Layer 2s actually are and how they work.
+As most of you will no doubt know,
+Ethereum's biggest weakness is that it's slow and expensive.
+Now, to remedy this, separate blockchains called Layer 2s or L2s
+are built as second layers on top of Ethereum, which is the Layer 1.
+These L2s inherit Ethereum's security,
+while making the network faster and cheaper to use.
+The reason why L2s are necessary is because Ethereum was designed
+to be secure and decentralized.
+The trade-off, though, is that scalability takes a bit of a hit.
+Achieving all three of these features, security, decentralization, and scalability,
+is a theoretically impossible challenge,
+often referred to as the, quote, blockchain trilemma,
+a term actually coined by Ethereum's creator Viptalic Buterin himself.
+L2 roll-up solutions aim to address the scalability aspect of Ethereum's trilemma.
+Roll-up solutions will literally roll up transactions into a bundle,
+process them off-chain,
+and then send that data back to Ethereum as a single transaction.
+And this allows for faster Ethereum transactions at a fraction of the cost.
+Now, you should know that there are several types of roll-up solutions,
+each with their own pros and cons.
+The most used variants are optimistic roll-ups and zero-knowledge roll-ups.
+Optimistic roll-ups are optimistic because they assume
+off-chain transactions are legit unless proven otherwise.
+Validators get a one-week challenge period to check the data,
+and then can submit fraud proofs if they spot anything dodgy.
+Conversely, zero-knowledge roll-ups, or ZK roll-ups,
+focus on privacy by using complex cryptography to verify transactions
+without exposing sensitive information.
+Unlike optimistic roll-ups, they don't assume validity.
+Instead, they submit validity proofs to smart contracts to prove transactions are legit.
+ZK roll-ups are usually faster than optimistic roll-ups
+since there's no one-week challenge period, which has helped their adoption.
+The trade-off is that generating ZK proofs takes a ton of computing power,
+creating other hurdles that are, frankly, outside the scope of this video.
+Now, before we go any further,
+if you're looking to trade any cryptos mentioned in today's video,
+or any others for that matter,
+then you need to check out the Coin Bureau Deals page.
+That's where you will find sign-up bonuses of up to $100,000 on the best exchanges,
+as well as 50% trading fee discounts and 75% cash back on deposits.
+These deals are only available to Coin Bureau viewers and will not be around for long.
+So, take advantage of them ASAP using the link down below or this QR code.
+Back to the vid.
+Okay, now that you understand what L2s are,
+let's take a look at one of the largest ones by Total Value Locked, or TVL.
+In first place is Arbitrum, an optimistic roll-up created by off-chain labs in 2019.
+Its mainnet went live in September 2021,
+and the ARB governance token was launched in March 2023.
+Arbitrum is essentially an ecosystem of scaling solutions
+that let developers build dApps and roll-up chains.
+It has four main components, starting with Arbitrum One, its flagship optimistic roll-up.
+Arbitrum One supports Ethereum smart contracts
+and works with all of Ethereum's developer tools.
+The second component is Arbitrum Nitro,
+which is a tech stack for developers to use to build orbit chains,
+which are technically layer 3s, but let's not go there.
+The third component is Arbitrum Stylus,
+which allows developers to build EVM-compatible smart contracts
+using coding languages like Rust, C, and C++.
+Rather than just Solidity, which is of course the coding language used for Ethereum's smart contracts.
+And the fourth is Arbitrum Nova, which is itself an orbit chain.
+Arbitrum Nova is faster and cheaper than Arbitrum One,
+making it better for things like blockchain gaming and social media,
+albeit with some centralization trade-offs.
+And these features have made Arbitrum the top Ethereum layer 2 by TVL,
+and it seems to be also emerging as a top layer 2 for GameFi.
+And that's because building blockchain games is much easier
+since devs can code without learning Solidity thanks to Arbitrum Stylus.
+And this lets devs build immersive games with cool features worth play to earn,
+with instant payouts and ownable NFTs that work across different games.
+And most importantly, Arbitrum Nova's high throughput and low costs
+keep those games running smoothly.
+Accessing Arbitrum chains, including Nova, is pretty easy.
+Just go to Arbitrum.io and click Bridge and Explore.
+There you'll see two buttons, Bridge and Portal.
+Bridge brings you to an interface that lets you transfer funds to Arbitrum.
+And you'll also need to add the Arbitrum network to a wallet-like metamask.
+But the Bridge does this automatically, so no manual setup is required.
+Clicking Portal takes you to the dashboard where Arbitrum says
+there are over 1000 apps built on its network.
+And what's great is that you can sort these by categories
+like DeFi, AI, Deepin, Gaming, NFTs and many more.
+Exploring these projects is a great way to find promising tokens
+with serious upside potential.
+But what about Arbitrum's own ARB token?
+Well, even with the most recent altcoin rally,
+ARB is still about 80% below its all-time high of $2.40,
+at least at the time of shooting.
+As such, returning to that level roughly translates to a 5x gain from today's prices.
+However, we believe that ARB could be significantly undervalued.
+As more investors move further down the risk curve,
+many will be drawn to Arbitrum since it's currently Ethereum's largest layer too.
+As such, we reckon a conservative estimate for ARB would be somewhere around $4,
+roughly 8x up from today's prices.
+Okay, the second largest L2 by TVL is Base, another optimistic roll-up chain.
+Base was launched by the Coinbase Exchange in August 2023.
+Unlike other L2s in today's video, though,
+Base doesn't have its own native token, and we'll come back to that in a bit.
+Since launch, Base has become one of the most popular Ethereum blockchains,
+and that's because it's more efficient than many other L2s,
+even outperforming Arbitrum 1 by some metrics.
+But obviously, what's really driven adoption is its integration with Coinbase.
+Now, it's important to note that Coinbase recently began transitioning its wallet app
+into its Base app, which is still in development, but should be available in most countries.
+And if you already have the wallet, then don't worry, it still works as usual.
+But as the Base app, it's becoming an all-in-one platform for trading,
+posting, chatting with friends, and even sending money globally for free.
+Since the Base L2 is such a major player in the Ethereum ecosystem,
+it supports hundreds, if not thousands, of projects.
+So, how do you spot the ones with potential?
+Well, one way is to head on over to CoinMarketCap, then click on the categories,
+and sort the list alphabetically, and scroll down to Base Ecosystem.
+From there, you can filter these options by different narratives,
+and if you watched our recent video on how to find 100x altcoins before they pump,
+you'll know that some of the hottest narratives on Base include
+memecoins, tokenized RWAs, and AI agents, among others.
+And you can learn more about how to find these 100x altcoins before they pump
+by watching our video on that right over here.
+Now, as we mentioned earlier, there is currently no native Base token,
+and what's more, is that Coinbase CEO Brian Armstrong and Base founder Jesse Pollock
+have repeatedly insisted that there isn't going to be one.
+The most recent example of this was in April this year,
+after someone tokenized a Coinbase tweet.
+And, well, let's just say it didn't perform so well.
+Soon after, Coinbase responded by stating that this wasn't an official token,
+and there are no plans to create one either.
+We were previously more skeptical and thought that a native token might still be on the cards.
+But now, we think if it were going to happen, it probably would already have happened.
+Launching a major token mid-bull market isn't really the best strategy,
+since prices would almost definitely crash soon afterwards.
+For what it's worth, though, Coinbase stock seems to have been benefiting from Base the L2 itself.
+Okay, the third largest layer 2 by TVL is the OP Mainnet, also known as Optimism.
+As the former name would suggest, the OP Mainnet uses optimistic roll-up technology.
+Optimism began as the Plasma Group back in January 2019 before rebranding a year later.
+Optimism's Mainnet launched in December 2021.
+And what makes OP Mainnet unique is its Superchain,
+which aims to unite the fragmented L2 space into one big interoperable ecosystem.
+And you can easily track its chains and projects at superchain.eco.
+We'll drop a link in the description for you to come back and check it later.
+You can access OP Mainnet through a compatible Web3 wallet like Metamask,
+Coinbase Wallet, or Trust Wallet by first adding the Optimism network.
+If you're using Metamask, the OP Mainnet will already be available for you to add within the app.
+If this isn't an option for you, though, you'll need to add the network yourself.
+An easy way to do this is by visiting chainlist.org,
+which we'll also leave a link to for you guys in the description.
+Simply search for OP Mainnet, connect your wallet, and the chain will be added automatically.
+Then, to bridge funds, OP Mainnet suggests two options.
+Bred.gg and SuperBridge.
+Both will do the same thing, but we like the SuperBridge's super simplistic UI,
+so we've gone for that right now.
+Simply connect your wallet and the amount of ETH you want to bridge to OP Mainnet,
+and then you'll see the range of options.
+Using the native bridge has no extra fees, but takes about 3 minutes, which isn't too bad.
+Alternatively, you can select much faster options that charge a small fee,
+like the Across protocol.
+When we tried, these options cut the wait time to 8 seconds for just a fraction of a cent.
+Once that's set up, you'll probably want to start looking for up-and-coming projects within
+OP Mainnet's ecosystem.
+To do this, head to the superchain.eco website that we mentioned a moment ago.
+The Chains and Projects button will help reveal some potential candidates.
+The Chains tab lists quite a few blockchains, but Projects offers a much wider variety.
+And what's great is that the Projects tab has an inbuilt filter,
+so you can select specific categories, aka different niches.
+For example, selecting SocialFi narrows the list to 21 different projects,
+at least at the time of shooting.
+But what about OP Mainnet's own native OP token?
+Well, at the time of shooting, OP is still down 85% from its previous all-time high of $4.85.
+And this means that rallying back to this level would translate to a more than 6x gain
+from today's prices.
+Now, we reckon that OP could actually rally much further than this,
+and a conservative estimate would be around $8.50, so about 10x from here.
+Now, the fourth largest Ethereum layer 2 by TVL is Unichain,
+a relative newcomer from Uniswap Labs, which launched Uniswap,
+the leading Ethereum DEX, way back in 2018.
+Uniswap's native Uni token was launched in September 2020,
+but Unichain's Mainnet only went live this February.
+If you check out Unichain's website, you'll see it describes itself as,
+quote, the home for DeFi.
+From the site, you can also access Unichain by clicking the Bridge to Unichain button.
+This will open up the Uniswap DEX with Unichain ETH already preselected as the asset.
+To bridge your ETH over to Uniswap, connect any compatible Web3 wallet.
+We actually think Uniswap's Wallet app is actually pretty good,
+and even has a few handy features like custom usernames and keyboard shortcuts to name but a few.
+Once that's set up, you can easily bridge funds to Unichain by swapping your regular ETH for
+Unichain ETH.
+To discover promising projects on Unichain, head back to the website
+and scroll down to the Start Exploring section.
+You'll see that it has, quote, more than 100 apps and infrastructure building on Unichain,
+with a button right below labeled Explore Apps and Integrations.
+Go ahead and click it.
+You should see a long list of every project in the Unichain ecosystem.
+At the time of shooting, there were over 179 projects to explore.
+The good news is that there's a handy filter that lets you narrow your search by specific
+DeFi use cases.
+For example, if you pick Lending, the list shrinks down to just four projects.
+Much easier, right?
+Now, what about Uni, the native token for both Unichain and Uniswap?
+Well, as we record this, Uni is around 75% down from its all-time high of almost $45.
+And this means that returning to that level would translate to a roughly 4x gain from here.
+Again though, we believe that Uni can surpass this target.
+As Ethereum continues to gain traction, more and more investors will begin exploring DeFi
+and ERC-20 tokens, both of which channel capital into Uniswap.
+And this could significantly drive Uni's price up.
+And we reckon a conservative estimate would be for around $80 for the Uni token,
+and 8x from today's prices.
+Now, the fifth largest Ethereum layer 2 by TVL is ZKSync, which is the only one in today's list
+that doesn't use optimistic rollups as a scale-in solution.
+Instead, as the name would suggest, it uses zero-knowledge proofs,
+which, as you'll recall from earlier in the video,
+can process transactions based on a portion of the transaction data,
+making transactions faster and cheaper.
+In any case, ZKSync was originally founded by Matter Labs in 2018.
+In late 2019, Matter Labs revealed its plans for ZKSync,
+and the first version of it launched on mainnet in June 2020.
+The current version, version 2.0, also known as ZKSync era, was launched in March 2023.
+The platform's native ZK token was then launched in June 2024.
+ZKSync is a major player in the tokenized RWA niche, second only to Ethereum.
+At the time of shooting, Ethereum commands about 55% of the RWA market share,
+while ZKSync holds around 18%, excluding stablecoins.
+And what's crazy is that ZKSync's dominance far exceeds other competitors,
+like Aptos, Solana, and Stellar, all of which have a market share of 4% or less.
+As you'll have guessed already, you can access ZKSync by connecting any compatible Web3 wallet,
+and then adding the network to your wallet.
+If you're using Metamask, you should see that ZKSync is already available
+as a network you can add within the app.
+Alternatively, you can easily do this yourself by visiting the chainlist.org website.
+Just type in ZKSync and you should see the mainnet pop up.
+Connect your wallet and the ZKSync network will be added automatically.
+You can then bridge your funds by visiting portal.zksync.io.
+We should of course point out though that this bridge is currently in beta
+at the time of shooting, but for what it's worth, we didn't experience any issues.
+Connect your wallet, type in how much ETH you want to bridge to ZKSync, and then click continue.
+You can find promising projects within the ZKSync ecosystem by checking out
+ZKSync's official website. That's because ZKSync also has a similar concept to
+OP mainnet's superchain. ZKSync calls this the elastic network,
+which consists of 19 different blockchains, all powered by ZKSync technology.
+Of course, you can go through each of these 19 chains to find a narrative that could do well,
+but given ZKSync's overwhelming market share of the RWA niche, it could be a good idea to narrow
+the list down to projects that also support RWAs. Not financial advice, of course.
+In any case, there is just one final question remaining.
+What about ZKSync's native ZK token? Well, at the time of shooting, ZK is around 80%
+down from its all-time high of 32 cents. Reaching this level again would then be a gain of about
+roughly five times from today's prices. But as you'll probably know, the RWA niche is one
+with serious potential, so it won't be surprising to hear that we think this target is easy to beat.
+From our perspective, a conservative estimate would be somewhere around 50 cents or higher,
+which would be around 10x from today's prices. And that's our rundown of the largest Ethereum
+layer 2s. Of course, Ethereum's L2 universe extends far beyond the ones we've talked about
+here, so let us know which other L2s are on your radar in the comments down below. Which ones are
+we sleeping on? And which ones should we cover in the future? And if you want to see how high
+ETH could go in this upcoming rally, then check out our video right over here. And if you're not
+subscribed to the channel yet, you can do that right over here. Thank you all very much for
+watching and I'll see you the next time. This is Nick, over and out.

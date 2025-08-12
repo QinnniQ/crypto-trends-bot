@@ -1,0 +1,812 @@
+[
+  {
+    "text": "On-chain metrics started with network metrics. This data, being publicly available, was fairly easy to access, and through it various signals have been found. One of the most notable pioneers in this space is the work of Willy Woo. With the halving approaching, and price recently dropping, a lot of attention is being placed on miners. Historically, network data has provided a consistent indicator for miners and capitulation.",
+    "metadata": {
+      "source": "cryptoquant",
+      "title": "Entity Metrics to Directly Analyze Miners Position In Real Time",
+      "url": "https://cryptoquant.substack.com/p/entity-metrics-to-directly-analyze",
+      "date": "",
+      "chunk_id": 0
+    }
+  },
+  {
+    "text": "The standard for miners and on-chain data is Willy Woo's Bitcoin Difficulty Ribbon that shows when miners are capitulating as an indicator of bottoms. It indicated that in this bear cycle, the three\"bottoms\" were around the 3k area in January to February of 2019, November to January of 2020, and recently with the last drop as miners have already turned over. By looking at entity data from miners (inflow and outflows), we can find new data and indicators that will supports to the Bitcoin",
+    "metadata": {
+      "source": "cryptoquant",
+      "title": "Entity Metrics to Directly Analyze Miners Position In Real Time",
+      "url": "https://cryptoquant.substack.com/p/entity-metrics-to-directly-analyze",
+      "date": "",
+      "chunk_id": 1
+    }
+  },
+  {
+    "text": "miners (inflow and outflows), we can find new data and indicators that will supports to the Bitcoin Difficulty Ribbon.",
+    "metadata": {
+      "source": "cryptoquant",
+      "title": "Entity Metrics to Directly Analyze Miners Position In Real Time",
+      "url": "https://cryptoquant.substack.com/p/entity-metrics-to-directly-analyze",
+      "date": "",
+      "chunk_id": 2
+    }
+  },
+  {
+    "text": "Looking at the data, Miners to Exchange Inflow Percentage gives us a similar signal. This is calculated by taking Miner to Exchange Flows and dividing it by Exchange Inflows. We can see that when miners are composing over 6% of inflows into exchanges, its a signal that miners are liquidating their BTC. A quite interesting piece of data is that just as Willys Difficulty ribbons flip twice, we also see two large Miner flows to exchanges in both the beginning of 2019 bottom and the end of 2019",
+    "metadata": {
+      "source": "cryptoquant",
+      "title": "Entity Metrics to Directly Analyze Miners Position In Real Time",
+      "url": "https://cryptoquant.substack.com/p/entity-metrics-to-directly-analyze",
+      "date": "",
+      "chunk_id": 3
+    }
+  },
+  {
+    "text": "see two large Miner flows to exchanges in both the beginning of 2019 bottom and the end of 2019 bottom. The one exception to this is the large liquidation that happened on August second, but this, being in a mini bull market, can be interpreted as sell signal.",
+    "metadata": {
+      "source": "cryptoquant",
+      "title": "Entity Metrics to Directly Analyze Miners Position In Real Time",
+      "url": "https://cryptoquant.substack.com/p/entity-metrics-to-directly-analyze",
+      "date": "",
+      "chunk_id": 4
+    }
+  },
+  {
+    "text": "It seems that, in this case, network data and entity data can be complimentary signals. This confluence will help traders be more confident in timing their entries and exits. In the coming weeks, we will continue to publish insights to find additional ways that entity data can strengthen network data, and vice-versa.\n\nCheck out our metrics in real time: https://www.cq.live/overview",
+    "metadata": {
+      "source": "cryptoquant",
+      "title": "Entity Metrics to Directly Analyze Miners Position In Real Time",
+      "url": "https://cryptoquant.substack.com/p/entity-metrics-to-directly-analyze",
+      "date": "",
+      "chunk_id": 5
+    }
+  },
+  {
+    "text": "Check out our metrics in real time: https://www.cq.live/overview\n\nCoinTelegraph Article Featuring This Data: https://cointelegraph.com/news/bitcoin-price-will-go-up-as-only-profitable-miners-remain-data-analyst",
+    "metadata": {
+      "source": "cryptoquant",
+      "title": "Entity Metrics to Directly Analyze Miners Position In Real Time",
+      "url": "https://cryptoquant.substack.com/p/entity-metrics-to-directly-analyze",
+      "date": "",
+      "chunk_id": 6
+    }
+  },
+  {
+    "text": "With the recent Iran Crisis, the price of Bitcoin rose in tandem with that of gold and oil, assets that are traditionally known as safe-havens/hedges against uncertainty. Following the event, many people have been asking if this proves the narrative that Bitcoin is becoming a hedge against risk. Although statistical correlation is still a ways away, we use on-chain data to observe the behavior of traders, and to see if those wanting to hodl increased during this period.",
+    "metadata": {
+      "source": "cryptoquant",
+      "title": "Iran and Market Behavior: A Deep Dive with On-Chain",
+      "url": "https://cryptoquant.substack.com/p/iran-and-market-behavior-a-deep-dive-with-on-chain-79418eb988f6",
+      "date": "",
+      "chunk_id": 0
+    }
+  },
+  {
+    "text": "For Bitcoin, was the recent movement in price just price action based on speculators, or were more people attempting to hold the asset, generating the demand? Simply looking at volume cannot differentiate between these two types of investors. Instead something else is needed.. Exchange outflows allow us to see the people who bought bitcoins and are intending to hold it for more than just a short period of time.",
+    "metadata": {
+      "source": "cryptoquant",
+      "title": "Iran and Market Behavior: A Deep Dive with On-Chain",
+      "url": "https://cryptoquant.substack.com/p/iran-and-market-behavior-a-deep-dive-with-on-chain-79418eb988f6",
+      "date": "",
+      "chunk_id": 1
+    }
+  },
+  {
+    "text": "Historically, during periods when exchange outflow is high, the price typically forms a bottom as over time supply (on exchanges) dries up and demand drives price upward. As soon as the price dropped below 4k in November of 2018, we see exchange outflows increased significantly. This stayed true until May of 2019, when the mini-bull run began and price eventually topped just under 14k.",
+    "metadata": {
+      "source": "cryptoquant",
+      "title": "Iran and Market Behavior: A Deep Dive with On-Chain",
+      "url": "https://cryptoquant.substack.com/p/iran-and-market-behavior-a-deep-dive-with-on-chain-79418eb988f6",
+      "date": "",
+      "chunk_id": 2
+    }
+  },
+  {
+    "text": "On shorter time frames, we can also see that individual large outflows have a strong tendency to indicate that the price is bottoming and/or continuing the move upward.\n\nFor this research, we have removed derivative exchange outflows. This is because Bitcoin is used to both long and short on derivative exchanges, as well as the nature of derivatives being more speculative than spot.",
+    "metadata": {
+      "source": "cryptoquant",
+      "title": "Iran and Market Behavior: A Deep Dive with On-Chain",
+      "url": "https://cryptoquant.substack.com/p/iran-and-market-behavior-a-deep-dive-with-on-chain-79418eb988f6",
+      "date": "",
+      "chunk_id": 3
+    }
+  },
+  {
+    "text": "There are two frames from which to view the Iranian Crisis. The first is the crisis as a whole event, taking place over multiple days, and the second is analyzing specific points that lead to escalations. (The death of Soleimani/Iran executed missile attacks on U.S. military positions) Looking at both of these will allows provide insight into\n\nIf Bitcoin is being perceived by some as a safe-haven asset?\n\n2. If they do, how fast/intensely did investors react?",
+    "metadata": {
+      "source": "cryptoquant",
+      "title": "Iran and Market Behavior: A Deep Dive with On-Chain",
+      "url": "https://cryptoquant.substack.com/p/iran-and-market-behavior-a-deep-dive-with-on-chain-79418eb988f6",
+      "date": "",
+      "chunk_id": 4
+    }
+  },
+  {
+    "text": "The crisis began on January 2nd, reached a peak on January 7th, and ended with Trump’s announcement on January 8th. Prior to the crisis, we can see that outflows hit a nearly 2 month low, at 12.17k for January 1st. Following the U.S. strikes, outflow rose to 37.24k on January 3rd. They fell back to 18.15k on the 5th, before rising again to peak at 49.14k on January 8th, the day following the Iranian strikes against the U.S military. This was the highest outflow that had occurred since November",
+    "metadata": {
+      "source": "cryptoquant",
+      "title": "Iran and Market Behavior: A Deep Dive with On-Chain",
+      "url": "https://cryptoquant.substack.com/p/iran-and-market-behavior-a-deep-dive-with-on-chain-79418eb988f6",
+      "date": "",
+      "chunk_id": 5
+    }
+  },
+  {
+    "text": "strikes against the U.S military. This was the highest outflow that had occurred since November 29th of 2019. Bitcoin outflows increased by 4x over the course of the crisis. This narrative is further strengthened when we see that these increases in outflows correlated highly with the bottom in price on January 2nd.",
+    "metadata": {
+      "source": "cryptoquant",
+      "title": "Iran and Market Behavior: A Deep Dive with On-Chain",
+      "url": "https://cryptoquant.substack.com/p/iran-and-market-behavior-a-deep-dive-with-on-chain-79418eb988f6",
+      "date": "",
+      "chunk_id": 6
+    }
+  },
+  {
+    "text": "U.S. airstrikes near the Baghdad Airport took place at 22:00 on January 2nd. News of the event began actively circulating within 12 hours, with the most notable, a tweet from an Iranian official, taking place at January 3rd, 3:58 am UTC. During this time we can see an active rise in exchange outflows, with price also rising accordingly. On block 611,036, which took place at UTCH 2020–01–03 04:16:03, outflows rise from 5 BTC in the previous block to 648 BTC. These high outflows continue to",
+    "metadata": {
+      "source": "cryptoquant",
+      "title": "Iran and Market Behavior: A Deep Dive with On-Chain",
+      "url": "https://cryptoquant.substack.com/p/iran-and-market-behavior-a-deep-dive-with-on-chain-79418eb988f6",
+      "date": "",
+      "chunk_id": 7
+    }
+  },
+  {
+    "text": "outflows rise from 5 BTC in the previous block to 648 BTC. These high outflows continue to occur, and lead to a peak at block 611,042. Here there was 780 BTC withdrawn, and it was also during this block that price jumped from 7016 to 7238.",
+    "metadata": {
+      "source": "cryptoquant",
+      "title": "Iran and Market Behavior: A Deep Dive with On-Chain",
+      "url": "https://cryptoquant.substack.com/p/iran-and-market-behavior-a-deep-dive-with-on-chain-79418eb988f6",
+      "date": "",
+      "chunk_id": 8
+    }
+  },
+  {
+    "text": "Iranian strikes against the U.S. took place at approximately 22:30 on January 7th. News of these attacks began coming out within 4 hours after. We see a similar pattern here as previous. Block 611,801 was mined at UTC 22:34. The exchange outflow was 642.53 BTC. This outflow occurred at the exact local bottom of $8,000. It could be suggested that someone knew about the attacks, and began withdrawing immediately. Following this, outflows were relatively low for a little over an hour, then saw a",
+    "metadata": {
+      "source": "cryptoquant",
+      "title": "Iran and Market Behavior: A Deep Dive with On-Chain",
+      "url": "https://cryptoquant.substack.com/p/iran-and-market-behavior-a-deep-dive-with-on-chain-79418eb988f6",
+      "date": "",
+      "chunk_id": 9
+    }
+  },
+  {
+    "text": "immediately. Following this, outflows were relatively low for a little over an hour, then saw a sustained increase, which peaked at block 611,817. The outflow here was 820.09 BTC, and this was the same block that saw price increase sharply, from 8,160 to 8,304 (1.7%) in the twenty minute period between the two blocks.",
+    "metadata": {
+      "source": "cryptoquant",
+      "title": "Iran and Market Behavior: A Deep Dive with On-Chain",
+      "url": "https://cryptoquant.substack.com/p/iran-and-market-behavior-a-deep-dive-with-on-chain-79418eb988f6",
+      "date": "",
+      "chunk_id": 10
+    }
+  },
+  {
+    "text": "The “conflict” formally concluded with Trump announcing that the United States wouldn’t pursue further engagements. This took place around January 8th, 14:00 UTC. Block 611,918 was mined at 16:50 UTC. This block was the last large outflow we see, and since then, outflows have again decreased, with no outflow since then reaching over 800. This against correlates with the price drop, and in part explains the subsequent difficulty price has had to get above of 8.2k.",
+    "metadata": {
+      "source": "cryptoquant",
+      "title": "Iran and Market Behavior: A Deep Dive with On-Chain",
+      "url": "https://cryptoquant.substack.com/p/iran-and-market-behavior-a-deep-dive-with-on-chain-79418eb988f6",
+      "date": "",
+      "chunk_id": 11
+    }
+  },
+  {
+    "text": "Looking at both a macro and micro scale, through the events of the US-Iran conflict, we can see how each step affected peoples desire to hodl Bitcoin. Although we can’t determine exactly what number of people wanted to hodl, there seems to be a clear change in on-chain behavior as the conflict took place. As tensions rose, we see peoples desire to hold the asset increased. But as soon as the conflict was resolved, this demand dropped, leading to a downturn in price. In all cases, the reaction",
+    "metadata": {
+      "source": "cryptoquant",
+      "title": "Iran and Market Behavior: A Deep Dive with On-Chain",
+      "url": "https://cryptoquant.substack.com/p/iran-and-market-behavior-a-deep-dive-with-on-chain-79418eb988f6",
+      "date": "",
+      "chunk_id": 12
+    }
+  },
+  {
+    "text": "was resolved, this demand dropped, leading to a downturn in price. In all cases, the reaction was within a few hours, and it did seem that some people had firsthand information, with larger exchange outflows taking place within the same or next block.",
+    "metadata": {
+      "source": "cryptoquant",
+      "title": "Iran and Market Behavior: A Deep Dive with On-Chain",
+      "url": "https://cryptoquant.substack.com/p/iran-and-market-behavior-a-deep-dive-with-on-chain-79418eb988f6",
+      "date": "",
+      "chunk_id": 13
+    }
+  },
+  {
+    "text": "Although a one time event is never enough to be conclusive, it does provide an interesting overview of what could be a continuing shift in the perception of Bitcoin. Although Bitcoin is, and for the foreseeable future, will remain a speculative asset, through on-chain data, we can see firsthand what kind of behavior drives influences price, and better understand that behavior.\n\nNote: Total Spot Exchange to BitMEX outflow for this period was less than 3% of the total spot outflow.",
+    "metadata": {
+      "source": "cryptoquant",
+      "title": "Iran and Market Behavior: A Deep Dive with On-Chain",
+      "url": "https://cryptoquant.substack.com/p/iran-and-market-behavior-a-deep-dive-with-on-chain-79418eb988f6",
+      "date": "",
+      "chunk_id": 14
+    }
+  },
+  {
+    "text": "Following our report yesterday on the BitMEX Withdrawal system as a core cause of the crash, we look into the validity of claims that hashrate is what caused the sudden drop in price.\n\nData Source: CryptoQuant",
+    "metadata": {
+      "source": "cryptoquant",
+      "title": "Q. Was the crash caused by the Sudden Hash rate Decrease?",
+      "url": "https://cryptoquant.substack.com/p/q-was-the-crash-caused-by-the-sudden-hash-rate-decrease-56d9c9d46ae0",
+      "date": "",
+      "chunk_id": 0
+    }
+  },
+  {
+    "text": "Data Source: CryptoQuant\n\nMany sources are claiming that the hashrate fall is the source of the drop in price. But hash rate acts as a lagging indicator following Bitcoin price. Its role as a factor in price is minimal. Looking at the hashrate chart overlaid onto the price chart, it is difficult to establish a correlation between the two.",
+    "metadata": {
+      "source": "cryptoquant",
+      "title": "Q. Was the crash caused by the Sudden Hash rate Decrease?",
+      "url": "https://cryptoquant.substack.com/p/q-was-the-crash-caused-by-the-sudden-hash-rate-decrease-56d9c9d46ae0",
+      "date": "",
+      "chunk_id": 1
+    }
+  },
+  {
+    "text": "To investigate the idea of little to no correlation, we conducted analysis into the correlation between the price and hashrate. Correlation was measured by comparing the price and the average hash rate over 1 day and 10 day periods.\n\nCorrelation of 1 Day Hashrate and BTC Price\n\nData Source: CryptoQuant\n\nCorrelation of 10 Day Hashrate and BTC Price\n\nData Source: CryptoQuant",
+    "metadata": {
+      "source": "cryptoquant",
+      "title": "Q. Was the crash caused by the Sudden Hash rate Decrease?",
+      "url": "https://cryptoquant.substack.com/p/q-was-the-crash-caused-by-the-sudden-hash-rate-decrease-56d9c9d46ae0",
+      "date": "",
+      "chunk_id": 2
+    }
+  },
+  {
+    "text": "Data Source: CryptoQuant\n\nCorrelation of 10 Day Hashrate and BTC Price\n\nData Source: CryptoQuant\n\nOur analysis found that the price of BTC and the hashrate at both 1 day and 10 day averages have no correlation, as thecoefficientdoesn’t exceed -0.2 ~ 0.2. The recent decline was also the case, as miners didn’t impact price. The decline in hashrate was instead a result of miners decreased profitability.",
+    "metadata": {
+      "source": "cryptoquant",
+      "title": "Q. Was the crash caused by the Sudden Hash rate Decrease?",
+      "url": "https://cryptoquant.substack.com/p/q-was-the-crash-caused-by-the-sudden-hash-rate-decrease-56d9c9d46ae0",
+      "date": "",
+      "chunk_id": 3
+    }
+  },
+  {
+    "text": "Moving forward, the value of On-Chain data will only increase, as on-chain data’s role in analysis grows. It is difficult to build a comprehensive understanding of the Bitcoin ecosystem and the exchanges, miners, dark net and whales that it consists of without this data. Their holdings and movement of coins proves to be central to building this understanding. Here at CryptoQuant, we intend on continually producing specialized data for hedge funds and institutional investors, as well as reports",
+    "metadata": {
+      "source": "cryptoquant",
+      "title": "Q. Was the crash caused by the Sudden Hash rate Decrease?",
+      "url": "https://cryptoquant.substack.com/p/q-was-the-crash-caused-by-the-sudden-hash-rate-decrease-56d9c9d46ae0",
+      "date": "",
+      "chunk_id": 4
+    }
+  },
+  {
+    "text": "producing specialized data for hedge funds and institutional investors, as well as reports outlining our views of the Bitcoin ecosystem.",
+    "metadata": {
+      "source": "cryptoquant",
+      "title": "Q. Was the crash caused by the Sudden Hash rate Decrease?",
+      "url": "https://cryptoquant.substack.com/p/q-was-the-crash-caused-by-the-sudden-hash-rate-decrease-56d9c9d46ae0",
+      "date": "",
+      "chunk_id": 5
+    }
+  },
+  {
+    "text": "In a traditional market, investors rely heavily on indicators when making financial decisions, since they tell us the strength and direction of the market. The same holds true for cryptocurrencies, and in this post, we will cover indicators for cryptocurrencies.",
+    "metadata": {
+      "source": "cryptoquant",
+      "title": "The On-chain Indicators - by Ki Young Ju",
+      "url": "https://cryptoquant.substack.com/p/the-on-chain-indicators-aee97e27cfd2",
+      "date": "2020-04-08T11:19:16.781Z",
+      "chunk_id": 0
+    }
+  },
+  {
+    "text": "Many of the indicators that are already available to us are developed for the traditional market. For example, one of the most widely used indicators,market cap, is found by liquefying shares outstanding to the current market price. With this, we can determine the size of a company.",
+    "metadata": {
+      "source": "cryptoquant",
+      "title": "The On-chain Indicators - by Ki Young Ju",
+      "url": "https://cryptoquant.substack.com/p/the-on-chain-indicators-aee97e27cfd2",
+      "date": "2020-04-08T11:19:16.781Z",
+      "chunk_id": 1
+    }
+  },
+  {
+    "text": "While the simple formula gives us useful information, they are inaccurate to be applied directly to cryptocurrencies. This is because unlike shares in the traditional market, coins can be unclaimed, lost or even become inert. As a result, new indicators started popping up for cryptocurrencies. Below, we will briefly introduce some of the widely used indicators for cryptocurrencies. It’s important to keep in mind that although they are designed specifically for them, even these approaches have",
+    "metadata": {
+      "source": "cryptoquant",
+      "title": "The On-chain Indicators - by Ki Young Ju",
+      "url": "https://cryptoquant.substack.com/p/the-on-chain-indicators-aee97e27cfd2",
+      "date": "2020-04-08T11:19:16.781Z",
+      "chunk_id": 2
+    }
+  },
+  {
+    "text": "to keep in mind that although they are designed specifically for them, even these approaches have limitations, which will be also be discussed later in the section, as well as our proposed solution to overcome those limitations.",
+    "metadata": {
+      "source": "cryptoquant",
+      "title": "The On-chain Indicators - by Ki Young Ju",
+      "url": "https://cryptoquant.substack.com/p/the-on-chain-indicators-aee97e27cfd2",
+      "date": "2020-04-08T11:19:16.781Z",
+      "chunk_id": 3
+    }
+  },
+  {
+    "text": "The main objective of realized cap is to discount all lost or inert coins to find the actual market cap. There are two methods in calculating realized cap, UTXO coin, and account coin. UTXO coin assigns value to the output with the price at the time of its creation:\n\nΣ(UTXO volume of unspent coins * value at the time of creation)",
+    "metadata": {
+      "source": "cryptoquant",
+      "title": "The On-chain Indicators - by Ki Young Ju",
+      "url": "https://cryptoquant.substack.com/p/the-on-chain-indicators-aee97e27cfd2",
+      "date": "2020-04-08T11:19:16.781Z",
+      "chunk_id": 4
+    }
+  },
+  {
+    "text": "Address coin is much trickier to handle since we have to deal with a list of addresses with balance rather than unspent coins. One method of address coin, called Virtual UTXO, keeps track of the current market price of every incoming movement. In outgoing movement, the coin with the smallest/largest amount is chosen for the transaction, and the new virtual UTXO from the transaction(change address) will be valued at the current market value. The realized cap is calculated by summing all virtual",
+    "metadata": {
+      "source": "cryptoquant",
+      "title": "The On-chain Indicators - by Ki Young Ju",
+      "url": "https://cryptoquant.substack.com/p/the-on-chain-indicators-aee97e27cfd2",
+      "date": "2020-04-08T11:19:16.781Z",
+      "chunk_id": 5
+    }
+  },
+  {
+    "text": "will be valued at the current market value. The realized cap is calculated by summing all virtual UTXOs multiplied by their recorded market value.",
+    "metadata": {
+      "source": "cryptoquant",
+      "title": "The On-chain Indicators - by Ki Young Ju",
+      "url": "https://cryptoquant.substack.com/p/the-on-chain-indicators-aee97e27cfd2",
+      "date": "2020-04-08T11:19:16.781Z",
+      "chunk_id": 6
+    }
+  },
+  {
+    "text": "Σ(coinbase rewards * price they were mined)\n\nThermo cap is obtained by summing all the rewards obtained from mining multiplied by the price they were mined. This represents the cumulative security spent by the network, and it’s assumed to be the actual inflow of coin. Thus, thermo cap tells us the ceiling of how much new capital has entered.\n\nNVT Ratio = network value / daily transaction volume",
+    "metadata": {
+      "source": "cryptoquant",
+      "title": "The On-chain Indicators - by Ki Young Ju",
+      "url": "https://cryptoquant.substack.com/p/the-on-chain-indicators-aee97e27cfd2",
+      "date": "2020-04-08T11:19:16.781Z",
+      "chunk_id": 7
+    }
+  },
+  {
+    "text": "NVT Ratio = network value / daily transaction volume\n\nNVT ratio indicates market confidence. Since investment activities determine daily transaction volume, increase in investment activities will increase daily transaction volume, which lowers NVT ratio, signaling a bear market. Likewise, a decrease in daily transaction volume would signal the bull market.\n\nBitcoin Network Momentum = Daily On-chain BTC Volume\n\nsource:http://charts.woobull.com/",
+    "metadata": {
+      "source": "cryptoquant",
+      "title": "The On-chain Indicators - by Ki Young Ju",
+      "url": "https://cryptoquant.substack.com/p/the-on-chain-indicators-aee97e27cfd2",
+      "date": "2020-04-08T11:19:16.781Z",
+      "chunk_id": 8
+    }
+  },
+  {
+    "text": "Bitcoin Network Momentum = Daily On-chain BTC Volume\n\nsource:http://charts.woobull.com/\n\nBitcoin network momentum is used to identify which stage the market cycle is in. This is found by observing the BTC price movement from daily on-chain BTC volume, like the plot above. The method is a no-brainer, but it serves as one of the leading indicators.",
+    "metadata": {
+      "source": "cryptoquant",
+      "title": "The On-chain Indicators - by Ki Young Ju",
+      "url": "https://cryptoquant.substack.com/p/the-on-chain-indicators-aee97e27cfd2",
+      "date": "2020-04-08T11:19:16.781Z",
+      "chunk_id": 9
+    }
+  },
+  {
+    "text": "Now that we have briefly introduced each indicator let’s discuss their limitations as a tool in making important financial decisions. The two main limitations of these indicators are the following:\n\nThe indicators are inflexible to observe setting other than what is made for, mainly due to the lack of data available to us.\n\nVolume used for these indicators is obtained by computing all transactions in the network. This is prone to noise.",
+    "metadata": {
+      "source": "cryptoquant",
+      "title": "The On-chain Indicators - by Ki Young Ju",
+      "url": "https://cryptoquant.substack.com/p/the-on-chain-indicators-aee97e27cfd2",
+      "date": "2020-04-08T11:19:16.781Z",
+      "chunk_id": 10
+    }
+  },
+  {
+    "text": "To expand on data unavailability, realized cap’s definition of inert coins is not clear. Hence, it is essential that we have the right heuristics to identify inert coins in the market. As for thermo cap, the formula can only be used for identifying actual inflow of coins, since acquiring miner’s coinbase rewards data is a fairly easy task.",
+    "metadata": {
+      "source": "cryptoquant",
+      "title": "The On-chain Indicators - by Ki Young Ju",
+      "url": "https://cryptoquant.substack.com/p/the-on-chain-indicators-aee97e27cfd2",
+      "date": "2020-04-08T11:19:16.781Z",
+      "chunk_id": 11
+    }
+  },
+  {
+    "text": "Another problem arises when we calculate the volume of the network. The issue with NVT ratio and bitcoin network momentum is that these metrics compute volume holistically; summing the entire transaction in the network. This is a critical flaw because the network itself is very noisy (e.g. dummy transactions, money laundry using tumbler, etc.), but these indicators account all of these movements, causing the indicator to overestimate the actual movement of bitcoin, making the indicator highly",
+    "metadata": {
+      "source": "cryptoquant",
+      "title": "The On-chain Indicators - by Ki Young Ju",
+      "url": "https://cryptoquant.substack.com/p/the-on-chain-indicators-aee97e27cfd2",
+      "date": "2020-04-08T11:19:16.781Z",
+      "chunk_id": 12
+    }
+  },
+  {
+    "text": "causing the indicator to overestimate the actual movement of bitcoin, making the indicator highly unreliable.",
+    "metadata": {
+      "source": "cryptoquant",
+      "title": "The On-chain Indicators - by Ki Young Ju",
+      "url": "https://cryptoquant.substack.com/p/the-on-chain-indicators-aee97e27cfd2",
+      "date": "2020-04-08T11:19:16.781Z",
+      "chunk_id": 13
+    }
+  },
+  {
+    "text": "To obtain indicators that best describes the market, we need wallet information and the methodology to remove unnecessary transactions(noise) in the network. The question is just how do we do that? We believe the answer lies within deanonymization of cryptocurrencies.",
+    "metadata": {
+      "source": "cryptoquant",
+      "title": "The On-chain Indicators - by Ki Young Ju",
+      "url": "https://cryptoquant.substack.com/p/the-on-chain-indicators-aee97e27cfd2",
+      "date": "2020-04-08T11:19:16.781Z",
+      "chunk_id": 14
+    }
+  },
+  {
+    "text": "With deanonymization technology, we can identify inert coins based on how we define them. We can create various indicators using different criteria for defining inert coins. Likewise, using the technology, we can find exchange wallet’s cap using the identified exchange wallet’s balance inflows and outflows.",
+    "metadata": {
+      "source": "cryptoquant",
+      "title": "The On-chain Indicators - by Ki Young Ju",
+      "url": "https://cryptoquant.substack.com/p/the-on-chain-indicators-aee97e27cfd2",
+      "date": "2020-04-08T11:19:16.781Z",
+      "chunk_id": 15
+    }
+  },
+  {
+    "text": "Derivations of indicators are also possible for NVT ratio and bitcoin network momentum. With the identified entity data, calculating the volume of each entity(e.g. Exchange NVT ratio using daily exchange transaction volume) is possible. This would greatly reduce the noise that is associated with other entities and empowers us to observe our target of interest from the overgeneralized network volume.",
+    "metadata": {
+      "source": "cryptoquant",
+      "title": "The On-chain Indicators - by Ki Young Ju",
+      "url": "https://cryptoquant.substack.com/p/the-on-chain-indicators-aee97e27cfd2",
+      "date": "2020-04-08T11:19:16.781Z",
+      "chunk_id": 16
+    }
+  },
+  {
+    "text": "Theoretically, we can also selectively remove all categorized entities such as miners and exchange services to find the remainder(individual wallets) and approximate the OTC market. This is how powerful having a collection of identified wallet data is, and why be believe cryptocurrency deanonymization is extremely crucial for indicators. More examples of indicators built from wallet data will be introduced in the following posts.",
+    "metadata": {
+      "source": "cryptoquant",
+      "title": "The On-chain Indicators - by Ki Young Ju",
+      "url": "https://cryptoquant.substack.com/p/the-on-chain-indicators-aee97e27cfd2",
+      "date": "2020-04-08T11:19:16.781Z",
+      "chunk_id": 17
+    }
+  },
+  {
+    "text": "We have touched upon some of the most commonly used indicators for cryptocurrency. While these indicators can be of use, they lack to reflect the actual market accurately. Cryptocurrency deanonymization is crucial to overcome this problem. With categorized entity data obtained from deanonymization, we can create derived indicators to see the real market behind the noise.",
+    "metadata": {
+      "source": "cryptoquant",
+      "title": "The On-chain Indicators - by Ki Young Ju",
+      "url": "https://cryptoquant.substack.com/p/the-on-chain-indicators-aee97e27cfd2",
+      "date": "2020-04-08T11:19:16.781Z",
+      "chunk_id": 18
+    }
+  },
+  {
+    "text": "There are two major bitcoin heuristics to clustering an entity: common-input-ownership heuristic and change address detection heuristic.\n\nIn a single transaction, common-input-ownership heuristic assumes the input address is all from one entity. There are cases, however, where input addresses can be of multiple entities. This is called coinjoin, and would break this assumption. (e.g. address 3 in the image below)",
+    "metadata": {
+      "source": "cryptoquant",
+      "title": "Introduction to Bitcoin Heuristics - by Ki Young Ju",
+      "url": "https://cryptoquant.substack.com/p/introduction-to-bitcoin-heuristics-487c298fb95b",
+      "date": "",
+      "chunk_id": 0
+    }
+  },
+  {
+    "text": "Change address detection heuristic utilizes the characteristics of UTXO. As it is difficult to send the exact specified amount of funds to the receiver, the remainder of the funds are to be returned to the entity via change address. Hence, change address detection is necessary as it’s part of the entity. In this post, we will focus on the heuristics of change address detection.",
+    "metadata": {
+      "source": "cryptoquant",
+      "title": "Introduction to Bitcoin Heuristics - by Ki Young Ju",
+      "url": "https://cryptoquant.substack.com/p/introduction-to-bitcoin-heuristics-487c298fb95b",
+      "date": "",
+      "chunk_id": 1
+    }
+  },
+  {
+    "text": "Our company primarily focuses on researching the most reliable heuristics in detecting clusters. Here are some of the methods that we have stumbled upon while developing our heuristics, and our insights on them.",
+    "metadata": {
+      "source": "cryptoquant",
+      "title": "Introduction to Bitcoin Heuristics - by Ki Young Ju",
+      "url": "https://cryptoquant.substack.com/p/introduction-to-bitcoin-heuristics-487c298fb95b",
+      "date": "",
+      "chunk_id": 2
+    }
+  },
+  {
+    "text": "This method detects change the address by checking the output addresses. If there exists an address that was never previously observed, there’s a high chance that it’s a change address. This is because the purpose of creating a new address in a transaction is to return the remaining funds.\n\nTo use this heuristic, it has to match the conditions below.\n\nThe address must not have been previously observed\n\nIt has to be the ONLY address to not been observed before",
+    "metadata": {
+      "source": "cryptoquant",
+      "title": "Introduction to Bitcoin Heuristics - by Ki Young Ju",
+      "url": "https://cryptoquant.substack.com/p/introduction-to-bitcoin-heuristics-487c298fb95b",
+      "date": "",
+      "chunk_id": 3
+    }
+  },
+  {
+    "text": "It has to be the ONLY address to not been observed before\n\nThe heuristic is rather simple, but it is one of the most commonly used. We believe that this method is capable of detecting change address in many cases.",
+    "metadata": {
+      "source": "cryptoquant",
+      "title": "Introduction to Bitcoin Heuristics - by Ki Young Ju",
+      "url": "https://cryptoquant.substack.com/p/introduction-to-bitcoin-heuristics-487c298fb95b",
+      "date": "",
+      "chunk_id": 4
+    }
+  },
+  {
+    "text": "The length of decimal places in a change address’s value is assumed to be much longer than any other output addresses. This is possible because nowadays each transaction carries a transaction fee, and the specified amount of funds in a transaction tends to be reduced in precision for rapid human interpretation of annotation (e.g. you would just send $5 to your friend instead of sending $4.93).",
+    "metadata": {
+      "source": "cryptoquant",
+      "title": "Introduction to Bitcoin Heuristics - by Ki Young Ju",
+      "url": "https://cryptoquant.substack.com/p/introduction-to-bitcoin-heuristics-487c298fb95b",
+      "date": "",
+      "chunk_id": 5
+    }
+  },
+  {
+    "text": "It is important to note that in the past, there were a considerable amount of transactions that had reduced precision value for change address, but nowadays all output addresses contain decimals. Hence, finding the right parameters are essential for correctly detecting the change address.",
+    "metadata": {
+      "source": "cryptoquant",
+      "title": "Introduction to Bitcoin Heuristics - by Ki Young Ju",
+      "url": "https://cryptoquant.substack.com/p/introduction-to-bitcoin-heuristics-487c298fb95b",
+      "date": "",
+      "chunk_id": 6
+    }
+  },
+  {
+    "text": "In our implementation, we first search for an address with decimal length greater than 7. If all other output value’s decimal lengths are less than 2, then the address is accepted as a change address (the two parameters may be adjusted to enhance performance). Though this heuristic has many exceptions due to its simplicity, as long as the difference between the two parameters is large, it can perform decently.",
+    "metadata": {
+      "source": "cryptoquant",
+      "title": "Introduction to Bitcoin Heuristics - by Ki Young Ju",
+      "url": "https://cryptoquant.substack.com/p/introduction-to-bitcoin-heuristics-487c298fb95b",
+      "date": "",
+      "chunk_id": 7
+    }
+  },
+  {
+    "text": "As previously explained, coinjoin is a case where input addresses come from multiple entities. These entities send the exact amount of funds to multiple addresses, increasing the level of anonymity.",
+    "metadata": {
+      "source": "cryptoquant",
+      "title": "Introduction to Bitcoin Heuristics - by Ki Young Ju",
+      "url": "https://cryptoquant.substack.com/p/introduction-to-bitcoin-heuristics-487c298fb95b",
+      "date": "",
+      "chunk_id": 8
+    }
+  },
+  {
+    "text": "In the figure above, address 21 and address 32 has the same output value. This makes it hard to differentiate which entity has sent the fund to address 21 and address 32. However, it is possible to determine the change address by simply calculating the difference of the output value from the subset-sum of input values (e.g (0.006 + 0.005) — 0.01 = 0.001). The problem with coinjoin is that we have to handle two or more entities from one transaction.\n\nIn our implementation:",
+    "metadata": {
+      "source": "cryptoquant",
+      "title": "Introduction to Bitcoin Heuristics - by Ki Young Ju",
+      "url": "https://cryptoquant.substack.com/p/introduction-to-bitcoin-heuristics-487c298fb95b",
+      "date": "",
+      "chunk_id": 9
+    }
+  },
+  {
+    "text": "In our implementation:\n\nDetermine if the transaction is coinjoin by checking if two or more output values are equivalent\n\nIf condition 1 is true, increase the number of entity to cluster\n\nCurrently, we assume the number of entities is equal to the number of outputs with equivalent values.\n\nIt is essential to implement cases where the number of inputs does not equal to the number of outputs with equivalent values, to accurately estimate entities.",
+    "metadata": {
+      "source": "cryptoquant",
+      "title": "Introduction to Bitcoin Heuristics - by Ki Young Ju",
+      "url": "https://cryptoquant.substack.com/p/introduction-to-bitcoin-heuristics-487c298fb95b",
+      "date": "",
+      "chunk_id": 10
+    }
+  },
+  {
+    "text": "It is highly probable that an entity would use only one script type throughout a transaction. This implies that if all input addresses have the same script type while output addresses aren’t, the output address with the script type identical to the input addresses is the change address.\n\nIn the figure above, we can infer that address 4 is the change address as it is the only output address with the same script type.",
+    "metadata": {
+      "source": "cryptoquant",
+      "title": "Introduction to Bitcoin Heuristics - by Ki Young Ju",
+      "url": "https://cryptoquant.substack.com/p/introduction-to-bitcoin-heuristics-487c298fb95b",
+      "date": "",
+      "chunk_id": 11
+    }
+  },
+  {
+    "text": "This heuristic assumes that the payment amount is usually some reduced precision number, such as $5.50 or $19.00. With this assumption, an output address with a value that isn’t reduced in precision is considered to be the change address. The problem with this method is that the number could be in some form of reduced precision in a different currency (e.g. USD). Hence, we need to import the exchange rate at the time frame of when the transaction had occurred, but the cost of resources outruns",
+    "metadata": {
+      "source": "cryptoquant",
+      "title": "Introduction to Bitcoin Heuristics - by Ki Young Ju",
+      "url": "https://cryptoquant.substack.com/p/introduction-to-bitcoin-heuristics-487c298fb95b",
+      "date": "",
+      "chunk_id": 12
+    }
+  },
+  {
+    "text": "rate at the time frame of when the transaction had occurred, but the cost of resources outruns the performance.",
+    "metadata": {
+      "source": "cryptoquant",
+      "title": "Introduction to Bitcoin Heuristics - by Ki Young Ju",
+      "url": "https://cryptoquant.substack.com/p/introduction-to-bitcoin-heuristics-487c298fb95b",
+      "date": "",
+      "chunk_id": 13
+    }
+  },
+  {
+    "text": "This heuristic is based on the logic of what need not spent, stays. For example, we have:\n\n2 + 3 → 4 + 1, where left: input amount, right: output amount\n\nIf we wanted to send 1BTC, we would have only needed to send one of the two input addresses. However, because we sent 4BTC, we needed both of those addresses.\n\nThe problem with this method is that there are wallets that use coin selection algorithms that do not fit into this logic.",
+    "metadata": {
+      "source": "cryptoquant",
+      "title": "Introduction to Bitcoin Heuristics - by Ki Young Ju",
+      "url": "https://cryptoquant.substack.com/p/introduction-to-bitcoin-heuristics-487c298fb95b",
+      "date": "",
+      "chunk_id": 14
+    }
+  },
+  {
+    "text": "This heuristic has not been used due to the issue stated above. Moreover, the performance of the method itself was low.\n\nWe have explored some of the most widely known bitcoin entity clustering heuristics. Based on our experience with these techniques, we were able to spot many flaws in these methods, hence making the cluster unreliable. This is why our company strives for developing robust algorithms that will effectively cluster entities.",
+    "metadata": {
+      "source": "cryptoquant",
+      "title": "Introduction to Bitcoin Heuristics - by Ki Young Ju",
+      "url": "https://cryptoquant.substack.com/p/introduction-to-bitcoin-heuristics-487c298fb95b",
+      "date": "",
+      "chunk_id": 15
+    }
+  },
+  {
+    "text": "The Rekt Capital Newsletter has moved to its new websitehttps://newsletter.rektcapital.co!\n\nThat means this Substack account will no longer be updated.\n\nSo if you have not yet subscribed - don’t subscribe here,subscribe on our new website!\n\nSubscribe to the Rekt Capital Newsletter\n\nAfter delivering almost 3 years and over 650+ editions of the Rekt Capital Newsletter straight to your inbox,I’m delighted to announce a new home for the newsletter.",
+    "metadata": {
+      "source": "rektcapital",
+      "title": "We've moved websites! - Rekt Capital Newsletter",
+      "url": "https://rektcapital.substack.com/p/weve-moved-websites",
+      "date": "2021-10-06T15:04:26.802Z",
+      "chunk_id": 0
+    }
+  },
+  {
+    "text": "The sole aim of the Rekt Capital Newsletter has and always will be to deliver cutting-edge, level-headed market insights on Bitcoin and other cryptocurrencies and it is my true hope that operating independently only adds to that vision.\n\nIf you have a free or premium membership, you will still receive newsletters as normal - straight into your inbox, three times a week.",
+    "metadata": {
+      "source": "rektcapital",
+      "title": "We've moved websites! - Rekt Capital Newsletter",
+      "url": "https://rektcapital.substack.com/p/weve-moved-websites",
+      "date": "2021-10-06T15:04:26.802Z",
+      "chunk_id": 1
+    }
+  },
+  {
+    "text": "If you’re already a subscriber, no need to re-subscribe as you’ve already been automatically migrated over. Your membership will give you access to all posts on thenew site: https://newsletter.rektcapital.co\n\nSince your membership has been migrated over to the new site, you will no longer have access to premium content on this Substack account. This Substack account will no longer be updated.\n\nThe new home for all newsletter content ishttps://newsletter.rektcapital.co",
+    "metadata": {
+      "source": "rektcapital",
+      "title": "We've moved websites! - Rekt Capital Newsletter",
+      "url": "https://rektcapital.substack.com/p/weve-moved-websites",
+      "date": "2021-10-06T15:04:26.802Z",
+      "chunk_id": 2
+    }
+  },
+  {
+    "text": "The new home for all newsletter content ishttps://newsletter.rektcapital.co\n\nLet me know if you have any questions or feedback - feel free to contact me via email (rektcapital@gmail.com) or onTwitter. My inbox is always open.\n\nSubscribe to the Rekt Capital Newsletter",
+    "metadata": {
+      "source": "rektcapital",
+      "title": "We've moved websites! - Rekt Capital Newsletter",
+      "url": "https://rektcapital.substack.com/p/weve-moved-websites",
+      "date": "2021-10-06T15:04:26.802Z",
+      "chunk_id": 3
+    }
+  },
+  {
+    "text": "Hey there!\n\nHow did you start trading/investing?\n\nI remember when I first started, I had some fundamental understanding, but I lacked key TA principles, strategies and risk management know-how.\n\nBack then, I would’ve loved guidance on this from reputable investors and teachers.\n\nAfter learning and figuring it out, I got better and better, and that led me to share what I know in my courses.\n\nIf you’ve not picked them up yet, I’d like to encourage you to do so.",
+    "metadata": {
+      "source": "rektcapital",
+      "title": "Make Informed Crypto Investments - Rekt Capital Newsletter",
+      "url": "https://rektcapital.substack.com/p/make-informed-crypto-investments",
+      "date": "2021-10-06T15:04:26.802Z",
+      "chunk_id": 0
+    }
+  },
+  {
+    "text": "If you’ve not picked them up yet, I’d like to encourage you to do so.\n\nRight now, and for a limited time, there's a special offer on all my courses.\n\nIn a few days, course prices will nearly double!\n\n🔥Cryptocurrency Technical Analysis Course ($149):A comprehensive 17-hour course covering over 10 TA tools for beginners and intermediate traders and investors.\n\n🔥Altcoin Investing Course ($199):A 9-module course designed to help you understand and navigate the Altcoin market.",
+    "metadata": {
+      "source": "rektcapital",
+      "title": "Make Informed Crypto Investments - Rekt Capital Newsletter",
+      "url": "https://rektcapital.substack.com/p/make-informed-crypto-investments",
+      "date": "2021-10-06T15:04:26.802Z",
+      "chunk_id": 1
+    }
+  },
+  {
+    "text": "🔥Bitcoin Investing Course ($199):A 10-module course to guide you through Bitcoin Market Cycles and identify potential investment opportunities.\n\n🔥Cryptocurrency Risk Management Course ($249):This course will reveal to you my own personal risk management frame work and most importantly help you create your own risk management strategy using various tools.\n\n🔥Rekt Capital Masterclass ($499):Get access to all courses in one bundle!\n\nAll of my courses are rated at least 4.8, 4.9, or 5/5 on Gumroad.",
+    "metadata": {
+      "source": "rektcapital",
+      "title": "Make Informed Crypto Investments - Rekt Capital Newsletter",
+      "url": "https://rektcapital.substack.com/p/make-informed-crypto-investments",
+      "date": "2021-10-06T15:04:26.802Z",
+      "chunk_id": 2
+    }
+  },
+  {
+    "text": "All of my courses are rated at least 4.8, 4.9, or 5/5 on Gumroad.\n\nSo no doubt you’ll find it helpful!\n\nReminder: This offer expires soon! ⏳\n\nRecommended Course: Masterclass Bundle\n\nOr buy an Individual Course.\n\nThanks for reading,\n\nRekt Capital",
+    "metadata": {
+      "source": "rektcapital",
+      "title": "Make Informed Crypto Investments - Rekt Capital Newsletter",
+      "url": "https://rektcapital.substack.com/p/make-informed-crypto-investments",
+      "date": "2021-10-06T15:04:26.802Z",
+      "chunk_id": 3
+    }
+  },
+  {
+    "text": "Hey there,\n\nI want to let you know about an upcoming pricing change to all of my courses.\n\nOn 3 July 2023, I’ll be increasing the price of each course.\n\nIf you haven’t bought any of my courses yet, this email may come as perfect timing 🙂\n\nBecause it is perfect timing.\n\nAfter all, we are early-birds in this new Bitcoin Bull Market.\n\nWhich is why I feel like it’s fitting to offer these courses at early-bird prices as well.",
+    "metadata": {
+      "source": "rektcapital",
+      "title": "🚨 Price Increase Alert 🚨 - Rekt Capital Newsletter",
+      "url": "https://rektcapital.substack.com/p/price-increase-alert",
+      "date": "2021-10-06T15:04:26.802Z",
+      "chunk_id": 0
+    }
+  },
+  {
+    "text": "Which is why I feel like it’s fitting to offer these courses at early-bird prices as well.\n\nSo for a limited time, you can get ALL of my courses at the current price before the price increases.\n\nYou can also grab the Masterclass, which is a collection of all of my courses in one bundle.\n\nTheRekt Capital Masterclassincludes:\n\nBitcoin Investing Course which sells for $199\n\nAltcoin Investing Course which sells for $199\n\nCryptocurrency Technical Analysis Course which sells for $149",
+    "metadata": {
+      "source": "rektcapital",
+      "title": "🚨 Price Increase Alert 🚨 - Rekt Capital Newsletter",
+      "url": "https://rektcapital.substack.com/p/price-increase-alert",
+      "date": "2021-10-06T15:04:26.802Z",
+      "chunk_id": 1
+    }
+  },
+  {
+    "text": "Cryptocurrency Technical Analysis Course which sells for $149\n\nCryptocurrency Risk Management Course which sells for $249\n\nA total value of $796, but you get ALL of these courses in one bundle for only$499.\n\nBuy the masterclass bundle hereand join thousands of others.\n\nOrbrowse my courses.\n\nReminder:\n\nThis deal is only valid for 10 days.\n\nSpeak soon,\n\nRekt Capital\n\nGet Courses Before Price Goes Up",
+    "metadata": {
+      "source": "rektcapital",
+      "title": "🚨 Price Increase Alert 🚨 - Rekt Capital Newsletter",
+      "url": "https://rektcapital.substack.com/p/price-increase-alert",
+      "date": "2021-10-06T15:04:26.802Z",
+      "chunk_id": 2
+    }
+  },
+  {
+    "text": "Welcome to the Rekt Capital newsletter, a place for people who want to better navigate the crypto markets with the help of cutting-edge crypto research and unbiased market analysis.\n\nGive a gift subscription\n\nBitcoin has rejected from the Monthly Range high of $28900 and has been dropping within this $23400-$28900 macro range ever since.",
+    "metadata": {
+      "source": "rektcapital",
+      "title": "Bitcoin Volatility Incoming - Rekt Capital Newsletter",
+      "url": "https://rektcapital.substack.com/p/bitcoin-volatility-incoming-f20",
+      "date": "",
+      "chunk_id": 0
+    }
+  },
+  {
+    "text": "Of course, some reaction within the range is occurring with a downside wick developing here; interestingly enough, this reaction is occurring at around the mid-point of the range.\n\nEvery range has a mid-point and it dictates whether price continues to maintain the upper half of the range or the lower part of the range:\n\nAt the moment, this mid-point (black) is holding as support and this is where the reaction is occurring.",
+    "metadata": {
+      "source": "rektcapital",
+      "title": "Bitcoin Volatility Incoming - Rekt Capital Newsletter",
+      "url": "https://rektcapital.substack.com/p/bitcoin-volatility-incoming-f20",
+      "date": "",
+      "chunk_id": 1
+    }
+  },
+  {
+    "text": "As long as price maintains above this mid-range, then price will continue to occupy the upper half of the range.\n\nLose this level as support and price would occupy the lower half of the range.\n\nWill BTC stay above the mid-range or will it lose it?\n\nIn Bull Markets, the green 21-week EMA and blue 50-week EMAs act as bullish momentum indicators.\n\nWhen they act as support and continues to act as support over time, they facilitate uptrends.",
+    "metadata": {
+      "source": "rektcapital",
+      "title": "Bitcoin Volatility Incoming - Rekt Capital Newsletter",
+      "url": "https://rektcapital.substack.com/p/bitcoin-volatility-incoming-f20",
+      "date": "",
+      "chunk_id": 2
+    }
+  },
+  {
+    "text": "When they act as support and continues to act as support over time, they facilitate uptrends.\n\nAnd interestingly enough, both Bull Market EMAs are serving as support here, propping price up.\n\nThis is a good sign because bullish EMAs holding up price tend to precede uptrending price action.\n\nThe problem however is that BTC is also forming a series of Lower Highs (blue) which have been developing since mid-April.",
+    "metadata": {
+      "source": "rektcapital",
+      "title": "Bitcoin Volatility Incoming - Rekt Capital Newsletter",
+      "url": "https://rektcapital.substack.com/p/bitcoin-volatility-incoming-f20",
+      "date": "",
+      "chunk_id": 3
+    }
+  },
+  {
+    "text": "Clearly, BTC is now compressing in its price into the apex of what is becoming a triangle; the base of the triangle being the bullish EMAs and the diagonal resistance of the pattern being the Lower Highs.\n\nBulls will say there is a downtrending channel forming here (or a Falling Wedge) and bears will say there is a descending triangle forming here.\n\nBut the key here is to move away from labels and focus on what needs to occur for a confirmed trend to occur.",
+    "metadata": {
+      "source": "rektcapital",
+      "title": "Bitcoin Volatility Incoming - Rekt Capital Newsletter",
+      "url": "https://rektcapital.substack.com/p/bitcoin-volatility-incoming-f20",
+      "date": "",
+      "chunk_id": 4
+    }
+  },
+  {
+    "text": "It’s clear that losing the bullish EMAs would be bearish and so a Weekly Close below the two EMAs would likely precede downside.\n\nOn the flip side of that, it is clear that a Weekly Close beyond the Lower Highs would end the multi-month downtrend and precede a bout of upside.\n\nWith this price compression, time is running out on this period of volatility as price compression precedes a strong breakout move; with the apex being close, an increase volatility in the market is looming large.",
+    "metadata": {
+      "source": "rektcapital",
+      "title": "Bitcoin Volatility Incoming - Rekt Capital Newsletter",
+      "url": "https://rektcapital.substack.com/p/bitcoin-volatility-incoming-f20",
+      "date": "",
+      "chunk_id": 5
+    }
+  },
+  {
+    "text": "Solana has seen a major uptick in developer adoption over the past month. Its transaction throughput and NFT ecosystem continue to be major differentiators in Layer 1 narratives.",
+    "metadata": {
+      "source": "substack",
+      "title": "Solana Update - July 2025",
+      "url": "https://rektcapital.substack.com/p/mock-solana-update",
+      "date": "2025-08-07T18:46:08.980982",
+      "chunk_id": 0
+    }
+  }
+]
