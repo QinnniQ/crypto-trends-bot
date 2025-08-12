@@ -1,177 +1,61 @@
-🧠📈 Crypto Trends Bot
+Crypto Trends Bot
+A multimodal cryptocurrency assistant that blends historical insights with live market data.
+Ask about specific coins, market sentiment, or expert takes, and get answers backed by curated sources.
 
-Answer crypto market questions by blending retrieved insights from transcripts/articles/reddit/substack with live market data. Built with LangChain + Chroma, designed for voice/text input, and ready for a clean UI + deployment.
+Features
+Retrieval-Augmented Generation (RAG) for context-rich answers from:
 
-✨ What it does
+Transcripts of YouTube videos, Substack newsletters, Reddit threads
 
-Retrieval‑Augmented Answers (RAG): pulls the most relevant snippets from transcripts/articles (and Reddit/Substack) and cites sources.
+Live market data via CoinGecko API (price, 24h change, etc.)
 
-Live market checks: fetches prices and trending coins (CoinGecko), designed to expand with more tools.
+Multiple tools in one agent (retrieval + market data fetching)
 
-Multi‑tool agent: chooses the right tool (RAG vs. price vs. trending vs. scrapers) per question.
+Conversational interface in the terminal
 
-Extensible & deployment‑ready: simple structure, .env‑based secrets, and a planned Streamlit UI.
+Designed for expansion — add more tools, more data sources, or a web UI
 
-🗂️ Repository layout
+How it Works
+Ingest expert crypto content into a Chroma vector database
 
-Current repo is intentionally minimal to avoid breaking a working setup. A gentle refactor plan is included at the end.
+Use LangChain to retrieve relevant chunks for a user’s query
 
-crypto-trends-bot/
-├─ agent.py                  # main agent entry (terminal)
-├─ rag_tool.py               # RAG retrieval helpers
-├─ retriever_tool.py         # vector store + retriever utilities
-├─ coingecko_tool.py         # price/trending access (extendable)
-├─ scrape_*.py / chunk_*.py  # ingestion scripts (reddit/substack/articles)
-├─ ui/                       # UI code (e.g., Streamlit app)
-├─ data/                     # data/transcripts/vector stores (local, gitignored)
-│  └─ transcripts/           # text transcripts (optional)
-├─ articles/                 # raw/cleaned article dumps (gitignored)
-├─ reddit_data/              # reddit JSON dumps (gitignored)
-├─ .env.example              # template for secrets
-├─ .gitignore                # keeps secrets/artifacts out of Git
-└─ README.md
+Combine retrieved context with LLM reasoning for answers
 
-🚀 Quickstart (Windows • PowerShell • VS Code)
+Supplement with live CoinGecko price data when requested
 
-1) Clone & enter the folder
+Quick Start
+Clone this repo
 
-# in VS Code Terminal (PowerShell)
-git clone https://github.com/<you>/crypto-trends-bot.git
-cd crypto-trends-bot
+Create a .env file in the repo root (see .env.example)
 
-2) Create environment & install deps
+Install dependencies:
 
-# Conda (recommended)
-conda create -n crypto-bot python=3.11 -y
-conda activate crypto-bot
-
-# Or venv (built‑in)
-# py -3.11 -m venv .venv; .\.venv\Scripts\activate
-
+bash
+Copy
+Edit
 pip install -r requirements.txt
+Add src to your PYTHONPATH and run:
 
-3) Set your secrets
+bash
+Copy
+Edit
+$env:PYTHONPATH = (Resolve-Path .\src)
+python src\app\agent.py
+Example Queries
+vbnet
+Copy
+Edit
+🧠 price of btc
+🧠 what's reddit saying about solana?
+🧠 what did Coin Bureau say about ethereum scaling?
+Tech Stack
+LangChain for orchestration
 
-# copy the template and fill your keys
-Copy-Item .env.example .env
-# then edit .env in VS Code and set:
-# OPENAI_API_KEY=...
-# REDDIT_CLIENT_ID=...
-# REDDIT_SECRET=...
+OpenAI API for LLM responses
 
-4) Run the agent in the terminal
+CoinGecko API for live market data
 
-python agent.py
-# Try: "What’s the latest sentiment on BTC from recent sources?"
+Chroma for vector storage
 
-If you prefer a UI, see Run a minimal UI below.
-
-📥 Ingestion (optional but recommended)
-
-These scripts fetch and prepare content for RAG.
-
-# Substack links → JSON
-python scrape_substack_links.py
-
-# (Optional) Full Substack content
-python scrape_substack_full_content.py
-
-# Reddit posts → JSON
-python scrape_reddit.py
-
-# Chunk and embed into ChromaDB (persisted under data/)
-python chunk_articles.py
-python chunk_reddit.py
-# (If you have transcripts) place them in data/transcripts and run your embed step
-
-Tip: Keep large/raw data out of Git. This repo includes a .gitignore for data/, articles/, reddit_data/, and Chroma folders.
-
-🧩 How to use the agent (examples)
-
-The agent routes queries to tools depending on intent.
-
-RAG question: “Summarize recent L2 scaling takes from Bankless.”
-
-Live price: “What’s ETH right now and 24h change?”
-
-Trending: “Show me CoinGecko trending coins and any headlines from Substack/Reddit.”
-
-Mixed: “Today’s BTC sentiment across my sources, plus price context.”
-
-The response includes a short answer + sources, and (when enabled) live price/trending snippets.
-
-🖥️ Run a minimal UI (Streamlit)
-
-This keeps main stable — do UI work on a branch, e.g. feature/ui.
-
-git checkout -b feature/ui
-code ui\crypto_bot_ui.py
-
-Paste this starter and save:
-
-# ui/crypto_bot_ui.py
-import streamlit as st
-st.set_page_config(page_title="Crypto Trends Bot", layout="wide")
-st.title("🧠📈 Crypto Trends Bot")
-q = st.text_input("Ask about BTC, ETH, narratives, or 'trending coins'…")
-if st.button("Run") and q:
-    st.write("(Hook this up to agent.py — coming next.)")
-
-Run it:
-
-streamlit run ui\crypto_bot_ui.py
-
-Commit the branch when you’re ready and open a PR into main.
-
-🔐 Environment variables
-
-Create a local .env (never commit secrets):
-
-OPENAI_API_KEY=sk-...
-REDDIT_CLIENT_ID=...
-REDDIT_SECRET=...
-
-Optional later: COINGECKO_API_KEY (if/when you switch to pro endpoints), LANGCHAIN_TRACING_V2, etc.
-
-✅ Troubleshooting
-
-PowerShell vs Bash: Windows PowerShell does not support << EOF heredocs. Use the commands exactly as written here.
-
-Wrong folder: If python agent.py says “file not found”, run pwd and ensure it ends with your repo folder.
-
-Git made my home a repo: If git rev-parse --show-toplevel prints C:\Users\..., rename the hidden .git in your home: Rename-Item -Force .git .git_backup_home.
-
-Chroma path issues: Use absolute/Path joins and persist under data/.
-
-🧱 Roadmap
-
-
-
-🔧 Dev workflow (safe branching)
-
-# keep main clean
-git checkout -b feature/ui
-# do work → commit → push → PR into main
-
-🤝 Acknowledgements
-
-OpenAI (LLMs, Whisper planned), LangChain (RAG, tools), CoinGecko (market data)
-
-Community sources: Bankless, Coin Bureau, Reddit (for public content)
-
-📄 License
-
-MIT (see LICENSE). If absent, treat as "all rights reserved" until added.
-
-📚 Ironhack Final Project mapping (how this meets the brief)
-
-Multimodal: text now; voice planned via Whisper.
-
-RAG: Chroma + LangChain retrieval over transcripts/articles.
-
-Agents & tools: RAG tool, price/trending tool, scrapers; memory planned.
-
-LangSmith: planned for evaluation and traces.
-
-Deployment: Streamlit UI + API target; GitHub-first workflow for easy hosting.
-
+Python for everything else
