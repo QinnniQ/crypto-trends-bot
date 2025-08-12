@@ -1,61 +1,62 @@
-Crypto Trends Bot
-A multimodal cryptocurrency assistant that blends historical insights with live market data.
-Ask about specific coins, market sentiment, or expert takes, and get answers backed by curated sources.
+# Crypto Trends Bot
 
-Features
-Retrieval-Augmented Generation (RAG) for context-rich answers from:
+A multimodal crypto assistant that blends historical insights (RAG over transcripts/news) with live market data from CoinGecko. Ask about specific coins, market sentiment, or expert takes, and get answers backed by curated sources.
 
-Transcripts of YouTube videos, Substack newsletters, Reddit threads
+## Features
+- Retrieval‑Augmented Generation over curated sources (YouTube transcripts, Substack, Reddit)
+- Live prices + 24h change via CoinGecko
+- Tool‑augmented agent (retrieval + market data)
+- Simple CLI for now; web UI later
 
-Live market data via CoinGecko API (price, 24h change, etc.)
+## How it Works (very short)
+1. Ingest expert crypto content into a local Chroma vector DB.  
+2. Retrieve relevant chunks for a user’s question via LangChain.  
+3. Generate a response with LLM + (optionally) live price tool output.
 
-Multiple tools in one agent (retrieval + market data fetching)
-
-Conversational interface in the terminal
-
-Designed for expansion — add more tools, more data sources, or a web UI
-
-How it Works
-Ingest expert crypto content into a Chroma vector database
-
-Use LangChain to retrieve relevant chunks for a user’s query
-
-Combine retrieved context with LLM reasoning for answers
-
-Supplement with live CoinGecko price data when requested
-
-Quick Start
-Clone this repo
-
-Create a .env file in the repo root (see .env.example)
-
-Install dependencies:
-
-bash
-Copy
-Edit
+## Quick Start
+1. **Env file** (repo root): create `.env` using `.env.example` as a template
+```
+OPENAI_API_KEY=your-openai-key
+```
+2. **Install deps**
+```bash
 pip install -r requirements.txt
-Add src to your PYTHONPATH and run:
-
-bash
-Copy
-Edit
+```
+3. **Run the agent**
+- **Windows (PowerShell)**
+```powershell
 $env:PYTHONPATH = (Resolve-Path .\src)
-python src\app\agent.py
-Example Queries
-vbnet
-Copy
-Edit
-🧠 price of btc
-🧠 what's reddit saying about solana?
-🧠 what did Coin Bureau say about ethereum scaling?
-Tech Stack
-LangChain for orchestration
+python srcppgent.py
+```
+- **macOS/Linux (bash/zsh)**
+```bash
+export PYTHONPATH=$(pwd)/src
+python src/app/agent.py
+```
 
-OpenAI API for LLM responses
+## Example Prompts
+```
+price of btc
+what's reddit saying about solana?
+what did Coin Bureau say about ethereum scaling?
+```
 
-CoinGecko API for live market data
+## Tech Stack
+- LangChain (agent/tool orchestration)
+- OpenAI (LLM)
+- CoinGecko (live prices)
+- Chroma (vector store)
 
-Chroma for vector storage
-
-Python for everything else
+## Repo Layout
+```
+.
+├─ src/
+│  ├─ app/                # agent entrypoints
+│  └─ tools/              # rag_tool, coingecko_tool
+├─ chroma_db/             # local vector DB (not tracked except .gitkeep)
+├─ data/                  # optional raw/processed data
+├─ tests/
+├─ .env.example
+├─ requirements.txt
+└─ README.md
+```
