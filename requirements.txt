@@ -1,0 +1,12 @@
+langchain
+openai
+tiktoken
+chromadb
+python-dotenv
+praw
+httpx
+beautifulsoup4
+lxml
+streamlit
+fastapi
+uvicorn

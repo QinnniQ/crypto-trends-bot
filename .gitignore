@@ -1,19 +1,18 @@
-# Python cache
 __pycache__/
 *.pyc
 
-# Secrets
 .env
 
-# Local vector stores / large artifacts
 data/chroma_db/
 chroma_db/
 data/chroma_store/
 chroma_store/
 
-# Zips, logs, temp
 *.zip
 *.log
 
-# Notebooks checkpoints (if any)
 .ipynb_checkpoints/
+
+data/transcripts/
+articles/
+reddit_data/
