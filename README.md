@@ -1,8 +1,8 @@
-Crypto Trends Bot
+🧠📈 Crypto Trends Bot
 
 Answer crypto market questions by blending retrieved insights from transcripts/articles/reddit/substack with live market data. Built with LangChain + Chroma, designed for voice/text input, and ready for a clean UI + deployment.
 
-What it does
+✨ What it does
 
 Retrieval‑Augmented Answers (RAG): pulls the most relevant snippets from transcripts/articles (and Reddit/Substack) and cites sources.
 
@@ -12,7 +12,7 @@ Multi‑tool agent: chooses the right tool (RAG vs. price vs. trending vs. scrap
 
 Extensible & deployment‑ready: simple structure, .env‑based secrets, and a planned Streamlit UI.
 
-Repository layout
+🗂️ Repository layout
 
 Current repo is intentionally minimal to avoid breaking a working setup. A gentle refactor plan is included at the end.
 
@@ -31,7 +31,7 @@ crypto-trends-bot/
 ├─ .gitignore                # keeps secrets/artifacts out of Git
 └─ README.md
 
-Quickstart (Windows • PowerShell • VS Code)
+🚀 Quickstart (Windows • PowerShell • VS Code)
 
 1) Clone & enter the folder
 
@@ -66,7 +66,7 @@ python agent.py
 
 If you prefer a UI, see Run a minimal UI below.
 
-Ingestion (optional but recommended)
+📥 Ingestion (optional but recommended)
 
 These scripts fetch and prepare content for RAG.
 
@@ -84,9 +84,9 @@ python chunk_articles.py
 python chunk_reddit.py
 # (If you have transcripts) place them in data/transcripts and run your embed step
 
+Tip: Keep large/raw data out of Git. This repo includes a .gitignore for data/, articles/, reddit_data/, and Chroma folders.
 
-
-How to use the agent (examples)
+🧩 How to use the agent (examples)
 
 The agent routes queries to tools depending on intent.
 
@@ -100,7 +100,30 @@ Mixed: “Today’s BTC sentiment across my sources, plus price context.”
 
 The response includes a short answer + sources, and (when enabled) live price/trending snippets.
 
-Environment variables
+🖥️ Run a minimal UI (Streamlit)
+
+This keeps main stable — do UI work on a branch, e.g. feature/ui.
+
+git checkout -b feature/ui
+code ui\crypto_bot_ui.py
+
+Paste this starter and save:
+
+# ui/crypto_bot_ui.py
+import streamlit as st
+st.set_page_config(page_title="Crypto Trends Bot", layout="wide")
+st.title("🧠📈 Crypto Trends Bot")
+q = st.text_input("Ask about BTC, ETH, narratives, or 'trending coins'…")
+if st.button("Run") and q:
+    st.write("(Hook this up to agent.py — coming next.)")
+
+Run it:
+
+streamlit run ui\crypto_bot_ui.py
+
+Commit the branch when you’re ready and open a PR into main.
+
+🔐 Environment variables
 
 Create a local .env (never commit secrets):
 
@@ -110,7 +133,7 @@ REDDIT_SECRET=...
 
 Optional later: COINGECKO_API_KEY (if/when you switch to pro endpoints), LANGCHAIN_TRACING_V2, etc.
 
-Troubleshooting
+✅ Troubleshooting
 
 PowerShell vs Bash: Windows PowerShell does not support << EOF heredocs. Use the commands exactly as written here.
 
@@ -120,23 +143,25 @@ Git made my home a repo: If git rev-parse --show-toplevel prints C:\Users\..., r
 
 Chroma path issues: Use absolute/Path joins and persist under data/.
 
-Roadmap
+🧱 Roadmap
 
 
 
-Dev workflow (safe branching)
+🔧 Dev workflow (safe branching)
 
 # keep main clean
 git checkout -b feature/ui
 # do work → commit → push → PR into main
 
-Acknowledgements
+🤝 Acknowledgements
 
 OpenAI (LLMs, Whisper planned), LangChain (RAG, tools), CoinGecko (market data)
 
 Community sources: Bankless, Coin Bureau, Reddit (for public content)
 
+📄 License
 
+MIT (see LICENSE). If absent, treat as "all rights reserved" until added.
 
 📚 Ironhack Final Project mapping (how this meets the brief)
 
