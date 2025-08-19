@@ -19,3 +19,4 @@ pycoingecko
 pydantic 
 altair 
 plotly
+python-multipart
