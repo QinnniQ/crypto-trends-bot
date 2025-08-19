@@ -10,3 +10,12 @@ lxml
 streamlit
 fastapi
 uvicorn
+fastapi
+requests 
+openai>=1.0.0 
+langserve 
+langchain-openai 
+pycoingecko 
+pydantic 
+altair 
+plotly
