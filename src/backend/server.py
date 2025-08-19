@@ -26,11 +26,20 @@ import requests
 from openai import OpenAI
 
 # Optional robust imports for your tools (works whether package is 'src.tools' or 'tools')
-def _import_tool(modpath, name):
+from importlib import import_module
+import logging
+
+def _import_tool(modpath: str, name: str):
+    """
+    Import `name` from module path `modpath` (e.g., 'src.tools.rag_tool', 'rag_tool').
+    Keeps the 'src.' prefix so it works when the repo root is on sys.path.
+    """
     try:
-        return __import__(modpath, fromlist=[name]).__dict__[name]
-    except Exception:
-        return __import__(modpath.replace("src.", ""), fromlist=[name]).__dict__[name]
+        module = import_module(modpath)          # <-- no .replace('src.', '')
+        return getattr(module, name)
+    except Exception as e:
+        logging.exception("Failed to import %s from %s", name, modpath)
+        raise
 
 # ---------- ENV ----------
 load_dotenv()
