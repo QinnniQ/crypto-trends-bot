@@ -276,44 +276,57 @@ async def voice_ask(
         raise HTTPException(status_code=500, detail=f"AgentError: {e}")
 
 
-# ---------- IMPORT YOUR TOOLS ----------
-rag_tool = _import_tool("src.tools.rag_tool", "rag_tool")
-coingecko_tool = _import_tool("src.tools.coingecko_tool", "coingecko_tool")
-polymarket_markets_tool = _import_tool("src.tools.polymarket_tool", "polymarket_markets_tool")
-polymarket_paper_trade_tool = _import_tool("src.tools.polymarket_tool", "polymarket_paper_trade_tool")
-TOOLS = [rag_tool, coingecko_tool, polymarket_markets_tool, polymarket_paper_trade_tool]
+# ---------- IMPORT YOUR TOOLS (optional/robust) ----------
+import logging
 
-# (Legacy example kept; not used directly below)
-llm_legacy = ChatOpenAI(model=MODEL, temperature=0).bind_tools(TOOLS)
-prompt_legacy = ChatPromptTemplate.from_messages([
-    ("system",
-     "You are a helpful Crypto Trends assistant. "
-     "Use CoinGecko for prices. "
-     "Use CryptoTranscriptRetriever for Reddit/Substack/transcripts. "
-     "Use PolymarketMarketSearch to find relevant Polymarket markets. "
-     "Use PolymarketPaperTrade for simulation only (no real orders). "
-     "Always show short reasoning and include source titles/URLs when you used RAG or Polymarket."),
-    ("human", "{input}"),
-    MessagesPlaceholder("agent_scratchpad"),
-])
-agent_legacy = create_tool_calling_agent(llm_legacy, TOOLS, prompt_legacy)
-agent_executor_legacy = AgentExecutor(agent=agent_legacy, tools=TOOLS, verbose=False)
+def try_tool(modpath: str, name: str):
+    try:
+        return _import_tool(modpath, name)
+    except Exception as e:
+        logging.warning("Tool %s from %s unavailable: %s", name, modpath, e)
+        return None
+
+rag_tool = try_tool("src.tools.rag_tool", "rag_tool")
+coingecko_tool = try_tool("src.tools.coingecko_tool", "coingecko_tool")
+polymarket_markets_tool = try_tool("src.tools.polymarket_tool", "polymarket_markets_tool")
+polymarket_paper_trade_tool = try_tool("src.tools.polymarket_tool", "polymarket_paper_trade_tool")
+
+TOOLS = [t for t in [rag_tool, coingecko_tool, polymarket_markets_tool, polymarket_paper_trade_tool] if t]
+
+# ---------- legacy agent wiring kept but made safe ----------
+if TOOLS:
+    llm_legacy = ChatOpenAI(model=MODEL, temperature=0).bind_tools(TOOLS)
+    prompt_legacy = ChatPromptTemplate.from_messages([
+        ("system",
+         "You are a helpful Crypto Trends assistant. "
+         "Use CoinGecko for prices. "
+         "Use CryptoTranscriptRetriever for Reddit/Substack/transcripts if available. "
+         "Use Polymarket tools only if available. "
+         "Always include source titles/URLs when you used RAG or Polymarket."),
+        ("human", "{input}"),
+        MessagesPlaceholder("agent_scratchpad"),
+    ])
+    agent_legacy = create_tool_calling_agent(llm_legacy, TOOLS, prompt_legacy)
+    agent_executor_legacy = AgentExecutor(agent=agent_legacy, tools=TOOLS, verbose=False)
 
 # ---------- AGENT (LangServe) ----------
-llm = ChatOpenAI(model=MODEL, temperature=0).bind_tools([rag_tool, coingecko_tool])
+active_tools = [t for t in [rag_tool, coingecko_tool] if t]  # minimal set
+
+llm = ChatOpenAI(model=MODEL, temperature=0).bind_tools(active_tools)
 
 prompt = ChatPromptTemplate.from_messages([
     ("system",
      "You are a helpful Crypto Trends assistant. "
-     "For market/price questions, use the CoinGecko tool. "
-     "For content/narrative questions (Reddit/Substack/transcripts), use the CryptoTranscriptRetriever tool. "
-     "Return concise answers and include the retrieved source titles/URLs when available."),
+     "For market/price questions, use the CoinGecko tool (if available). "
+     "For content/narrative questions, use the CryptoTranscriptRetriever tool (if available). "
+     "Return concise answers and include source titles/URLs when available."),
     ("human", "{input}"),
     MessagesPlaceholder("agent_scratchpad"),
 ])
 
-agent = create_tool_calling_agent(llm, [rag_tool, coingecko_tool], prompt)
-agent_executor = AgentExecutor(agent=agent, tools=[rag_tool, coingecko_tool], verbose=False)
+agent = create_tool_calling_agent(llm, active_tools, prompt)
+agent_executor = AgentExecutor(agent=agent, tools=active_tools, verbose=False)
+
 
 class Ask(BaseModel):
     question: str = Field(..., description="Your question",
