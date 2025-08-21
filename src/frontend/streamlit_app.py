@@ -1,5 +1,4 @@
 # src/frontend/streamlit_app.py
-
 import os
 import time
 import requests
@@ -17,25 +16,18 @@ try:
 except Exception:
     HAS_AUTOREFRESH = False
 
-# -------------------- Page / Env --------------------
 st.set_page_config(page_title="Crypto Trends Bot", page_icon="🪙", layout="wide")
 
 load_dotenv()
 DEFAULT_BACKEND = os.getenv("BACKEND_URL", "http://localhost:8000").rstrip("/")
 VS = "usd"
 
-# CoinGecko key (optional). Supports COINGECKO_API_KEY or CG_API_KEY
 CG_API_KEY = os.getenv("COINGECKO_API_KEY") or os.getenv("CG_API_KEY")
-COINGECKO_HEADERS = {
-    "accept": "application/json",
-    "user-agent": "crypto-trends-bot/0.2",
-}
+COINGECKO_HEADERS = {"accept": "application/json", "user-agent": "crypto-trends-bot/0.2"}
 if CG_API_KEY:
-    # only one is honored depending on your plan; harmless to set both
     COINGECKO_HEADERS["x-cg-demo-api-key"] = CG_API_KEY
     COINGECKO_HEADERS["x-cg-pro-api-key"] = CG_API_KEY
 
-# Sidebar: backend switcher
 with st.sidebar:
     st.header("Settings")
     BACKEND_URL = st.text_input("Backend URL", value=DEFAULT_BACKEND).rstrip("/")
@@ -45,7 +37,6 @@ with st.sidebar:
 
 st.caption(f"Frontend → Backend at: {BACKEND_URL}")
 
-# -------------------- Style (glassmorphism) --------------------
 st.markdown("""
 <style>
 [data-testid="stAppViewContainer"] {
@@ -67,9 +58,7 @@ h1, h2, h3, h4, h5, h6 { letter-spacing: .3px }
 </style>
 """, unsafe_allow_html=True)
 
-# -------------------- Helpers --------------------
 def _get(url, params=None, tries=5, timeout=20, headers=None):
-    """GET with exponential backoff + Retry-After support (avoid 429s)."""
     headers = headers or {}
     delay = 0.7
     last_err = None
@@ -92,14 +81,11 @@ def _get(url, params=None, tries=5, timeout=20, headers=None):
             delay = min(delay * 2, 8)
     raise last_err or RuntimeError("GET failed")
 
-@st.cache_data(ttl=300)  # 5 min cache to avoid rate limits
+@st.cache_data(ttl=300)
 def fetch_top_coins(limit=25, vs="usd"):
     url = "https://api.coingecko.com/api/v3/coins/markets"
-    params = {
-        "vs_currency": vs, "order": "market_cap_desc",
-        "per_page": limit, "page": 1,
-        "price_change_percentage": "1h,24h,7d", "sparkline": True
-    }
+    params = {"vs_currency": vs, "order": "market_cap_desc", "per_page": limit,
+              "page": 1, "price_change_percentage": "1h,24h,7d", "sparkline": True}
     data = _get(url, params=params, headers=COINGECKO_HEADERS)
     return pd.DataFrame(data)
 
@@ -129,14 +115,13 @@ def health_ok():
     return False
 
 def ask_agent(question: str):
-    """Try multiple payload shapes for LangServe /invoke."""
     url = f"{BACKEND_URL}/crypto-bot/invoke"
     tries = [
-        {"input": question},                           # common
-        {"input": {"question": question}},             # some chains
-        {"input": {"query": question}},                # some chains
-        {"input": {"input": question}},                # nested
-        {"question": question},                        # rare
+        {"input": question},
+        {"input": {"question": question}},
+        {"input": {"query": question}},
+        {"input": {"input": question}},
+        {"question": question},
     ]
     last_err = None
     for payload in tries:
@@ -167,7 +152,6 @@ def fetch_price(symbol: str):
 
 @st.cache_data(ttl=60)
 def fetch_history(symbol: str, days: int = 7, vs: str = "usd"):
-    """Accepts both {'ok':True,'prices':[[ts,price],...]} and {'timestamps':[],'prices':[]}."""
     try:
         r = requests.get(f"{BACKEND_URL}/history/{symbol}", params={"days": days, "vs": vs}, timeout=20)
         r.raise_for_status()
@@ -188,7 +172,6 @@ def fetch_history(symbol: str, days: int = 7, vs: str = "usd"):
     except Exception as e:
         return None, str(e)
 
-# -------------------- Header --------------------
 col1, col2 = st.columns([0.75, 0.25])
 with col1:
     st.markdown("# 🪙 Crypto Trends Bot")
@@ -201,7 +184,6 @@ with col2:
     else:
         st.caption("Auto-refresh disabled (install: streamlit-autorefresh)")
 
-# Backend status
 ok = health_ok()
 st.write("**Backend status:** " + ("✅ Healthy" if ok else "❌ Not reachable"))
 if not ok:
@@ -209,15 +191,13 @@ if not ok:
 
 st.divider()
 
-# -------------------- ONE CoinGecko call, reused --------------------
 df_top = None
 cg_err = None
 try:
-    df_top = fetch_top_coins(limit=25, vs=VS)  # cached 5 min
+    df_top = fetch_top_coins(limit=25, vs=VS)
 except Exception as e:
     cg_err = str(e)
 
-# -------------------- KPI Tiles + Sparklines --------------------
 symbols = ["bitcoin", "ethereum", "solana"]
 k1, k2, k3 = st.columns(3)
 kpi_cols = [k1, k2, k3]
@@ -265,7 +245,6 @@ for i, cg_id in enumerate(symbols):
 
 st.divider()
 
-# -------------------- Market Heatmap (Treemap) --------------------
 st.subheader("Market Heatmap")
 if df_top is None:
     st.warning("Hit CoinGecko rate limit. Try again in a minute, enable fewer updates, or add a COINGECKO_API_KEY.")
@@ -285,7 +264,6 @@ else:
     else:
         st.info("No market data loaded yet.")
 
-# -------------------- Trending Chips --------------------
 st.subheader("Trending")
 try:
     tr = fetch_trending()
@@ -306,7 +284,6 @@ else:
 
 st.divider()
 
-# -------------------- Ask the Agent (text) --------------------
 st.subheader("Ask the agent")
 preset = st.session_state.get("pre_filled", "What is the BTC price right now?")
 q = st.text_input("Your question", value=preset, placeholder="e.g., Summarize today’s BTC + SOL sentiment and show sources")
@@ -322,8 +299,6 @@ if st.button("Run", type="primary"):
             else:
                 st.markdown("### Answer")
                 st.write(answer)
-
-st.divider()
 
 st.divider()
 st.subheader("🧠 Narrative mode")
@@ -348,10 +323,8 @@ if st.button("Find top narratives"):
             st.markdown("### Narratives")
             st.write(answer)
 
-
-# -------------------- Voice Ask (wired, with fallback) --------------------
 try:
-    from audio_recorder_streamlit import audio_recorder  # pip install audio-recorder-streamlit
+    from audio_recorder_streamlit import audio_recorder
     st.subheader("🎙️ Voice ask (beta)")
 
     audio_bytes = audio_recorder(text="Record a question")
@@ -361,7 +334,6 @@ try:
         files = {"file": ("voice.wav", audio_bytes, "audio/wav")}
         data = {} if lang == "auto" else {"language": lang}
 
-        # Helper to surface backend error details
         def show_http_error(prefix, err: requests.HTTPError):
             detail = ""
             try:
@@ -371,9 +343,8 @@ try:
             st.error(f"{prefix}: {err}\n{detail}")
 
         try:
-            # 1) One-shot endpoint: /voice-ask (transcribe → agent)
             r = requests.post(f"{BACKEND_URL}/voice-ask", files=files, data=data, timeout=120)
-            if r.status_code in (404, 405):  # route missing or wrong method
+            if r.status_code in (404, 405):
                 raise RuntimeError(f"/voice-ask not available ({r.status_code})")
             r.raise_for_status()
             js = r.json()
@@ -388,7 +359,6 @@ try:
             show_http_error("Voice ask failed", e)
 
         except Exception:
-            # 2) Fallback: /transcribe then ask_agent()
             try:
                 t = requests.post(f"{BACKEND_URL}/transcribe", files=files, data=data, timeout=120)
                 t.raise_for_status()
@@ -408,6 +378,5 @@ try:
                 show_http_error("Transcription failed", e2)
             except Exception as e2:
                 st.error(f"Voice flow failed: {e2}")
-
 except Exception:
     st.caption("Install voice input: `pip install audio-recorder-streamlit`")
