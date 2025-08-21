@@ -23,6 +23,5 @@ fastapi
 uvicorn
 python-dotenv
 langchain-community
-chromadb
-tiktoken
+python-multipart
 
