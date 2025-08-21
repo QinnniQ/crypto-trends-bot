@@ -16,3 +16,27 @@ chroma_store/
 data/transcripts/
 articles/
 reddit_data/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Env/secrets
+.env
+.env.*
+*.env
+.streamlit/secrets.toml
+
+# Vector stores / caches
+chroma/
+chroma_store/
+.cache/
+*.db
+
+# OS/editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
