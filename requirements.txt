@@ -25,5 +25,7 @@ python-dotenv
 langchain-community
 python-multipart
 sse-starlette>=1.6.5
+langchain-chroma
+
 
 
