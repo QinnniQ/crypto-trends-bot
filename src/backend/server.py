@@ -4,14 +4,18 @@ import re
 import time
 import logging
 from pathlib import Path
-from typing import Union, Dict, Any, List, Optional
+from typing import Optional, Dict
 
 from fastapi import FastAPI, APIRouter, HTTPException, Query, UploadFile, File, Form
 from fastapi.middleware.cors import CORSMiddleware
 from dotenv import load_dotenv, find_dotenv
-load_dotenv(find_dotenv(), override=False)
 
-from pydantic import BaseModel, Field
+# Third-party
+from pycoingecko import CoinGeckoAPI
+import requests
+from importlib import import_module
+
+# LangChain / Serve
 from langserve import add_routes
 from langchain_openai import ChatOpenAI
 from langchain.tools import tool
@@ -19,58 +23,46 @@ from langchain.agents import create_tool_calling_agent, AgentExecutor
 from langchain.prompts import ChatPromptTemplate, MessagesPlaceholder
 from langchain_core.runnables import RunnableLambda
 
-from pycoingecko import CoinGeckoAPI
-import requests
-
-# OpenAI (for Whisper transcription)
+# OpenAI client (Whisper + chat uses OPENAI_API_KEY)
 from openai import OpenAI
 
-# Optional robust imports for your tools (works whether package is 'src.tools' or 'tools')
-def _import_tool(modpath, name):
-    try:
-        return __import__(modpath, fromlist=[name]).__dict__[name]
-    except Exception:
-        return __import__(modpath.replace("src.", ""), fromlist=[name]).__dict__[name]
+# ---------- env / logging ----------
+load_dotenv(find_dotenv(), override=False)
+log = logging.getLogger("uvicorn")
+logging.basicConfig(level=os.getenv("LOGLEVEL", "INFO"))
 
-# ---------- ENV ----------
-load_dotenv()
-OPENAI_API_KEY = os.getenv("OPENAI_API_KEY")  # required by ChatOpenAI + Whisper
+OPENAI_API_KEY = os.getenv("OPENAI_API_KEY", "")
 MODEL = os.getenv("MODEL", "gpt-4o-mini")
 
-# ---------- APP & CORS ----------
-app = FastAPI(title="Crypto Trends Bot Backend", version="0.5.0")
+# ---------- app / cors ----------
+app = FastAPI(title="Crypto Trends Bot Backend", version="0.6.1")
+
 _allowed = os.getenv(
     "CORS_ALLOW_ORIGINS",
     "http://localhost:8501,http://127.0.0.1:8501,http://localhost:3000,http://127.0.0.1:3000"
 ).split(",")
 app.add_middleware(
     CORSMiddleware,
-    allow_origins=[o.strip() for o in _allowed] if _allowed else ["*"],
+    allow_origins=[o.strip() for o in _allowed if o.strip()] or ["*"],
     allow_credentials=True,
     allow_methods=["*"],
     allow_headers=["*"],
 )
 
-log = logging.getLogger("uvicorn")
+# ---------- globals ----------
 cg = CoinGeckoAPI()
-HTTP_TIMEOUT = (5, 25)
+HTTP_TIMEOUT = (8, 30)  # a bit longer to tolerate cold starts
+client = OpenAI()       # uses env OPENAI_API_KEY
 
-# OpenAI client (Whisper)
-client = OpenAI()  # uses OPENAI_API_KEY from env
-
-# ---------- SYMBOL/ID RESOLUTION for endpoints ----------
-TICKER_TO_ID: Dict[str, str] = {
-    "btc": "bitcoin", "bitcoin": "bitcoin",
-    "eth": "ethereum", "ethereum": "ethereum",
-    "sol": "solana",   "solana": "solana",
-}
+TICKER_TO_ID: Dict[str, str] = {"btc": "bitcoin", "bitcoin": "bitcoin",
+                                "eth": "ethereum", "ethereum": "ethereum",
+                                "sol": "solana", "solana": "solana"}
 ID_TO_TICKER: Dict[str, str] = {"bitcoin": "BTC", "ethereum": "ETH", "solana": "SOL"}
-
 _COINS_CACHE_TS = 0.0
 _COINS_TTL_SEC = 6 * 60 * 60
 
 def _norm(s: str) -> str:
-    return re.sub(r"[^a-z0-9-]", "", s.strip().lower())
+    return re.sub(r"[^a-z0-9-]", "", (s or "").strip().lower())
 
 def _load_coins_list(force: bool = False) -> None:
     global _COINS_CACHE_TS
@@ -82,15 +74,14 @@ def _load_coins_list(force: bool = False) -> None:
         for c in coins:
             cid = _norm(c.get("id", ""))
             sym = _norm(c.get("symbol", ""))
-            if not cid or not sym:
-                continue
-            ID_TO_TICKER.setdefault(cid, sym.upper())
-            TICKER_TO_ID.setdefault(sym, cid)
-            TICKER_TO_ID.setdefault(cid, cid)
+            if cid and sym:
+                ID_TO_TICKER.setdefault(cid, sym.upper())
+                TICKER_TO_ID.setdefault(sym, cid)
+                TICKER_TO_ID.setdefault(cid, cid)
         _COINS_CACHE_TS = now
-        log.info(f"🪙 Coins cache loaded (tickers: {len(TICKER_TO_ID)}).")
+        log.info("🪙 Coins cache loaded (tickers: %s).", len(TICKER_TO_ID))
     except Exception as e:
-        log.warning(f"⚠️ Could not refresh coins list: {e}")
+        log.warning("⚠️ Could not refresh coins list: %s", e)
 
 def resolve_coin_id(asset: str) -> str:
     a = _norm(asset)
@@ -113,17 +104,11 @@ def resolve_coin_id(asset: str) -> str:
         pass
     raise HTTPException(status_code=404, detail=f"Unknown asset '{asset}'.")
 
-# ---------- PUBLIC ENDPOINTS ----------
+# ---------- public endpoints ----------
 @app.on_event("startup")
 def on_startup():
-    log.info(f"🔧 Loaded server module: {Path(__file__).resolve()}")
+    log.info("🔧 Loaded server: %s", Path(__file__).resolve())
     _load_coins_list(force=True)
-    for r in app.routes:
-        try:
-            methods = sorted(r.methods) if r.methods else []
-            log.info(f"➡️  Route: {methods} {r.path}")
-        except Exception:
-            pass
 
 @app.get("/")
 def root():
@@ -182,36 +167,24 @@ def history(symbol: str, days: int = Query(default=7, ge=1, le=365), vs: str = Q
     except Exception as e:
         return {"ok": False, "error": str(e)}
 
-# ---------- AUDIO: /transcribe and /voice-ask ----------
-import tempfile, logging
-from pathlib import Path
-from typing import Optional
-from fastapi import UploadFile, File, Form, HTTPException
-from openai import OpenAI
-
-client = OpenAI()  # uses OPENAI_API_KEY
+# ---------- voice: /transcribe + /voice-ask ----------
+import tempfile
 
 @app.post("/transcribe")
 async def transcribe_audio(
     file: UploadFile = File(...),
     language: Optional[str] = Form(None),
 ):
-    """
-    Multipart upload -> Whisper transcription.
-    language: ISO code like 'en' (optional, 'auto' is treated as None).
-    """
     try:
         audio_bytes = await file.read()
         if not audio_bytes:
             raise HTTPException(status_code=400, detail="Empty audio upload.")
-        if len(audio_bytes) > 24 * 1024 * 1024:  # ~24 MB safety
-            raise HTTPException(status_code=413, detail="Audio too large (>24MB). Try a shorter clip.")
+        if len(audio_bytes) > 24 * 1024 * 1024:
+            raise HTTPException(status_code=413, detail="Audio too large (>24MB).")
 
-        # Pick a safe suffix based on the uploaded filename (helps Whisper parser)
         ext = (Path(file.filename or "").suffix or "").lower()
         if ext not in (".wav", ".mp3", ".m4a", ".webm", ".ogg"):
             ext = ".wav"
-
         with tempfile.NamedTemporaryFile(delete=False, suffix=ext) as tmp:
             tmp.write(audio_bytes)
             tmp_path = tmp.name
@@ -227,119 +200,92 @@ async def transcribe_audio(
             try: Path(tmp_path).unlink(missing_ok=True)
             except Exception: pass
 
-        # v1 OpenAI client returns an object with .text
-        text = getattr(tr, "text", None)
-        if not text:
+        text = getattr(tr, "text", "") or ""
+        if not text.strip():
             raise RuntimeError(f"Empty Whisper response: {tr!r}")
-
         return {"ok": True, "text": text}
 
     except HTTPException:
         raise
     except Exception as e:
         logging.exception("Transcription failed")
-        # Surface the real error in the HTTP detail so the UI can show it
         raise HTTPException(status_code=500, detail=f"{type(e).__name__}: {e}")
-
 
 @app.post("/voice-ask")
 async def voice_ask(
     file: UploadFile = File(...),
     language: Optional[str] = Form(None),
 ):
-    """
-    One-shot: transcribe with Whisper, then invoke the agent.
-    """
-    # 1) Transcribe
     tr = await transcribe_audio(file=file, language=language)
     if not tr.get("ok"):
         raise HTTPException(status_code=500, detail=f"Transcription error: {tr}")
     question = (tr.get("text") or "").strip()
     if not question:
         raise HTTPException(status_code=500, detail="Transcription returned empty text.")
-
-    # 2) Ask the agent
     try:
-        result = chain.invoke(question)   # chain defined earlier
+        result = CHAIN.invoke(question)
         return {"ok": True, "question": question, "answer": str(result)}
     except Exception as e:
         logging.exception("Agent error after transcription")
         raise HTTPException(status_code=500, detail=f"AgentError: {e}")
 
+# ---------- optional tools (safe import) ----------
+def _safe_import_tool(modpath: str, name: str):
+    try:
+        module = import_module(modpath)
+        return getattr(module, name)
+    except Exception as e:
+        logging.warning("Tool %s from %s unavailable: %s", name, modpath, e)
+        return None
 
-# ---------- IMPORT YOUR TOOLS ----------
-rag_tool = _import_tool("src.tools.rag_tool", "rag_tool")
-coingecko_tool = _import_tool("src.tools.coingecko_tool", "coingecko_tool")
-polymarket_markets_tool = _import_tool("src.tools.polymarket_tool", "polymarket_markets_tool")
-polymarket_paper_trade_tool = _import_tool("src.tools.polymarket_tool", "polymarket_paper_trade_tool")
-TOOLS = [rag_tool, coingecko_tool, polymarket_markets_tool, polymarket_paper_trade_tool]
+RAG_TOOL      = _safe_import_tool("src.tools.rag_tool", "rag_tool")
+COINGECKO_EXT = _safe_import_tool("src.tools.coingecko_tool", "coingecko_tool")
+POLY_MARKETS  = _safe_import_tool("src.tools.polymarket_tool", "polymarket_markets_tool")
+POLY_PAPER    = _safe_import_tool("src.tools.polymarket_tool", "polymarket_paper_trade_tool")
 
-# (Legacy example kept; not used directly below)
-llm_legacy = ChatOpenAI(model=MODEL, temperature=0).bind_tools(TOOLS)
-prompt_legacy = ChatPromptTemplate.from_messages([
-    ("system",
-     "You are a helpful Crypto Trends assistant. "
-     "Use CoinGecko for prices. "
-     "Use CryptoTranscriptRetriever for Reddit/Substack/transcripts. "
-     "Use PolymarketMarketSearch to find relevant Polymarket markets. "
-     "Use PolymarketPaperTrade for simulation only (no real orders). "
-     "Always show short reasoning and include source titles/URLs when you used RAG or Polymarket."),
-    ("human", "{input}"),
-    MessagesPlaceholder("agent_scratchpad"),
-])
-agent_legacy = create_tool_calling_agent(llm_legacy, TOOLS, prompt_legacy)
-agent_executor_legacy = AgentExecutor(agent=agent_legacy, tools=TOOLS, verbose=False)
+# ---------- builtin CoinGecko tool (fallback) ----------
+@tool("coingecko_price", return_direct=False)
+def coingecko_price(symbol: str, vs: str = "usd") -> str:
+    try:
+        coin_id = resolve_coin_id(symbol)
+        data = cg.get_price(ids=coin_id, vs_currencies=_norm(vs) or "usd", include_24hr_change="true")
+        p = data.get(coin_id, {})
+        price_v = p.get(_norm(vs)) or p.get("usd")
+        chg = p.get(f"{_norm(vs)}_24h_change", p.get("usd_24h_change", 0.0))
+        return f"{ID_TO_TICKER.get(coin_id, coin_id.upper())}/{_norm(vs).upper()}: {float(price_v):,.4f} ({float(chg):+.2f}% 24h)"
+    except Exception as e:
+        return f"Error getting price for {symbol}: {e}"
 
-# ---------- AGENT (LangServe) ----------
-llm = ChatOpenAI(model=MODEL, temperature=0).bind_tools([rag_tool, coingecko_tool])
+TOOLS = []
+TOOLS.append(COINGECKO_EXT or coingecko_price)
+if RAG_TOOL: TOOLS.append(RAG_TOOL)
+for t in (POLY_MARKETS, POLY_PAPER):
+    if t: TOOLS.append(t)
 
-prompt = ChatPromptTemplate.from_messages([
-    ("system",
-     "You are a helpful Crypto Trends assistant. "
-     "For market/price questions, use the CoinGecko tool. "
-     "For content/narrative questions (Reddit/Substack/transcripts), use the CryptoTranscriptRetriever tool. "
-     "Return concise answers and include the retrieved source titles/URLs when available."),
-    ("human", "{input}"),
-    MessagesPlaceholder("agent_scratchpad"),
-])
+logging.info("Activated tools: %s", [getattr(t, 'name', getattr(t, '__name__', 'tool')) for t in TOOLS])
 
-agent = create_tool_calling_agent(llm, [rag_tool, coingecko_tool], prompt)
-agent_executor = AgentExecutor(agent=agent, tools=[rag_tool, coingecko_tool], verbose=False)
+# ---------- agent / chain ----------
+SYSTEM_TEXT = (
+    "You are a helpful Crypto Trends assistant. "
+    "Use the CoinGecko tool for spot prices and simple market facts. "
+    "If a transcript retrieval tool is available, use it for narratives and include source titles/URLs. "
+    "Keep answers concise."
+)
 
-class Ask(BaseModel):
-    question: str = Field(..., description="Your question",
-                          examples=["What is Reddit saying about BTC right now?"])
+CHAT = ChatOpenAI(model=MODEL, temperature=0)
+if TOOLS:
+    PROMPT = ChatPromptTemplate.from_messages([
+        ("system", SYSTEM_TEXT),
+        ("human", "{input}"),
+        MessagesPlaceholder("agent_scratchpad"),
+    ])
+    AGENT = create_tool_calling_agent(CHAT.bind_tools(TOOLS), TOOLS, PROMPT)
+    EXECUTOR = AgentExecutor(agent=AGENT, tools=TOOLS, verbose=False)
+    CHAIN = RunnableLambda(lambda x: {"input": x}) | EXECUTOR | RunnableLambda(lambda x: x.get("output", x))
+else:
+    PROMPT = ChatPromptTemplate.from_messages([("system", SYSTEM_TEXT), ("human", "{input}")])
+    CHAIN = PROMPT | CHAT | RunnableLambda(lambda m: getattr(m, "content", str(m)))
 
-def normalize(ask: Union[Ask, Dict[str, Any], str]) -> Dict[str, str]:
-    """
-    Normalize various inputs to the agent's expected dict shape {'input': <text>}.
-    We accept Ask(question), raw string, or dicts with keys 'question' or 'input'.
-    """
-    q = None
-    if isinstance(ask, Ask):
-        q = ask.question
-    elif isinstance(ask, str):
-        q = ask
-    elif isinstance(ask, dict):
-        q = ask.get("question") or ask.get("input")
-        if isinstance(q, dict):
-            q = q.get("question") or q.get("input")
-    if not isinstance(q, str) or not q.strip():
-        raise ValueError("Please provide a non-empty question.")
-    return {"input": q}
-
-def pick_output(result: Any) -> str:
-    if isinstance(result, dict) and "output" in result:
-        out = result["output"]
-        if isinstance(out, dict) and "output" in out:
-            return str(out["output"])
-        return str(out)
-    return str(result)
-
-chain = RunnableLambda(normalize) | agent_executor | RunnableLambda(pick_output)
-
-# LangServe routes:
-# Use input_type=str so POST /crypto-bot/invoke takes {"input": "your question"} (no more 422).
 router = APIRouter()
-add_routes(router, chain, path="/crypto-bot", input_type=str)  # also gives /crypto-bot/playground
+add_routes(router, CHAIN, path="/crypto-bot", input_type=str)
 app.include_router(router, include_in_schema=False)

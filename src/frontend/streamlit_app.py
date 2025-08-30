@@ -1,413 +1,246 @@
 # src/frontend/streamlit_app.py
-
-import os
-import time
-import requests
+import os, time, requests, pandas as pd, altair as alt, plotly.express as px
 import streamlit as st
-import pandas as pd
-from datetime import datetime, timedelta
-import altair as alt
-import plotly.express as px
 from dotenv import load_dotenv
 
-# optional auto-refresh add-on
-try:
-    from streamlit_autorefresh import st_autorefresh
-    HAS_AUTOREFRESH = True
-except Exception:
-    HAS_AUTOREFRESH = False
+UI_BUILD = "v3.2"
 
-# -------------------- Page / Env --------------------
-st.set_page_config(page_title="Crypto Trends Bot", page_icon="🪙", layout="wide")
-
+# ---------- page / env ----------
+st.set_page_config(page_title="Crypto Trends Bot", page_icon="🪙", layout="wide", initial_sidebar_state="collapsed")
 load_dotenv()
+
 DEFAULT_BACKEND = os.getenv("BACKEND_URL", "http://localhost:8000").rstrip("/")
-VS = "usd"
+VS_DEFAULT = os.getenv("VS_CURRENCY", "usd").lower()
 
-# CoinGecko key (optional). Supports COINGECKO_API_KEY or CG_API_KEY
 CG_API_KEY = os.getenv("COINGECKO_API_KEY") or os.getenv("CG_API_KEY")
-COINGECKO_HEADERS = {
-    "accept": "application/json",
-    "user-agent": "crypto-trends-bot/0.2",
-}
+CG_HEADERS = {"accept": "application/json", "user-agent": "crypto-trends-bot/pro"}
 if CG_API_KEY:
-    # only one is honored depending on your plan; harmless to set both
-    COINGECKO_HEADERS["x-cg-demo-api-key"] = CG_API_KEY
-    COINGECKO_HEADERS["x-cg-pro-api-key"] = CG_API_KEY
+    CG_HEADERS["x-cg-demo-api-key"] = CG_API_KEY
+    CG_HEADERS["x-cg-pro-api-key"] = CG_API_KEY
 
-# Sidebar: backend switcher
-with st.sidebar:
-    st.header("Settings")
-    BACKEND_URL = st.text_input("Backend URL", value=DEFAULT_BACKEND).rstrip("/")
-    st.caption("Example: http://localhost:8000")
-    st.link_button("Open API docs", f"{BACKEND_URL}/docs")
-    st.link_button("Agent Playground", f"{BACKEND_URL}/crypto-bot/playground")
-
-st.caption(f"Frontend → Backend at: {BACKEND_URL}")
-
-# -------------------- Style (glassmorphism) --------------------
+# ---------- styles ----------
 st.markdown("""
+<link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;800&display=swap" rel="stylesheet">
 <style>
-[data-testid="stAppViewContainer"] {
-  background: radial-gradient(1200px 800px at 10% 10%, #10131a 0%, #0b0e14 40%, #0a0c11 100%);
+:root{ --bg:#0b0f14; --bg2:#0f141c; --card:#111826; --muted:#9aa3af;
+       --bd:#202635; --hi:#4F46E5; --good:#16a34a; --bad:#ef4444; --ink:#fff; --wrap:1180px; }
+*{font-family:'Inter',system-ui,Segoe UI,Roboto,Helvetica,Arial,sans-serif}
+#MainMenu{display:none} header{visibility:hidden} footer{visibility:hidden}
+[data-testid="stAppViewContainer"]{
+  background: radial-gradient(1200px 800px at 8% 8%, var(--bg2) 0%, var(--bg) 55%, #070a10 100%);
 }
-h1, h2, h3, h4, h5, h6 { letter-spacing: .3px }
-.kpi-card {
-  background: rgba(255,255,255,0.06); backdrop-filter: blur(8px);
-  border: 1px solid rgba(255,255,255,0.08); border-radius: 16px; padding: 16px;
-}
-.stat { font-size: 1.6rem; font-weight: 700; }
-.sub { opacity:.8; font-size:.9rem; }
-.chip {
-  display:inline-block; padding:6px 10px; margin:4px 6px; border-radius:999px;
-  background: rgba(255,255,255,0.08); border:1px solid rgba(255,255,255,0.12);
-  font-size:.9rem;
-}
-.up { color:#31d0aa; } .down { color:#ff6b6b; }
+.wrap { max-width: var(--wrap); margin: 0 auto; }
+.topbar{ display:flex; align-items:center; justify-content:space-between; gap:16px;
+  border:1px solid var(--bd); background:rgba(255,255,255,.03);
+  border-radius:14px; padding:14px 16px; backdrop-filter: blur(8px); }
+.brand{ display:flex; align-items:center; gap:12px; color:var(--ink) }
+.brand .title{ font-weight:800; font-size:1.2rem; letter-spacing:.2px }
+.pill{ display:inline-flex; align-items:center; gap:8px; padding:6px 10px; border-radius:999px;
+      border:1px solid var(--bd); background:rgba(255,255,255,.04); font-size:.9rem }
+.dot{ width:8px; height:8px; border-radius:999px; background:#22c55e; }
+.pill.bad .dot{ background:#ef4444 }
+.section-title{ margin:18px 0 8px; font-weight:700; letter-spacing:.2px }
+hr.line{ border:none; border-top:1px solid var(--bd); margin:18px 0 }
+.card{ background: var(--card); border:1px solid var(--bd); border-radius:16px; padding:16px; box-shadow:0 8px 24px rgba(0,0,0,.25) }
+.kpi .lbl{ color:var(--muted); font-weight:600; font-size:.92rem; }
+.kpi .val{ font-size:1.9rem; font-weight:800; color:var(--ink); margin-top:6px }
+.kpi .delta.up{ color: var(--good) } .kpi .delta.down{ color: var(--bad) }
+.bubble{ padding:12px 14px; border-radius:14px; margin:6px 0; line-height:1.5; }
+.bubble.user{ background:#1a1533; border:1px solid #2a2460; color:#e9e7ff; margin-left:auto; }
+.bubble.bot{ background:#121826; border:1px solid var(--bd); color:#e7eaf1; }
+.stButton > button{ background:linear-gradient(135deg,#4F46E5,#4338CA); color:#fff; border:0; padding:.6rem 1rem; border-radius:12px; font-weight:700; }
+.stButton > button:hover{ filter:brightness(1.05) }
 </style>
 """, unsafe_allow_html=True)
 
-# -------------------- Helpers --------------------
-def _get(url, params=None, tries=5, timeout=20, headers=None):
-    """GET with exponential backoff + Retry-After support (avoid 429s)."""
-    headers = headers or {}
-    delay = 0.7
-    last_err = None
+# ---------- helpers ----------
+def _get(url, params=None, tries=5, timeout=25, headers=None):
+    headers = headers or {}; delay=0.7; last=None
     for _ in range(tries):
         try:
             r = requests.get(url, params=params, headers=headers, timeout=timeout)
-            if r.status_code == 200:
-                return r.json()
+            if r.status_code == 200: return r.json()
             if r.status_code == 429:
-                ra = r.headers.get("Retry-After")
-                sleep_sec = int(ra) if (ra and ra.isdigit()) else delay
-                time.sleep(sleep_sec)
+                ra = r.headers.get("Retry-After"); time.sleep(int(ra) if (ra and ra.isdigit()) else delay)
             else:
                 time.sleep(delay)
-            delay = min(delay * 2, 8)
-            last_err = requests.HTTPError(f"{r.status_code} for {r.url}")
+            delay = min(delay*2, 8); last=f"{r.status_code} {r.reason}"
         except Exception as e:
-            last_err = e
-            time.sleep(delay)
-            delay = min(delay * 2, 8)
-    raise last_err or RuntimeError("GET failed")
+            last=str(e); time.sleep(delay); delay=min(delay*2, 8)
+    raise RuntimeError(last or "GET failed")
 
-@st.cache_data(ttl=300)  # 5 min cache to avoid rate limits
-def fetch_top_coins(limit=25, vs="usd"):
-    url = "https://api.coingecko.com/api/v3/coins/markets"
-    params = {
-        "vs_currency": vs, "order": "market_cap_desc",
-        "per_page": limit, "page": 1,
-        "price_change_percentage": "1h,24h,7d", "sparkline": True
-    }
-    data = _get(url, params=params, headers=COINGECKO_HEADERS)
-    return pd.DataFrame(data)
-
-@st.cache_data(ttl=300)
-def fetch_trending():
-    data = _get("https://api.coingecko.com/api/v3/search/trending", headers=COINGECKO_HEADERS)
-    coins = []
-    for item in data.get("coins", []):
-        c = item.get("item", {})
-        coins.append({"name": c.get("name"), "symbol": c.get("symbol"), "id": c.get("id")})
-    return coins
-
-def pct_class(x: float) -> str:
-    try:
-        return "up" if float(x or 0) >= 0 else "down"
-    except Exception:
-        return "up"
+def pct_class(x):
+    try: return "up" if float(x or 0)>=0 else "down"
+    except: return "up"
 
 def health_ok():
-    for path in ("/healthz", "/health"):
+    for p in ("/healthz","/health","/"):
         try:
-            r = requests.get(f"{BACKEND_URL}{path}", timeout=5)
-            if r.ok:
+            if requests.get(f"{BACKEND_URL}{p}", timeout=8).ok:
                 return True
-        except Exception:
-            pass
+        except: pass
     return False
 
-def ask_agent(question: str):
-    """Try multiple payload shapes for LangServe /invoke."""
-    url = f"{BACKEND_URL}/crypto-bot/invoke"
-    tries = [
-        {"input": question},                           # common
-        {"input": {"question": question}},             # some chains
-        {"input": {"query": question}},                # some chains
-        {"input": {"input": question}},                # nested
-        {"question": question},                        # rare
-    ]
-    last_err = None
-    for payload in tries:
+def ask_agent(q:str):
+    url=f"{BACKEND_URL}/crypto-bot/invoke"
+    variants=[{"input":q},{"input":{"question":q}},{"input":{"query":q}},{"input":{"input":q}},{"question":q}]
+    last=None
+    for payload in variants:
         try:
-            r = requests.post(url, json=payload, timeout=60)
-            if r.status_code == 422:
-                last_err = f"422 for payload: {payload}"
-                continue
-            r.raise_for_status()
-            data = r.json()
-            if isinstance(data, dict):
-                for k in ("answer", "output", "result"):
-                    if k in data:
-                        return str(data[k]), None
-            return str(data), None
+            r=requests.post(url,json=payload,timeout=60)
+            if r.status_code==422: last=f"422 for {payload}"; continue
+            r.raise_for_status(); data=r.json()
+            if isinstance(data,dict):
+                for k in("answer","output","result","content"):
+                    if k in data: return str(data[k]),None
+            return str(data),None
         except Exception as e:
-            last_err = str(e)
-    return None, f"Agent error: {last_err or 'unknown error'}"
+            last=str(e)
+    return None, f"Agent error: {last or 'unknown'}"
 
 @st.cache_data(ttl=60)
-def fetch_price(symbol: str):
+def fetch_price(sym:str, vs:str):
     try:
-        r = requests.get(f"{BACKEND_URL}/price/{symbol}", timeout=10)
-        r.raise_for_status()
+        r=requests.get(f"{BACKEND_URL}/price/{sym}", params={"vs":vs}, timeout=20); r.raise_for_status()
         return r.json()
     except Exception as e:
-        return {"ok": False, "error": str(e)}
+        return {"ok":False,"error":str(e)}
 
 @st.cache_data(ttl=60)
-def fetch_history(symbol: str, days: int = 7, vs: str = "usd"):
-    """Accepts both {'ok':True,'prices':[[ts,price],...]} and {'timestamps':[],'prices':[]}."""
+def fetch_history(sym:str, days:int, vs:str):
     try:
-        r = requests.get(f"{BACKEND_URL}/history/{symbol}", params={"days": days, "vs": vs}, timeout=20)
-        r.raise_for_status()
-        data = r.json()
-        if isinstance(data, dict):
-            if data.get("ok") and isinstance(data.get("prices"), list):
-                rows = data["prices"]
-                if not rows:
-                    return None, "No history returned."
-                df = pd.DataFrame(rows, columns=["ts_ms", "price"])
-                df["time"] = pd.to_datetime(df["ts_ms"], unit="ms")
-                return df[["time", "price"]], None
-            if "timestamps" in data and "prices" in data:
-                df = pd.DataFrame({"time": pd.to_datetime(data["timestamps"], unit="ms"),
-                                   "price": data["prices"]})
-                return df, None
-        return None, "Unexpected /history payload."
+        r=requests.get(f"{BACKEND_URL}/history/{sym}", params={"days":days,"vs":vs}, timeout=30); r.raise_for_status()
+        data=r.json()
+        if isinstance(data,dict) and data.get("ok") and isinstance(data.get("prices"),list):
+            df=pd.DataFrame(data["prices"],columns=["ts_ms","price"]); df["time"]=pd.to_datetime(df["ts_ms"],unit="ms")
+            return df[["time","price"]],None
+        return None,"Unexpected /history payload"
     except Exception as e:
-        return None, str(e)
+        return None,str(e)
 
-# -------------------- Header --------------------
-col1, col2 = st.columns([0.75, 0.25])
+@st.cache_data(ttl=600)
+def fetch_top_coins(limit=24, vs="usd"):
+    url="https://api.coingecko.com/api/v3/coins/markets"
+    params={"vs_currency":vs,"order":"market_cap_desc","per_page":limit,"page":1,
+            "price_change_percentage":"1h,24h,7d","sparkline":True}
+    return pd.DataFrame(_get(url, params=params, headers=CG_HEADERS))
+
+# ---------- runtime state (no sidebar) ----------
+BACKEND_URL = st.session_state.get("BACKEND_URL", DEFAULT_BACKEND).rstrip("/")
+VS = st.session_state.get("VS", VS_DEFAULT)
+
+st.markdown('<div class="wrap">', unsafe_allow_html=True)
+col1, col2 = st.columns([0.62, 0.38], gap="large")
 with col1:
-    st.markdown("# 🪙 Crypto Trends Bot")
-    st.caption("Live market glance • RAG answers with sources • Ask via text or voice")
+    st.markdown(f"""
+    <div class="topbar">
+      <div class="brand">
+        <span style="font-size:1.2rem">🪙</span>
+        <div class="title">Crypto Trends Bot <span style="opacity:.55;font-weight:600">({UI_BUILD})</span></div>
+      </div>
+      <div></div>
+    </div>
+    """, unsafe_allow_html=True)
 with col2:
-    if HAS_AUTOREFRESH:
-        live = st.toggle("Live updates", value=False, help="Update tiles/heatmap every 60s")
-        if live:
-            st_autorefresh(interval=60_000, key="auto")
-    else:
-        st.caption("Auto-refresh disabled (install: streamlit-autorefresh)")
+    ok = health_ok()
+    pill_cls = "" if ok else " bad"
+    st.markdown(f"""
+    <div class="topbar" style="justify-content:flex-end">
+      <div class="pill{pill_cls}"><span class="dot"></span>{'Healthy' if ok else 'Not reachable'}</div>
+    </div>
+    """, unsafe_allow_html=True)
 
-# Backend status
-ok = health_ok()
-st.write("**Backend status:** " + ("✅ Healthy" if ok else "❌ Not reachable"))
-if not ok:
-    st.info("Start the backend:\n`uvicorn src.backend.server:app --reload --port 8000`")
+st.markdown('<div style="height:14px"></div>', unsafe_allow_html=True)
 
-st.divider()
+with st.expander("⚙️ Settings", expanded=False):
+    c1, c2, c3 = st.columns([0.6, 0.2, 0.2])
+    with c1:
+        new_url = st.text_input("Backend URL", BACKEND_URL).rstrip("/")
+    with c2:
+        new_vs = st.selectbox("Quote", ["usd", "eur"], index=(0 if VS=="usd" else 1))
+    with c3:
+        live = st.toggle("Live 60s", value=False, help="Auto-refresh KPIs & heatmap")
+    if new_url != BACKEND_URL or new_vs != VS:
+        st.session_state["BACKEND_URL"] = new_url
+        st.session_state["VS"] = new_vs
+        st.rerun()
 
-# -------------------- ONE CoinGecko call, reused --------------------
-df_top = None
-cg_err = None
-try:
-    df_top = fetch_top_coins(limit=25, vs=VS)  # cached 5 min
-except Exception as e:
-    cg_err = str(e)
+BACKEND_URL = st.session_state.get("BACKEND_URL", DEFAULT_BACKEND).rstrip("/")
+VS = st.session_state.get("VS", VS_DEFAULT)
 
-# -------------------- KPI Tiles + Sparklines --------------------
-symbols = ["bitcoin", "ethereum", "solana"]
-k1, k2, k3 = st.columns(3)
-kpi_cols = [k1, k2, k3]
+st.markdown('<hr class="line"/>', unsafe_allow_html=True)
 
-for i, cg_id in enumerate(symbols):
-    with kpi_cols[i]:
-        if df_top is None or df_top.empty:
-            st.markdown(f"<div class='kpi-card'><div class='sub'>Loading {cg_id}…</div></div>", unsafe_allow_html=True)
-            if cg_err:
-                st.caption(f"Market data paused: {cg_err}")
+# ---------- KPI row ----------
+symbols = [("btc","BTC"), ("eth","ETH"), ("sol","SOL")]
+cols = st.columns(3, gap="large")
+for (sym, label), col in zip(symbols, cols):
+    with col:
+        p = fetch_price(sym, VS)
+        if not p.get("ok"):
+            st.markdown(f'<div class="card"><div class="kpi"><div class="lbl">{label}</div><div class="val">—</div><div class="lbl" style="margin-top:6px">{p.get("error","")}</div></div></div>', unsafe_allow_html=True)
             continue
-
-        subdf = df_top[df_top["id"] == cg_id]
-        if subdf.empty:
-            st.markdown(f"<div class='kpi-card'><div class='sub'>No data for {cg_id}</div></div>", unsafe_allow_html=True)
-            continue
-
-        row = subdf.iloc[0]
-        sym = row["symbol"].upper()
-        price = row["current_price"]
-        ch24 = row.get("price_change_percentage_24h") or 0.0
-        cls = pct_class(ch24)
-
+        val_num = p.get(VS, p.get("price"))
+        val = f"{val_num:,.2f}" if isinstance(val_num,(int,float)) else "—"
+        d = p.get("change_24h", 0.0)
+        delta = f"{d:+,.2f}%"
         st.markdown(f"""
-        <div class='kpi-card'>
-          <div class='sub'>{sym} • 24h <span class='{cls}'>{ch24:+.2f}%</span></div>
-          <div class='stat'>${price:,.2f}</div>
+        <div class="card kpi">
+            <div class="lbl">{label} • <span class="delta {pct_class(d)}">{delta}</span></div>
+            <div class="val">{val} {VS.upper()}</div>
         </div>
         """, unsafe_allow_html=True)
 
-        df_hist, err = fetch_history(row["symbol"], days=7, vs=VS)
-        if err or df_hist is None:
-            sp = row.get("sparkline_in_7d", {}).get("price", [])
-            df_hist = pd.DataFrame({
-                "time": pd.date_range(end=pd.Timestamp.utcnow(), periods=len(sp), freq="H"),
-                "price": sp
-            })
-
-        if not df_hist.empty:
-            line = alt.Chart(df_hist).mark_line().encode(
+        df_hist, err = fetch_history(sym, days=7, vs=VS)
+        if df_hist is not None and not df_hist.empty:
+            ch = alt.Chart(df_hist).mark_line().encode(
                 x=alt.X('time:T', axis=None),
                 y=alt.Y('price:Q', axis=None)
-            ).properties(height=60)
-            st.altair_chart(line, use_container_width=True)
+            ).properties(height=58)
+            st.altair_chart(ch, use_container_width=True)
 
-st.divider()
+st.markdown('<hr class="line"/>', unsafe_allow_html=True)
 
-# -------------------- Market Heatmap (Treemap) --------------------
-st.subheader("Market Heatmap")
-if df_top is None:
-    st.warning("Hit CoinGecko rate limit. Try again in a minute, enable fewer updates, or add a COINGECKO_API_KEY.")
-else:
-    if not df_top.empty:
-        df = df_top.copy()
-        df["label"] = df["symbol"].str.upper() + "  $" + df["current_price"].round(2).astype(str)
+# ---------- Heatmap ----------
+st.markdown('<div class="section-title">Market Heatmap</div>', unsafe_allow_html=True)
+try:
+    df = fetch_top_coins(limit=24, vs=VS)
+    if not df.empty:
+        df["label"] = df["symbol"].str.upper() + " $" + df["current_price"].round(2).astype(str)
         fig = px.treemap(
-            df, path=[px.Constant("Market"), "label"],
-            values="market_cap",
+            df, path=[px.Constant("Market"), "label"], values="market_cap",
             color="price_change_percentage_24h",
-            color_continuous_scale=["#ff6b6b", "#ffd166", "#31d0aa"],
+            color_continuous_scale=["#ef4444","#fde047","#22c55e"],
             color_continuous_midpoint=0
         )
-        fig.update_layout(margin=dict(t=0, l=0, r=0, b=0))
+        fig.update_layout(margin=dict(t=0,l=0,r=0,b=0), paper_bgcolor="rgba(0,0,0,0)", plot_bgcolor="rgba(0,0,0,0)")
         st.plotly_chart(fig, use_container_width=True)
     else:
-        st.info("No market data loaded yet.")
-
-# -------------------- Trending Chips --------------------
-st.subheader("Trending")
-try:
-    tr = fetch_trending()
+        st.info("No market data yet.")
 except Exception as e:
-    tr = []
-    st.caption(f"Trending paused: {e}")
+    st.warning(f"Heatmap paused (rate limit / network). {e}")
 
-if tr:
-    chip_cols = st.columns(5)
-    for idx, c in enumerate(tr):
-        text = f"{c['symbol'].upper()} · {c['name']}"
-        with chip_cols[idx % 5]:
-            if st.button(text, key=f"chip-{c['id']}"):
-                st.session_state["pre_filled"] = f"Tell me what's moving {c['symbol'].upper()} today."
-    st.caption("Click a chip to pre-fill the agent prompt.")
-else:
-    st.write("No trending list right now.")
+st.markdown('<hr class="line"/>', unsafe_allow_html=True)
 
-st.divider()
+# ---------- Chat ----------
+st.markdown('<div class="section-title">Chat</div>', unsafe_allow_html=True)
+if "chat" not in st.session_state: st.session_state.chat = []
 
-# -------------------- Ask the Agent (text) --------------------
-st.subheader("Ask the agent")
-preset = st.session_state.get("pre_filled", "What is the BTC price right now?")
-q = st.text_input("Your question", value=preset, placeholder="e.g., Summarize today’s BTC + SOL sentiment and show sources")
+c_chat, _ = st.columns([0.7, 0.3])
+with c_chat:
+    for msg in st.session_state.chat:
+        cls = "user" if msg["role"]=="user" else "bot"
+        st.markdown(f'<div class="bubble {cls}">{msg["content"]}</div>', unsafe_allow_html=True)
 
-if st.button("Run", type="primary"):
-    if not q.strip():
-        st.warning("Type a question first.")
-    else:
-        with st.spinner("Thinking..."):
-            answer, err = ask_agent(q.strip())
-            if err:
-                st.error(err)
-            else:
-                st.markdown("### Answer")
-                st.write(answer)
+    default_q = st.session_state.get("prefill", "Compare ETH vs SOL narratives in the last 48 hours.")
+    st.session_state["prefill"] = "What is the BTC price right now?"
+    q = st.text_input("Ask the agent", value=default_q, placeholder="Short, specific questions work best")
+    if st.button("Send", use_container_width=True):
+        if q.strip():
+            st.session_state.chat.append({"role":"user","content":q.strip()})
+            with st.spinner("Thinking..."):
+                ans, err = ask_agent(q.strip())
+            st.session_state.chat.append({"role":"assistant","content":(f"⚠️ {err}" if err else ans or "(no answer)")})
+            st.rerun()
 
-st.divider()
-
-st.divider()
-st.subheader("🧠 Narrative mode")
-
-colA, colB = st.columns([0.5, 0.5])
-with colA:
-    ticker = st.selectbox("Ticker", ["BTC", "ETH", "SOL", "AVAX", "ADA"], index=0)
-with colB:
-    hours = st.slider("Lookback window (hours)", min_value=12, max_value=168, value=48, step=12)
-
-if st.button("Find top narratives"):
-    prompt = (
-        f"Summarize the top 3 narratives for {ticker} over the last {hours} hours. "
-        f"Use transcripts, articles, and summaries in the vector store. "
-        f"Include short bullet points and list sources with titles + URLs."
-    )
-    with st.spinner("Mining narratives..."):
-        answer, err = ask_agent(prompt)
-        if err:
-            st.error(err)
-        else:
-            st.markdown("### Narratives")
-            st.write(answer)
-
-
-# -------------------- Voice Ask (wired, with fallback) --------------------
-try:
-    from audio_recorder_streamlit import audio_recorder  # pip install audio-recorder-streamlit
-    st.subheader("🎙️ Voice ask (beta)")
-
-    audio_bytes = audio_recorder(text="Record a question")
-    lang = st.selectbox("Language", ["auto", "en", "es", "fr", "de", "it"], index=0)
-
-    if audio_bytes and st.button("Transcribe & Ask"):
-        files = {"file": ("voice.wav", audio_bytes, "audio/wav")}
-        data = {} if lang == "auto" else {"language": lang}
-
-        # Helper to surface backend error details
-        def show_http_error(prefix, err: requests.HTTPError):
-            detail = ""
-            try:
-                detail = err.response.text
-            except Exception:
-                pass
-            st.error(f"{prefix}: {err}\n{detail}")
-
-        try:
-            # 1) One-shot endpoint: /voice-ask (transcribe → agent)
-            r = requests.post(f"{BACKEND_URL}/voice-ask", files=files, data=data, timeout=120)
-            if r.status_code in (404, 405):  # route missing or wrong method
-                raise RuntimeError(f"/voice-ask not available ({r.status_code})")
-            r.raise_for_status()
-            js = r.json()
-            if not js.get("ok"):
-                raise RuntimeError(js)
-
-            st.write(f"**You said:** {js.get('question','')}")
-            st.markdown("### Answer")
-            st.write(js.get("answer","(no answer)"))
-
-        except requests.HTTPError as e:
-            show_http_error("Voice ask failed", e)
-
-        except Exception:
-            # 2) Fallback: /transcribe then ask_agent()
-            try:
-                t = requests.post(f"{BACKEND_URL}/transcribe", files=files, data=data, timeout=120)
-                t.raise_for_status()
-                text = t.json().get("text", "").strip()
-                if not text:
-                    st.error("No text returned from transcription.")
-                else:
-                    st.write(f"**You said:** {text}")
-                    with st.spinner("Asking the agent..."):
-                        answer, err = ask_agent(text)
-                        if err:
-                            st.error(err)
-                        else:
-                            st.markdown("### Answer")
-                            st.write(answer)
-            except requests.HTTPError as e2:
-                show_http_error("Transcription failed", e2)
-            except Exception as e2:
-                st.error(f"Voice flow failed: {e2}")
-
-except Exception:
-    st.caption("Install voice input: `pip install audio-recorder-streamlit`")
+st.markdown("</div>", unsafe_allow_html=True)  # close .wrap
